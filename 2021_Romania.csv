@@ -1,0 +1,331 @@
+﻿Country,Command,Region,Position_2021,Model,Sales_2021,Percent_2021,Growth_2021,Sales_2020,Percent_2020,Position_2020,Continent
+Romania,EUCOM,Southeastern Europe,1,Dacia Logan,"13,270",10.90%,-28.20%,"18,474",14.60%,1,Europe
+Romania,EUCOM,Southeastern Europe,2,Dacia Duster,"9,045",7.50%,-7.90%,"9,825",7.80%,2,Europe
+Romania,EUCOM,Southeastern Europe,3,Dacia Sandero,"8,227",6.80%,-12.70%,"9,420",7.50%,3,Europe
+Romania,EUCOM,Southeastern Europe,4,Ford Puma,"3,141",2.60%,57.40%,"1,996",1.60%,10,Europe
+Romania,EUCOM,Southeastern Europe,5,Dacia Spring,"3,068",2.50%,new,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,6,Renault Clio,"2,945",2.40%,-25.60%,"3,958",3.10%,4,Europe
+Romania,EUCOM,Southeastern Europe,7,Hyundai Tucson,"2,852",2.40%,77.60%,"1,606",1.30%,19,Europe
+Romania,EUCOM,Southeastern Europe,8,Skoda Octavia,"2,720",2.20%,-26.60%,"3,706",2.90%,5,Europe
+Romania,EUCOM,Southeastern Europe,9,Toyota Corolla,"2,450",2.00%,49.30%,"1,641",1.30%,15,Europe
+Romania,EUCOM,Southeastern Europe,10,Toyota C-HR,"2,101",1.70%,21.40%,"1,731",1.40%,13,Europe
+Romania,EUCOM,Southeastern Europe,11,Renault Captur,"2,017",1.70%,-10.20%,"2,247",1.80%,7,Europe
+Romania,EUCOM,Southeastern Europe,12,Suzuki Vitara,"1,998",1.60%,14.40%,"1,747",1.40%,12,Europe
+Romania,EUCOM,Southeastern Europe,13,Toyota RAV4,"1,767",1.50%,54.70%,"1,142",0.90%,27,Europe
+Romania,EUCOM,Southeastern Europe,14,Renault Mégane,"1,761",1.50%,-22.50%,"2,273",1.80%,6,Europe
+Romania,EUCOM,Southeastern Europe,15,Kia Sportage,"1,746",1.40%,98.40%,880,0.70%,34,Europe
+Romania,EUCOM,Southeastern Europe,16,Hyundai Kona,"1,653",1.40%,-12.60%,"1,892",1.50%,11,Europe
+Romania,EUCOM,Southeastern Europe,17,Ford Focus,"1,645",1.40%,1.50%,"1,620",1.30%,17,Europe
+Romania,EUCOM,Southeastern Europe,18,Hyundai i20,"1,539",1.30%,-4.50%,"1,612",1.30%,18,Europe
+Romania,EUCOM,Southeastern Europe,19,VW Polo,"1,321",1.10%,12.80%,"1,171",0.90%,25,Europe
+Romania,EUCOM,Southeastern Europe,20,Nissan Qashqai,"1,192",1.00%,-41.40%,"2,035",1.60%,9,Europe
+Romania,EUCOM,Southeastern Europe,21,Hyundai i30,"1,185",1.00%,53.30%,773,0.60%,39,Europe
+Romania,EUCOM,Southeastern Europe,22,Peugeot 2008,"1,121",0.90%,41.00%,795,0.60%,38,Europe
+Romania,EUCOM,Southeastern Europe,23,Skoda Scala,"1,111",0.90%,-28.30%,"1,549",1.20%,20,Europe
+Romania,EUCOM,Southeastern Europe,24,VW Tiguan,"1,108",0.90%,-33.50%,"1,665",1.30%,14,Europe
+Romania,EUCOM,Southeastern Europe,25,Skoda Kamiq,"1,091",0.90%,-4.80%,"1,146",0.90%,26,Europe
+Romania,EUCOM,Southeastern Europe,26,Ford Kuga,"1,064",0.90%,70.50%,624,0.50%,52,Europe
+Romania,EUCOM,Southeastern Europe,27,Citroen C3,"1,057",0.90%,62.90%,649,0.50%,49,Europe
+Romania,EUCOM,Southeastern Europe,28,VW Golf,"1,034",0.90%,-51.30%,"2,124",1.70%,8,Europe
+Romania,EUCOM,Southeastern Europe,29,Hyundai Elantra,"1,022",0.80%,146.30%,415,0.30%,65,Europe
+Romania,EUCOM,Southeastern Europe,30,VW Passat,"1,001",0.80%,-31.90%,"1,470",1.20%,21,Europe
+Romania,EUCOM,Southeastern Europe,31,Mazda CX-30,999,0.80%,46.30%,683,0.50%,48,Europe
+Romania,EUCOM,Southeastern Europe,32,Peugeot 3008,988,0.80%,-4.10%,"1,030",0.80%,31,Europe
+Romania,EUCOM,Southeastern Europe,33,Suzuki SX4,982,0.80%,-20.90%,"1,241",1.00%,22,Europe
+Romania,EUCOM,Southeastern Europe,34,VW T-Cross,972,0.80%,92.10%,506,0.40%,61,Europe
+Romania,EUCOM,Southeastern Europe,35,Toyota Yaris,895,0.70%,19.80%,747,0.60%,41,Europe
+Romania,EUCOM,Southeastern Europe,36,Mercedes GLE,865,0.70%,34.10%,645,0.50%,50,Europe
+Romania,EUCOM,Southeastern Europe,37,Toyota Aygo,851,0.70%,14.50%,743,0.60%,43,Europe
+Romania,EUCOM,Southeastern Europe,38,Ford Ecosport,850,0.70%,-31.30%,"1,237",1.00%,23,Europe
+Romania,EUCOM,Southeastern Europe,39,Skoda Fabia,843,0.70%,-19.80%,"1,051",0.80%,30,Europe
+Romania,EUCOM,Southeastern Europe,40,Dacia Lodgy,825,0.70%,39.80%,590,0.50%,56,Europe
+Romania,EUCOM,Southeastern Europe,41,Suzuki Swift,801,0.70%,73.80%,461,0.40%,62,Europe
+Romania,EUCOM,Southeastern Europe,42,Opel Corsa,795,0.70%,-6.30%,848,0.70%,36,Europe
+Romania,EUCOM,Southeastern Europe,43,Skoda Kodiaq,790,0.70%,-19.10%,976,0.80%,32,Europe
+Romania,EUCOM,Southeastern Europe,44,VW T-Roc,768,0.60%,-20.90%,971,0.80%,33,Europe
+Romania,EUCOM,Southeastern Europe,45,Jeep Compass,731,0.60%,227.80%,223,0.20%,84,Europe
+Romania,EUCOM,Southeastern Europe,46,Peugeot 208,692,0.60%,25.10%,553,0.40%,59,Europe
+Romania,EUCOM,Southeastern Europe,47,Skoda Karoq,665,0.50%,-12.60%,761,0.60%,40,Europe
+Romania,EUCOM,Southeastern Europe,48,Ford Fiesta,615,0.50%,-23.10%,800,0.60%,37,Europe
+Romania,EUCOM,Southeastern Europe,49,Mazda3,613,0.50%,-0.30%,615,0.50%,54,Europe
+Romania,EUCOM,Southeastern Europe,50,Skoda Superb,567,0.50%,-20.80%,716,0.60%,44,Europe
+Romania,EUCOM,Southeastern Europe,51,Jeep Renegade,559,0.50%,-47.60%,"1,066",0.80%,29,Europe
+Romania,EUCOM,Southeastern Europe,52,Hyundai i10,553,0.50%,87.50%,295,0.20%,76,Europe
+Romania,EUCOM,Southeastern Europe,53,BMW X5,542,0.40%,36.50%,397,0.30%,66,Europe
+Romania,EUCOM,Southeastern Europe,54,Honda Civic,541,0.40%,-9.50%,598,0.50%,55,Europe
+Romania,EUCOM,Southeastern Europe,55,Mercedes GLC,527,0.40%,-23.80%,692,0.50%,47,Europe
+Romania,EUCOM,Southeastern Europe,56,Opel Crossland,518,0.40%,-52.00%,"1,079",0.90%,28,Europe
+Romania,EUCOM,Southeastern Europe,57,VW Up!,511,0.40%,85.80%,275,0.20%,79,Europe
+Romania,EUCOM,Southeastern Europe,58,BMW 3 Series,499,0.40%,33.10%,375,0.30%,68,Europe
+Romania,EUCOM,Southeastern Europe,59,Suzuki Ignis,473,0.40%,12.40%,421,0.30%,64,Europe
+Romania,EUCOM,Southeastern Europe,60,Mazda CX-5,465,0.40%,-16.70%,558,0.40%,57,Europe
+Romania,EUCOM,Southeastern Europe,61,Toyota Camry,425,0.40%,107.30%,205,0.20%,89,Europe
+Romania,EUCOM,Southeastern Europe,62,Citroen C5 Aircross,423,0.30%,-40.50%,711,0.60%,45,Europe
+Romania,EUCOM,Southeastern Europe,63,Fiat Tipo,417,0.30%,-65.00%,"1,190",0.90%,24,Europe
+Romania,EUCOM,Southeastern Europe,64,BMW X6,414,0.30%,22.50%,338,0.30%,71,Europe
+Romania,EUCOM,Southeastern Europe,65,Citroen C4,412,0.30%,new,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,66,Ford Mondeo,406,0.30%,-4.00%,423,0.30%,63,Europe
+Romania,EUCOM,Southeastern Europe,67,Dacia Dokker,397,0.30%,-75.60%,"1,630",1.30%,16,Europe
+Romania,EUCOM,Southeastern Europe,68,Renault Arkana,397,0.30%,new,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,69,Citroen C3 Aircross,364,0.30%,-41.00%,617,0.50%,53,Europe
+Romania,EUCOM,Southeastern Europe,70,Renault Zoe,347,0.30%,-59.50%,857,0.70%,35,Europe
+Romania,EUCOM,Southeastern Europe,71,Kia Ceed,345,0.30%,-37.80%,555,0.40%,58,Europe
+Romania,EUCOM,Southeastern Europe,72,Hyundai Bayon,345,0.30%,new,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,73,Volvo XC60,341,0.30%,81.40%,188,0.10%,95,Europe
+Romania,EUCOM,Southeastern Europe,74,Kia Xceed,331,0.30%,10.70%,299,0.20%,75,Europe
+Romania,EUCOM,Southeastern Europe,75,VW Touareg,324,0.30%,-48.20%,625,0.50%,51,Europe
+Romania,EUCOM,Southeastern Europe,76,BMW X3,321,0.30%,-4.20%,335,0.30%,72,Europe
+Romania,EUCOM,Southeastern Europe,77,BMW X1,321,0.30%,21.10%,265,0.20%,81,Europe
+Romania,EUCOM,Southeastern Europe,78,Fiat 500,313,0.30%,86.30%,168,0.10%,101,Europe
+Romania,EUCOM,Southeastern Europe,79,Ssangyong Korando,304,0.30%,155.50%,119,0.10%,118,Europe
+Romania,EUCOM,Southeastern Europe,80,Audi Q5,303,0.30%,103.40%,149,0.10%,111,Europe
+Romania,EUCOM,Southeastern Europe,81,Seat Arona,295,0.20%,87.90%,157,0.10%,109,Europe
+Romania,EUCOM,Southeastern Europe,82,Audi Q3,294,0.20%,69.90%,173,0.10%,99,Europe
+Romania,EUCOM,Southeastern Europe,83,VW ID.3,291,0.20%,-17.60%,353,0.30%,70,Europe
+Romania,EUCOM,Southeastern Europe,84,Mercedes A Class,288,0.20%,-13.50%,333,0.30%,73,Europe
+Romania,EUCOM,Southeastern Europe,85,Ford Transit Custom,268,0.20%,9.40%,245,0.20%,82,Europe
+Romania,EUCOM,Southeastern Europe,86,Audi A4,262,0.20%,33.70%,196,0.20%,90,Europe
+Romania,EUCOM,Southeastern Europe,87,Volvo XC90,258,0.20%,58.30%,163,0.10%,106,Europe
+Romania,EUCOM,Southeastern Europe,88,Mercedes GLA,255,0.20%,9.90%,232,0.20%,83,Europe
+Romania,EUCOM,Southeastern Europe,89,Renault Trafic,250,0.20%,-13.20%,288,0.20%,77,Europe
+Romania,EUCOM,Southeastern Europe,90,VW ID.4,245,0.20%,new,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,91,Honda CR-V,238,0.20%,-16.80%,286,0.20%,78,Europe
+Romania,EUCOM,Southeastern Europe,92,Fiat 500L,234,0.20%,-66.70%,703,0.60%,46,Europe
+Romania,EUCOM,Southeastern Europe,93,Peugeot 308,233,0.20%,-68.70%,745,0.60%,42,Europe
+Romania,EUCOM,Southeastern Europe,94,Volvo XC40,232,0.20%,19.00%,195,0.20%,91,Europe
+Romania,EUCOM,Southeastern Europe,95,Fiat Panda,227,0.20%,18.80%,191,0.20%,92,Europe
+Romania,EUCOM,Southeastern Europe,96,Mercedes S Class,217,0.20%,325.50%,51,0.00%,172,Europe
+Romania,EUCOM,Southeastern Europe,97,Tesla Model 3,216,0.20%,390.90%,44,0.00%,184,Europe
+Romania,EUCOM,Southeastern Europe,98,Opel Mokka,215,0.20%,new,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,99,Mercedes GLB,212,0.20%,149.40%,85,0.10%,141,Europe
+Romania,EUCOM,Southeastern Europe,100,Ssangyong Tivoli,212,0.20%,221.20%,66,0.10%,160,Europe
+Romania,EUCOM,Southeastern Europe,101,Audi Q8,207,0.20%,52.20%,136,0.10%,113,Europe
+Romania,EUCOM,Southeastern Europe,102,Seat Leon,202,0.20%,-9.00%,222,0.20%,85,Europe
+Romania,EUCOM,Southeastern Europe,103,Peugeot 301,202,0.20%,74.10%,116,0.10%,120,Europe
+Romania,EUCOM,Southeastern Europe,104,Renault Kadjar,199,0.20%,-61.70%,520,0.40%,60,Europe
+Romania,EUCOM,Southeastern Europe,105,Opel Astra,193,0.20%,-35.50%,299,0.20%,74,Europe
+Romania,EUCOM,Southeastern Europe,106,BMW X4,192,0.20%,9.70%,175,0.10%,97,Europe
+Romania,EUCOM,Southeastern Europe,107,Kia Stonic,186,0.20%,30.10%,143,0.10%,112,Europe
+Romania,EUCOM,Southeastern Europe,108,Mini,183,0.20%,11.60%,164,0.10%,104,Europe
+Romania,EUCOM,Southeastern Europe,109,Hyundai Ioniq,178,0.10%,7.90%,165,0.10%,103,Europe
+Romania,EUCOM,Southeastern Europe,110,Mazda CX-3,173,0.10%,137.00%,73,0.10%,148,Europe
+Romania,EUCOM,Southeastern Europe,111,Hyundai Santa Fe,172,0.10%,89.00%,91,0.10%,135,Europe
+Romania,EUCOM,Southeastern Europe,112,BMW 5 Series,169,0.10%,-11.10%,190,0.20%,93,Europe
+Romania,EUCOM,Southeastern Europe,113,Audi A3,163,0.10%,41.70%,115,0.10%,121,Europe
+Romania,EUCOM,Southeastern Europe,114,Mercedes E Class,161,0.10%,-14.80%,189,0.10%,94,Europe
+Romania,EUCOM,Southeastern Europe,115,Mercedes Vito,160,0.10%,-5.30%,169,0.10%,100,Europe
+Romania,EUCOM,Southeastern Europe,116,VW Arteon,150,0.10%,0.00%,150,0.10%,110,Europe
+Romania,EUCOM,Southeastern Europe,117,Mercedes G Class,146,0.10%,50.50%,97,0.10%,133,Europe
+Romania,EUCOM,Southeastern Europe,118,Cupra Formentor,142,0.10%,4633.30%,3,0.00%,262,Europe
+Romania,EUCOM,Southeastern Europe,119,Mercedes C Class,138,0.10%,-35.80%,215,0.20%,87,Europe
+Romania,EUCOM,Southeastern Europe,120,Mercedes GLS,138,0.10%,76.90%,78,0.10%,144,Europe
+Romania,EUCOM,Southeastern Europe,121,Range Rover Evoque,137,0.10%,-16.00%,163,0.10%,107,Europe
+Romania,EUCOM,Southeastern Europe,122,Mercedes V Class,136,0.10%,3.80%,131,0.10%,115,Europe
+Romania,EUCOM,Southeastern Europe,123,Porsche Cayenne,134,0.10%,-25.10%,179,0.10%,96,Europe
+Romania,EUCOM,Southeastern Europe,124,Toyota Land Cruiser 150/200,133,0.10%,19.80%,111,0.10%,123,Europe
+Romania,EUCOM,Southeastern Europe,125,Mercedes CLA,132,0.10%,-17.50%,160,0.10%,108,Europe
+Romania,EUCOM,Southeastern Europe,126,Skoda Enyaq,131,0.10%,new,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,127,BMW 1 Series,130,0.10%,-21.20%,165,0.10%,102,Europe
+Romania,EUCOM,Southeastern Europe,128,Nissan Juke,129,0.10%,-52.70%,273,0.20%,80,Europe
+Romania,EUCOM,Southeastern Europe,129,Audi Q7,129,0.10%,19.40%,108,0.10%,125,Europe
+Romania,EUCOM,Southeastern Europe,130,Toyota Highlander,128,0.10%,new,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,131,Toyota Proace,123,0.10%,98.40%,62,0.00%,163,Europe
+Romania,EUCOM,Southeastern Europe,132,Opel Grandland X,116,0.10%,-69.20%,377,0.30%,67,Europe
+Romania,EUCOM,Southeastern Europe,133,Audi A6,113,0.10%,14.10%,99,0.10%,131,Europe
+Romania,EUCOM,Southeastern Europe,134,Nissan X-Trail,112,0.10%,-46.90%,211,0.20%,88,Europe
+Romania,EUCOM,Southeastern Europe,135,BMW X7,108,0.10%,-15.00%,127,0.10%,116,Europe
+Romania,EUCOM,Southeastern Europe,136,BMW 2 Series  ,106,0.10%,29.30%,82,0.10%,142,Europe
+Romania,EUCOM,Southeastern Europe,137,Suzuki Swace,106,0.10%,new,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,138,Peugeot 5008,104,0.10%,-5.50%,110,0.10%,124,Europe
+Romania,EUCOM,Southeastern Europe,139,Land Rover Defender,99,0.10%,130.20%,43,0.00%,185,Europe
+Romania,EUCOM,Southeastern Europe,140,Mazda2,96,0.10%,29.70%,74,0.10%,146,Europe
+Romania,EUCOM,Southeastern Europe,141,BMW i3,94,0.10%,-11.30%,106,0.10%,127,Europe
+Romania,EUCOM,Southeastern Europe,142,Seat Tarraco,91,0.10%,35.80%,67,0.10%,158,Europe
+Romania,EUCOM,Southeastern Europe,143,Renault Koleos,91,0.10%,97.80%,46,0.00%,180,Europe
+Romania,EUCOM,Southeastern Europe,144,Mercedes Sprinter,86,0.10%,6.20%,81,0.10%,143,Europe
+Romania,EUCOM,Southeastern Europe,145,Range Rover Sport,85,0.10%,-20.60%,107,0.10%,126,Europe
+Romania,EUCOM,Southeastern Europe,146,Mazda MX-30,85,0.10%,129.70%,37,0.00%,194,Europe
+Romania,EUCOM,Southeastern Europe,147,Seat Ibiza,84,0.10%,23.50%,68,0.10%,155,Europe
+Romania,EUCOM,Southeastern Europe,148,Mitsubishi Eclipse Cross,82,0.10%,-62.90%,221,0.20%,86,Europe
+Romania,EUCOM,Southeastern Europe,149,Range Rover Velar,82,0.10%,-8.90%,90,0.10%,136,Europe
+Romania,EUCOM,Southeastern Europe,150,VW Kombi,81,0.10%,-27.00%,111,0.10%,122,Europe
+Romania,EUCOM,Southeastern Europe,151,Mercedes EQA,80,0.10%,new,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,152,Lexus NX,76,0.10%,8.60%,70,0.10%,153,Europe
+Romania,EUCOM,Southeastern Europe,153,Kia Rio,76,0.10%,181.50%,27,0.00%,204,Europe
+Romania,EUCOM,Southeastern Europe,154,Audi Q2,75,0.10%,38.90%,54,0.00%,167,Europe
+Romania,EUCOM,Southeastern Europe,155,Lexus RX,75,0.10%,44.20%,52,0.00%,169,Europe
+Romania,EUCOM,Southeastern Europe,156,Opel Vivaro,73,0.10%,17.70%,62,0.00%,162,Europe
+Romania,EUCOM,Southeastern Europe,157,Ford Transit,73,0.10%,97.30%,37,0.00%,193,Europe
+Romania,EUCOM,Southeastern Europe,158,BMW 4 Series,72,0.10%,50.00%,48,0.00%,175,Europe
+Romania,EUCOM,Southeastern Europe,159,Kia Niro,71,0.10%,0.00%,71,0.10%,151,Europe
+Romania,EUCOM,Southeastern Europe,160,BMW X2,71,0.10%,12.70%,63,0.00%,161,Europe
+Romania,EUCOM,Southeastern Europe,161,Seat Ateca,70,0.10%,-30.70%,101,0.10%,130,Europe
+Romania,EUCOM,Southeastern Europe,162,Audi A5,68,0.10%,36.00%,50,0.00%,173,Europe
+Romania,EUCOM,Southeastern Europe,163,Jeep Wrangler,67,0.10%,-43.20%,118,0.10%,119,Europe
+Romania,EUCOM,Southeastern Europe,164,BMW 2 Series Tourer,67,0.10%,-4.30%,70,0.10%,152,Europe
+Romania,EUCOM,Southeastern Europe,165,Alfa Romeo Stelvio,65,0.10%,18.20%,55,0.00%,166,Europe
+Romania,EUCOM,Southeastern Europe,166,Nissan Leaf,64,0.10%,-28.10%,89,0.10%,137,Europe
+Romania,EUCOM,Southeastern Europe,167,VW Caddy,64,0.10%,-24.70%,85,0.10%,139,Europe
+Romania,EUCOM,Southeastern Europe,168,Mitsubishi Space Star,63,0.10%,5.00%,60,0.00%,164,Europe
+Romania,EUCOM,Southeastern Europe,169,Mini Countryman,59,0.00%,-21.30%,75,0.10%,145,Europe
+Romania,EUCOM,Southeastern Europe,170,Nissan Micra,58,0.00%,-34.10%,88,0.10%,138,Europe
+Romania,EUCOM,Southeastern Europe,171,Honda Jazz,58,0.00%,123.10%,26,0.00%,207,Europe
+Romania,EUCOM,Southeastern Europe,172,Porsche 911,56,0.00%,27.30%,44,0.00%,183,Europe
+Romania,EUCOM,Southeastern Europe,173,DS 7 Crossback,55,0.00%,103.70%,27,0.00%,205,Europe
+Romania,EUCOM,Southeastern Europe,174,BMW 8 Series,54,0.00%,-3.60%,56,0.00%,165,Europe
+Romania,EUCOM,Southeastern Europe,175,Opel Insignia,53,0.00%,-49.00%,104,0.10%,129,Europe
+Romania,EUCOM,Southeastern Europe,176,Jaguar E-Pace,53,0.00%,-23.20%,69,0.10%,154,Europe
+Romania,EUCOM,Southeastern Europe,177,Ford Tourneo Custom,52,0.00%,0.00%,52,0.00%,171,Europe
+Romania,EUCOM,Southeastern Europe,178,BMW 7 Series,52,0.00%,0.00%,52,0.00%,170,Europe
+Romania,EUCOM,Southeastern Europe,179,Porsche Macan,50,0.00%,-29.60%,71,0.10%,150,Europe
+Romania,EUCOM,Southeastern Europe,180,Range Rover  ,48,0.00%,-49.50%,95,0.10%,134,Europe
+Romania,EUCOM,Southeastern Europe,181,BMW iX3,48,0.00%,new,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,182,Mazda6,46,0.00%,-31.30%,67,0.10%,157,Europe
+Romania,EUCOM,Southeastern Europe,183,Volvo S90,46,0.00%,31.40%,35,0.00%,195,Europe
+Romania,EUCOM,Southeastern Europe,184,Skoda Citigo,44,0.00%,-87.80%,360,0.30%,69,Europe
+Romania,EUCOM,Southeastern Europe,185,Citroen E-C4,44,0.00%,new,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,186,Jaguar F-Pace,42,0.00%,27.30%,33,0.00%,199,Europe
+Romania,EUCOM,Southeastern Europe,187,Mitsubishi Outlander,40,0.00%,-76.90%,173,0.10%,98,Europe
+Romania,EUCOM,Southeastern Europe,188,Honda HR-V,39,0.00%,-60.20%,98,0.10%,132,Europe
+Romania,EUCOM,Southeastern Europe,189,Land Rover Discovery Sport,39,0.00%,-40.90%,66,0.10%,159,Europe
+Romania,EUCOM,Southeastern Europe,190,Mercedes EQC,38,0.00%,-44.10%,68,0.10%,156,Europe
+Romania,EUCOM,Southeastern Europe,191,Smart Fortwo,38,0.00%,-22.40%,49,0.00%,174,Europe
+Romania,EUCOM,Southeastern Europe,192,Renault Master,37,0.00%,68.20%,22,0.00%,213,Europe
+Romania,EUCOM,Southeastern Europe,193,Opel Combo,35,0.00%,20.70%,29,0.00%,201,Europe
+Romania,EUCOM,Southeastern Europe,194,Peugeot 508,34,0.00%,-71.90%,121,0.10%,117,Europe
+Romania,EUCOM,Southeastern Europe,195,Volvo V60,34,0.00%,0.00%,34,0.00%,197,Europe
+Romania,EUCOM,Southeastern Europe,196,Smart Forfour,33,0.00%,-36.50%,52,0.00%,168,Europe
+Romania,EUCOM,Southeastern Europe,197,Volvo V90,33,0.00%,83.30%,18,0.00%,217,Europe
+Romania,EUCOM,Southeastern Europe,198,Ford Mustang,32,0.00%,-22.00%,41,0.00%,187,Europe
+Romania,EUCOM,Southeastern Europe,199,Audi A8,32,0.00%,255.60%,9,0.00%,238,Europe
+Romania,EUCOM,Southeastern Europe,200,Hyundai Ioniq 5,32,0.00%,new,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,201,Lexus UX,31,0.00%,-35.40%,48,0.00%,177,Europe
+Romania,EUCOM,Southeastern Europe,202,Kia Sorento,31,0.00%,19.20%,26,0.00%,206,Europe
+Romania,EUCOM,Southeastern Europe,203,Volvo S60,30,0.00%,-9.10%,33,0.00%,198,Europe
+Romania,EUCOM,Southeastern Europe,204,Mercedes AMG GT,28,0.00%,-41.70%,48,0.00%,178,Europe
+Romania,EUCOM,Southeastern Europe,205,Mercedes B Class,28,0.00%,-41.70%,48,0.00%,176,Europe
+Romania,EUCOM,Southeastern Europe,206,Toyota Proace City Verso,28,0.00%,new,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,207,DS 3 Crossback,27,0.00%,68.80%,16,0.00%,219,Europe
+Romania,EUCOM,Southeastern Europe,208,Kia Proceed,25,0.00%,-34.20%,38,0.00%,190,Europe
+Romania,EUCOM,Southeastern Europe,209,Toyota Prius,24,0.00%,-36.80%,38,0.00%,191,Europe
+Romania,EUCOM,Southeastern Europe,210,Audi e-tron,24,0.00%,9.10%,22,0.00%,212,Europe
+Romania,EUCOM,Southeastern Europe,211,Alfa Romeo Giulia,23,0.00%,-72.90%,85,0.10%,140,Europe
+Romania,EUCOM,Southeastern Europe,212,VW Touran,23,0.00%,-50.00%,46,0.00%,181,Europe
+Romania,EUCOM,Southeastern Europe,213,Renault Talisman,22,0.00%,10.00%,20,0.00%,215,Europe
+Romania,EUCOM,Southeastern Europe,214,Mazda MX-5,21,0.00%,50.00%,14,0.00%,222,Europe
+Romania,EUCOM,Southeastern Europe,215,Suzuki Across,21,0.00%,75.00%,12,0.00%,231,Europe
+Romania,EUCOM,Southeastern Europe,216,VW Multivan,20,0.00%,-47.40%,38,0.00%,189,Europe
+Romania,EUCOM,Southeastern Europe,217,Lamborghini Urus,20,0.00%,-20.00%,25,0.00%,208,Europe
+Romania,EUCOM,Southeastern Europe,218,Ssangyong Rexton,20,0.00%,122.20%,9,0.00%,235,Europe
+Romania,EUCOM,Southeastern Europe,219,Land Rover Discovery,19,0.00%,-44.10%,34,0.00%,196,Europe
+Romania,EUCOM,Southeastern Europe,220,Audi A1,19,0.00%,-32.10%,28,0.00%,202,Europe
+Romania,EUCOM,Southeastern Europe,221,Lexus ES,19,0.00%,26.70%,15,0.00%,220,Europe
+Romania,EUCOM,Southeastern Europe,222,Porsche Taycan,18,0.00%,5.90%,17,0.00%,218,Europe
+Romania,EUCOM,Southeastern Europe,223,Bentley Continental GT,18,0.00%,38.50%,13,0.00%,228,Europe
+Romania,EUCOM,Southeastern Europe,224,Citroen Berlingo,18,0.00%,63.60%,11,0.00%,233,Europe
+Romania,EUCOM,Southeastern Europe,225,Maserati Levante,17,0.00%,54.50%,11,0.00%,232,Europe
+Romania,EUCOM,Southeastern Europe,226,Ford Explorer,17,0.00%,325.00%,4,0.00%,256,Europe
+Romania,EUCOM,Southeastern Europe,227,Toyota Yaris Cross,17,0.00%,new,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,228,Mercedes EQV,15,0.00%,650.00%,2,0.00%,273,Europe
+Romania,EUCOM,Southeastern Europe,229,Audi Q4,15,0.00%,new,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,230,Peugeot Rifter,14,0.00%,-70.20%,47,0.00%,179,Europe
+Romania,EUCOM,Southeastern Europe,231,Peugeot Expert Traveller,14,0.00%,-33.30%,21,0.00%,214,Europe
+Romania,EUCOM,Southeastern Europe,232,Citroen Jumpy/Spacetourer,14,0.00%,0.00%,14,0.00%,224,Europe
+Romania,EUCOM,Southeastern Europe,233,Honda E,14,0.00%,0.00%,14,0.00%,226,Europe
+Romania,EUCOM,Southeastern Europe,234,Bentley Bentayga,14,0.00%,27.30%,11,0.00%,234,Europe
+Romania,EUCOM,Southeastern Europe,235,Jaguar i-Pace,13,0.00%,-60.60%,33,0.00%,200,Europe
+Romania,EUCOM,Southeastern Europe,236,Mercedes CLS,13,0.00%,-40.90%,22,0.00%,211,Europe
+Romania,EUCOM,Southeastern Europe,237,Porsche Panamera,13,0.00%,8.30%,12,0.00%,229,Europe
+Romania,EUCOM,Southeastern Europe,238,Subaru Forester,13,0.00%,8.30%,12,0.00%,230,Europe
+Romania,EUCOM,Southeastern Europe,239,Porsche 718 Cayman,13,0.00%,160.00%,5,0.00%,250,Europe
+Romania,EUCOM,Southeastern Europe,240,Opel Zafira Life,12,0.00%,-52.00%,25,0.00%,209,Europe
+Romania,EUCOM,Southeastern Europe,241,Ford Mustang Mach-E,12,0.00%,new,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,242,BMW Z4,11,0.00%,-15.40%,13,0.00%,227,Europe
+Romania,EUCOM,Southeastern Europe,243,Subaru Outback,11,0.00%,450.00%,2,0.00%,268,Europe
+Romania,EUCOM,Southeastern Europe,244,Ford Edge,10,0.00%,-85.90%,71,0.10%,149,Europe
+Romania,EUCOM,Southeastern Europe,245,Renault Kangoo,10,0.00%,-76.20%,42,0.00%,186,Europe
+Romania,EUCOM,Southeastern Europe,246,Ford Tourneo Connect,10,0.00%,-28.60%,14,0.00%,223,Europe
+Romania,EUCOM,Southeastern Europe,247,Subaru XV,10,0.00%,-28.60%,14,0.00%,225,Europe
+Romania,EUCOM,Southeastern Europe,248,Aston Martin DBX,10,0.00%,233.30%,3,0.00%,263,Europe
+Romania,EUCOM,Southeastern Europe,249,Ferrari F8,10,0.00%,new,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,250,Mini Clubman,9,0.00%,-67.90%,28,0.00%,203,Europe
+Romania,EUCOM,Southeastern Europe,251,Kia Stinger,9,0.00%,0.00%,9,0.00%,237,Europe
+Romania,EUCOM,Southeastern Europe,252,Audi A7,8,0.00%,-11.10%,9,0.00%,236,Europe
+Romania,EUCOM,Southeastern Europe,253,Rolls-Royce Cullinan,8,0.00%,0.00%,8,0.00%,241,Europe
+Romania,EUCOM,Southeastern Europe,254,Lamborghini Huracan,7,0.00%,250.00%,2,0.00%,269,Europe
+Romania,EUCOM,Southeastern Europe,255,Jaguar F-Type,6,0.00%,20.00%,5,0.00%,252,Europe
+Romania,EUCOM,Southeastern Europe,256,Ferrari 812 Superfast,6,0.00%,50.00%,4,0.00%,255,Europe
+Romania,EUCOM,Southeastern Europe,257,Bentley Continental Flying Spur,6,0.00%,200.00%,2,0.00%,275,Europe
+Romania,EUCOM,Southeastern Europe,258,Nissan NV200,6,0.00%,500.00%,1,0.00%,282,Europe
+Romania,EUCOM,Southeastern Europe,259,BMW IX,6,0.00%,new,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,260,Ferrari SF90 Stradale,6,0.00%,new,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,261,Skoda Rapid,5,0.00%,-78.30%,23,0.00%,210,Europe
+Romania,EUCOM,Southeastern Europe,262,Kia Picanto,5,0.00%,-37.50%,8,0.00%,239,Europe
+Romania,EUCOM,Southeastern Europe,263,Mercedes Citan,5,0.00%,66.70%,3,0.00%,261,Europe
+Romania,EUCOM,Southeastern Europe,264,ARO,5,0.00%,n/a,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,265,Ferrari 488 Spider,4,0.00%,-50.00%,8,0.00%,240,Europe
+Romania,EUCOM,Southeastern Europe,266,BMW 6 Series,4,0.00%,33.30%,3,0.00%,260,Europe
+Romania,EUCOM,Southeastern Europe,267,Renault Symbol,4,0.00%,n/a,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,268,Maserati Ghibli,4,0.00%,n/a,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,269,Ferrari Roma,4,0.00%,n/a,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,270,Citroen C-Elysée,3,0.00%,-98.20%,163,0.10%,105,Europe
+Romania,EUCOM,Southeastern Europe,271,Maserati Quattroporte,3,0.00%,0.00%,3,0.00%,264,Europe
+Romania,EUCOM,Southeastern Europe,272,Jac IEV7S,3,0.00%,50.00%,2,0.00%,274,Europe
+Romania,EUCOM,Southeastern Europe,273,Kia Soul,3,0.00%,n/a,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,274,Mitsubishi ASX,2,0.00%,-98.10%,106,0.10%,128,Europe
+Romania,EUCOM,Southeastern Europe,275,Tesla Model S,2,0.00%,-75.00%,8,0.00%,242,Europe
+Romania,EUCOM,Southeastern Europe,276,Lamborghini Aventador,2,0.00%,-66.70%,6,0.00%,247,Europe
+Romania,EUCOM,Southeastern Europe,277,Jaguar XF,2,0.00%,-50.00%,4,0.00%,254,Europe
+Romania,EUCOM,Southeastern Europe,278,Jaguar XE,2,0.00%,0.00%,2,0.00%,265,Europe
+Romania,EUCOM,Southeastern Europe,279,Lexus LC,2,0.00%,100.00%,1,0.00%,280,Europe
+Romania,EUCOM,Southeastern Europe,280,Tesla Model Y,2,0.00%,100.00%,1,0.00%,290,Europe
+Romania,EUCOM,Southeastern Europe,281,Aston Martin DBS,2,0.00%,n/a,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,282,Lexus LS,2,0.00%,n/a,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,283,Rolls-Royce Dawn,2,0.00%,n/a,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,284,Rolls-Royce Ghost,2,0.00%,n/a,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,285,Jeep Cherokee,1,0.00%,-97.40%,38,0.00%,192,Europe
+Romania,EUCOM,Southeastern Europe,286,Citroen C4 Cactus,1,0.00%,-94.70%,19,0.00%,216,Europe
+Romania,EUCOM,Southeastern Europe,287,Tesla Model X,1,0.00%,-87.50%,8,0.00%,243,Europe
+Romania,EUCOM,Southeastern Europe,288,VW California,1,0.00%,-83.30%,6,0.00%,246,Europe
+Romania,EUCOM,Southeastern Europe,289,Ferrari Portofino,1,0.00%,-80.00%,5,0.00%,249,Europe
+Romania,EUCOM,Southeastern Europe,290,Volvo V40,1,0.00%,-66.70%,3,0.00%,258,Europe
+Romania,EUCOM,Southeastern Europe,291,Mercedes Marco Polo,1,0.00%,-50.00%,2,0.00%,270,Europe
+Romania,EUCOM,Southeastern Europe,292,Nissan GT-R,1,0.00%,-50.00%,2,0.00%,276,Europe
+Romania,EUCOM,Southeastern Europe,293,Peugeot Boxer,1,0.00%,-50.00%,2,0.00%,267,Europe
+Romania,EUCOM,Southeastern Europe,294,Alpine A110,1,0.00%,0.00%,1,0.00%,286,Europe
+Romania,EUCOM,Southeastern Europe,295,Hyundai Accent,1,0.00%,n/a,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,296,Renault Espace,1,0.00%,n/a,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,297,Rolls-Royce Phantom,1,0.00%,n/a,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,298,Subaru Impreza,1,0.00%,n/a,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,299,Alpina B5,1,0.00%,n/a,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,300,Cadillac XT4,1,0.00%,n/a,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,301,Cupra Leon,1,0.00%,new,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,302,GMC,1,0.00%,n/a,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,303,Mercedes EQS,1,0.00%,new,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,304,Skywell ET5,1,0.00%,new,0,0.00%, –,Europe
+Romania,EUCOM,Southeastern Europe,305,Fiat 500X,0,0.00%,-100.00%,135,0.10%,114,Europe
+Romania,EUCOM,Southeastern Europe,306,Suzuki Jimny,0,0.00%,-100.00%,74,0.10%,147,Europe
+Romania,EUCOM,Southeastern Europe,307,Alfa Romeo Giulietta,0,0.00%,-100.00%,46,0.00%,182,Europe
+Romania,EUCOM,Southeastern Europe,308,Ford Tourneo Courier,0,0.00%,-100.00%,41,0.00%,188,Europe
+Romania,EUCOM,Southeastern Europe,309,Jeep Grand Cherokee,0,0.00%,-100.00%,14,0.00%,221,Europe
+Romania,EUCOM,Southeastern Europe,310,Opel Zafira Tourer,0,0.00%,-100.00%,7,0.00%,244,Europe
+Romania,EUCOM,Southeastern Europe,311,Porsche 718 Boxster,0,0.00%,-100.00%,7,0.00%,245,Europe
+Romania,EUCOM,Southeastern Europe,312,Fiat Ducato,0,0.00%,-100.00%,5,0.00%,253,Europe
+Romania,EUCOM,Southeastern Europe,313,Lexus IS300h,0,0.00%,-100.00%,5,0.00%,251,Europe
+Romania,EUCOM,Southeastern Europe,314,Opel Movano,0,0.00%,-100.00%,5,0.00%,248,Europe
+Romania,EUCOM,Southeastern Europe,315,Daewoo Matiz,0,0.00%,-100.00%,4,0.00%,257,Europe
+Romania,EUCOM,Southeastern Europe,316,Hyundai i40,0,0.00%,-100.00%,3,0.00%,259,Europe
+Romania,EUCOM,Southeastern Europe,317,Ferrari GTC4 Lusso,0,0.00%,-100.00%,2,0.00%,266,Europe
+Romania,EUCOM,Southeastern Europe,318,Rolls-Royce Wraith,0,0.00%,-100.00%,2,0.00%,277,Europe
+Romania,EUCOM,Southeastern Europe,319,Seat Alhambra,0,0.00%,-100.00%,2,0.00%,271,Europe
+Romania,EUCOM,Southeastern Europe,320,Subaru BRZ,0,0.00%,-100.00%,2,0.00%,272,Europe
+Romania,EUCOM,Southeastern Europe,321,Audi R8,0,0.00%,-100.00%,1,0.00%,283,Europe
+Romania,EUCOM,Southeastern Europe,322,Ferrari Monza SP2,0,0.00%,-100.00%,1,0.00%,288,Europe
+Romania,EUCOM,Southeastern Europe,323,Fiat Doblo,0,0.00%,-100.00%,1,0.00%,278,Europe
+Romania,EUCOM,Southeastern Europe,324,Ford S-Max,0,0.00%,-100.00%,1,0.00%,279,Europe
+Romania,EUCOM,Southeastern Europe,325,Honda Accord,0,0.00%,-100.00%,1,0.00%,287,Europe
+Romania,EUCOM,Southeastern Europe,326,Jaguar XJ,0,0.00%,-100.00%,1,0.00%,284,Europe
+Romania,EUCOM,Southeastern Europe,327,Lotus Exige,0,0.00%,-100.00%,1,0.00%,289,Europe
+Romania,EUCOM,Southeastern Europe,328,Nissan 370Z,0,0.00%,-100.00%,1,0.00%,281,Europe
+Romania,EUCOM,Southeastern Europe,329,UAZ,0,0.00%,-100.00%,1,0.00%,291,Europe
+Romania,EUCOM,Southeastern Europe,330,VW Sharan,0,0.00%,-100.00%,1,0.00%,285,Europe

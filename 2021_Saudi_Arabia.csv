@@ -1,0 +1,101 @@
+﻿Country,Command,Region,Position_2021,Model,Sales_2021,Percent_2021,Growth_2021,Sales_2020,Percent_2020,Position_2020,Continent
+Saudi Arabia,CENTCOM,West Asia,1,Toyota Camry,"33,420",0,26.60%,"26,403",5.80%,2,Asia
+Saudi Arabia,CENTCOM,West Asia,2,Hyundai Elantra,"24,898",0,-7.30%,"26,853",5.90%,1,Asia
+Saudi Arabia,CENTCOM,West Asia,3,Toyota Yaris,"24,547",0,40.80%,"17,432",3.80%,5,Asia
+Saudi Arabia,CENTCOM,West Asia,4,Hyundai Accent,"24,042",0,11.70%,"21,517",4.70%,4,Asia
+Saudi Arabia,CENTCOM,West Asia,5,Toyota Hilux,"22,957",0,5.10%,"21,838",4.80%,3,Asia
+Saudi Arabia,CENTCOM,West Asia,6,Toyota Corolla,"16,171",0,21.70%,"13,285",2.90%,7,Asia
+Saudi Arabia,CENTCOM,West Asia,7,Nissan Sunny,"15,655",0,22.20%,"12,812",2.80%,9,Asia
+Saudi Arabia,CENTCOM,West Asia,8,Isuzu TF,"13,341",0,-0.40%,"13,395",2.90%,6,Asia
+Saudi Arabia,CENTCOM,West Asia,9,Hyundai Sonata,"12,515",2.20%,69.40%,"7,389",1.60%,14,Asia
+Saudi Arabia,CENTCOM,West Asia,10,Ford Taurus,"11,094",0,73.00%,"6,411",1.40%,20,Asia
+Saudi Arabia,CENTCOM,West Asia,11,Toyota Fortuner,"10,761",1.90%,20.40%,"8,935",2.00%,10,Asia
+Saudi Arabia,CENTCOM,West Asia,12,Mazda 6,"10,248",1.80%,-22.80%,"13,269",2.90%,8,Asia
+Saudi Arabia,CENTCOM,West Asia,13,Toyota Rush,"8,690",1.50%,98.00%,"4,389",1.00%,27,Asia
+Saudi Arabia,CENTCOM,West Asia,14,Kia Pegas,"8,249",1.50%,10.00%,"7,502",1.60%,12,Asia
+Saudi Arabia,CENTCOM,West Asia,15,Isuzu N-Series,"8,076",0,23.00%,"6,566",1.40%,19,Asia
+Saudi Arabia,CENTCOM,West Asia,16,Hyundai Kona,"7,973",1.40%,17.50%,"6,786",1.50%,17,Asia
+Saudi Arabia,CENTCOM,West Asia,17,MG 5,"7,888",1.40%,9.30%,"7,219",1.60%,16,Asia
+Saudi Arabia,CENTCOM,West Asia,18,MG ZS,"7,304",0,143.10%,"3,004",0.70%,43,Asia
+Saudi Arabia,CENTCOM,West Asia,19,Chevrolet Captiva,"7,252",1.30%,71.20%,"4,237",0.90%,28,Asia
+Saudi Arabia,CENTCOM,West Asia,20,Toyota Land Cruiser Sw,"7,241",0,-2.50%,"7,430",1.60%,13,Asia
+Saudi Arabia,CENTCOM,West Asia,21,Toyota RAV4,"7,234",1.30%,43.60%,"5,037",1.10%,23,Asia
+Saudi Arabia,CENTCOM,West Asia,22,Mazda CX-9,"6,909",1.20%,-4.80%,"7,259",1.60%,15,Asia
+Saudi Arabia,CENTCOM,West Asia,23,Mitsubishi L200,"6,388",1.10%,117.60%,"2,935",0.60%,46,Asia
+Saudi Arabia,CENTCOM,West Asia,24,Hyundai Tucson,"6,337",1.10%,-3.50%,"6,570",1.40%,18,Asia
+Saudi Arabia,CENTCOM,West Asia,25,Honda Accord,"6,086",1.10%,49.50%,"4,072",0.90%,31,Asia
+Saudi Arabia,CENTCOM,West Asia,26,Toyota Hiace,"6,061",1.10%,30.40%,"4,647",1.00%,26,Asia
+Saudi Arabia,CENTCOM,West Asia,27,Hyundai Creta,"5,922",1.00%,45.30%,"4,075",0.90%,30,Asia
+Saudi Arabia,CENTCOM,West Asia,28,Nissan X-Trail,"5,822",1.00%,55.80%,"3,736",0.80%,34,Asia
+Saudi Arabia,CENTCOM,West Asia,29,Toyota Land Cruiser H/D,"5,808",1.00%,6.40%,"5,459",1.20%,21,Asia
+Saudi Arabia,CENTCOM,West Asia,30,Chevrolet Tahoe,"5,655",1.00%,-26.30%,"7,676",1.70%,11,Asia
+Saudi Arabia,CENTCOM,West Asia,31,Nissan Patrol,"5,257",0.90%,11.90%,"4,696",1.00%,25,Asia
+Saudi Arabia,CENTCOM,West Asia,32,Haval H6,"5,087",0.90%,new,0,0.00%, –,Asia
+Saudi Arabia,CENTCOM,West Asia,33,Mazda CX-5,"4,864",0.90%,29.20%,"3,766",0.80%,33,Asia
+Saudi Arabia,CENTCOM,West Asia,34,Changan Alsvin,"4,815",0.80%,43.40%,"3,358",0.70%,38,Asia
+Saudi Arabia,CENTCOM,West Asia,35,Geely Coolray (SX11),"4,779",0.80%,91.90%,"2,490",0.50%,55,Asia
+Saudi Arabia,CENTCOM,West Asia,36,Changan Eado Plus,"4,705",0.80%,new,0,0.00%, –,Asia
+Saudi Arabia,CENTCOM,West Asia,37,Mazda CX-30,"4,624",0.80%,134.40%,"1,973",0.40%,60,Asia
+Saudi Arabia,CENTCOM,West Asia,38,Lexus ES,"4,619",0.80%,23.60%,"3,736",0.80%,35,Asia
+Saudi Arabia,CENTCOM,West Asia,39,Hyundai Azera,"4,274",0.80%,47.40%,"2,900",0.60%,47,Asia
+Saudi Arabia,CENTCOM,West Asia,40,Changan CS95,"4,246",0.70%,42.10%,"2,989",0.70%,44,Asia
+Saudi Arabia,CENTCOM,West Asia,41,Toyota Avalon,"4,216",0.70%,31.00%,"3,219",0.70%,40,Asia
+Saudi Arabia,CENTCOM,West Asia,42,Nissan Altima,"4,114",0.70%,101.30%,"2,044",0.40%,59,Asia
+Saudi Arabia,CENTCOM,West Asia,43,Hyundai Santa Fe,"4,052",0.70%,46.00%,"2,776",0.60%,48,Asia
+Saudi Arabia,CENTCOM,West Asia,44,Mitsubishi Attrage,"3,997",0.70%,-16.10%,"4,763",1.00%,24,Asia
+Saudi Arabia,CENTCOM,West Asia,45,Changan CS85,"3,898",0.70%,100.40%,"1,945",0.40%,61,Asia
+Saudi Arabia,CENTCOM,West Asia,46,Kia Optima,"3,885",0.70%,-6.90%,"4,175",0.90%,29,Asia
+Saudi Arabia,CENTCOM,West Asia,47,Changan CS35 Plus,"3,837",0.70%,14.60%,"3,347",0.70%,39,Asia
+Saudi Arabia,CENTCOM,West Asia,48,Geely Tugella,"3,825",0.70%,127400.00%,3,0.00%,252,Asia
+Saudi Arabia,CENTCOM,West Asia,49,Toyota Highlander,"3,494",0.60%,178.20%,"1,256",0.30%,80,Asia
+Saudi Arabia,CENTCOM,West Asia,50,Kia Cerato,"3,485",0.60%,-4.00%,"3,632",0.80%,36,Asia
+Saudi Arabia,CENTCOM,West Asia,51,Gmc Yukon,"3,376",0.60%,13.70%,"2,969",0.60%,45,Asia
+Saudi Arabia,CENTCOM,West Asia,52,Great Wall Wingle,"3,268",0.60%,new,0,0.00%, –,Asia
+Saudi Arabia,CENTCOM,West Asia,53,Suzuki Swift Dzire,"3,234",0.60%,80.00%,"1,797",0.40%,65,Asia
+Saudi Arabia,CENTCOM,West Asia,54,Changan CS75 Plus,"3,186",0.60%,new,0,0.00%, –,Asia
+Saudi Arabia,CENTCOM,West Asia,55,Nissan Kicks,"3,159",0.60%,121.40%,"1,427",0.30%,75,Asia
+Saudi Arabia,CENTCOM,West Asia,56,Toyota Prado,"3,003",0.50%,12.40%,"2,671",0.60%,51,Asia
+Saudi Arabia,CENTCOM,West Asia,57,Dodge Charger,"2,894",0.50%,10.10%,"2,629",0.60%,52,Asia
+Saudi Arabia,CENTCOM,West Asia,58,Haval Jolion,"2,892",0.50%,new,0,0.00%, –,Asia
+Saudi Arabia,CENTCOM,West Asia,59,Lexus LX,"2,791",0.50%,10.10%,"2,536",0.60%,54,Asia
+Saudi Arabia,CENTCOM,West Asia,60,Kia  Sonet,"2,655",0.50%,new,0,0.00%, –,Asia
+Saudi Arabia,CENTCOM,West Asia,61,Geely Binray,"2,330",0.40%,185.90%,815,0.20%,94,Asia
+Saudi Arabia,CENTCOM,West Asia,62,MG RX8,"2,323",0.40%,27.80%,"1,818",0.40%,63,Asia
+Saudi Arabia,CENTCOM,West Asia,63,Changan Hunter,"2,298",0.40%,new,0,0.00%, –,Asia
+Saudi Arabia,CENTCOM,West Asia,64,MG RX5,"2,251",0.40%,40.30%,"1,604",0.40%,70,Asia
+Saudi Arabia,CENTCOM,West Asia,65,Ford Expedition,"2,110",0.40%,-9.20%,"2,325",0.50%,57,Asia
+Saudi Arabia,CENTCOM,West Asia,66,Great Wall Poer,"2,108",0.40%,new,0,0.00%, –,Asia
+Saudi Arabia,CENTCOM,West Asia,67,Renault Dokker,"2,080",0.40%,-34.70%,"3,186",0.70%,41,Asia
+Saudi Arabia,CENTCOM,West Asia,68,Hyundai I10,"2,062",0.40%,n/a,0,0.00%, –,Asia
+Saudi Arabia,CENTCOM,West Asia,69,Ford Ranger,"2,055",0.40%,90.80%,"1,077",0.20%,85,Asia
+Saudi Arabia,CENTCOM,West Asia,70,Toyota Corolla Cross,"2,016",0.40%,new,0,0.00%, –,Asia
+Saudi Arabia,CENTCOM,West Asia,71,Haval H9,"1,975",0.30%,new,0,0.00%, –,Asia
+Saudi Arabia,CENTCOM,West Asia,72,Toyota FJ Cruiser,"1,959",0.30%,-25.10%,"2,614",0.60%,53,Asia
+Saudi Arabia,CENTCOM,West Asia,73,Geely Azkarra,"1,891",0.30%,88.30%,"1,004",0.20%,88,Asia
+Saudi Arabia,CENTCOM,West Asia,74,Nissan Urvan,"1,848",0.30%,17.70%,"1,570",0.30%,72,Asia
+Saudi Arabia,CENTCOM,West Asia,75,Kia Sportage,"1,784",0.30%,-24.90%,"2,376",0.50%,56,Asia
+Saudi Arabia,CENTCOM,West Asia,76,Kia Seltos,"1,765",0.30%,-36.40%,"2,773",0.60%,49,Asia
+Saudi Arabia,CENTCOM,West Asia,77,Chevrolet Malibu,"1,692",0.30%,-45.30%,"3,091",0.70%,42,Asia
+Saudi Arabia,CENTCOM,West Asia,78,Jeep Wrangler,"1,672",0.30%,59.40%,"1,049",0.20%,87,Asia
+Saudi Arabia,CENTCOM,West Asia,79,Hyundai H1 100 Bus,"1,624",0.30%,3.80%,"1,565",0.30%,73,Asia
+Saudi Arabia,CENTCOM,West Asia,80,Isuzu F-Series,"1,596",0.30%,0.50%,"1,588",0.30%,71,Asia
+Saudi Arabia,CENTCOM,West Asia,81,Peugeot Partner,"1,582",0.30%,430.90%,298,0.10%,132,Asia
+Saudi Arabia,CENTCOM,West Asia,82,Dodge Durango,"1,525",0.30%,-5.60%,"1,616",0.40%,69,Asia
+Saudi Arabia,CENTCOM,West Asia,83,Toyota Innova,"1,492",0.30%,-17.20%,"1,801",0.40%,64,Asia
+Saudi Arabia,CENTCOM,West Asia,84,Ford Explorer,"1,477",0.30%,26.70%,"1,166",0.30%,82,Asia
+Saudi Arabia,CENTCOM,West Asia,85,Chevrolet Spark,"1,438",0.30%,-73.40%,"5,396",1.20%,22,Asia
+Saudi Arabia,CENTCOM,West Asia,86,Jeep Grand Cherokee,"1,431",0.30%,47.20%,972,0.20%,89,Asia
+Saudi Arabia,CENTCOM,West Asia,87,Chevrolet Traverse,"1,420",0.30%,-6.50%,"1,519",0.30%,74,Asia
+Saudi Arabia,CENTCOM,West Asia,88,Gmc Sierra,"1,346",0.20%,20.30%,"1,119",0.20%,83,Asia
+Saudi Arabia,CENTCOM,West Asia,89,Lexus RX,"1,262",0.20%,56.00%,809,0.20%,95,Asia
+Saudi Arabia,CENTCOM,West Asia,90,Kia Rio,"1,259",0.20%,-27.70%,"1,741",0.40%,67,Asia
+Saudi Arabia,CENTCOM,West Asia,91,Mg 6,"1,188",0.20%,-45.50%,"2,178",0.50%,58,Asia
+Saudi Arabia,CENTCOM,West Asia,92,Mg T60,"1,164",0.20%,8.00%,"1,078",0.20%,84,Asia
+Saudi Arabia,CENTCOM,West Asia,93,Ford Escort,"1,150",0.20%,139.60%,480,0.10%,110,Asia
+Saudi Arabia,CENTCOM,West Asia,94,Isuzu RF,"1,121",0.20%,18.20%,948,0.20%,91,Asia
+Saudi Arabia,CENTCOM,West Asia,95,Mitsubishi Xpander,"1,093",0.20%,new,0,0.00%, –,Asia
+Saudi Arabia,CENTCOM,West Asia,96,MG GT,"1,083",0.20%,new,0,0.00%, –,Asia
+Saudi Arabia,CENTCOM,West Asia,97,Nissan X Terra,"1,076",0.20%,2974.30%,35,0.00%,204,Asia
+Saudi Arabia,CENTCOM,West Asia,98,Ford F-Series,"1,074",0.20%,-15.20%,"1,267",0.30%,79,Asia
+Saudi Arabia,CENTCOM,West Asia,99,Mitsubishi Pajero,"1,053",0.20%,-23.10%,"1,370",0.30%,76,Asia
+Saudi Arabia,CENTCOM,West Asia,100,Honda HR-V,"1,015",0.20%,67.50%,606,0.10%,101,Asia

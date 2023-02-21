@@ -1,0 +1,338 @@
+﻿Country,Command,Region,Position_2021,Model,Sales_2021,Percent_2021,Growth_2021,Sales_2020,Percent_2020,Position_2020,Continent
+Australia,INDOPACOM,South Pacific,1,Toyota Hilux,"52,801",5.00%,16.90%,"45,176",4.90%,1,Oceania
+Australia,INDOPACOM,South Pacific,2,Ford Ranger,"50,279",4.70%,22.70%,"40,973",4.50%,2,Oceania
+Australia,INDOPACOM,South Pacific,3,Toyota RAV4,"35,751",3.40%,-7.20%,"38,537",4.20%,3,Oceania
+Australia,INDOPACOM,South Pacific,4,Toyota Corolla,"28,768",2.70%,11.20%,"25,882",2.80%,4,Oceania
+Australia,INDOPACOM,South Pacific,5,Hyundai i30,"25,575",2.40%,23.30%,"20,734",2.30%,6,Oceania
+Australia,INDOPACOM,South Pacific,6,Isuzu D-Max,"25,117",2.40%,66.80%,"15,062",1.60%,12,Oceania
+Australia,INDOPACOM,South Pacific,7,Mazda CX-5,"24,968",2.40%,13.60%,"21,979",2.40%,5,Oceania
+Australia,INDOPACOM,South Pacific,8,Toyota Prado,"21,299",2.00%,18.10%,"18,034",2.00%,8,Oceania
+Australia,INDOPACOM,South Pacific,9,Mitsubishi Triton,"19,232",1.80%,6.00%,"18,146",2.00%,7,Oceania
+Australia,INDOPACOM,South Pacific,10,MG ZS,"18,423",1.70%,235.30%,"5,494",0.60%,47,Oceania
+Australia,INDOPACOM,South Pacific,11,Kia Cerato,"18,114",1.70%,3.20%,"17,559",1.90%,9,Oceania
+Australia,INDOPACOM,South Pacific,12,Mazda BT-50,"15,662",1.50%,63.50%,"9,578",1.00%,26,Oceania
+Australia,INDOPACOM,South Pacific,13,Nissan Navara,"15,113",1.40%,31.60%,"11,486",1.20%,21,Oceania
+Australia,INDOPACOM,South Pacific,14,Mitsubishi ASX,"14,764",1.40%,5.00%,"14,056",1.50%,15,Oceania
+Australia,INDOPACOM,South Pacific,15,Mitsubishi Outlander,"14,572",1.40%,21.40%,"12,004",1.30%,20,Oceania
+Australia,INDOPACOM,South Pacific,16,Toyota Land Cruiser Wagon,"14,356",1.40%,-4.90%,"15,100",1.60%,11,Oceania
+Australia,INDOPACOM,South Pacific,17,Hyundai Tucson,"14,194",1.30%,-10.10%,"15,789",1.70%,10,Oceania
+Australia,INDOPACOM,South Pacific,18,Mazda3,"14,126",1.30%,-3.70%,"14,663",1.60%,13,Oceania
+Australia,INDOPACOM,South Pacific,19,Nissan X-Trail,"13,860",1.30%,-3.00%,"14,291",1.60%,14,Oceania
+Australia,INDOPACOM,South Pacific,20,MG3,"13,774",1.30%,92.40%,"7,158",0.80%,37,Oceania
+Australia,INDOPACOM,South Pacific,21,Mazda CX-30,"13,309",1.30%,47.90%,"8,998",1.00%,29,Oceania
+Australia,INDOPACOM,South Pacific,22,Toyota Camry,"13,081",1.20%,-4.70%,"13,727",1.50%,17,Oceania
+Australia,INDOPACOM,South Pacific,23,Mazda CX-3,"12,873",1.20%,-7.70%,"13,953",1.50%,16,Oceania
+Australia,INDOPACOM,South Pacific,24,Hyundai Kona,"12,748",1.20%,1.90%,"12,514",1.40%,18,Oceania
+Australia,INDOPACOM,South Pacific,25,Toyota Land Cruiser PU/CC,"12,277",1.20%,22.00%,"10,064",1.10%,23,Oceania
+Australia,INDOPACOM,South Pacific,26,Tesla Model 3,"12,094",1.10%,308.60%,"2,960",0.30%,76,Oceania
+Australia,INDOPACOM,South Pacific,27,Subaru Forester,"11,810",1.10%,-4.00%,"12,300",1.30%,19,Oceania
+Australia,INDOPACOM,South Pacific,28,Isuzu MU-X,"10,618",1.00%,50.60%,"7,049",0.80%,38,Oceania
+Australia,INDOPACOM,South Pacific,29,Subaru Outback,"10,490",1.00%,117.30%,"4,828",0.50%,50,Oceania
+Australia,INDOPACOM,South Pacific,30,Toyota Hiace Van,"9,726",0.90%,15.90%,"8,391",0.90%,32,Oceania
+Australia,INDOPACOM,South Pacific,31,Subaru XV,"9,342",0.90%,17.60%,"7,946",0.90%,34,Oceania
+Australia,INDOPACOM,South Pacific,32,Toyota Kluger,"9,320",0.90%,10.90%,"8,403",0.90%,31,Oceania
+Australia,INDOPACOM,South Pacific,33,Kia Seltos,"8,884",0.80%,-10.90%,"9,966",1.10%,24,Oceania
+Australia,INDOPACOM,South Pacific,34,Ford Everest,"8,359",0.80%,39.40%,"5,996",0.70%,44,Oceania
+Australia,INDOPACOM,South Pacific,35,Kia Sportage,"7,949",0.70%,-17.00%,"9,579",1.00%,25,Oceania
+Australia,INDOPACOM,South Pacific,36,Toyota Yaris Cross,"7,828",0.70%,497.10%,"1,311",0.10%,120,Oceania
+Australia,INDOPACOM,South Pacific,37,VW Tiguan,"7,738",0.70%,-15.40%,"9,148",1.00%,28,Oceania
+Australia,INDOPACOM,South Pacific,38,VW Amarok,"7,659",0.70%,20.70%,"6,343",0.70%,41,Oceania
+Australia,INDOPACOM,South Pacific,39,Kia Stonic,"7,645",0.70%,new,0,0.00%, –,Oceania
+Australia,INDOPACOM,South Pacific,40,GWM Ute,"6,906",0.70%,6235.80%,109,0.00%,237,Oceania
+Australia,INDOPACOM,South Pacific,41,Honda CR-V,"6,875",0.60%,-27.80%,"9,523",1.00%,27,Oceania
+Australia,INDOPACOM,South Pacific,42,MG HS,"6,828",0.60%,162.60%,"2,600",0.30%,86,Oceania
+Australia,INDOPACOM,South Pacific,43,Mitsubishi Pajero Sport,"6,804",0.60%,13.10%,"6,017",0.70%,43,Oceania
+Australia,INDOPACOM,South Pacific,44,LDV T60,"6,705",0.60%,20.10%,"5,581",0.60%,46,Oceania
+Australia,INDOPACOM,South Pacific,45,Mazda CX-9,"6,630",0.60%,-1.70%,"6,747",0.70%,40,Oceania
+Australia,INDOPACOM,South Pacific,46,Kia Picanto,"6,591",0.60%,69.40%,"3,891",0.40%,60,Oceania
+Australia,INDOPACOM,South Pacific,47,Toyota C-HR,"6,578",0.60%,-22.60%,"8,500",0.90%,30,Oceania
+Australia,INDOPACOM,South Pacific,48,Mitsubishi Eclipse Cross,"6,132",0.60%,35.80%,"4,517",0.50%,54,Oceania
+Australia,INDOPACOM,South Pacific,49,Mazda CX-8,"6,119",0.60%,63.70%,"3,738",0.40%,62,Oceania
+Australia,INDOPACOM,South Pacific,50,VW T-Cross,"6,104",0.60%,130.70%,"2,646",0.30%,85,Oceania
+Australia,INDOPACOM,South Pacific,51,Honda HR-V,"6,069",0.60%,-25.80%,"8,181",0.90%,33,Oceania
+Australia,INDOPACOM,South Pacific,52,Kia Carnival,"5,862",0.60%,60.60%,"3,650",0.40%,64,Oceania
+Australia,INDOPACOM,South Pacific,53,Hyundai Venue,"5,854",0.60%,59.20%,"3,678",0.40%,63,Oceania
+Australia,INDOPACOM,South Pacific,54,Nissan Qashqai,"5,750",0.50%,-18.30%,"7,041",0.80%,39,Oceania
+Australia,INDOPACOM,South Pacific,55,Audi Q3,"5,707",0.50%,39.50%,"4,090",0.40%,58,Oceania
+Australia,INDOPACOM,South Pacific,56,Kia Rio,"5,644",0.50%,14.00%,"4,952",0.50%,49,Oceania
+Australia,INDOPACOM,South Pacific,57,Kia Sorento,"5,126",0.50%,12.70%,"4,547",0.50%,53,Oceania
+Australia,INDOPACOM,South Pacific,58,VW Polo,"5,125",0.50%,42.30%,"3,602",0.40%,65,Oceania
+Australia,INDOPACOM,South Pacific,59,Hyundai Santa Fe,"5,048",0.50%,9.40%,"4,615",0.50%,51,Oceania
+Australia,INDOPACOM,South Pacific,60,VW T-Roc,"4,838",0.50%,283.70%,"1,261",0.10%,124,Oceania
+Australia,INDOPACOM,South Pacific,61,Mercedes GLE,"4,713",0.40%,44.50%,"3,261",0.40%,71,Oceania
+Australia,INDOPACOM,South Pacific,62,Toyota Yaris,"4,495",0.40%,-10.60%,"5,027",0.50%,48,Oceania
+Australia,INDOPACOM,South Pacific,63,LDV G10,"4,410",0.40%,84.00%,"2,397",0.30%,89,Oceania
+Australia,INDOPACOM,South Pacific,64,BMW X3,"4,242",0.40%,-2.70%,"4,360",0.50%,56,Oceania
+Australia,INDOPACOM,South Pacific,65,Mercedes GLC,"4,206",0.40%,-27.50%,"5,799",0.60%,45,Oceania
+Australia,INDOPACOM,South Pacific,66,Mazda2,"4,183",0.40%,10.40%,"3,790",0.40%,61,Oceania
+Australia,INDOPACOM,South Pacific,67,Suzuki Swift ,"4,121",0.40%,-4.90%,"4,332",0.50%,57,Oceania
+Australia,INDOPACOM,South Pacific,68,GWM Haval Jolion,"4,069",0.40%,new,0,0.00%, –,Oceania
+Australia,INDOPACOM,South Pacific,69,BMW 3 Series,"3,982",0.40%,16.80%,"3,408",0.40%,67,Oceania
+Australia,INDOPACOM,South Pacific,70,Mercedes C Class,"3,943",0.40%,-14.30%,"4,603",0.50%,52,Oceania
+Australia,INDOPACOM,South Pacific,71,Suzuki Baleno,"3,896",0.40%,17.10%,"3,326",0.40%,69,Oceania
+Australia,INDOPACOM,South Pacific,72,Toyota Fortuner,"3,822",0.40%,32.60%,"2,883",0.30%,80,Oceania
+Australia,INDOPACOM,South Pacific,73,Ram 1500,"3,819",0.40%,15.90%,"3,294",0.40%,70,Oceania
+Australia,INDOPACOM,South Pacific,74,Mercedes A Class,"3,793",0.40%,-37.30%,"6,054",0.70%,42,Oceania
+Australia,INDOPACOM,South Pacific,75,Suzuki Vitara,"3,745",0.40%,-14.60%,"4,386",0.50%,55,Oceania
+Australia,INDOPACOM,South Pacific,76,Hyundai Palisade,"3,720",0.40%,3511.70%,103,0.00%,241,Oceania
+Australia,INDOPACOM,South Pacific,77,Volvo XC60,"3,688",0.30%,29.00%,"2,858",0.30%,82,Oceania
+Australia,INDOPACOM,South Pacific,78,Volvo XC40,"3,687",0.30%,14.20%,"3,229",0.40%,72,Oceania
+Australia,INDOPACOM,South Pacific,79,Subaru Impreza,"3,642",0.30%,7.40%,"3,390",0.40%,68,Oceania
+Australia,INDOPACOM,South Pacific,80,GWM Haval H6,"3,635",0.30%,289.60%,933,0.10%,138,Oceania
+Australia,INDOPACOM,South Pacific,81,Audi Q5,"3,604",0.30%,20.50%,"2,992",0.30%,75,Oceania
+Australia,INDOPACOM,South Pacific,82,Suzuki Jimny,"3,350",0.30%,41.50%,"2,368",0.30%,91,Oceania
+Australia,INDOPACOM,South Pacific,83,Mercedes GLB,"3,345",0.30%,272.10%,899,0.10%,141,Oceania
+Australia,INDOPACOM,South Pacific,84,Nissan Patrol Wagon,"3,333",0.30%,18.20%,"2,820",0.30%,83,Oceania
+Australia,INDOPACOM,South Pacific,85,Ford Puma,"3,218",0.30%,439.00%,597,0.10%,161,Oceania
+Australia,INDOPACOM,South Pacific,86,BMW X5,"3,173",0.30%,7.30%,"2,956",0.30%,77,Oceania
+Australia,INDOPACOM,South Pacific,87,Lexus NX,"3,091",0.30%,-12.10%,"3,518",0.40%,66,Oceania
+Australia,INDOPACOM,South Pacific,88,Mercedes Sprinter,"3,067",0.30%,n/a,n/a,n/a,n/a,Oceania
+Australia,INDOPACOM,South Pacific,89,Jeep Grand Cherokee,"3,010",0.30%,4.90%,"2,870",0.30%,81,Oceania
+Australia,INDOPACOM,South Pacific,90,BMW X1,"2,986",0.30%,-6.20%,"3,184",0.30%,73,Oceania
+Australia,INDOPACOM,South Pacific,91,Honda Civic,"2,950",0.30%,-59.00%,"7,194",0.80%,36,Oceania
+Australia,INDOPACOM,South Pacific,92,Ford Mustang,"2,827",0.30%,-3.30%,"2,923",0.30%,79,Oceania
+Australia,INDOPACOM,South Pacific,93,BMW 1 Series,"2,741",0.30%,18.30%,"2,317",0.30%,92,Oceania
+Australia,INDOPACOM,South Pacific,94,Mercedes GLA,"2,624",0.20%,-17.10%,"3,164",0.30%,74,Oceania
+Australia,INDOPACOM,South Pacific,95,Ford Transit Custom,"2,488",0.20%,4.60%,"2,379",0.30%,90,Oceania
+Australia,INDOPACOM,South Pacific,96,Hyundai iLoad,"2,446",0.20%,-37.60%,"3,919",0.40%,59,Oceania
+Australia,INDOPACOM,South Pacific,97,Nissan Juke,"2,362",0.20%,152.90%,934,0.10%,137,Oceania
+Australia,INDOPACOM,South Pacific,98,Porsche Macan,"2,328",0.20%,7.90%,"2,158",0.20%,94,Oceania
+Australia,INDOPACOM,South Pacific,99,Mitsubishi Pajero,"2,250",0.20%,-6.20%,"2,399",0.30%,87,Oceania
+Australia,INDOPACOM,South Pacific,100,Mitsubishi Mirage,"2,198",0.20%,270.00%,594,0.10%,162,Oceania
+Australia,INDOPACOM,South Pacific,101,Skoda Kamiq,"2,197",0.20%,473.60%,383,0.00%,185,Oceania
+Australia,INDOPACOM,South Pacific,102,Chevrolet Silverado 1500,"2,114",0.20%,5772.20%,36,0.00%,278,Oceania
+Australia,INDOPACOM,South Pacific,103,Renault Trafic,"2,093",0.20%,28.60%,"1,628",0.20%,110,Oceania
+Australia,INDOPACOM,South Pacific,104,BMW 2 Series Gran Coupe,"2,072",0.20%,60.70%,"1,289",0.10%,122,Oceania
+Australia,INDOPACOM,South Pacific,105,LDV Deliver 9,"1,984",0.20%,966.70%,186,0.00%,221,Oceania
+Australia,INDOPACOM,South Pacific,106,GWM Haval H2,"1,979",0.20%,-2.20%,"2,023",0.20%,98,Oceania
+Australia,INDOPACOM,South Pacific,107,Suzuki Ignis,"1,979",0.20%,204.00%,651,0.10%,155,Oceania
+Australia,INDOPACOM,South Pacific,108,Renault Koleos,"1,937",0.20%,-4.30%,"2,024",0.20%,97,Oceania
+Australia,INDOPACOM,South Pacific,109,VW Golf,"1,928",0.20%,-81.40%,"10,355",1.10%,22,Oceania
+Australia,INDOPACOM,South Pacific,110,Lexus RX,"1,908",0.20%,1.50%,"1,879",0.20%,101,Oceania
+Australia,INDOPACOM,South Pacific,111,Ssangyong Musso XLV,"1,883",0.20%,73.70%,"1,084",0.10%,134,Oceania
+Australia,INDOPACOM,South Pacific,112,Mini Hatch,"1,866",0.20%,15.70%,"1,613",0.20%,111,Oceania
+Australia,INDOPACOM,South Pacific,113,Mitsubishi Express,"1,780",0.20%,190.80%,612,0.10%,160,Oceania
+Australia,INDOPACOM,South Pacific,114,Lexus UX,"1,744",0.20%,24.30%,"1,403",0.20%,116,Oceania
+Australia,INDOPACOM,South Pacific,115,Jeep Wrangler,"1,734",0.20%,47.60%,"1,175",0.10%,132,Oceania
+Australia,INDOPACOM,South Pacific,116,Land Rover Defender,"1,733",0.20%,233.90%,519,0.10%,172,Oceania
+Australia,INDOPACOM,South Pacific,117,VW Transporter,"1,727",0.20%,194.70%,586,0.10%,163,Oceania
+Australia,INDOPACOM,South Pacific,118,Skoda Karoq,"1,709",0.20%,36.50%,"1,252",0.10%,126,Oceania
+Australia,INDOPACOM,South Pacific,119,Skoda Kodiaq,"1,694",0.20%,2.50%,"1,652",0.20%,108,Oceania
+Australia,INDOPACOM,South Pacific,120,Ford Escape,"1,673",0.20%,-15.10%,"1,971",0.20%,100,Oceania
+Australia,INDOPACOM,South Pacific,121,Audi Q7,"1,646",0.20%,-5.10%,"1,734",0.20%,105,Oceania
+Australia,INDOPACOM,South Pacific,122,Audi Q2,"1,621",0.20%,26.20%,"1,284",0.10%,123,Oceania
+Australia,INDOPACOM,South Pacific,123,LDV D90,"1,566",0.10%,119.00%,715,0.10%,151,Oceania
+Australia,INDOPACOM,South Pacific,124,Mazda6,"1,491",0.10%,-13.70%,"1,727",0.20%,106,Oceania
+Australia,INDOPACOM,South Pacific,125,Range Rover Sport,"1,475",0.10%,-10.20%,"1,642",0.20%,109,Oceania
+Australia,INDOPACOM,South Pacific,126,Kia Stinger,"1,407",0.10%,-20.90%,"1,778",0.20%,104,Oceania
+Australia,INDOPACOM,South Pacific,127,Renault Master,"1,382",0.10%,n/a,n/a,n/a,n/a,Oceania
+Australia,INDOPACOM,South Pacific,128,Jeep Compass,"1,363",0.10%,76.80%,771,0.10%,148,Oceania
+Australia,INDOPACOM,South Pacific,129,Volvo XC90,"1,323",0.10%,40.40%,942,0.10%,136,Oceania
+Australia,INDOPACOM,South Pacific,130,Mercedes CLA,"1,299",0.10%,-37.60%,"2,082",0.20%,96,Oceania
+Australia,INDOPACOM,South Pacific,131,BMW 4 Series,"1,288",0.10%,139.40%,538,0.10%,168,Oceania
+Australia,INDOPACOM,South Pacific,132,Skoda Octavia,"1,280",0.10%,-39.40%,"2,111",0.20%,95,Oceania
+Australia,INDOPACOM,South Pacific,133,Fiat Ducato,"1,277",0.10%,n/a,n/a,n/a,n/a,Oceania
+Australia,INDOPACOM,South Pacific,134,Jeep Gladiator,"1,273",0.10%,122.20%,573,0.10%,166,Oceania
+Australia,INDOPACOM,South Pacific,135,Subaru WRX,"1,261",0.10%,-9.90%,"1,399",0.20%,117,Oceania
+Australia,INDOPACOM,South Pacific,136,VW Touareg,"1,261",0.10%,1.60%,"1,241",0.10%,127,Oceania
+Australia,INDOPACOM,South Pacific,137,GWM Steed,"1,252",0.10%,-31.70%,"1,832",0.20%,103,Oceania
+Australia,INDOPACOM,South Pacific,138,Mercedes E Class,"1,247",0.10%,2.30%,"1,219",0.10%,129,Oceania
+Australia,INDOPACOM,South Pacific,139,Hyundai Staria,"1,239",0.10%,new,0,0.00%, –,Oceania
+Australia,INDOPACOM,South Pacific,140,Peugeot 3008,"1,194",0.10%,35.50%,881,0.10%,142,Oceania
+Australia,INDOPACOM,South Pacific,141,VW Passat,"1,169",0.10%,105.40%,569,0.10%,167,Oceania
+Australia,INDOPACOM,South Pacific,142,Range Rover Evoque,"1,143",0.10%,-16.40%,"1,367",0.10%,119,Oceania
+Australia,INDOPACOM,South Pacific,143,Honda Odyssey,"1,143",0.10%,4.80%,"1,091",0.10%,133,Oceania
+Australia,INDOPACOM,South Pacific,144,Lexus IS,"1,143",0.10%,62.60%,703,0.10%,152,Oceania
+Australia,INDOPACOM,South Pacific,145,Mini Countryman,"1,115",0.10%,20.40%,926,0.10%,139,Oceania
+Australia,INDOPACOM,South Pacific,146,Mercedes GLS,"1,110",0.10%,36.50%,813,0.10%,144,Oceania
+Australia,INDOPACOM,South Pacific,147,Mazda MX-30,"1,014",0.10%,new,0,0.00%, –,Oceania
+Australia,INDOPACOM,South Pacific,148,Mercedes Vito,996,0.10%,-33.20%,"1,492",0.20%,113,Oceania
+Australia,INDOPACOM,South Pacific,149,BMW X4,981,0.10%,-20.30%,"1,231",0.10%,128,Oceania
+Australia,INDOPACOM,South Pacific,150,VW Multivan,936,0.10%,233.10%,281,0.00%,197,Oceania
+Australia,INDOPACOM,South Pacific,151,Skoda Scala,896,0.10%,2790.30%,31,0.00%,283,Oceania
+Australia,INDOPACOM,South Pacific,152,VW Caddy,871,0.10%,-56.60%,"2,006",0.20%,99,Oceania
+Australia,INDOPACOM,South Pacific,153,Land Rover Discovery Sport,843,0.10%,-30.00%,"1,205",0.10%,130,Oceania
+Australia,INDOPACOM,South Pacific,154,Porsche Cayenne,837,0.10%,-39.60%,"1,385",0.20%,118,Oceania
+Australia,INDOPACOM,South Pacific,155,Audi A5,831,0.10%,13.50%,732,0.10%,149,Oceania
+Australia,INDOPACOM,South Pacific,156,Skoda Fabia,813,0.10%,1.00%,805,0.10%,145,Oceania
+Australia,INDOPACOM,South Pacific,157,Lexus ES,802,0.10%,36.90%,586,0.10%,164,Oceania
+Australia,INDOPACOM,South Pacific,158,BMW X7,791,0.10%,-8.70%,866,0.10%,143,Oceania
+Australia,INDOPACOM,South Pacific,159,Audi A4,781,0.10%,-0.30%,783,0.10%,147,Oceania
+Australia,INDOPACOM,South Pacific,160,Mazda MX-5,744,0.10%,62.80%,457,0.00%,178,Oceania
+Australia,INDOPACOM,South Pacific,161,Kia Niro,742,0.10%,new,0,0.00%, –,Oceania
+Australia,INDOPACOM,South Pacific,162,Fiat 500,739,0.10%,42.10%,520,0.10%,171,Oceania
+Australia,INDOPACOM,South Pacific,163,Ford Focus,735,0.10%,-60.90%,"1,878",0.20%,102,Oceania
+Australia,INDOPACOM,South Pacific,164,Renault Kangoo,732,0.10%,51.20%,484,0.10%,177,Oceania
+Australia,INDOPACOM,South Pacific,165,Ssangyong Rexton,715,0.10%,121.40%,323,0.00%,191,Oceania
+Australia,INDOPACOM,South Pacific,166,LDV V80,695,0.10%,40.10%,496,0.10%,175,Oceania
+Australia,INDOPACOM,South Pacific,167,Audi A1,680,0.10%,34.90%,504,0.10%,174,Oceania
+Australia,INDOPACOM,South Pacific,168,Peugeot 2008,633,0.10%,732.90%,76,0.00%,255,Oceania
+Australia,INDOPACOM,South Pacific,169,BMW 5 Series,605,0.10%,-15.70%,718,0.10%,150,Oceania
+Australia,INDOPACOM,South Pacific,170,Hyundai Sonata,603,0.10%,749.30%,71,0.00%,256,Oceania
+Australia,INDOPACOM,South Pacific,171,Skoda Superb,597,0.10%,120.30%,271,0.00%,200,Oceania
+Australia,INDOPACOM,South Pacific,172,Mercedes G Class,594,0.10%,120.00%,270,0.00%,201,Oceania
+Australia,INDOPACOM,South Pacific,173,BMW X6,581,0.10%,1.00%,575,0.10%,165,Oceania
+Australia,INDOPACOM,South Pacific,174,BMW X2,575,0.10%,-7.40%,621,0.10%,159,Oceania
+Australia,INDOPACOM,South Pacific,175,Range Rover Velar,569,0.10%,-11.80%,645,0.10%,156,Oceania
+Australia,INDOPACOM,South Pacific,176,Jaguar E-Pace,548,0.10%,-17.20%,662,0.10%,154,Oceania
+Australia,INDOPACOM,South Pacific,177,GWM Haval H9,543,0.10%,60.20%,339,0.00%,190,Oceania
+Australia,INDOPACOM,South Pacific,178,Land Rover Discovery,534,0.10%,-32.80%,795,0.10%,146,Oceania
+Australia,INDOPACOM,South Pacific,179,Renault Captur,533,0.10%,1515.20%,33,0.00%,281,Oceania
+Australia,INDOPACOM,South Pacific,180,Porsche Taycan,531,0.10%,new,0,0.00%, –,Oceania
+Australia,INDOPACOM,South Pacific,181,Hyundai Ioniq,484,0.00%,-8.00%,526,0.10%,169,Oceania
+Australia,INDOPACOM,South Pacific,182,BMW 2 Series Coupe/Conv,454,0.00%,-34.80%,696,0.10%,153,Oceania
+Australia,INDOPACOM,South Pacific,183,Honda Jazz,432,0.00%,-84.00%,"2,692",0.30%,84,Oceania
+Australia,INDOPACOM,South Pacific,184,Porsche 911,428,0.00%,-0.70%,431,0.00%,181,Oceania
+Australia,INDOPACOM,South Pacific,185,Jaguar F-Pace,401,0.00%,28.90%,311,0.00%,193,Oceania
+Australia,INDOPACOM,South Pacific,186,Mercedes B Class,388,0.00%,-24.40%,513,0.10%,173,Oceania
+Australia,INDOPACOM,South Pacific,187,Jeep Cherokee,382,0.00%,9.10%,350,0.00%,186,Oceania
+Australia,INDOPACOM,South Pacific,188,Suzuki S-Cross,367,0.00%,-29.80%,523,0.10%,170,Oceania
+Australia,INDOPACOM,South Pacific,189,Nissan Leaf,367,0.00%,-14.10%,427,0.00%,182,Oceania
+Australia,INDOPACOM,South Pacific,190,Mercedes EQA,367,0.00%,new,0,0.00%, –,Oceania
+Australia,INDOPACOM,South Pacific,191,Maserati Levante,362,0.00%,16.00%,312,0.00%,192,Oceania
+Australia,INDOPACOM,South Pacific,192,Mini Clubman,361,0.00%,4.00%,347,0.00%,187,Oceania
+Australia,INDOPACOM,South Pacific,193,Hyundai iMax,353,0.00%,-44.70%,638,0.10%,158,Oceania
+Australia,INDOPACOM,South Pacific,194,Ssangyong Korando,353,0.00%,40.10%,252,0.00%,203,Oceania
+Australia,INDOPACOM,South Pacific,195,Audi Q8,349,0.00%,1.70%,343,0.00%,188,Oceania
+Australia,INDOPACOM,South Pacific,196,Ford Fiesta,342,0.00%,44.90%,236,0.00%,205,Oceania
+Australia,INDOPACOM,South Pacific,197,Mercedes V-Class,330,0.00%,-26.00%,446,0.00%,179,Oceania
+Australia,INDOPACOM,South Pacific,198,Alfa Romeo Giulia,323,0.00%,75.50%,184,0.00%,222,Oceania
+Australia,INDOPACOM,South Pacific,199,Genesis GV70,317,0.00%,new,0,0.00%, –,Oceania
+Australia,INDOPACOM,South Pacific,200,Lexus LX,300,0.00%,-12.50%,343,0.00%,189,Oceania
+Australia,INDOPACOM,South Pacific,201,Renault Arkana,299,0.00%,new,0,0.00%, –,Oceania
+Australia,INDOPACOM,South Pacific,202,Mercedes EQC,298,0.00%,53.60%,194,0.00%,217,Oceania
+Australia,INDOPACOM,South Pacific,203,Genesis GV80,287,0.00%,451.90%,52,0.00%,269,Oceania
+Australia,INDOPACOM,South Pacific,204,Peugeot Expert,276,0.00%,-6.10%,294,0.00%,196,Oceania
+Australia,INDOPACOM,South Pacific,205,Subaru Liberty,267,0.00%,-71.10%,925,0.10%,140,Oceania
+Australia,INDOPACOM,South Pacific,206,Mercedes S Class,263,0.00%,48.60%,177,0.00%,223,Oceania
+Australia,INDOPACOM,South Pacific,207,Nissan 370Z,260,0.00%,109.70%,124,0.00%,232,Oceania
+Australia,INDOPACOM,South Pacific,208,Peugeot Partner,259,0.00%,36.30%,190,0.00%,219,Oceania
+Australia,INDOPACOM,South Pacific,209,Hyundai i20,259,0.00%,new,0,0.00%, –,Oceania
+Australia,INDOPACOM,South Pacific,210,Audi A6,251,0.00%,16.70%,215,0.00%,211,Oceania
+Australia,INDOPACOM,South Pacific,211,Mini Cabrio,237,0.00%,8.20%,219,0.00%,207,Oceania
+Australia,INDOPACOM,South Pacific,212,Audi A3,223,0.00%,-92.40%,"2,926",0.30%,78,Oceania
+Australia,INDOPACOM,South Pacific,213,Toyota Prius V,210,0.00%,-22.80%,272,0.00%,199,Oceania
+Australia,INDOPACOM,South Pacific,214,Mercedes Valente,208,0.00%,21.60%,171,0.00%,224,Oceania
+Australia,INDOPACOM,South Pacific,215,Toyota 86,207,0.00%,-46.60%,387,0.00%,184,Oceania
+Australia,INDOPACOM,South Pacific,216,Ram 2500/3500 Laramie,206,0.00%,881.00%,21,0.00%,291,Oceania
+Australia,INDOPACOM,South Pacific,217,Peugeot 5008,196,0.00%,-19.00%,242,0.00%,204,Oceania
+Australia,INDOPACOM,South Pacific,218,Subaru BRZ,195,0.00%,-52.10%,407,0.00%,183,Oceania
+Australia,INDOPACOM,South Pacific,219,Toyota Granvia,194,0.00%,-29.70%,276,0.00%,198,Oceania
+Australia,INDOPACOM,South Pacific,220,Ferrari,194,0.00%,-5.40%,205,0.00%,213,Oceania
+Australia,INDOPACOM,South Pacific,221,Alfa Romeo Stelvio,192,0.00%,-55.80%,434,0.00%,180,Oceania
+Australia,INDOPACOM,South Pacific,222,Peugeot 508,183,0.00%,-10.30%,204,0.00%,214,Oceania
+Australia,INDOPACOM,South Pacific,223,Hyundai Ioniq 5,172,0.00%,new,0,0.00%, –,Oceania
+Australia,INDOPACOM,South Pacific,224,Chrysler 300,170,0.00%,-22.00%,218,0.00%,208,Oceania
+Australia,INDOPACOM,South Pacific,225,Volvo S60,168,0.00%,-45.60%,309,0.00%,194,Oceania
+Australia,INDOPACOM,South Pacific,226,Volvo V60,162,0.00%,-38.90%,265,0.00%,202,Oceania
+Australia,INDOPACOM,South Pacific,227,Range Rover  ,162,0.00%,-2.40%,166,0.00%,225,Oceania
+Australia,INDOPACOM,South Pacific,228,VW California,158,0.00%,n/a,n/a,n/a,n/a,Oceania
+Australia,INDOPACOM,South Pacific,229,Lexus RC,157,0.00%,-27.60%,217,0.00%,210,Oceania
+Australia,INDOPACOM,South Pacific,230,Toyota Supra,155,0.00%,-21.70%,198,0.00%,215,Oceania
+Australia,INDOPACOM,South Pacific,231,Porsche Cayman,147,0.00%,-10.40%,164,0.00%,227,Oceania
+Australia,INDOPACOM,South Pacific,232,Nissan Pathfinder,146,0.00%,-87.60%,"1,182",0.10%,131,Oceania
+Australia,INDOPACOM,South Pacific,233,Jaguar XE,144,0.00%,-26.50%,196,0.00%,216,Oceania
+Australia,INDOPACOM,South Pacific,234,Hyundai Veloster,142,0.00%,-77.80%,639,0.10%,157,Oceania
+Australia,INDOPACOM,South Pacific,235,Renault Megane,123,0.00%,-45.10%,224,0.00%,206,Oceania
+Australia,INDOPACOM,South Pacific,236,Maserati Ghibli,120,0.00%,18.80%,101,0.00%,243,Oceania
+Australia,INDOPACOM,South Pacific,237,Bentley Coupe/Conv,115,0.00%,26.40%,91,0.00%,247,Oceania
+Australia,INDOPACOM,South Pacific,238,Porsche Boxster,109,0.00%,32.90%,82,0.00%,253,Oceania
+Australia,INDOPACOM,South Pacific,239,Audi e-tron,108,0.00%,68.80%,64,0.00%,261,Oceania
+Australia,INDOPACOM,South Pacific,240,Mercedes AMG GT,104,0.00%,-1.00%,105,0.00%,239,Oceania
+Australia,INDOPACOM,South Pacific,241,Audi A7,100,0.00%,-11.50%,113,0.00%,235,Oceania
+Australia,INDOPACOM,South Pacific,242,VW Caravelle,94,0.00%,n/a,n/a,n/a,n/a,Oceania
+Australia,INDOPACOM,South Pacific,243,Honda Accord,90,0.00%,-45.50%,165,0.00%,226,Oceania
+Australia,INDOPACOM,South Pacific,244,McLaren,88,0.00%,39.70%,63,0.00%,262,Oceania
+Australia,INDOPACOM,South Pacific,245,Citroen C3,88,0.00%,87.20%,47,0.00%,273,Oceania
+Australia,INDOPACOM,South Pacific,246,BMW Z4,87,0.00%,-53.50%,187,0.00%,220,Oceania
+Australia,INDOPACOM,South Pacific,247,BMW 8 Series,86,0.00%,-58.50%,207,0.00%,212,Oceania
+Australia,INDOPACOM,South Pacific,248,Alfa Romeo Giulietta,84,0.00%,-22.90%,109,0.00%,238,Oceania
+Australia,INDOPACOM,South Pacific,249,BMW 7 Series,81,0.00%,-22.90%,105,0.00%,240,Oceania
+Australia,INDOPACOM,South Pacific,250,Aston Martin Coupe/Conv,78,0.00%,-2.50%,80,0.00%,254,Oceania
+Australia,INDOPACOM,South Pacific,251,Genesis G70,77,0.00%,-34.70%,118,0.00%,234,Oceania
+Australia,INDOPACOM,South Pacific,252,Lexus CT,77,0.00%,-31.30%,112,0.00%,236,Oceania
+Australia,INDOPACOM,South Pacific,253,Toyota Prius,77,0.00%,-18.90%,95,0.00%,245,Oceania
+Australia,INDOPACOM,South Pacific,254,Bentley Bentayga,77,0.00%,60.40%,48,0.00%,270,Oceania
+Australia,INDOPACOM,South Pacific,255,Nissan GT-R,72,0.00%,157.10%,28,0.00%,284,Oceania
+Australia,INDOPACOM,South Pacific,256,VW Arteon,71,0.00%,195.80%,24,0.00%,286,Oceania
+Australia,INDOPACOM,South Pacific,257,Lamborghini Coupe/Conv,69,0.00%,9.50%,63,0.00%,263,Oceania
+Australia,INDOPACOM,South Pacific,258,BMW i3,67,0.00%,17.50%,57,0.00%,268,Oceania
+Australia,INDOPACOM,South Pacific,259,BMW 6 Series,64,0.00%,-49.20%,126,0.00%,231,Oceania
+Australia,INDOPACOM,South Pacific,260,Lamborghini Urus,62,0.00%,29.20%,48,0.00%,271,Oceania
+Australia,INDOPACOM,South Pacific,261,Aston Martin DBX,62,0.00%,1966.70%,3,0.00%,307,Oceania
+Australia,INDOPACOM,South Pacific,262,Citroen C5 Aircross,58,0.00%,-34.80%,89,0.00%,248,Oceania
+Australia,INDOPACOM,South Pacific,263,Maserati Coupe/Conv,56,0.00%,21.70%,46,0.00%,275,Oceania
+Australia,INDOPACOM,South Pacific,264,Genesis G80,53,0.00%,-10.20%,59,0.00%,266,Oceania
+Australia,INDOPACOM,South Pacific,265,Lotus Exige,48,0.00%,33.30%,36,0.00%,279,Oceania
+Australia,INDOPACOM,South Pacific,266,Porsche Panamera,48,0.00%,108.70%,23,0.00%,288,Oceania
+Australia,INDOPACOM,South Pacific,267,Jaguar i-Pace,44,0.00%,-37.10%,70,0.00%,258,Oceania
+Australia,INDOPACOM,South Pacific,268,Jaguar F-Type,44,0.00%,4.80%,42,0.00%,277,Oceania
+Australia,INDOPACOM,South Pacific,269,Audi TT,42,0.00%,-27.60%,58,0.00%,267,Oceania
+Australia,INDOPACOM,South Pacific,270,Jaguar XF,40,0.00%,14.30%,35,0.00%,280,Oceania
+Australia,INDOPACOM,South Pacific,271,Mercedes X-Class,39,0.00%,-98.40%,"2,399",0.30%,88,Oceania
+Australia,INDOPACOM,South Pacific,272,Tesla Model X,35,0.00%,n/a,n/a,n/a,n/a,Oceania
+Australia,INDOPACOM,South Pacific,273,BMW iX,35,0.00%,new,0,0.00%, –,Oceania
+Australia,INDOPACOM,South Pacific,274,Lexus LS,34,0.00%,88.90%,18,0.00%,292,Oceania
+Australia,INDOPACOM,South Pacific,275,Audi R8,34,0.00%,100.00%,17,0.00%,295,Oceania
+Australia,INDOPACOM,South Pacific,276,Lexus LC,33,0.00%,-23.30%,43,0.00%,276,Oceania
+Australia,INDOPACOM,South Pacific,277,Mercedes CLS,30,0.00%,-79.90%,149,0.00%,229,Oceania
+Australia,INDOPACOM,South Pacific,278,Bentley Sedan,28,0.00%,55.60%,18,0.00%,293,Oceania
+Australia,INDOPACOM,South Pacific,279,Alpine A110,28,0.00%,300.00%,7,0.00%,305,Oceania
+Australia,INDOPACOM,South Pacific,280,Audi A8,26,0.00%,100.00%,13,0.00%,297,Oceania
+Australia,INDOPACOM,South Pacific,281,Citroen C4,26,0.00%,new,0,0.00%, –,Oceania
+Australia,INDOPACOM,South Pacific,282,Hyundai Nexo,26,0.00%,new,0,0.00%, –,Oceania
+Australia,INDOPACOM,South Pacific,283,Ford Endura,23,0.00%,-98.20%,"1,311",0.10%,121,Oceania
+Australia,INDOPACOM,South Pacific,284,Lotus Elise,23,0.00%,0.00%,23,0.00%,289,Oceania
+Australia,INDOPACOM,South Pacific,285,Maserati Quattroporte,23,0.00%,187.50%,8,0.00%,302,Oceania
+Australia,INDOPACOM,South Pacific,286,Rolls-Royce Cullinan,20,0.00%,33.30%,15,0.00%,296,Oceania
+Australia,INDOPACOM,South Pacific,287,Peugeot 308,19,0.00%,-91.30%,218,0.00%,209,Oceania
+Australia,INDOPACOM,South Pacific,288,Alfa Romeo 4C,19,0.00%,137.50%,8,0.00%,303,Oceania
+Australia,INDOPACOM,South Pacific,289,Rolls-Royce Coupe/Conv,16,0.00%,-11.10%,18,0.00%,294,Oceania
+Australia,INDOPACOM,South Pacific,290,Tesla Model S,15,0.00%,n/a,n/a,n/a,n/a,Oceania
+Australia,INDOPACOM,South Pacific,291,Rolls-Royce Sedan,12,0.00%,33.30%,9,0.00%,301,Oceania
+Australia,INDOPACOM,South Pacific,292,Toyota Mirai,12,0.00%,new,0,0.00%, –,Oceania
+Australia,INDOPACOM,South Pacific,293,Hyundai Elantra,9,0.00%,-99.40%,"1,520",0.20%,112,Oceania
+Australia,INDOPACOM,South Pacific,294,Subaru Levorg,8,0.00%,-97.40%,306,0.00%,195,Oceania
+Australia,INDOPACOM,South Pacific,295,Toyota Tarago,6,0.00%,-95.20%,124,0.00%,233,Oceania
+Australia,INDOPACOM,South Pacific,296,Ford Mondeo,4,0.00%,-97.10%,139,0.00%,230,Oceania
+Australia,INDOPACOM,South Pacific,297,Mercedes G Wagon/CC,4,0.00%,-95.30%,86,0.00%,251,Oceania
+Australia,INDOPACOM,South Pacific,298,Honda City,3,0.00%,-98.50%,194,0.00%,218,Oceania
+Australia,INDOPACOM,South Pacific,299,Citroen C3 Aircross,3,0.00%,-95.40%,65,0.00%,260,Oceania
+Australia,INDOPACOM,South Pacific,300,Fiat Doblo,3,0.00%,-90.60%,32,0.00%,282,Oceania
+Australia,INDOPACOM,South Pacific,301,Morgan Aero,3,0.00%,0.00%,3,0.00%,308,Oceania
+Australia,INDOPACOM,South Pacific,302,Toyota Prius C,1,0.00%,-98.80%,83,0.00%,252,Oceania
+Australia,INDOPACOM,South Pacific,303,Ford Ecosport,1,0.00%,-97.90%,47,0.00%,274,Oceania
+Australia,INDOPACOM,South Pacific,304,Jaguar XJ,1,0.00%,-90.00%,10,0.00%,300,Oceania
+Australia,INDOPACOM,South Pacific,305,Toyota FJ Cruiser,1,0.00%,n/a,0,0.00%, –,Oceania
+Australia,INDOPACOM,South Pacific,306,Holden Colorado,0,0.00%,-100.00%,"7,559",0.80%,35,Oceania
+Australia,INDOPACOM,South Pacific,307,Holden Trax,0,0.00%,-100.00%,"2,314",0.30%,93,Oceania
+Australia,INDOPACOM,South Pacific,308,Holden Equinox,0,0.00%,-100.00%,"1,719",0.20%,107,Oceania
+Australia,INDOPACOM,South Pacific,309,Holden Trailblazer,0,0.00%,-100.00%,"1,426",0.20%,114,Oceania
+Australia,INDOPACOM,South Pacific,310,Holden Acadia,0,0.00%,-100.00%,"1,407",0.20%,115,Oceania
+Australia,INDOPACOM,South Pacific,311,Holden Astra,0,0.00%,-100.00%,"1,254",0.10%,125,Oceania
+Australia,INDOPACOM,South Pacific,312,Holden Commodore,0,0.00%,-100.00%,"1,009",0.10%,135,Oceania
+Australia,INDOPACOM,South Pacific,313,Renault Kadjar,0,0.00%,-100.00%,485,0.10%,176,Oceania
+Australia,INDOPACOM,South Pacific,314,Kia Optima,0,0.00%,-100.00%,154,0.00%,228,Oceania
+Australia,INDOPACOM,South Pacific,315,Skoda Rapid,0,0.00%,-100.00%,102,0.00%,242,Oceania
+Australia,INDOPACOM,South Pacific,316,Volvo V90,0,0.00%,-100.00%,97,0.00%,244,Oceania
+Australia,INDOPACOM,South Pacific,317,Infiniti Q50,0,0.00%,-100.00%,94,0.00%,246,Oceania
+Australia,INDOPACOM,South Pacific,318,Infiniti Q30/QX30,0,0.00%,-100.00%,88,0.00%,249,Oceania
+Australia,INDOPACOM,South Pacific,319,Renault Zoe,0,0.00%,-100.00%,88,0.00%,250,Oceania
+Australia,INDOPACOM,South Pacific,320,Fiat 500X,0,0.00%,-100.00%,71,0.00%,257,Oceania
+Australia,INDOPACOM,South Pacific,321,Ssangyong Tivoli,0,0.00%,-100.00%,67,0.00%,259,Oceania
+Australia,INDOPACOM,South Pacific,322,Hyundai Accent,0,0.00%,-100.00%,61,0.00%,264,Oceania
+Australia,INDOPACOM,South Pacific,323,Abarth 124 Spider,0,0.00%,-100.00%,60,0.00%,265,Oceania
+Australia,INDOPACOM,South Pacific,324,Mercedes SLC,0,0.00%,-100.00%,48,0.00%,272,Oceania
+Australia,INDOPACOM,South Pacific,325,Ssangyong Tivoli XLV,0,0.00%,-100.00%,25,0.00%,285,Oceania
+Australia,INDOPACOM,South Pacific,326,Lexus GS,0,0.00%,-100.00%,24,0.00%,287,Oceania
+Australia,INDOPACOM,South Pacific,327,Renault Clio,0,0.00%,-100.00%,23,0.00%,290,Oceania
+Australia,INDOPACOM,South Pacific,328,BMW i8,0,0.00%,-100.00%,13,0.00%,298,Oceania
+Australia,INDOPACOM,South Pacific,329,Infiniti Q60,0,0.00%,-100.00%,13,0.00%,299,Oceania
+Australia,INDOPACOM,South Pacific,330,BMW 2 Series Active Tourer,0,0.00%,-100.00%,8,0.00%,304,Oceania
+Australia,INDOPACOM,South Pacific,331,Mercedes SL Class,0,0.00%,-100.00%,5,0.00%,306,Oceania
+Australia,INDOPACOM,South Pacific,332,Morgan Classics,0,0.00%,-100.00%,3,0.00%,309,Oceania
+Australia,INDOPACOM,South Pacific,333,Citroen C4 Cactus,0,0.00%,-100.00%,2,0.00%,310,Oceania
+Australia,INDOPACOM,South Pacific,334,Infiniti QX70,0,0.00%,-100.00%,2,0.00%,311,Oceania
+Australia,INDOPACOM,South Pacific,335,Jeep Renegade,0,0.00%,-100.00%,2,0.00%,312,Oceania
+Australia,INDOPACOM,South Pacific,336,Ram 1500 Limited,0,0.00%,-100.00%,2,0.00%,313,Oceania
+Australia,INDOPACOM,South Pacific,337,MG GS,0,0.00%,-100.00%,1,0.00%,314,Oceania

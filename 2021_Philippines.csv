@@ -1,0 +1,98 @@
+﻿Country,Command,Region,Position_2021,Model,Sales_2021,Percent_2021,Growth_2021,Sales_2020,Percent_2020,Position_2020,Continent
+Philippines,INDOPACOM,Southeast Asia,1,Toyota Vios,"35,095",11.90%,38.80%,"25,290",10.20%,1,Asia
+Philippines,INDOPACOM,Southeast Asia,2,Toyota Hilux,"18,969",6.40%,39.10%,"13,637",5.50%,2,Asia
+Philippines,INDOPACOM,Southeast Asia,3,Toyota Wigo,"17,491",5.90%,47.60%,"11,853",4.80%,3,Asia
+Philippines,INDOPACOM,Southeast Asia,4,Toyota Innova,"13,304",4.50%,26.10%,"10,551",4.30%,4,Asia
+Philippines,INDOPACOM,Southeast Asia,5,Toyota Fortuner,"12,982",4.40%,52.80%,"8,494",3.40%,11,Asia
+Philippines,INDOPACOM,Southeast Asia,6,Toyota Rush,"12,564",4.30%,23.20%,"10,194",4.10%,7,Asia
+Philippines,INDOPACOM,Southeast Asia,7,Mitsubishi Xpander,"11,342",3.90%,8.60%,"10,443",4.20%,5,Asia
+Philippines,INDOPACOM,Southeast Asia,8,Toyota Hiace,"10,273",3.50%,-0.90%,"10,362",4.20%,6,Asia
+Philippines,INDOPACOM,Southeast Asia,9,Mitsubishi L300,"10,147",3.40%,49.40%,"6,791",2.70%,12,Asia
+Philippines,INDOPACOM,Southeast Asia,10,Nissan Navara,"9,882",3.40%,7.80%,"9,164",3.70%,9,Asia
+Philippines,INDOPACOM,Southeast Asia,11,Ford Ranger,"9,184",3.10%,-6.00%,"9,767",3.90%,8,Asia
+Philippines,INDOPACOM,Southeast Asia,12,Ford Territory,"6,881",2.30%,257.50%,"1,925",0.80%,30,Asia
+Philippines,INDOPACOM,Southeast Asia,13,Mitsubishi Mirage G4,"5,962",2.00%,-31.00%,"8,638",3.50%,10,Asia
+Philippines,INDOPACOM,Southeast Asia,14,Mitsubishi Strada (L200),"5,272",1.80%,6.30%,"4,958",2.00%,17,Asia
+Philippines,INDOPACOM,Southeast Asia,15,Isuzu Traviz,"4,728",1.60%,n/a,n/a,n/a,n/a,Asia
+Philippines,INDOPACOM,Southeast Asia,16,Toyota Avanza,"4,411",1.50%,-20.20%,"5,531",2.20%,14,Asia
+Philippines,INDOPACOM,Southeast Asia,17,Mitsubishi Montero Sport,"4,195",1.40%,-27.40%,"5,775",2.30%,13,Asia
+Philippines,INDOPACOM,Southeast Asia,18,Isuzu D-Max,"4,183",1.40%,25.00%,"3,346",1.30%,21,Asia
+Philippines,INDOPACOM,Southeast Asia,19,MG ZS,"4,158",1.40%,117.00%,"1,916",0.80%,31,Asia
+Philippines,INDOPACOM,Southeast Asia,20,Nissan Terra,"3,970",1.30%,1.80%,"3,898",1.60%,19,Asia
+Philippines,INDOPACOM,Southeast Asia,21,Honda City Sedan,"3,957",1.30%,27.90%,"3,094",1.20%,24,Asia
+Philippines,INDOPACOM,Southeast Asia,22,Suzuki Carry,"3,804",1.30%,78.20%,"2,135",0.90%,27,Asia
+Philippines,INDOPACOM,Southeast Asia,23,Suzuki Dzire,"3,474",1.20%,98.90%,"1,747",0.70%,32,Asia
+Philippines,INDOPACOM,Southeast Asia,24,Suzuki S-Presso,"3,429",1.20%,77.70%,"1,930",0.80%,29,Asia
+Philippines,INDOPACOM,Southeast Asia,25,Geely Coolray,"3,221",1.10%,49.30%,"2,158",0.90%,26,Asia
+Philippines,INDOPACOM,Southeast Asia,26,Honda Brio,"3,220",1.10%,-1.20%,"3,260",1.30%,22,Asia
+Philippines,INDOPACOM,Southeast Asia,27,Nissan Urvan,"3,175",1.10%,-38.20%,"5,138",2.10%,16,Asia
+Philippines,INDOPACOM,Southeast Asia,28,Suzuki Ertiga,"3,054",1.00%,-18.60%,"3,750",1.50%,20,Asia
+Philippines,INDOPACOM,Southeast Asia,29,Isuzu Category III,"2,745",0.90%,n/a,n/a,n/a,n/a,Asia
+Philippines,INDOPACOM,Southeast Asia,30,Geely Okavango,"2,562",0.90%,new,0,0.00%, –,Asia
+Philippines,INDOPACOM,Southeast Asia,31,Suzuki Jimny,"2,477",0.80%,new,0,0.00%, –,Asia
+Philippines,INDOPACOM,Southeast Asia,32,Nissan Almera,"2,237",0.80%,-30.90%,"3,238",1.30%,23,Asia
+Philippines,INDOPACOM,Southeast Asia,33,MG 5,"2,013",0.70%,85.00%,"1,088",0.40%,41,Asia
+Philippines,INDOPACOM,Southeast Asia,34,Honda BR-V,"1,989",0.70%,-2.50%,"2,041",0.80%,28,Asia
+Philippines,INDOPACOM,Southeast Asia,35,Ford Everest,"1,772",0.60%,16.40%,"1,522",0.60%,35,Asia
+Philippines,INDOPACOM,Southeast Asia,36,Toyota Corolla Cross,"1,539",0.50%,157.40%,598,0.20%,46,Asia
+Philippines,INDOPACOM,Southeast Asia,37,Ford Ecosport,"1,500",0.50%,77.30%,846,0.30%,44,Asia
+Philippines,INDOPACOM,Southeast Asia,38,Kia Stonic,"1,400",0.50%,n/a,n/a,n/a, –,Asia
+Philippines,INDOPACOM,Southeast Asia,39,Isuzu Category IV,"1,397",0.50%,n/a,n/a,n/a,n/a,Asia
+Philippines,INDOPACOM,Southeast Asia,40,Honda Civic,"1,384",0.50%,13.30%,"1,222",0.50%,37,Asia
+Philippines,INDOPACOM,Southeast Asia,41,Suzuki XL7,"1,225",0.40%,35.70%,903,0.40%,43,Asia
+Philippines,INDOPACOM,Southeast Asia,42,Isuzu MU-X,"1,083",0.40%,-35.60%,"1,681",0.70%,34,Asia
+Philippines,INDOPACOM,Southeast Asia,43,Honda CR-V,"1,058",0.40%,13.60%,931,0.40%,42,Asia
+Philippines,INDOPACOM,Southeast Asia,44,Kia Soluto,787,0.30%,n/a,n/a,n/a,n/a,Asia
+Philippines,INDOPACOM,Southeast Asia,45,Toyota Corolla Altis,706,0.20%,-37.00%,"1,121",0.50%,39,Asia
+Philippines,INDOPACOM,Southeast Asia,46,Suzuki Swift,670,0.20%,-45.40%,"1,228",0.50%,36,Asia
+Philippines,INDOPACOM,Southeast Asia,47,Kia K2500,662,0.20%,n/a,n/a,n/a,n/a,Asia
+Philippines,INDOPACOM,Southeast Asia,48,Mitsubishi Mirage Hatch,615,0.20%,10.80%,555,0.20%,48,Asia
+Philippines,INDOPACOM,Southeast Asia,49,Toyota Land Cruiser,613,0.20%,5.30%,582,0.20%,47,Asia
+Philippines,INDOPACOM,Southeast Asia,50,Suzuki APV,583,0.20%,-27.80%,807,0.30%,45,Asia
+Philippines,INDOPACOM,Southeast Asia,51,Suzuki Celerio,445,0.20%,-59.50%,"1,099",0.40%,40,Asia
+Philippines,INDOPACOM,Southeast Asia,52,Honda HR-V,417,0.10%,-7.70%,452,0.20%,51,Asia
+Philippines,INDOPACOM,Southeast Asia,53,Honda City Hatchback,392,0.10%,new,0,0.00%, –,Asia
+Philippines,INDOPACOM,Southeast Asia,54,Toyota Alphard,389,0.10%,5.10%,370,0.10%,54,Asia
+Philippines,INDOPACOM,Southeast Asia,55,Geely Azkarra,321,0.10%,new,0,0.00%, –,Asia
+Philippines,INDOPACOM,Southeast Asia,56,Isuzu Category V,285,0.10%,n/a,n/a,n/a,n/a,Asia
+Philippines,INDOPACOM,Southeast Asia,57,Toyota FJ Cruiser,280,0.10%,34.60%,208,0.10%,56,Asia
+Philippines,INDOPACOM,Southeast Asia,58,Ford Transit,280,0.10%,164.20%,106,0.00%,68,Asia
+Philippines,INDOPACOM,Southeast Asia,59,Kia Carnival,251,0.10%,n/a,n/a,n/a,n/a,Asia
+Philippines,INDOPACOM,Southeast Asia,60,Kia Seltos,232,0.10%,n/a,n/a,n/a,n/a,Asia
+Philippines,INDOPACOM,Southeast Asia,61,Ford Mustang,180,0.10%,13.20%,159,0.10%,64,Asia
+Philippines,INDOPACOM,Southeast Asia,62,Kia Sportage,158,0.10%,n/a,n/a,n/a, –,Asia
+Philippines,INDOPACOM,Southeast Asia,63,Suzuki Vitara,140,0.00%,-68.30%,441,0.20%,52,Asia
+Philippines,INDOPACOM,Southeast Asia,64,Toyota GR Yaris,138,0.00%,new,0,0.00%, –,Asia
+Philippines,INDOPACOM,Southeast Asia,65,Nissan Sylphy,136,0.00%,142.90%,56,0.00%,71,Asia
+Philippines,INDOPACOM,Southeast Asia,66,Honda Jazz,130,0.00%,-65.30%,375,0.20%,53,Asia
+Philippines,INDOPACOM,Southeast Asia,67,Toyota Camry,120,0.00%,-47.80%,230,0.10%,55,Asia
+Philippines,INDOPACOM,Southeast Asia,68,Kia Picanto,118,0.00%,n/a,n/a,n/a,n/a,Asia
+Philippines,INDOPACOM,Southeast Asia,69,Ford F-150,109,0.00%,-40.40%,183,0.10%,60,Asia
+Philippines,INDOPACOM,Southeast Asia,70,Toyota RAV4,102,0.00%,-42.00%,176,0.10%,61,Asia
+Philippines,INDOPACOM,Southeast Asia,71,Kia Sorento,96,0.00%,n/a,n/a,n/a,n/a,Asia
+Philippines,INDOPACOM,Southeast Asia,72,Nissan 370Z,70,0.00%,169.20%,26,0.00%,81,Asia
+Philippines,INDOPACOM,Southeast Asia,73,Suzuki Ciaz,61,0.00%,-64.50%,172,0.10%,62,Asia
+Philippines,INDOPACOM,Southeast Asia,74,Honda Mobilio,58,0.00%,-65.70%,169,0.10%,63,Asia
+Philippines,INDOPACOM,Southeast Asia,75,Nissan Patrol,57,0.00%,-51.70%,118,0.00%,67,Asia
+Philippines,INDOPACOM,Southeast Asia,76,Nissan X-Trail,57,0.00%,5.60%,54,0.00%,73,Asia
+Philippines,INDOPACOM,Southeast Asia,77,Ford Expedition,55,0.00%,-53.80%,119,0.00%,66,Asia
+Philippines,INDOPACOM,Southeast Asia,78,Honda Odyssey,48,0.00%,-35.10%,74,0.00%,69,Asia
+Philippines,INDOPACOM,Southeast Asia,79,Ford Explorer,47,0.00%,-68.20%,148,0.10%,65,Asia
+Philippines,INDOPACOM,Southeast Asia,80,Toyota Supra,47,0.00%,46.90%,32,0.00%,77,Asia
+Philippines,INDOPACOM,Southeast Asia,81,Toyota Coaster,38,0.00%,-43.30%,67,0.00%,70,Asia
+Philippines,INDOPACOM,Southeast Asia,82,Suzuki Super Carry,31,0.00%,-84.70%,203,0.10%,57,Asia
+Philippines,INDOPACOM,Southeast Asia,83,Kia Rio,29,0.00%,n/a,n/a,n/a,n/a,Asia
+Philippines,INDOPACOM,Southeast Asia,84,Honda Accord,27,0.00%,-28.90%,38,0.00%,76,Asia
+Philippines,INDOPACOM,Southeast Asia,85,Toyota Yaris,24,0.00%,-22.60%,31,0.00%,78,Asia
+Philippines,INDOPACOM,Southeast Asia,86,Nissan Leaf,15,0.00%,650.00%,2,0.00%,84,Asia
+Philippines,INDOPACOM,Southeast Asia,87,Toyota 86,14,0.00%,-53.30%,30,0.00%,79,Asia
+Philippines,INDOPACOM,Southeast Asia,88,Mitsubishi Outlander PHEV,9,0.00%,50.00%,6,0.00%,83,Asia
+Philippines,INDOPACOM,Southeast Asia,89,Kia Soul,8,0.00%,n/a,n/a,n/a,n/a,Asia
+Philippines,INDOPACOM,Southeast Asia,90,Mitsubishi Pajero,6,0.00%,-97.00%,200,0.10%,58,Asia
+Philippines,INDOPACOM,Southeast Asia,91,Nissan GT-R,4,0.00%,-55.60%,9,0.00%,82,Asia
+Philippines,INDOPACOM,Southeast Asia,92,Kia Stinger,4,0.00%,n/a,n/a,n/a, –,Asia
+Philippines,INDOPACOM,Southeast Asia,93,Isuzu AUV,3,0.00%,n/a,n/a,n/a,n/a,Asia
+Philippines,INDOPACOM,Southeast Asia,94,Kia Forte,3,0.00%,n/a,n/a,n/a,n/a,Asia
+Philippines,INDOPACOM,Southeast Asia,95,Honda Brio Amaze,0,0.00%,-100.00%,55,0.00%,72,Asia
+Philippines,INDOPACOM,Southeast Asia,96,Nissan Juke,0,0.00%,-100.00%,47,0.00%,74,Asia
+Philippines,INDOPACOM,Southeast Asia,97,Nissan Altima,0,0.00%,-100.00%,1,0.00%,85,Asia

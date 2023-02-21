@@ -1,0 +1,52 @@
+﻿Country,Command,Region,Position_2021,Model,Sales_2021,Percent_2021,Growth_2021,Sales_2020,Percent_2020,Position_2020,Continent
+Hungary,EUCOM,Central Europe,1,Suzuki Vitara,"8,350",6.80%,21.30%,"6,882",5.40%,1,Europe
+Hungary,EUCOM,Central Europe,2,Suzuki SX4 S-Cross,"6,261",5.10%,12.20%,"5,578",4.40%,2,Europe
+Hungary,EUCOM,Central Europe,3,Fiat 500,"4,728",3.90%,7.00%,"4,420",3.50%,4,Europe
+Hungary,EUCOM,Central Europe,4,Dacia Duster,"4,501",3.70%,18.30%,"3,806",3.00%,7,Europe
+Hungary,EUCOM,Central Europe,5,Kia Ceed,"3,923",3.20%,56.60%,"2,505",2.00%,12,Europe
+Hungary,EUCOM,Central Europe,6,Ford Transit,"3,907",3.20%,-6.20%,"4,164",3.30%,5,Europe
+Hungary,EUCOM,Central Europe,7,Skoda Octavia,"3,793",3.10%,-23.00%,"4,929",3.80%,3,Europe
+Hungary,EUCOM,Central Europe,8,Toyota Corolla,"3,437",2.80%,-9.30%,"3,789",3.00%,8,Europe
+Hungary,EUCOM,Central Europe,9,Ford Tourneo Custom,"3,340",2.70%,-8.80%,"3,662",2.90%,9,Europe
+Hungary,EUCOM,Central Europe,10,Kia Sportage,"2,360",1.90%,76.60%,"1,336",1.00%,25,Europe
+Hungary,EUCOM,Central Europe,11,Suzuki Swift,"2,314",1.90%,65.20%,"1,401",1.10%,23,Europe
+Hungary,EUCOM,Central Europe,12,Jeep Renegade,"2,264",1.90%,16.00%,"1,952",1.50%,14,Europe
+Hungary,EUCOM,Central Europe,13,Ford Puma,"1,989",1.60%,-5.30%,"2,101",1.60%,13,Europe
+Hungary,EUCOM,Central Europe,14,Toyota Yaris,"1,959",1.60%,-36.40%,"3,081",2.40%,10,Europe
+Hungary,EUCOM,Central Europe,15,Hyundai Tucson,"1,866",1.50%,39.90%,"1,334",1.00%,26,Europe
+Hungary,EUCOM,Central Europe,16,Toyota RAV4,"1,851",1.50%,-1.00%,"1,870",1.50%,16,Europe
+Hungary,EUCOM,Central Europe,17,Nissan Qashqai,"1,539",1.30%,38.80%,"1,109",0.90%,28,Europe
+Hungary,EUCOM,Central Europe,18,Toyota C-HR,"1,485",1.20%,5.50%,"1,407",1.10%,21,Europe
+Hungary,EUCOM,Central Europe,19,Dacia Lodgy,"1,457",1.20%,-62.80%,"3,915",3.10%,6,Europe
+Hungary,EUCOM,Central Europe,20,Ford Focus,"1,424",1.20%,-23.90%,"1,871",1.50%,15,Europe
+Hungary,EUCOM,Central Europe,21,Hyundai i30,"1,210",1.00%,19.40%,"1,013",0.80%,34,Europe
+Hungary,EUCOM,Central Europe,22,Opel Crossland X,"1,140",0.90%,24.90%,913,0.70%,37,Europe
+Hungary,EUCOM,Central Europe,23,Toyota Proace City Verso,"1,112",0.90%,34.80%,825,0.60%,41,Europe
+Hungary,EUCOM,Central Europe,24,VW Passat,"1,054",0.90%,-21.10%,"1,336",1.00%,24,Europe
+Hungary,EUCOM,Central Europe,25,Dacia Sandero,"1,041",0.90%,-25.80%,"1,403",1.10%,22,Europe
+Hungary,EUCOM,Central Europe,26,VW T-Roc,"1,011",0.80%,8.00%,936,0.70%,35,Europe
+Hungary,EUCOM,Central Europe,27,Skoda Kodiaq,"1,006",0.80%,-32.80%,"1,496",1.20%,18,Europe
+Hungary,EUCOM,Central Europe,28,Hyundai Kona,956,0.80%,-9.00%,"1,050",0.80%,33,Europe
+Hungary,EUCOM,Central Europe,29,VW T-Cross,941,0.80%,60.30%,587,0.50%,56,Europe
+Hungary,EUCOM,Central Europe,30,Opel Corsa,910,0.70%,-36.80%,"1,440",1.10%,20,Europe
+Hungary,EUCOM,Central Europe,31,Skoda Scala,898,0.70%,-18.30%,"1,099",0.90%,31,Europe
+Hungary,EUCOM,Central Europe,32,VW Golf,890,0.70%,-48.30%,"1,722",1.30%,17,Europe
+Hungary,EUCOM,Central Europe,33,Kia Niro,854,0.70%,46.00%,585,0.50%,57,Europe
+Hungary,EUCOM,Central Europe,34,Skoda Superb,832,0.70%,-27.10%,"1,142",0.90%,27,Europe
+Hungary,EUCOM,Central Europe,35,Volvo XC40,827,0.70%,20.90%,684,0.50%,44,Europe
+Hungary,EUCOM,Central Europe,36,Opel Astra K,825,0.70%,-25.10%,"1,102",0.90%,30,Europe
+Hungary,EUCOM,Central Europe,37,Toyota Aygo,824,0.70%,38.50%,595,0.50%,n/a,Europe
+Hungary,EUCOM,Central Europe,38,Ssangyong Korando,769,0.60%,25.40%,613,0.50%,51,Europe
+Hungary,EUCOM,Central Europe,39,Volvo XC60,753,0.60%,19.00%,633,0.50%,48,Europe
+Hungary,EUCOM,Central Europe,40,Ford Ecosport,751,0.60%,43.60%,523,0.40%,63,Europe
+Hungary,EUCOM,Central Europe,41,Renault Clio,719,0.60%,-73.20%,"2,678",2.10%,11,Europe
+Hungary,EUCOM,Central Europe,42,Hyundai i20,630,0.50%,14.10%,552,0.40%,60,Europe
+Hungary,EUCOM,Central Europe,43,Seat Leon,606,0.50%,-0.20%,607,0.50%,52,Europe
+Hungary,EUCOM,Central Europe,44,Fiat 500L,590,0.50%,226.00%,181,0.10%,135,Europe
+Hungary,EUCOM,Central Europe,45,Peugeot 3008,585,0.50%,58.50%,369,0.30%,81,Europe
+Hungary,EUCOM,Central Europe,46,VW Tiguan,583,0.50%,-31.20%,847,0.70%,40,Europe
+Hungary,EUCOM,Central Europe,47,Kia Xceed,577,0.50%,13.80%,507,0.40%,65,Europe
+Hungary,EUCOM,Central Europe,48,Ford Transit Custom,566,0.50%,13.00%,501,0.40%,66,Europe
+Hungary,EUCOM,Central Europe,49,Mercedes GLE,561,0.50%,-14.70%,658,0.50%,46,Europe
+Hungary,EUCOM,Central Europe,50,BMW 3 Series,561,0.50%,3.30%,543,0.40%,61,Europe
+Hungary,EUCOM,Central Europe,51,VW Touran,551,0.50%,-49.30%,"1,086",0.80%,32,Europe

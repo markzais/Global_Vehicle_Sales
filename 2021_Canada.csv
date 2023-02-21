@@ -1,0 +1,311 @@
+﻿Country,Command,Region,Position_2021,Model,Sales_2021,Percent_2021,Growth_2021,Sales_2020,Percent_2020,Position_2020,Continent
+Canada,NORTHCOM,North America,1,Ford F-Series,"116,401",7.00%,-9.50%,"128,649",7.74%,1,North America
+Canada,NORTHCOM,North America,2,Ram Pick-up,"73,467",4.42%,-12.20%,"83,672",5.04%,2,North America
+Canada,NORTHCOM,North America,3,Toyota RAV4,"61,933",3.73%,-8.90%,"67,977",4.09%,3,North America
+Canada,NORTHCOM,North America,4,GMC Sierra,"53,758",3.24%,4.40%,"51,492",3.10%,5,North America
+Canada,NORTHCOM,North America,5,Chevrolet Silverado,"51,685",3.11%,-2.10%,"52,767",3.18%,4,North America
+Canada,NORTHCOM,North America,6,Honda CR-V,"50,935",3.07%,1.60%,"50,135",3.02%,7,North America
+Canada,NORTHCOM,North America,7,Honda Civic,"43,556",2.62%,-14.30%,"50,805",3.06%,6,North America
+Canada,NORTHCOM,North America,8,Toyota Corolla,"40,020",2.41%,7.70%,"37,156",2.24%,8,North America
+Canada,NORTHCOM,North America,9,Hyundai Kona,"31,101",1.87%,-2.00%,"31,733",1.91%,9,North America
+Canada,NORTHCOM,North America,10,Nissan Rogue,"29,927",1.80%,15.10%,"25,998",1.56%,12,North America
+Canada,NORTHCOM,North America,11,Ford Escape,"27,059",1.63%,13.90%,"23,747",1.43%,14,North America
+Canada,NORTHCOM,North America,12,Mazda CX-5,"26,571",1.60%,-13.10%,"30,583",1.84%,10,North America
+Canada,NORTHCOM,North America,13,Hyundai Elantra,"26,312",1.58%,5.20%,"25,006",1.50%,13,North America
+Canada,NORTHCOM,North America,14,Hyundai Tucson,"25,487",1.53%,-10.40%,"28,444",1.71%,11,North America
+Canada,NORTHCOM,North America,15,Subaru Crosstrek,"23,342",1.40%,5.30%,"22,161",1.33%,16,North America
+Canada,NORTHCOM,North America,16,Jeep Wrangler,"20,026",1.21%,-5.80%,"21,262",1.28%,17,North America
+Canada,NORTHCOM,North America,17,Toyota Highlander,"19,885",1.20%,20.80%,"16,457",0.99%,21,North America
+Canada,NORTHCOM,North America,18,Jeep Grand Cherokee,"19,433",1.17%,25.20%,"15,521",0.93%,25,North America
+Canada,NORTHCOM,North America,19,VW Tiguan,"19,031",1.15%,33.60%,"14,240",0.86%,28,North America
+Canada,NORTHCOM,North America,20,Nissan Kicks,"18,479",1.11%,30.60%,"14,149",0.85%,29,North America
+Canada,NORTHCOM,North America,21,Ford Explorer,"16,391",0.99%,1.00%,"16,229",0.98%,22,North America
+Canada,NORTHCOM,North America,22,Hyundai Santa Fe,"15,946",0.96%,1.40%,"15,721",0.95%,23,North America
+Canada,NORTHCOM,North America,23,Tesla Model 3 (est),"15,700",0.94%,-0.10%,"15,712",0.95%,24,North America
+Canada,NORTHCOM,North America,24,Toyota Tacoma,"14,879",0.90%,-12.20%,"16,946",1.02%,18,North America
+Canada,NORTHCOM,North America,25,Kia Seltos,"14,436",0.87%,-14.50%,"16,881",1.02%,19,North America
+Canada,NORTHCOM,North America,26,Kia Forte,"14,428",0.87%,-13.70%,"16,715",1.01%,20,North America
+Canada,NORTHCOM,North America,27,Ford Transit ,"14,329",0.86%,-0.60%,"14,413",0.87%,27,North America
+Canada,NORTHCOM,North America,28,VW Atlas,"13,490",0.81%,44.00%,"9,370",0.56%,47,North America
+Canada,NORTHCOM,North America,29,VW Jetta,"12,584",0.76%,19.30%,"10,552",0.64%,44,North America
+Canada,NORTHCOM,North America,30,Nissan Qashqai,"11,973",0.72%,8.10%,"11,073",0.67%,39,North America
+Canada,NORTHCOM,North America,31,Toyota Camry,"11,897",0.72%,2.30%,"11,631",0.70%,38,North America
+Canada,NORTHCOM,North America,32,Toyota Sienna,"11,869",0.71%,34.60%,"8,821",0.53%,51,North America
+Canada,NORTHCOM,North America,33,Kia Sportage,"11,837",0.71%,0.40%,"11,789",0.71%,37,North America
+Canada,NORTHCOM,North America,34,Ford Edge,"11,830",0.71%,-10.50%,"13,214",0.80%,30,North America
+Canada,NORTHCOM,North America,35,Mazda3,"11,804",0.71%,-20.20%,"14,788",0.89%,26,North America
+Canada,NORTHCOM,North America,36,Honda HR-V,"11,616",0.70%,-3.70%,"12,068",0.73%,35,North America
+Canada,NORTHCOM,North America,37,Hyundai Venue,"11,548",0.69%,7.50%,"10,740",0.65%,43,North America
+Canada,NORTHCOM,North America,38,Mazda CX-30,"11,407",0.69%,4.20%,"10,945",0.66%,41,North America
+Canada,NORTHCOM,North America,39,Subaru Outback,"11,264",0.68%,-10.30%,"12,556",0.76%,33,North America
+Canada,NORTHCOM,North America,40,Ford Ranger,"11,200",0.67%,3.30%,"10,840",0.65%,42,North America
+Canada,NORTHCOM,North America,41,Ford Bronco Sport,"11,095",0.67%,5589.70%,195,0.01%,243,North America
+Canada,NORTHCOM,North America,42,Lexus RX,"10,331",0.62%,12.00%,"9,228",0.56%,49,North America
+Canada,NORTHCOM,North America,43,Kia Sorento,"10,275",0.62%,-13.10%,"11,821",0.71%,36,North America
+Canada,NORTHCOM,North America,44,Nissan Sentra,"10,015",0.60%,47.10%,"6,806",0.41%,62,North America
+Canada,NORTHCOM,North America,45,Audi Q5,"9,968",0.60%,23.90%,"8,048",0.48%,55,North America
+Canada,NORTHCOM,North America,46,Subaru Forester,"9,823",0.59%,-25.20%,"13,134",0.79%,31,North America
+Canada,NORTHCOM,North America,47,Mitsubishi Outlander,"9,508",0.57%,27.70%,"7,444",0.45%,58,North America
+Canada,NORTHCOM,North America,48,Jeep Cherokee,"9,233",0.56%,7.80%,"8,568",0.52%,53,North America
+Canada,NORTHCOM,North America,49,Mitsubishi Outlander Sport,"8,703",0.52%,85.90%,"4,681",0.28%,85,North America
+Canada,NORTHCOM,North America,50,Chevrolet Equinox,"8,675",0.52%,-30.60%,"12,499",0.75%,34,North America
+Canada,NORTHCOM,North America,51,VW Golf,"8,587",0.52%,-34.50%,"13,113",0.79%,32,North America
+Canada,NORTHCOM,North America,52,Toyota 4Runner,"8,292",0.50%,6.00%,"7,821",0.47%,57,North America
+Canada,NORTHCOM,North America,53,Toyota C-HR,"8,176",0.49%,14.60%,"7,135",0.43%,59,North America
+Canada,NORTHCOM,North America,54,Acura RDX,"7,976",0.48%,-13.00%,"9,169",0.55%,50,North America
+Canada,NORTHCOM,North America,55,Tesla Model Y (est),"7,700",0.46%,55.50%,"4,951",0.30%,79,North America
+Canada,NORTHCOM,North America,56,Audi Q3,"7,667",0.46%,28.90%,"5,949",0.36%,71,North America
+Canada,NORTHCOM,North America,57,Chevrolet Trailblazer,"7,642",0.46%,207.40%,"2,486",0.15%,126,North America
+Canada,NORTHCOM,North America,58,BMW X3,"7,503",0.45%,32.60%,"5,660",0.34%,73,North America
+Canada,NORTHCOM,North America,59,Honda Pilot,"7,398",0.45%,-20.80%,"9,340",0.56%,48,North America
+Canada,NORTHCOM,North America,60,Kia Soul,"7,344",0.44%,-25.60%,"9,869",0.59%,45,North America
+Canada,NORTHCOM,North America,61,Lexus NX,"7,284",0.44%,4.70%,"6,954",0.42%,61,North America
+Canada,NORTHCOM,North America,62,GMC Terrain,"7,237",0.44%,-26.50%,"9,848",0.59%,46,North America
+Canada,NORTHCOM,North America,63,Mercedes GLE,"6,999",0.42%,13.80%,"6,150",0.37%,69,North America
+Canada,NORTHCOM,North America,64,Buick Encore GX,"6,960",0.42%,33.50%,"5,214",0.31%,75,North America
+Canada,NORTHCOM,North America,65,Mercedes GLC,"6,887",0.41%,-1.40%,"6,983",0.42%,60,North America
+Canada,NORTHCOM,North America,66,Nissan Murano,"6,852",0.41%,-15.30%,"8,091",0.49%,54,North America
+Canada,NORTHCOM,North America,67,Hyundai Palisade,"6,739",0.41%,-22.00%,"8,636",0.52%,52,North America
+Canada,NORTHCOM,North America,68,Toyota Tundra,"6,654",0.40%,-39.80%,"11,053",0.67%,40,North America
+Canada,NORTHCOM,North America,69,Honda Accord,"6,403",0.39%,-18.40%,"7,844",0.47%,56,North America
+Canada,NORTHCOM,North America,70,Toyota Venza,"6,249",0.38%,345.40%,"1,403",0.08%,164,North America
+Canada,NORTHCOM,North America,71,Chevrolet Spark,"6,146",0.37%,-2.30%,"6,290",0.38%,68,North America
+Canada,NORTHCOM,North America,72,Dodge Grand Caravan,"6,113",0.37%,-73.30%,"22,883",1.38%,15,North America
+Canada,NORTHCOM,North America,73,Toyota Prius,"6,075",0.37%,-5.30%,"6,417",0.39%,67,North America
+Canada,NORTHCOM,North America,74,GMC Yukon,"6,046",0.36%,116.00%,"2,799",0.17%,119,North America
+Canada,NORTHCOM,North America,75,Jeep Compass,"5,931",0.36%,26.40%,"4,692",0.28%,83,North America
+Canada,NORTHCOM,North America,76,Dodge Durango,"5,763",0.35%,1.70%,"5,668",0.34%,72,North America
+Canada,NORTHCOM,North America,77,BMW X5,"5,685",0.34%,18.80%,"4,785",0.29%,82,North America
+Canada,NORTHCOM,North America,78,Chevrolet Colorado,"5,572",0.34%,-16.20%,"6,648",0.40%,63,North America
+Canada,NORTHCOM,North America,79,Kia Rio,"5,323",0.32%,18.50%,"4,493",0.27%,87,North America
+Canada,NORTHCOM,North America,80,Mazda CX-3,"5,314",0.32%,-17.50%,"6,445",0.39%,66,North America
+Canada,NORTHCOM,North America,81,Acura MDX,"5,082",0.31%,29.60%,"3,921",0.24%,94,North America
+Canada,NORTHCOM,North America,82,Ford Expedition,"4,878",0.29%,40.70%,"3,466",0.21%,106,North America
+Canada,NORTHCOM,North America,83,GMC Canyon,"4,867",0.29%,-3.30%,"5,031",0.30%,78,North America
+Canada,NORTHCOM,North America,84,Jeep Gladiator,"4,724",0.28%,5.40%,"4,481",0.27%,88,North America
+Canada,NORTHCOM,North America,85,Chevrolet Traverse,"4,705",0.28%,-11.50%,"5,319",0.32%,74,North America
+Canada,NORTHCOM,North America,86,Chevrolet Bolt,"4,675",0.28%,16.10%,"4,025",0.24%,92,North America
+Canada,NORTHCOM,North America,87,Chevrolet Tahoe,"4,592",0.28%,74.80%,"2,627",0.16%,124,North America
+Canada,NORTHCOM,North America,88,Mazda CX-9,"4,530",0.27%,-7.30%,"4,887",0.29%,80,North America
+Canada,NORTHCOM,North America,89,Mitsubishi Eclipse Cross,"4,521",0.27%,49.40%,"3,027",0.18%,115,North America
+Canada,NORTHCOM,North America,90,Chrysler Pacifica,"4,505",0.27%,64.80%,"2,733",0.16%,122,North America
+Canada,NORTHCOM,North America,91,BMW 3 Series,"4,438",0.27%,14.60%,"3,873",0.23%,96,North America
+Canada,NORTHCOM,North America,92,Subaru Impreza,"4,416",0.27%,-33.50%,"6,643",0.40%,64,North America
+Canada,NORTHCOM,North America,93,Kia Niro,"4,403",0.26%,23.20%,"3,573",0.22%,102,North America
+Canada,NORTHCOM,North America,94,Ford Mustang Mach E,"4,353",0.26%,72450.00%,6,0.00%,290,North America
+Canada,NORTHCOM,North America,95,Cadillac XT5,"4,340",0.26%,2.90%,"4,216",0.25%,91,North America
+Canada,NORTHCOM,North America,96,Buick Envision,"4,290",0.26%,102.10%,"2,123",0.13%,138,North America
+Canada,NORTHCOM,North America,97,Kia Telluride,"4,270",0.26%,22.90%,"3,474",0.21%,105,North America
+Canada,NORTHCOM,North America,98,Ford Bronco  ,"4,261",0.26%,new,0,0.00%, –,North America
+Canada,NORTHCOM,North America,99,Ford Mustang,"4,223",0.25%,-8.90%,"4,636",0.28%,86,North America
+Canada,NORTHCOM,North America,100,Honda Odyssey,"4,126",0.25%,-31.50%,"6,026",0.36%,70,North America
+Canada,NORTHCOM,North America,101,Kia Carnival,"4,125",0.25%,new,0,0.00%, –,North America
+Canada,NORTHCOM,North America,102,Hyundai Sonata,"4,121",0.25%,15.00%,"3,585",0.22%,100,North America
+Canada,NORTHCOM,North America,103,Mercedes Sprinter,"4,072",0.25%,-5.90%,"4,328",0.26%,89,North America
+Canada,NORTHCOM,North America,104,Porsche Macan,"3,656",0.22%,60.10%,"2,283",0.14%,133,North America
+Canada,NORTHCOM,North America,105,VW Taos,"3,620",0.22%,new,0,0.00%, –,North America
+Canada,NORTHCOM,North America,106,Honda Ridgeline,"3,491",0.21%,3.60%,"3,369",0.20%,108,North America
+Canada,NORTHCOM,North America,107,GMC Acadia,"3,485",0.21%,12.10%,"3,109",0.19%,113,North America
+Canada,NORTHCOM,North America,108,Hyundai Ioniq,"3,459",0.21%,-32.40%,"5,117",0.31%,77,North America
+Canada,NORTHCOM,North America,109,Cadillac Escalade,"3,443",0.21%,96.30%,"1,754",0.11%,149,North America
+Canada,NORTHCOM,North America,110,Chevrolet Blazer,"3,421",0.21%,-11.40%,"3,861",0.23%,97,North America
+Canada,NORTHCOM,North America,111,Volvo XC60,"3,398",0.20%,7.90%,"3,148",0.19%,112,North America
+Canada,NORTHCOM,North America,112,Volvo XC40,"3,398",0.20%,50.80%,"2,254",0.14%,135,North America
+Canada,NORTHCOM,North America,113,Subaru Ascent,"3,359",0.20%,-7.40%,"3,626",0.22%,99,North America
+Canada,NORTHCOM,North America,114,Ford E Series,"3,338",0.20%,9.60%,"3,047",0.18%,114,North America
+Canada,NORTHCOM,North America,115,Lexus UX,"3,283",0.20%,15.00%,"2,856",0.17%,118,North America
+Canada,NORTHCOM,North America,116,Subaru Impreza WRX,"3,278",0.20%,-11.10%,"3,687",0.22%,98,North America
+Canada,NORTHCOM,North America,117,Nissan Pathfinder,"3,243",0.20%,-4.40%,"3,392",0.20%,107,North America
+Canada,NORTHCOM,North America,118,Mercedes C Class,"3,011",0.18%,-24.20%,"3,970",0.24%,93,North America
+Canada,NORTHCOM,North America,119,Ram ProMaster Van,"3,008",0.18%,-14.50%,"3,518",0.21%,103,North America
+Canada,NORTHCOM,North America,120,Ford Ecosport,"2,968",0.18%,-39.00%,"4,866",0.29%,81,North America
+Canada,NORTHCOM,North America,121,Nissan Versa,"2,897",0.17%,2217.60%,125,0.01%,258,North America
+Canada,NORTHCOM,North America,122,Nissan NV200,"2,871",0.17%,48.80%,"1,930",0.12%,141,North America
+Canada,NORTHCOM,North America,123,Honda Passport,"2,869",0.17%,-4.90%,"3,018",0.18%,116,North America
+Canada,NORTHCOM,North America,124,Volvo XC90,"2,855",0.17%,19.50%,"2,389",0.14%,128,North America
+Canada,NORTHCOM,North America,125,Mercedes GLB,"2,773",0.17%,56.10%,"1,776",0.11%,146,North America
+Canada,NORTHCOM,North America,126,Chrysler Grand Caravan,"2,721",0.16%,9977.80%,27,0.00%,276,North America
+Canada,NORTHCOM,North America,127,Mini Cooper,"2,702",0.16%,-1.40%,"2,739",0.16%,121,North America
+Canada,NORTHCOM,North America,128,Audi Q7,"2,639",0.16%,17.40%,"2,248",0.14%,136,North America
+Canada,NORTHCOM,North America,129,Audi A5,"2,621",0.16%,4.50%,"2,507",0.15%,125,North America
+Canada,NORTHCOM,North America,130,BMW X1,"2,602",0.16%,9.10%,"2,384",0.14%,129,North America
+Canada,NORTHCOM,North America,131,Range Rover Sport,"2,561",0.15%,7.90%,"2,373",0.14%,130,North America
+Canada,NORTHCOM,North America,132,Lincoln MKC/Corsair,"2,502",0.15%,23.70%,"2,023",0.12%,139,North America
+Canada,NORTHCOM,North America,133,Porsche Cayenne,"2,443",0.15%,-22.40%,"3,150",0.19%,111,North America
+Canada,NORTHCOM,North America,134,Mercedes GLA,"2,417",0.15%,37.40%,"1,759",0.11%,148,North America
+Canada,NORTHCOM,North America,135,Chevrolet Trax,"2,393",0.14%,-38.50%,"3,888",0.23%,95,North America
+Canada,NORTHCOM,North America,136,GMC Savana,"2,383",0.14%,-49.20%,"4,688",0.28%,84,North America
+Canada,NORTHCOM,North America,137,Chevrolet Suburban,"2,380",0.14%,127.50%,"1,046",0.06%,183,North America
+Canada,NORTHCOM,North America,138,GMC Yukon XL,"2,292",0.14%,61.00%,"1,424",0.09%,161,North America
+Canada,NORTHCOM,North America,139,Ford Transit Connect,"2,272",0.14%,-36.60%,"3,583",0.22%,101,North America
+Canada,NORTHCOM,North America,140,Chevrolet Corvette,"2,261",0.14%,24.80%,"1,811",0.11%,144,North America
+Canada,NORTHCOM,North America,141,Cadillac XT4,"2,201",0.13%,-37.10%,"3,498",0.21%,104,North America
+Canada,NORTHCOM,North America,142,Buick Enclave,"2,169",0.13%,22.30%,"1,773",0.11%,147,North America
+Canada,NORTHCOM,North America,143,Infiniti QX50,"2,158",0.13%,13.80%,"1,897",0.11%,142,North America
+Canada,NORTHCOM,North America,144,VW Passat,"2,154",0.13%,22.80%,"1,754",0.11%,150,North America
+Canada,NORTHCOM,North America,145,Mercedes GLS,"2,129",0.13%,-5.60%,"2,256",0.14%,134,North America
+Canada,NORTHCOM,North America,146,Lexus IS,"2,118",0.13%,59.50%,"1,328",0.08%,170,North America
+Canada,NORTHCOM,North America,147,BMW 2 Series,"2,045",0.12%,50.70%,"1,357",0.08%,167,North America
+Canada,NORTHCOM,North America,148,Lincoln Aviator,"2,042",0.12%,5.20%,"1,941",0.12%,140,North America
+Canada,NORTHCOM,North America,149,Dodge Charger,"1,924",0.12%,16.00%,"1,659",0.10%,153,North America
+Canada,NORTHCOM,North America,150,Buick Encore,"1,902",0.11%,-70.60%,"6,480",0.39%,65,North America
+Canada,NORTHCOM,North America,151,Mercedes E Class/CLS,"1,880",0.11%,4.60%,"1,797",0.11%,145,North America
+Canada,NORTHCOM,North America,152,Chevrolet Express,"1,812",0.11%,-34.60%,"2,769",0.17%,120,North America
+Canada,NORTHCOM,North America,153,BMW 4 Series,"1,800",0.11%,86.90%,963,0.06%,187,North America
+Canada,NORTHCOM,North America,154,Acura TLX,"1,781",0.11%,-32.80%,"2,650",0.16%,123,North America
+Canada,NORTHCOM,North America,155,Land Rover Defender,"1,775",0.11%,114.10%,829,0.05%,199,North America
+Canada,NORTHCOM,North America,156,Mercedes A Class,"1,722",0.10%,-26.80%,"2,353",0.14%,132,North America
+Canada,NORTHCOM,North America,157,Nissan Frontier,"1,716",0.10%,7.70%,"1,593",0.10%,155,North America
+Canada,NORTHCOM,North America,158,Lexus ES,"1,700",0.10%,9.70%,"1,550",0.09%,156,North America
+Canada,NORTHCOM,North America,159,Lincoln Nautilus,"1,626",0.10%,-7.20%,"1,753",0.11%,151,North America
+Canada,NORTHCOM,North America,160,Cadillac XT6,"1,622",0.10%,8.90%,"1,490",0.09%,159,North America
+Canada,NORTHCOM,North America,161,Chevrolet Malibu,"1,615",0.10%,-50.90%,"3,287",0.20%,109,North America
+Canada,NORTHCOM,North America,162,Dodge Challenger,"1,563",0.09%,14.30%,"1,368",0.08%,165,North America
+Canada,NORTHCOM,North America,163,Genesis GV80,"1,553",0.09%,424.70%,296,0.02%,231,North America
+Canada,NORTHCOM,North America,164,Mini Countryman,"1,541",0.09%,-5.90%,"1,637",0.10%,154,North America
+Canada,NORTHCOM,North America,165,Genesis GV70,"1,522",0.09%,new,0,0.00%, –,North America
+Canada,NORTHCOM,North America,166,Ford Maverick,"1,503",0.09%,new,0,0.00%, –,North America
+Canada,NORTHCOM,North America,167,Audi A4,"1,502",0.09%,-32.60%,"2,229",0.13%,137,North America
+Canada,NORTHCOM,North America,168,Audi Q8,"1,474",0.09%,11.40%,"1,323",0.08%,171,North America
+Canada,NORTHCOM,North America,169,BMW X4,"1,463",0.09%,17.90%,"1,241",0.07%,174,North America
+Canada,NORTHCOM,North America,170,Range Rover   ,"1,438",0.09%,24.70%,"1,153",0.07%,179,North America
+Canada,NORTHCOM,North America,171,Jaguar F-Pace,"1,428",0.09%,-1.20%,"1,446",0.09%,160,North America
+Canada,NORTHCOM,North America,172,Mazda6,"1,411",0.08%,24.10%,"1,137",0.07%,180,North America
+Canada,NORTHCOM,North America,173,Mercedes G Class,"1,367",0.08%,47.80%,925,0.06%,188,North America
+Canada,NORTHCOM,North America,174,Porsche 911,"1,364",0.08%,49.20%,914,0.06%,191,North America
+Canada,NORTHCOM,North America,175,Kia K5,"1,335",0.08%,257.90%,373,0.02%,223,North America
+Canada,NORTHCOM,North America,176,Lincoln Navigator,"1,312",0.08%,8.50%,"1,209",0.07%,177,North America
+Canada,NORTHCOM,North America,177,Mercedes CLA,"1,274",0.08%,17.40%,"1,085",0.07%,181,North America
+Canada,NORTHCOM,North America,178,Volvo S60/V60,"1,270",0.08%,-3.90%,"1,321",0.08%,172,North America
+Canada,NORTHCOM,North America,179,Range Rover Velar,"1,254",0.08%,-6.30%,"1,339",0.08%,169,North America
+Canada,NORTHCOM,North America,180,Kia Stinger,"1,229",0.07%,-4.70%,"1,289",0.08%,173,North America
+Canada,NORTHCOM,North America,181,Nissan Leaf,"1,223",0.07%,-20.30%,"1,534",0.09%,157,North America
+Canada,NORTHCOM,North America,182,Nissan Altima,"1,217",0.07%,-14.10%,"1,416",0.09%,162,North America
+Canada,NORTHCOM,North America,183,BMW X6,"1,209",0.07%,17.60%,"1,028",0.06%,185,North America
+Canada,NORTHCOM,North America,184,Chevrolet Camaro,"1,195",0.07%,-21.30%,"1,518",0.09%,158,North America
+Canada,NORTHCOM,North America,185,Range Rover Evoque,"1,177",0.07%,-16.50%,"1,410",0.08%,163,North America
+Canada,NORTHCOM,North America,186,Genesis G70,"1,160",0.07%,-1.10%,"1,173",0.07%,178,North America
+Canada,NORTHCOM,North America,187,Infiniti QX60,"1,039",0.06%,-43.30%,"1,833",0.11%,143,North America
+Canada,NORTHCOM,North America,188,Mazda MX-5 Miata,"1,016",0.06%,95.40%,520,0.03%,214,North America
+Canada,NORTHCOM,North America,189,Infiniti Q50,"1,000",0.06%,-3.80%,"1,040",0.06%,184,North America
+Canada,NORTHCOM,North America,190,BMW X7,954,0.06%,-29.10%,"1,345",0.08%,168,North America
+Canada,NORTHCOM,North America,191,Subaru Legacy,950,0.06%,-30.10%,"1,360",0.08%,166,North America
+Canada,NORTHCOM,North America,192,BMW 5 Series,939,0.06%,7.40%,874,0.05%,192,North America
+Canada,NORTHCOM,North America,193,Hyundai Santa Cruz,930,0.06%,new,0,0.00%, –,North America
+Canada,NORTHCOM,North America,194,Cadillac CT5,926,0.06%,8.70%,852,0.05%,194,North America
+Canada,NORTHCOM,North America,195,Mercedes Metris,924,0.06%,10.10%,839,0.05%,197,North America
+Canada,NORTHCOM,North America,196,Ford Fusion,910,0.05%,-82.30%,"5,152",0.31%,76,North America
+Canada,NORTHCOM,North America,197,Mitsubishi Mirage,909,0.05%,-26.10%,"1,230",0.07%,175,North America
+Canada,NORTHCOM,North America,198,BMW X2,903,0.05%,14.30%,790,0.05%,200,North America
+Canada,NORTHCOM,North America,199,Acura ILX,870,0.05%,-5.80%,924,0.06%,189,North America
+Canada,NORTHCOM,North America,200,Toyota Corolla Cross,867,0.05%,new,0,0.00%, –,North America
+Canada,NORTHCOM,North America,201,Infiniti QX80,846,0.05%,14.30%,740,0.04%,203,North America
+Canada,NORTHCOM,North America,202,Chrysler 300,795,0.05%,77.90%,447,0.03%,219,North America
+Canada,NORTHCOM,North America,203,Audi A6,763,0.05%,44.80%,527,0.03%,212,North America
+Canada,NORTHCOM,North America,204,Hyundai Veloster,734,0.04%,-30.20%,"1,051",0.06%,182,North America
+Canada,NORTHCOM,North America,205,Porsche Taycan,733,0.04%,-12.90%,842,0.05%,196,North America
+Canada,NORTHCOM,North America,206,Cadillac CT4,727,0.04%,105.40%,354,0.02%,225,North America
+Canada,NORTHCOM,North America,207,Alfa Romeo Stelvio,707,0.04%,44.90%,488,0.03%,216,North America
+Canada,NORTHCOM,North America,208,Porsche 718,640,0.04%,15.70%,553,0.03%,209,North America
+Canada,NORTHCOM,North America,209,Nissan Armada,596,0.04%,66.50%,358,0.02%,224,North America
+Canada,NORTHCOM,North America,210,Land Rover Discovery Sport,569,0.03%,-33.50%,856,0.05%,193,North America
+Canada,NORTHCOM,North America,211,Mercedes S Class,544,0.03%,-1.60%,553,0.03%,207,North America
+Canada,NORTHCOM,North America,212,VW ID.4,537,0.03%,new,0,0.00%, –,North America
+Canada,NORTHCOM,North America,213,BMW 8 Series,530,0.03%,-2.20%,542,0.03%,211,North America
+Canada,NORTHCOM,North America,214,Ram ProMaster City,521,0.03%,-6.60%,558,0.03%,206,North America
+Canada,NORTHCOM,North America,215,Nissan Maxima,487,0.03%,-42.80%,851,0.05%,195,North America
+Canada,NORTHCOM,North America,216,Infiniti QX55,482,0.03%,new,0,0.00%, –,North America
+Canada,NORTHCOM,North America,217,Audi e-tron,454,0.03%,-17.20%,548,0.03%,210,North America
+Canada,NORTHCOM,North America,218,Maserati Levante,449,0.03%,97.80%,227,0.01%,241,North America
+Canada,NORTHCOM,North America,219,Subaru BRZ,438,0.03%,-36.70%,692,0.04%,204,North America
+Canada,NORTHCOM,North America,220,Audi A3,425,0.03%,-75.30%,"1,720",0.10%,152,North America
+Canada,NORTHCOM,North America,221,Toyota Sequoia,417,0.03%,-8.40%,455,0.03%,218,North America
+Canada,NORTHCOM,North America,222,Nissan Titan,414,0.02%,-66.00%,"1,217",0.07%,176,North America
+Canada,NORTHCOM,North America,223,Lexus LX,413,0.02%,-55.20%,921,0.06%,190,North America
+Canada,NORTHCOM,North America,224,Toyota Supra,410,0.02%,4.10%,394,0.02%,221,North America
+Canada,NORTHCOM,North America,225,Audi A7,391,0.02%,2.40%,382,0.02%,222,North America
+Canada,NORTHCOM,North America,226,Toyota Land Cruiser,388,0.02%,19.40%,325,0.02%,228,North America
+Canada,NORTHCOM,North America,227,Honda Fit,361,0.02%,-84.70%,"2,361",0.14%,131,North America
+Canada,NORTHCOM,North America,228,Jeep Grand Wagoneer,329,0.02%,new,0,0.00%, –,North America
+Canada,NORTHCOM,North America,229,Lexus GX,324,0.02%,-38.00%,523,0.03%,213,North America
+Canada,NORTHCOM,North America,230,Nissan NV,309,0.02%,-44.10%,553,0.03%,208,North America
+Canada,NORTHCOM,North America,231,Infiniti Q60,307,0.02%,19.00%,258,0.02%,236,North America
+Canada,NORTHCOM,North America,232,Porsche Panamera,305,0.02%,13.80%,268,0.02%,232,North America
+Canada,NORTHCOM,North America,233,Jeep Renegade,303,0.02%,-14.20%,353,0.02%,226,North America
+Canada,NORTHCOM,North America,234,VW Arteon,291,0.02%,-17.30%,352,0.02%,227,North America
+Canada,NORTHCOM,North America,235,Toyota Yaris,283,0.02%,-88.20%,"2,399",0.14%,127,North America
+Canada,NORTHCOM,North America,236,Genesis G80,277,0.02%,46.60%,189,0.01%,245,North America
+Canada,NORTHCOM,North America,237,Honda Insight,251,0.02%,-49.40%,496,0.03%,215,North America
+Canada,NORTHCOM,North America,238,Mercedes AMG GT,250,0.02%,-16.40%,299,0.02%,230,North America
+Canada,NORTHCOM,North America,239,Honda Clarity FCV,248,0.01%,-66.90%,749,0.05%,202,North America
+Canada,NORTHCOM,North America,240,Hyundai Ioniq 5,232,0.01%,new,0,0.00%, –,North America
+Canada,NORTHCOM,North America,241,Lexus RC,221,0.01%,-7.50%,239,0.01%,238,North America
+Canada,NORTHCOM,North America,242,Land Rover Discovery,213,0.01%,-34.30%,324,0.02%,229,North America
+Canada,NORTHCOM,North America,243,BMW Z4,209,0.01%,-0.50%,210,0.01%,242,North America
+Canada,NORTHCOM,North America,244,Audi e-tron GT,208,0.01%,new,0,0.00%, –,North America
+Canada,NORTHCOM,North America,245,Alfa Romeo Giulia,200,0.01%,6.40%,188,0.01%,246,North America
+Canada,NORTHCOM,North America,246,Tesla Model S (est),195,0.01%,-75.30%,790,0.05%,201,North America
+Canada,NORTHCOM,North America,247,Lexus LC,193,0.01%,40.90%,137,0.01%,254,North America
+Canada,NORTHCOM,North America,248,Audi TT,191,0.01%,1.60%,188,0.01%,247,North America
+Canada,NORTHCOM,North America,249,Kia Sedona,190,0.01%,-95.50%,"4,228",0.25%,90,North America
+Canada,NORTHCOM,North America,250,Volvo S90/V90,184,0.01%,34.30%,137,0.01%,255,North America
+Canada,NORTHCOM,North America,251,BMW 7 Series,181,0.01%,-3.70%,188,0.01%,248,North America
+Canada,NORTHCOM,North America,252,Tesla Model X,179,0.01%,-82.20%,"1,006",0.06%,186,North America
+Canada,NORTHCOM,North America,253,BMW i3,177,0.01%,5.40%,168,0.01%,249,North America
+Canada,NORTHCOM,North America,254,Jaguar F-Type,172,0.01%,-9.50%,190,0.01%,244,North America
+Canada,NORTHCOM,North America,255,Toyota Avalon,167,0.01%,-28.90%,235,0.01%,239,North America
+Canada,NORTHCOM,North America,256,Mazda MX-30,148,0.01%,new,0,0.00%, –,North America
+Canada,NORTHCOM,North America,257,Audi R8,147,0.01%,53.10%,96,0.01%,261,North America
+Canada,NORTHCOM,North America,258,Toyota Mirai,128,0.01%,456.50%,23,0.00%,279,North America
+Canada,NORTHCOM,North America,259,Maserati Ghibli ,111,0.01%,18.10%,94,0.01%,262,North America
+Canada,NORTHCOM,North America,260,Jaguar E-Pace,98,0.01%,-63.00%,265,0.02%,234,North America
+Canada,NORTHCOM,North America,261,Dodge Journey,89,0.01%,-78.80%,420,0.03%,220,North America
+Canada,NORTHCOM,North America,262,Jaguar i-Pace,86,0.01%,34.40%,64,0.00%,266,North America
+Canada,NORTHCOM,North America,263,Toyota 86,75,0.00%,-67.90%,234,0.01%,240,North America
+Canada,NORTHCOM,North America,264,Audi A8,68,0.00%,-46.50%,127,0.01%,256,North America
+Canada,NORTHCOM,North America,265,Jaguar XF,61,0.00%,32.60%,46,0.00%,269,North America
+Canada,NORTHCOM,North America,266,Genesis G90,57,0.00%,-3.40%,59,0.00%,267,North America
+Canada,NORTHCOM,North America,267,Fiat 124 Spider,55,0.00%,-66.70%,165,0.01%,250,North America
+Canada,NORTHCOM,North America,268,Nissan GT-R,52,0.00%,33.30%,39,0.00%,271,North America
+Canada,NORTHCOM,North America,269,Maserati Quattroporte,45,0.00%,45.20%,31,0.00%,274,North America
+Canada,NORTHCOM,North America,270,Lexus LS,38,0.00%,72.70%,22,0.00%,280,North America
+Canada,NORTHCOM,North America,271,Lincoln MKZ,30,0.00%,-81.40%,161,0.01%,251,North America
+Canada,NORTHCOM,North America,272,Mercedes SL-Class,25,0.00%,-82.80%,145,0.01%,252,North America
+Canada,NORTHCOM,North America,273,Acura NSX,23,0.00%,-8.00%,25,0.00%,277,North America
+Canada,NORTHCOM,North America,274,Lincoln Continental,21,0.00%,-74.40%,82,0.00%,263,North America
+Canada,NORTHCOM,North America,275,Buick Regal,20,0.00%,-91.70%,241,0.01%,237,North America
+Canada,NORTHCOM,North America,276,Nissan 370Z,19,0.00%,-92.80%,263,0.02%,235,North America
+Canada,NORTHCOM,North America,277,Mercedes SLC,19,0.00%,-86.60%,142,0.01%,253,North America
+Canada,NORTHCOM,North America,278,Fiat 500X,18,0.00%,-47.10%,34,0.00%,273,North America
+Canada,NORTHCOM,North America,279,Ford GT,16,0.00%,33.30%,12,0.00%,284,North America
+Canada,NORTHCOM,North America,280,Chevrolet Cruze,12,0.00%,-98.10%,622,0.04%,205,North America
+Canada,NORTHCOM,North America,281,Chevrolet Impala,11,0.00%,-95.90%,267,0.02%,233,North America
+Canada,NORTHCOM,North America,282,Alfa Romeo 4C,11,0.00%,-35.30%,17,0.00%,283,North America
+Canada,NORTHCOM,North America,283,Cadillac CTS,9,0.00%,-88.80%,80,0.00%,264,North America
+Canada,NORTHCOM,North America,284,Buick LaCrosse,8,0.00%,-93.70%,127,0.01%,257,North America
+Canada,NORTHCOM,North America,285,Maserati GranTurismo,7,0.00%,-12.50%,8,0.00%,289,North America
+Canada,NORTHCOM,North America,286,Kia Optima,3,0.00%,-99.60%,835,0.05%,198,North America
+Canada,NORTHCOM,North America,287,VW Beetle,3,0.00%,-99.30%,460,0.03%,217,North America
+Canada,NORTHCOM,North America,288,Cadillac XTS,3,0.00%,-93.80%,48,0.00%,268,North America
+Canada,NORTHCOM,North America,289,Fiat 500,3,0.00%,-83.30%,18,0.00%,282,North America
+Canada,NORTHCOM,North America,290,Fiat 500L,3,0.00%,-72.70%,11,0.00%,286,North America
+Canada,NORTHCOM,North America,291,Jeep Wagoneer,3,0.00%,new,0,0.00%, –,North America
+Canada,NORTHCOM,North America,292,Cadillac CT6,2,0.00%,-98.30%,119,0.01%,260,North America
+Canada,NORTHCOM,North America,293,Lexus GS,2,0.00%,-94.30%,35,0.00%,272,North America
+Canada,NORTHCOM,North America,294,Acura RLX,2,0.00%,-91.30%,23,0.00%,278,North America
+Canada,NORTHCOM,North America,295,Hyundai Nexo,1,0.00%,-87.50%,8,0.00%,288,North America
+Canada,NORTHCOM,North America,296,Nissan Micra,0,0.00%,-100.00%,"3,277",0.20%,110,North America
+Canada,NORTHCOM,North America,297,Hyundai Accent,0,0.00%,-100.00%,"3,018",0.18%,117,North America
+Canada,NORTHCOM,North America,298,Ford Flex,0,0.00%,-100.00%,124,0.01%,259,North America
+Canada,NORTHCOM,North America,299,Jaguar XE,0,0.00%,-100.00%,77,0.00%,265,North America
+Canada,NORTHCOM,North America,300,Jaguar XJ,0,0.00%,-100.00%,45,0.00%,270,North America
+Canada,NORTHCOM,North America,301,BMW 6 Series,0,0.00%,-100.00%,27,0.00%,275,North America
+Canada,NORTHCOM,North America,302,Ford Taurus,0,0.00%,-100.00%,19,0.00%,281,North America
+Canada,NORTHCOM,North America,303,Infiniti Q70,0,0.00%,-100.00%,12,0.00%,285,North America
+Canada,NORTHCOM,North America,304,Chevrolet Volt,0,0.00%,-100.00%,9,0.00%,287,North America
+Canada,NORTHCOM,North America,305,Infiniti QX30,0,0.00%,-100.00%,3,0.00%,291,North America
+Canada,NORTHCOM,North America,306,Cadillac ATS,0,0.00%,-100.00%,2,0.00%,292,North America
+Canada,NORTHCOM,North America,307,VW Touareg,0,0.00%,-100.00%,2,0.00%,294,North America
+Canada,NORTHCOM,North America,308,Kia Cadenza,0,0.00%,-100.00%,2,0.00%,293,North America
+Canada,NORTHCOM,North America,309,Lincoln MKT,0,0.00%,-100.00%,1,0.00%,295,North America
+Canada,NORTHCOM,North America,310,Nissan Versa Note,0,0.00%,-100.00%,1,0.00%,296,North America

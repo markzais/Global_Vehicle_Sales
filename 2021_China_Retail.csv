@@ -1,0 +1,1030 @@
+﻿Country,Command,Region,Position_2021,Model,Sales_2021,Percent_2021,Growth_2021,Sales_2020,Percent_2020,Position_2020,Continent
+China Retail,INDOPACOM,East Asia,1,Nissan Sylphy,"507,686",2.50%,-7.00%,"545,634",2.86%,1,Asia
+China Retail,INDOPACOM,East Asia,2,VW Lavida,"430,021",2.12%,-4.10%,"448,504",2.35%,2,Asia
+China Retail,INDOPACOM,East Asia,3,Wuling Hongguang Mini EV,"390,089",1.92%,252.70%,"110,612",0.58%,49,Asia
+China Retail,INDOPACOM,East Asia,4,Haval H6,"355,676",1.75%,3.70%,"342,852",1.80%,4,Asia
+China Retail,INDOPACOM,East Asia,5,Toyota Corolla,"309,212",1.53%,-14.20%,"360,536",1.89%,3,Asia
+China Retail,INDOPACOM,East Asia,6,Buick Excelle Yinlang,"271,803",1.34%,-12.50%,"310,676",1.63%,6,Asia
+China Retail,INDOPACOM,East Asia,7,VW Bora,"265,932",1.31%,-20.30%,"333,853",1.75%,5,Asia
+China Retail,INDOPACOM,East Asia,8,VW Sagitar,"242,937",1.20%,-20.40%,"305,290",1.60%,7,Asia
+China Retail,INDOPACOM,East Asia,9,Honda CR-V,"218,510",1.08%,-7.80%,"236,955",1.24%,8,Asia
+China Retail,INDOPACOM,East Asia,10,Toyota Levin,"216,286",1.07%,-8.70%,"236,785",1.24%,9,Asia
+China Retail,INDOPACOM,East Asia,11,Toyota Camry,"211,234",1.04%,11.40%,"189,677",1.00%,14,Asia
+China Retail,INDOPACOM,East Asia,12,ChangAn CS75 Plus,"202,579",1.00%,-1.40%,"205,478",1.08%,12,Asia
+China Retail,INDOPACOM,East Asia,13,Toyota RAV4,"199,386",0.98%,14.90%,"173,544",0.91%,19,Asia
+China Retail,INDOPACOM,East Asia,14,Honda Accord,"198,633",0.98%,-4.20%,"207,364",1.09%,11,Asia
+China Retail,INDOPACOM,East Asia,15,Wuling Hongguang,"193,809",0.96%,-0.10%,"194,097",1.02%,13,Asia
+China Retail,INDOPACOM,East Asia,16,Honda XR-V,"185,327",0.91%,15.00%,"161,095",0.85%,24,Asia
+China Retail,INDOPACOM,East Asia,17,Geely Emgrand,"176,995",0.87%,31.50%,"134,600",0.71%,38,Asia
+China Retail,INDOPACOM,East Asia,18,VW Tiguan,"175,215",0.86%,-1.00%,"176,948",0.93%,17,Asia
+China Retail,INDOPACOM,East Asia,19,BMW 5 Series L,"172,563",0.85%,9.50%,"157,574",0.83%,26,Asia
+China Retail,INDOPACOM,East Asia,20,BMW 3 Series L,"171,203",0.84%,12.60%,"152,057",0.80%,31,Asia
+China Retail,INDOPACOM,East Asia,21,ChangAn Eado,"170,099",0.84%,14.30%,"148,768",0.78%,34,Asia
+China Retail,INDOPACOM,East Asia,22,Honda Vezel,"168,947",0.83%,13.40%,"149,021",0.78%,33,Asia
+China Retail,INDOPACOM,East Asia,23,Honda Breeze,"162,927",0.80%,31.20%,"124,161",0.65%,44,Asia
+China Retail,INDOPACOM,East Asia,24,VW Santana,"162,703",0.80%,-9.20%,"179,214",0.94%,16,Asia
+China Retail,INDOPACOM,East Asia,25,Honda Civic,"162,514",0.80%,-28.80%,"228,214",1.20%,10,Asia
+China Retail,INDOPACOM,East Asia,26,Nissan Teana,"162,264",0.80%,37.10%,"118,356",0.62%,46,Asia
+China Retail,INDOPACOM,East Asia,27,Nissan Qashqai,"161,975",0.80%,3.60%,"156,390",0.82%,27,Asia
+China Retail,INDOPACOM,East Asia,28,Tesla Model Y,"160,594",0.79%,8029600.00%,2,0.00%,870,Asia
+China Retail,INDOPACOM,East Asia,29,Buick GL8,"156,819",0.77%,-1.00%,"158,419",0.83%,25,Asia
+China Retail,INDOPACOM,East Asia,30,Audi A6L,"155,520",0.77%,-13.80%,"180,513",0.95%,15,Asia
+China Retail,INDOPACOM,East Asia,31,Geely Boyue,"154,712",0.76%,-12.10%,"175,978",0.92%,18,Asia
+China Retail,INDOPACOM,East Asia,32,VW Passat,"152,181",0.75%,13.40%,"134,196",0.70%,40,Asia
+China Retail,INDOPACOM,East Asia,33,Tesla Model 3,"151,234",0.75%,9.00%,"138,789",0.73%,37,Asia
+China Retail,INDOPACOM,East Asia,34,VW Magotan,"150,569",0.74%,-9.00%,"165,423",0.87%,23,Asia
+China Retail,INDOPACOM,East Asia,35,Haval M6,"143,744",0.71%,-5.70%,"152,400",0.80%,30,Asia
+China Retail,INDOPACOM,East Asia,36,Mercedes E-Klasse L,"140,434",0.69%,-10.20%,"156,304",0.82%,28,Asia
+China Retail,INDOPACOM,East Asia,37,VW Tharu,"135,101",0.67%,-3.50%,"140,026",0.73%,36,Asia
+China Retail,INDOPACOM,East Asia,38,Mercedes GLC,"134,828",0.67%,-18.70%,"165,802",0.87%,22,Asia
+China Retail,INDOPACOM,East Asia,39,Mercedes C-Klasse L,"129,522",0.64%,-15.70%,"153,571",0.81%,29,Asia
+China Retail,INDOPACOM,East Asia,40,ChangAn CS55 Plus,"128,758",0.64%,29.90%,"99,088",0.52%,54,Asia
+China Retail,INDOPACOM,East Asia,41,BMW X3,"128,381",0.63%,-4.40%,"134,341",0.70%,39,Asia
+China Retail,INDOPACOM,East Asia,42,COS X5,"126,685",0.63%,1055.10%,"10,967",0.06%,292,Asia
+China Retail,INDOPACOM,East Asia,43,BYD Song PLUS,"125,882",0.62%,748.80%,"14,831",0.08%,251,Asia
+China Retail,INDOPACOM,East Asia,44,Audi Q5L,"125,762",0.62%,-16.60%,"150,764",0.79%,32,Asia
+China Retail,INDOPACOM,East Asia,45,BYD Qin PLUS,"125,344",0.62%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,46,Hongqi HS5,"125,063",0.62%,32.10%,"94,697",0.50%,58,Asia
+China Retail,INDOPACOM,East Asia,47,Roewe i5/Ei5,"124,592",0.61%,-3.10%,"128,591",0.67%,42,Asia
+China Retail,INDOPACOM,East Asia,48,Hyundai Elantra,"123,958",0.61%,369.10%,"26,424",0.14%,181,Asia
+China Retail,INDOPACOM,East Asia,49,Audi A4L,"121,726",0.60%,-14.00%,"141,508",0.74%,35,Asia
+China Retail,INDOPACOM,East Asia,50,Geely Xingrui ,"114,100",0.56%,584.40%,"16,671",0.09%,236,Asia
+China Retail,INDOPACOM,East Asia,51,VW Tayron,"113,161",0.56%,-34.10%,"171,819",0.90%,20,Asia
+China Retail,INDOPACOM,East Asia,52,Toyota Avalon,"112,272",0.55%,-0.10%,"112,355",0.59%,48,Asia
+China Retail,INDOPACOM,East Asia,53,BYD Han,"108,732",0.54%,256.40%,"30,505",0.16%,164,Asia
+China Retail,INDOPACOM,East Asia,54,Buick Regal,"107,627",0.53%,-12.60%,"123,089",0.65%,45,Asia
+China Retail,INDOPACOM,East Asia,55,Chevrolet Monza,"105,645",0.52%,-17.30%,"127,740",0.67%,43,Asia
+China Retail,INDOPACOM,East Asia,56,Haval Big Dog,"104,669",0.52%,355.40%,"22,983",0.12%,203,Asia
+China Retail,INDOPACOM,East Asia,57,Toyota Highlander,"103,279",0.51%,7.20%,"96,337",0.51%,57,Asia
+China Retail,INDOPACOM,East Asia,58,Toyota Wildlander,"103,071",0.51%,77.60%,"58,027",0.30%,93,Asia
+China Retail,INDOPACOM,East Asia,59,Nissan X-Trail,"102,562",0.51%,-39.40%,"169,351",0.89%,21,Asia
+China Retail,INDOPACOM,East Asia,60,Roewe RX5,"100,179",0.49%,0.20%,"100,025",0.52%,53,Asia
+China Retail,INDOPACOM,East Asia,61,BMW X1,"97,171",0.48%,4.40%,"93,116",0.49%,60,Asia
+China Retail,INDOPACOM,East Asia,62,Geely Binyue,"96,226",0.47%,9.30%,"88,063",0.46%,63,Asia
+China Retail,INDOPACOM,East Asia,63,Honda Fit,"95,645",0.47%,60.20%,"59,704",0.31%,90,Asia
+China Retail,INDOPACOM,East Asia,64,Geely Vision X3,"94,618",0.47%,3.20%,"91,701",0.48%,61,Asia
+China Retail,INDOPACOM,East Asia,65,LI One,"91,310",0.45%,173.00%,"33,447",0.18%,143,Asia
+China Retail,INDOPACOM,East Asia,66,Mazda3 Axela,"91,079",0.45%,3.30%,"88,176",0.46%,62,Asia
+China Retail,INDOPACOM,East Asia,67,Wuling Hongguang V,"90,181",0.44%,-6.80%,"96,732",0.51%,55,Asia
+China Retail,INDOPACOM,East Asia,68,ChangAn UNI-T ,"83,890",0.41%,33.90%,"62,665",0.33%,86,Asia
+China Retail,INDOPACOM,East Asia,69,ChangAn CS35 Plus,"83,407",0.41%,-13.60%,"96,551",0.51%,56,Asia
+China Retail,INDOPACOM,East Asia,70,MG 5,"82,245",0.41%,4112150.00%,2,0.00%,839,Asia
+China Retail,INDOPACOM,East Asia,71,Hongqi H5,"81,056",0.40%,23.60%,"65,562",0.34%,83,Asia
+China Retail,INDOPACOM,East Asia,72,Hyundai iX35,"80,719",0.40%,7.00%,"75,437",0.40%,72,Asia
+China Retail,INDOPACOM,East Asia,73,GAC Trumpchi GS4,"80,700",0.40%,-31.60%,"118,023",0.62%,47,Asia
+China Retail,INDOPACOM,East Asia,74,Toyota Yaris L,"79,466",0.39%,-7.40%,"85,825",0.45%,64,Asia
+China Retail,INDOPACOM,East Asia,75,Jetta VS5,"79,427",0.39%,5.50%,"75,295",0.40%,73,Asia
+China Retail,INDOPACOM,East Asia,76,TANK 300,"77,593",0.38%,26935.90%,287,0.00%,576,Asia
+China Retail,INDOPACOM,East Asia,77,Audi Q3,"76,895",0.38%,15.10%,"66,791",0.35%,82,Asia
+China Retail,INDOPACOM,East Asia,78,Chery eQ1 (Little Ant),"75,240",0.37%,110.00%,"35,825",0.19%,138,Asia
+China Retail,INDOPACOM,East Asia,79,Buick Envision,"73,940",0.36%,-30.60%,"106,468",0.56%,51,Asia
+China Retail,INDOPACOM,East Asia,80,Lynk & Co 03,"73,074",0.36%,5.80%,"69,096",0.36%,79,Asia
+China Retail,INDOPACOM,East Asia,81,VW T-Roc,"72,251",0.36%,-32.20%,"106,574",0.56%,50,Asia
+China Retail,INDOPACOM,East Asia,82,ChangAn CS75,"72,214",0.36%,3.90%,"69,484",0.36%,78,Asia
+China Retail,INDOPACOM,East Asia,83,GAC NE Aion S,"71,837",0.35%,33.60%,"53,789",0.28%,99,Asia
+China Retail,INDOPACOM,East Asia,84,Changan Benben E-star,"71,496",0.35%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,85,Chery Tiggo 8,"70,099",0.35%,-16.90%,"84,364",0.44%,66,Asia
+China Retail,INDOPACOM,East Asia,86,Ora R1/Black Cat,"69,190",0.34%,54.90%,"44,664",0.23%,116,Asia
+China Retail,INDOPACOM,East Asia,87,BYD Song Pro,"68,866",0.34%,-34.40%,"104,922",0.55%,52,Asia
+China Retail,INDOPACOM,East Asia,88,Jetour X70 PLUS,"67,757",0.33%,385.80%,"13,948",0.07%,261,Asia
+China Retail,INDOPACOM,East Asia,89,VW Golf,"64,918",0.32%,-30.70%,"93,730",0.49%,59,Asia
+China Retail,INDOPACOM,East Asia,90,Volvo XC60,"64,842",0.32%,1.30%,"63,980",0.34%,84,Asia
+China Retail,INDOPACOM,East Asia,91,GAC Trumpchi GM8,"64,598",0.32%,92.60%,"33,538",0.18%,141,Asia
+China Retail,INDOPACOM,East Asia,92,Geely Vision X6 (SUV),"64,385",0.32%,-21.80%,"82,351",0.43%,67,Asia
+China Retail,INDOPACOM,East Asia,93,Wuling Victory,"62,178",0.31%,283.70%,"16,204",0.09%,241,Asia
+China Retail,INDOPACOM,East Asia,94,Cadillac CT5,"61,969",0.31%,45.50%,"42,579",0.22%,119,Asia
+China Retail,INDOPACOM,East Asia,95,VW Lamando,"61,137",0.30%,-11.00%,"68,705",0.36%,81,Asia
+China Retail,INDOPACOM,East Asia,96,Geely Binrui,"60,385",0.30%,-3.00%,"62,284",0.33%,88,Asia
+China Retail,INDOPACOM,East Asia,97,Xpeng P7,"60,072",0.30%,284.90%,"15,606",0.08%,249,Asia
+China Retail,INDOPACOM,East Asia,98,Mercedes A-Klasse,"59,238",0.29%,-14.10%,"68,922",0.36%,80,Asia
+China Retail,INDOPACOM,East Asia,99,Audi A3,"56,917",0.28%,-33.20%,"85,172",0.45%,65,Asia
+China Retail,INDOPACOM,East Asia,100,Mercedes GLB,"56,293",0.28%,3.90%,"54,186",0.28%,97,Asia
+China Retail,INDOPACOM,East Asia,101,Mitsubishi Outlander,"54,661",0.27%,-6.50%,"58,461",0.31%,92,Asia
+China Retail,INDOPACOM,East Asia,102,Nissan Tiida,"54,284",0.27%,-13.60%,"62,860",0.33%,85,Asia
+China Retail,INDOPACOM,East Asia,103,Lynk & Co 06,"52,680",0.26%,207.40%,"17,138",0.09%,230,Asia
+China Retail,INDOPACOM,East Asia,104,Jetta VA3,"52,638",0.26%,30.20%,"40,428",0.21%,122,Asia
+China Retail,INDOPACOM,East Asia,105,Chery Tiggo 5X,"52,560",0.26%,15.60%,"45,455",0.24%,114,Asia
+China Retail,INDOPACOM,East Asia,106,BYD Tang,"52,531",0.26%,72.40%,"30,473",0.16%,165,Asia
+China Retail,INDOPACOM,East Asia,107,Chevrolet Malibu XL,"52,272",0.26%,1.60%,"51,470",0.27%,105,Asia
+China Retail,INDOPACOM,East Asia,108,Honda Elysion,"52,158",0.26%,24.80%,"41,783",0.22%,121,Asia
+China Retail,INDOPACOM,East Asia,109,Buick LaCrosse,"52,139",0.26%,5.50%,"49,409",0.26%,109,Asia
+China Retail,INDOPACOM,East Asia,110,Honda Inspire,"52,047",0.26%,12.00%,"46,476",0.24%,111,Asia
+China Retail,INDOPACOM,East Asia,111,Cadillac XT5,"51,777",0.26%,-17.40%,"62,654",0.33%,87,Asia
+China Retail,INDOPACOM,East Asia,112,Toyota Vios,"50,912",0.25%,-5.40%,"53,842",0.28%,98,Asia
+China Retail,INDOPACOM,East Asia,113,VW Polo,"50,799",0.25%,5.70%,"48,055",0.25%,110,Asia
+China Retail,INDOPACOM,East Asia,114,COS X7,"50,558",0.25%,-36.50%,"79,559",0.42%,70,Asia
+China Retail,INDOPACOM,East Asia,115,Chery Tiggo 8 PLUS,"49,825",0.25%,381.90%,"10,339",0.05%,298,Asia
+China Retail,INDOPACOM,East Asia,116,Lincoln Corsair,"49,594",0.24%,51.60%,"32,705",0.17%,151,Asia
+China Retail,INDOPACOM,East Asia,117,Cadillac XT4,"49,215",0.24%,-14.90%,"57,807",0.30%,94,Asia
+China Retail,INDOPACOM,East Asia,118,Toyota C-HR,"48,499",0.24%,-14.20%,"56,533",0.30%,95,Asia
+China Retail,INDOPACOM,East Asia,119,Audi Q2L,"48,418",0.24%,-7.90%,"52,577",0.28%,101,Asia
+China Retail,INDOPACOM,East Asia,120,VW Teramont,"47,615",0.23%,9.70%,"43,393",0.23%,118,Asia
+China Retail,INDOPACOM,East Asia,121,GAC Trumpchi GM6,"47,169",0.23%,28.70%,"36,659",0.19%,137,Asia
+China Retail,INDOPACOM,East Asia,122,MG 6,"47,162",0.23%,-11.60%,"53,356",0.28%,100,Asia
+China Retail,INDOPACOM,East Asia,123,Chery Arrizo 5/e,"46,912",0.23%,17.30%,"39,994",0.21%,124,Asia
+China Retail,INDOPACOM,East Asia,124,Roewe Clever,"46,608",0.23%,343.80%,"10,502",0.06%,296,Asia
+China Retail,INDOPACOM,East Asia,125,Neta V,"46,386",0.23%,1667.80%,"2,624",0.01%,420,Asia
+China Retail,INDOPACOM,East Asia,126,Chery Tiggo 7,"45,922",0.23%,38.20%,"33,221",0.17%,145,Asia
+China Retail,INDOPACOM,East Asia,127,VW T-Cross,"45,604",0.22%,-11.40%,"51,459",0.27%,106,Asia
+China Retail,INDOPACOM,East Asia,128,Wuling Rongguang,"45,372",0.22%,-8.40%,"49,559",0.26%,108,Asia
+China Retail,INDOPACOM,East Asia,129,Honda Odyssey,"45,236",0.22%,16.60%,"38,804",0.20%,128,Asia
+China Retail,INDOPACOM,East Asia,130,Lynk & Co 01,"44,870",0.22%,37.10%,"32,727",0.17%,150,Asia
+China Retail,INDOPACOM,East Asia,131,Honda Crider,"44,846",0.22%,-65.60%,"130,497",0.68%,41,Asia
+China Retail,INDOPACOM,East Asia,132,Toyota IZOA,"43,866",0.22%,0.20%,"43,764",0.23%,117,Asia
+China Retail,INDOPACOM,East Asia,133,Geely Xingyue L,"43,845",0.22%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,134,Dongfeng Fengxing T5 EVO,"43,775",0.22%,3072.10%,"1,380",0.01%,467,Asia
+China Retail,INDOPACOM,East Asia,135,Hyundai Celesta,"43,655",0.22%,-38.70%,"71,201",0.37%,76,Asia
+China Retail,INDOPACOM,East Asia,136,Ora Good Cat,"41,420",0.20%,3785.60%,"1,066",0.01%,485,Asia
+China Retail,INDOPACOM,East Asia,137,NIO ES6,"41,127",0.20%,47.60%,"27,871",0.15%,170,Asia
+China Retail,INDOPACOM,East Asia,138,Jetta VS7,"40,970",0.20%,29.10%,"31,732",0.17%,160,Asia
+China Retail,INDOPACOM,East Asia,139,Kia Sportage,"40,771",0.20%,-42.40%,"70,724",0.37%,77,Asia
+China Retail,INDOPACOM,East Asia,140,Geely Haoyue ,"40,385",0.20%,69.10%,"23,885",0.13%,197,Asia
+China Retail,INDOPACOM,East Asia,141,BYD F3,"39,735",0.20%,34.60%,"29,512",0.15%,168,Asia
+China Retail,INDOPACOM,East Asia,142,Honda Avancier,"39,690",0.20%,-32.30%,"58,606",0.31%,91,Asia
+China Retail,INDOPACOM,East Asia,143,Leap Motor T03,"39,433",0.19%,586.30%,"5,746",0.03%,355,Asia
+China Retail,INDOPACOM,East Asia,144,Ford Escort,"39,234",0.19%,-1.40%,"39,791",0.21%,125,Asia
+China Retail,INDOPACOM,East Asia,145,Wuling Sunshine,"38,988",0.19%,-15.50%,"46,125",0.24%,112,Asia
+China Retail,INDOPACOM,East Asia,146,Geely Emgrand GL,"38,637",0.19%,-35.50%,"59,916",0.31%,89,Asia
+China Retail,INDOPACOM,East Asia,147,BMW 1 Series,"38,191",0.19%,0.60%,"37,958",0.20%,132,Asia
+China Retail,INDOPACOM,East Asia,148,Geely Vision,"37,926",0.19%,-51.20%,"77,652",0.41%,71,Asia
+China Retail,INDOPACOM,East Asia,149,Honda Envix,"37,892",0.19%,-1.30%,"38,378",0.20%,130,Asia
+China Retail,INDOPACOM,East Asia,150,BYD Qin,"37,833",0.19%,-4.80%,"39,759",0.21%,126,Asia
+China Retail,INDOPACOM,East Asia,151,Volvo S90,"37,647",0.19%,0.20%,"37,561",0.20%,135,Asia
+China Retail,INDOPACOM,East Asia,152,Venucia D60,"37,399",0.18%,-5.90%,"39,746",0.21%,127,Asia
+China Retail,INDOPACOM,East Asia,153,Dongfeng Fengxing Lingzhi (Future),"36,740",0.18%,-13.30%,"42,391",0.22%,120,Asia
+China Retail,INDOPACOM,East Asia,154,VW Tacqua,"36,709",0.18%,10.20%,"33,300",0.17%,144,Asia
+China Retail,INDOPACOM,East Asia,155,Dongfeng Fengshen Hyun,"36,602",0.18%,36.70%,"26,775",0.14%,180,Asia
+China Retail,INDOPACOM,East Asia,156,BYD Yuan,"36,434",0.18%,191.90%,"12,481",0.07%,275,Asia
+China Retail,INDOPACOM,East Asia,157,GAC Trumpchi Empow,"36,350",0.18%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,158,Chery Arrizo 5 PLUS,"36,293",0.18%,2319.50%,"1,500",0.01%,461,Asia
+China Retail,INDOPACOM,East Asia,159,Baojun RS-3,"36,286",0.18%,-30.40%,"52,105",0.27%,103,Asia
+China Retail,INDOPACOM,East Asia,160,Chevrolet Equinox,"35,481",0.18%,-7.90%,"38,523",0.20%,129,Asia
+China Retail,INDOPACOM,East Asia,161,Beijing EU5,"35,421",0.17%,86.00%,"19,043",0.10%,221,Asia
+China Retail,INDOPACOM,East Asia,162,Cadillac XT6,"34,917",0.17%,28.50%,"27,178",0.14%,178,Asia
+China Retail,INDOPACOM,East Asia,163,GAC Trumpchi GS3,"34,910",0.17%,-7.50%,"37,736",0.20%,134,Asia
+China Retail,INDOPACOM,East Asia,164,ChangAn Raeton CC,"34,525",0.17%,8.60%,"31,787",0.17%,159,Asia
+China Retail,INDOPACOM,East Asia,165,Mercedes GLA,"34,506",0.17%,191.80%,"11,825",0.06%,284,Asia
+China Retail,INDOPACOM,East Asia,166,Ford Mondeo,"34,371",0.17%,32.20%,"26,004",0.14%,185,Asia
+China Retail,INDOPACOM,East Asia,167,Baojun 510,"34,249",0.17%,-54.20%,"74,859",0.39%,75,Asia
+China Retail,INDOPACOM,East Asia,168,Wuling Hongguang S3,"34,207",0.17%,-25.20%,"45,723",0.24%,113,Asia
+China Retail,INDOPACOM,East Asia,169,Ford Escape,"33,449",0.17%,31.60%,"25,410",0.13%,190,Asia
+China Retail,INDOPACOM,East Asia,170,Hongqi H9,"33,204",0.16%,198.00%,"11,143",0.06%,288,Asia
+China Retail,INDOPACOM,East Asia,171,Changan UNI–K,"33,159",0.16%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,172,Haval F7,"33,042",0.16%,-56.00%,"75,179",0.39%,74,Asia
+China Retail,INDOPACOM,East Asia,173,Honda UR-V,"32,608",0.16%,18.90%,"27,422",0.14%,175,Asia
+China Retail,INDOPACOM,East Asia,174,Dongfeng Glory 500,"32,338",0.16%,389.10%,"6,612",0.03%,344,Asia
+China Retail,INDOPACOM,East Asia,175,Baojun 730,"32,332",0.16%,-40.90%,"54,680",0.29%,96,Asia
+China Retail,INDOPACOM,East Asia,176,BYD e2,"32,124",0.16%,69.10%,"19,000",0.10%,222,Asia
+China Retail,INDOPACOM,East Asia,177,Wuling Xingchen/Asta,"31,636",0.16%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,178,GAC NE Aion Y,"31,381",0.15%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,179,Buick Encore S,"31,308",0.15%,196.30%,"10,566",0.06%,295,Asia
+China Retail,INDOPACOM,East Asia,180,Haval First Love,"30,826",0.15%,770550.00%,4,0.00%,822,Asia
+China Retail,INDOPACOM,East Asia,181,Hyundai Tucson,"30,375",0.15%,-7.40%,"32,791",0.17%,149,Asia
+China Retail,INDOPACOM,East Asia,182,Ford Edge,"30,347",0.15%,15.50%,"26,269",0.14%,182,Asia
+China Retail,INDOPACOM,East Asia,183,Geely Emgrand GS,"30,333",0.15%,-62.80%,"81,480",0.43%,68,Asia
+China Retail,INDOPACOM,East Asia,184,Geely Emgrand S,"30,227",0.15%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,185,NIO EC6,"29,954",0.15%,531.70%,"4,742",0.02%,373,Asia
+China Retail,INDOPACOM,East Asia,186,Sehol (SOL) E10X,"29,899",0.15%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,187,Jinbei X30,"29,543",0.15%,7.00%,"27,621",0.14%,172,Asia
+China Retail,INDOPACOM,East Asia,188,Dongfeng Fengshen E70,"29,490",0.15%,277.00%,"7,823",0.04%,328,Asia
+China Retail,INDOPACOM,East Asia,189,Toyota Allion,"29,412",0.15%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,190,Buick Enclave,"29,354",0.14%,40.60%,"20,872",0.11%,214,Asia
+China Retail,INDOPACOM,East Asia,191,Xpeng G3,"28,653",0.14%,137.70%,"12,053",0.06%,280,Asia
+China Retail,INDOPACOM,East Asia,192,Volvo S60L,"28,334",0.14%,9.70%,"25,837",0.14%,187,Asia
+China Retail,INDOPACOM,East Asia,193,Roewe i6/ei6 MAX ,"28,300",0.14%,187.50%,"9,842",0.05%,305,Asia
+China Retail,INDOPACOM,East Asia,194,Honda Life,"28,141",0.14%,3749.70%,731,0.00%,513,Asia
+China Retail,INDOPACOM,East Asia,195,Chery Tiggo 3X,"27,780",0.14%,71.30%,"16,219",0.09%,240,Asia
+China Retail,INDOPACOM,East Asia,196,Ford Explorer,"27,363",0.13%,43.20%,"19,106",0.10%,220,Asia
+China Retail,INDOPACOM,East Asia,197,Kia KX3,"27,191",0.13%,-32.40%,"40,226",0.21%,123,Asia
+China Retail,INDOPACOM,East Asia,198,Lynk & Co 05,"26,965",0.13%,-1.60%,"27,391",0.14%,176,Asia
+China Retail,INDOPACOM,East Asia,199,Mazda CX-4,"26,334",0.13%,-41.60%,"45,082",0.24%,115,Asia
+China Retail,INDOPACOM,East Asia,200,Hyundai iX25,"26,277",0.13%,-31.50%,"38,344",0.20%,131,Asia
+China Retail,INDOPACOM,East Asia,201,Skoda Kamiq,"26,249",0.13%,-18.30%,"32,133",0.17%,156,Asia
+China Retail,INDOPACOM,East Asia,202,Wuling Hongguang Plus,"25,877",0.13%,-29.60%,"36,780",0.19%,136,Asia
+China Retail,INDOPACOM,East Asia,203,Weltmeister EX5,"25,686",0.13%,50.60%,"17,054",0.09%,231,Asia
+China Retail,INDOPACOM,East Asia,204,Mazda CX-5,"25,524",0.13%,-23.90%,"33,520",0.18%,142,Asia
+China Retail,INDOPACOM,East Asia,205,Baojun 530,"25,359",0.13%,-51.40%,"52,146",0.27%,102,Asia
+China Retail,INDOPACOM,East Asia,206,BMW X2,"25,199",0.12%,-2.10%,"25,745",0.14%,188,Asia
+China Retail,INDOPACOM,East Asia,207,Buick Verano,"25,123",0.12%,-3.40%,"26,007",0.14%,184,Asia
+China Retail,INDOPACOM,East Asia,208,Mazda6 Atenza,"24,934",0.12%,-18.60%,"30,626",0.16%,163,Asia
+China Retail,INDOPACOM,East Asia,209,Dongfeng Fengshen AX7,"24,425",0.12%,9.90%,"22,215",0.12%,206,Asia
+China Retail,INDOPACOM,East Asia,210,Ford Focus,"24,351",0.12%,-26.50%,"33,115",0.17%,147,Asia
+China Retail,INDOPACOM,East Asia,211,Haval Chitu,"24,237",0.12%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,212,Toyota Crown Kluger,"24,184",0.12%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,213,Land Rover Discovery Sport,"24,161",0.12%,1.40%,"23,831",0.13%,199,Asia
+China Retail,INDOPACOM,East Asia,214,Buick Velite 6,"24,082",0.12%,150.60%,"9,611",0.05%,308,Asia
+China Retail,INDOPACOM,East Asia,215,Kia K3,"23,588",0.12%,-30.10%,"33,745",0.18%,140,Asia
+China Retail,INDOPACOM,East Asia,216,Jetour X70,"23,529",0.12%,-27.60%,"32,517",0.17%,153,Asia
+China Retail,INDOPACOM,East Asia,217,Beijing BJ40,"23,207",0.11%,33.70%,"17,352",0.09%,229,Asia
+China Retail,INDOPACOM,East Asia,218,VW CC,"23,023",0.11%,-14.60%,"26,949",0.14%,179,Asia
+China Retail,INDOPACOM,East Asia,219,Roewe RX5 MAX,"22,817",0.11%,-55.00%,"50,717",0.27%,107,Asia
+China Retail,INDOPACOM,East Asia,220,BMW iX3,"22,683",0.11%,4736.50%,469,0.00%,550,Asia
+China Retail,INDOPACOM,East Asia,221,Maxus G50,"22,449",0.11%,11.60%,"20,110",0.11%,216,Asia
+China Retail,INDOPACOM,East Asia,222,Hyundai Verna,"22,347",0.11%,-30.60%,"32,186",0.17%,155,Asia
+China Retail,INDOPACOM,East Asia,223,JAC Refine M3,"22,300",0.11%,50.60%,"14,809",0.08%,252,Asia
+China Retail,INDOPACOM,East Asia,224,MG ZS,"22,112",0.11%,-32.30%,"32,671",0.17%,152,Asia
+China Retail,INDOPACOM,East Asia,225,Skoda Octavia,"22,091",0.11%,-33.40%,"33,188",0.17%,146,Asia
+China Retail,INDOPACOM,East Asia,226,VW ID.4 Crozz,"22,046",0.11%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,227,BYD Song,"21,410",0.11%,21.00%,"17,691",0.09%,226,Asia
+China Retail,INDOPACOM,East Asia,228,Beijing X7,"21,252",0.10%,52.20%,"13,962",0.07%,260,Asia
+China Retail,INDOPACOM,East Asia,229,Toyota Vios FS,"21,207",0.10%,-4.00%,"22,088",0.12%,207,Asia
+China Retail,INDOPACOM,East Asia,230,Chevrolet Onix/Cavalier,"21,062",0.10%,-38.30%,"34,116",0.18%,139,Asia
+China Retail,INDOPACOM,East Asia,231,Dongfeng Glory 580 Pro,"20,549",0.10%,70.30%,"12,063",0.06%,279,Asia
+China Retail,INDOPACOM,East Asia,232,Nissan Kicks,"20,535",0.10%,-30.40%,"29,506",0.15%,169,Asia
+China Retail,INDOPACOM,East Asia,233,Skoda Rapid,"20,354",0.10%,-25.50%,"27,326",0.14%,177,Asia
+China Retail,INDOPACOM,East Asia,234,VW ID.4 X,"20,307",0.10%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,235,Jetour X90,"20,261",0.10%,-5.10%,"21,347",0.11%,211,Asia
+China Retail,INDOPACOM,East Asia,236,Baojun RC-5,"20,202",0.10%,51.40%,"13,343",0.07%,268,Asia
+China Retail,INDOPACOM,East Asia,237,BYD Dolphin,"20,192",0.10%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,238,NIO ES8,"19,778",0.10%,82.70%,"10,828",0.06%,294,Asia
+China Retail,INDOPACOM,East Asia,239,VW Teramont X,"19,769",0.10%,-20.10%,"24,745",0.13%,192,Asia
+China Retail,INDOPACOM,East Asia,240,Kia Stonic,"19,734",0.10%,-7.30%,"21,286",0.11%,212,Asia
+China Retail,INDOPACOM,East Asia,241,Cadillac CT6,"19,253",0.09%,-12.20%,"21,922",0.12%,208,Asia
+China Retail,INDOPACOM,East Asia,242,BYD Song MAX,"19,232",0.09%,-26.20%,"26,064",0.14%,183,Asia
+China Retail,INDOPACOM,East Asia,243,Bestune B70,"19,218",0.09%,958.30%,"1,816",0.01%,444,Asia
+China Retail,INDOPACOM,East Asia,244,Lincoln Nautilus (translates as Navigator),"19,188",0.09%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,245,Ora White Cat,"19,040",0.09%,197.20%,"6,407",0.03%,346,Asia
+China Retail,INDOPACOM,East Asia,246,Kia Forte Furuidi,"18,959",0.09%,13.60%,"16,685",0.09%,235,Asia
+China Retail,INDOPACOM,East Asia,247,WEY VV6,"18,813",0.09%,-41.00%,"31,867",0.17%,158,Asia
+China Retail,INDOPACOM,East Asia,248,Mazda CX-30,"18,322",0.09%,29.30%,"14,167",0.07%,259,Asia
+China Retail,INDOPACOM,East Asia,249,Bestune T77,"18,225",0.09%,-34.40%,"27,784",0.15%,171,Asia
+China Retail,INDOPACOM,East Asia,250,GAC Trumpchi GS5,"18,158",0.09%,6.50%,"17,045",0.09%,232,Asia
+China Retail,INDOPACOM,East Asia,251,Skoda Karoq,"18,092",0.09%,-30.00%,"25,847",0.14%,186,Asia
+China Retail,INDOPACOM,East Asia,252,GAC NE Aion V,"17,956",0.09%,155.30%,"7,034",0.04%,340,Asia
+China Retail,INDOPACOM,East Asia,253,Dongfeng Glory S560,"17,899",0.09%,-42.80%,"31,275",0.16%,161,Asia
+China Retail,INDOPACOM,East Asia,254,Neta U Pro,"17,684",0.09%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,255,Venucia Star,"17,364",0.09%,19.30%,"14,560",0.08%,254,Asia
+China Retail,INDOPACOM,East Asia,256,VW Viloran,"16,912",0.08%,48.10%,"11,423",0.06%,285,Asia
+China Retail,INDOPACOM,East Asia,257,Volvo XC40,"16,590",0.08%,-29.80%,"23,639",0.12%,201,Asia
+China Retail,INDOPACOM,East Asia,258,Ford Territory,"16,397",0.08%,-47.60%,"31,263",0.16%,162,Asia
+China Retail,INDOPACOM,East Asia,259,Mercedes V-Class,"16,391",0.08%,1.90%,"16,082",0.08%,245,Asia
+China Retail,INDOPACOM,East Asia,260,Geely Borui (GC9),"16,365",0.08%,-17.50%,"19,836",0.10%,217,Asia
+China Retail,INDOPACOM,East Asia,261,Geely Jiaji,"16,214",0.08%,-45.10%,"29,529",0.15%,167,Asia
+China Retail,INDOPACOM,East Asia,262,Dongfeng Fengshen Hyun GS,"15,883",0.08%,125.10%,"7,057",0.04%,338,Asia
+China Retail,INDOPACOM,East Asia,263,COS X7 Plus,"15,792",0.08%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,264,BYD Qin Pro,"15,771",0.08%,-23.10%,"20,510",0.11%,215,Asia
+China Retail,INDOPACOM,East Asia,265,Cadillac CT4,"15,587",0.08%,16.10%,"13,424",0.07%,267,Asia
+China Retail,INDOPACOM,East Asia,266,Geely Icon,"15,511",0.08%,-36.40%,"24,405",0.13%,196,Asia
+China Retail,INDOPACOM,East Asia,267,Roewe iMAX 8,"15,373",0.08%,353.90%,"3,387",0.02%,396,Asia
+China Retail,INDOPACOM,East Asia,268,Nissan Terra,"15,278",0.08%,7.60%,"14,201",0.07%,258,Asia
+China Retail,INDOPACOM,East Asia,269,Chana Raesor M60,"15,167",0.07%,28.10%,"11,837",0.06%,283,Asia
+China Retail,INDOPACOM,East Asia,270,Hyundai La Festa,"15,089",0.07%,-70.90%,"51,787",0.27%,104,Asia
+China Retail,INDOPACOM,East Asia,271,Venucia T60,"15,076",0.07%,-14.40%,"17,616",0.09%,227,Asia
+China Retail,INDOPACOM,East Asia,272,Haval H9,"14,782",0.07%,-11.50%,"16,703",0.09%,234,Asia
+China Retail,INDOPACOM,East Asia,273,Cowin Xuanjie,"14,715",0.07%,118.20%,"6,745",0.04%,343,Asia
+China Retail,INDOPACOM,East Asia,274,Sehol (SOL) X8,"14,677",0.07%,392.00%,"2,983",0.02%,412,Asia
+China Retail,INDOPACOM,East Asia,275,Kia K5,"14,558",0.07%,12.50%,"12,938",0.07%,269,Asia
+China Retail,INDOPACOM,East Asia,276,Audi Q3 Sportback,"14,491",0.07%,247.30%,"4,173",0.02%,382,Asia
+China Retail,INDOPACOM,East Asia,277,Buick Encore Plus,"14,418",0.07%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,278,Mercedes Vito,"14,410",0.07%,5.40%,"13,673",0.07%,264,Asia
+China Retail,INDOPACOM,East Asia,279,GAC Trumpchi GS8,"14,346",0.07%,-8.50%,"15,673",0.08%,248,Asia
+China Retail,INDOPACOM,East Asia,280,Range Rover Evoque,"14,084",0.07%,15.80%,"12,161",0.06%,277,Asia
+China Retail,INDOPACOM,East Asia,281,Nissan Murano,"13,901",0.07%,-14.90%,"16,339",0.09%,239,Asia
+China Retail,INDOPACOM,East Asia,282,Hongqi HS7,"13,899",0.07%,66.50%,"8,348",0.04%,323,Asia
+China Retail,INDOPACOM,East Asia,283,Chana Oshan X70A,"13,635",0.07%,-57.40%,"31,971",0.17%,157,Asia
+China Retail,INDOPACOM,East Asia,284,WEY VV5,"13,604",0.07%,-42.70%,"23,737",0.12%,200,Asia
+China Retail,INDOPACOM,East Asia,285,Beijing X3,"13,594",0.07%,-13.50%,"15,719",0.08%,247,Asia
+China Retail,INDOPACOM,East Asia,286,Lincoln Aviator,"13,457",0.07%,82.70%,"7,366",0.04%,335,Asia
+China Retail,INDOPACOM,East Asia,287,VW Tayron X,"13,448",0.07%,38.60%,"9,701",0.05%,307,Asia
+China Retail,INDOPACOM,East Asia,288,Haval F7x,"13,438",0.07%,-45.70%,"24,727",0.13%,193,Asia
+China Retail,INDOPACOM,East Asia,289,Levdeo (Letin) Mango,"13,197",0.07%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,290,Roewe RX3,"13,049",0.06%,-30.30%,"18,717",0.10%,224,Asia
+China Retail,INDOPACOM,East Asia,291,Jeep Compass,"12,997",0.06%,-39.30%,"21,403",0.11%,210,Asia
+China Retail,INDOPACOM,East Asia,292,Dongfeng Glory 580,"12,960",0.06%,-65.80%,"37,908",0.20%,133,Asia
+China Retail,INDOPACOM,East Asia,293,Dongfeng Fengshen Hyun Max,"12,927",0.06%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,294,ChangAn CS85 Coupe,"12,848",0.06%,-11.10%,"14,457",0.08%,256,Asia
+China Retail,INDOPACOM,East Asia,295,Peugeot 408,"12,706",0.06%,39.00%,"9,143",0.05%,312,Asia
+China Retail,INDOPACOM,East Asia,296,VW Tiguan X,"12,472",0.06%,952.50%,"1,185",0.01%,482,Asia
+China Retail,INDOPACOM,East Asia,297,Toyota Yaris L Sedan ,"12,334",0.06%,-55.30%,"27,620",0.14%,173,Asia
+China Retail,INDOPACOM,East Asia,298,Geometry A,"12,215",0.06%,95.00%,"6,263",0.03%,347,Asia
+China Retail,INDOPACOM,East Asia,299,Jaguar XEL,"12,157",0.06%,-5.50%,"12,859",0.07%,270,Asia
+China Retail,INDOPACOM,East Asia,300,Audi Q5L Sportback,"12,044",0.06%,602100.00%,2,0.00%,851,Asia
+China Retail,INDOPACOM,East Asia,301,VW Talagon,"11,960",0.06%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,302,Baojun RM-5,"11,952",0.06%,-63.70%,"32,947",0.17%,148,Asia
+China Retail,INDOPACOM,East Asia,303,Sehol (SOL) A5,"11,885",0.06%,1299.90%,849,0.00%,506,Asia
+China Retail,INDOPACOM,East Asia,304,Ford Equator,"11,768",0.06%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,305,Suzuki Alivio,"11,163",0.06%,-22.20%,"14,348",0.08%,257,Asia
+China Retail,INDOPACOM,East Asia,306,Lynk & Co 02,"10,903",0.05%,-52.10%,"22,766",0.12%,204,Asia
+China Retail,INDOPACOM,East Asia,307,Exeed LX,"10,842",0.05%,36.40%,"7,951",0.04%,326,Asia
+China Retail,INDOPACOM,East Asia,308,Exeed TXL,"10,699",0.05%,323.10%,"2,529",0.01%,423,Asia
+China Retail,INDOPACOM,East Asia,309,Dongfeng Fengxing Jingye S50,"10,598",0.05%,560.30%,"1,605",0.01%,456,Asia
+China Retail,INDOPACOM,East Asia,310,Baojun E100,"10,314",0.05%,-53.70%,"22,262",0.12%,205,Asia
+China Retail,INDOPACOM,East Asia,311,R ER6,"10,119",0.05%,397.20%,"2,035",0.01%,438,Asia
+China Retail,INDOPACOM,East Asia,312,Chana Honor S,"10,003",0.05%,-46.50%,"18,714",0.10%,225,Asia
+China Retail,INDOPACOM,East Asia,313,VW Phideon,"9,792",0.05%,6.00%,"9,239",0.05%,310,Asia
+China Retail,INDOPACOM,East Asia,314,Dongfeng Fengxing T5,"9,743",0.05%,178.80%,"3,494",0.02%,392,Asia
+China Retail,INDOPACOM,East Asia,315,Dongfeng Glory 330,"9,702",0.05%,-34.30%,"14,764",0.08%,253,Asia
+China Retail,INDOPACOM,East Asia,316,Hyundai Sonata,"9,682",0.05%,-28.60%,"13,567",0.07%,266,Asia
+China Retail,INDOPACOM,East Asia,317,WEY Mocha,"9,667",0.05%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,318,Venucia Grand V,"9,654",0.05%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,319,Geometry C,"9,595",0.05%,128.20%,"4,205",0.02%,379,Asia
+China Retail,INDOPACOM,East Asia,320,Buick Encore GX,"9,526",0.05%,-49.30%,"18,794",0.10%,223,Asia
+China Retail,INDOPACOM,East Asia,321,GAC Trumpchi GS4 Plus,"9,271",0.05%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,322,Wuling Journey,"9,257",0.05%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,323,Citroen C5 Aircross,"9,221",0.05%,-8.80%,"10,106",0.05%,301,Asia
+China Retail,INDOPACOM,East Asia,324,Geely Xingyue (Star),"9,200",0.05%,-63.90%,"25,502",0.13%,189,Asia
+China Retail,INDOPACOM,East Asia,325,Infiniti QX50,"9,060",0.04%,-43.70%,"16,084",0.08%,244,Asia
+China Retail,INDOPACOM,East Asia,326,Citroen C5 X,"8,932",0.04%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,327,Hyundai Santa Fe,"8,866",0.04%,-21.30%,"11,263",0.06%,287,Asia
+China Retail,INDOPACOM,East Asia,328,FAW Bestune B30,"8,809",0.04%,5.60%,"8,342",0.04%,324,Asia
+China Retail,INDOPACOM,East Asia,329,Ford Taurus,"8,716",0.04%,11.10%,"7,848",0.04%,327,Asia
+China Retail,INDOPACOM,East Asia,330,VW ID.6 Crozz,"8,527",0.04%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,331,Peugeot 508,"8,202",0.04%,59.00%,"5,159",0.03%,364,Asia
+China Retail,INDOPACOM,East Asia,332,Betsune T99,"8,191",0.04%,-33.30%,"12,285",0.06%,276,Asia
+China Retail,INDOPACOM,East Asia,333,Chana Oshan A600,"8,189",0.04%,66.90%,"4,907",0.03%,366,Asia
+China Retail,INDOPACOM,East Asia,334,Peugeot 4008,"8,102",0.04%,7.90%,"7,512",0.04%,333,Asia
+China Retail,INDOPACOM,East Asia,335,Dongfeng Fengxing Plus,"8,027",0.04%,823.70%,869,0.00%,503,Asia
+China Retail,INDOPACOM,East Asia,336,Seres 5,"7,962",0.04%,934.00%,770,0.00%,511,Asia
+China Retail,INDOPACOM,East Asia,337,Dongfeng Xiaokang K01,"7,957",0.04%,-12.80%,"9,127",0.05%,313,Asia
+China Retail,INDOPACOM,East Asia,338,Buick GL6,"7,904",0.04%,-28.50%,"11,047",0.06%,291,Asia
+China Retail,INDOPACOM,East Asia,339,Bestune T33,"7,887",0.04%,73.30%,"4,552",0.02%,374,Asia
+China Retail,INDOPACOM,East Asia,340,Dongfeng Fengxing T1EV,"7,876",0.04%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,341,ChangAn Yuexiang,"7,761",0.04%,-68.30%,"24,494",0.13%,195,Asia
+China Retail,INDOPACOM,East Asia,342,Baojun E200,"7,733",0.04%,-52.20%,"16,164",0.08%,243,Asia
+China Retail,INDOPACOM,East Asia,343,Bestune T55,"7,668",0.04%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,344,Beijing EC5,"7,641",0.04%,82.00%,"4,198",0.02%,381,Asia
+China Retail,INDOPACOM,East Asia,345,Mitsubishi ASX,"7,637",0.04%,-31.10%,"11,092",0.06%,290,Asia
+China Retail,INDOPACOM,East Asia,346,Xpeng P5,"7,602",0.04%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,347,Skoda Kodiaq,"7,577",0.04%,-53.80%,"16,416",0.09%,237,Asia
+China Retail,INDOPACOM,East Asia,348,Lingbox Leo,"7,525",0.04%,1369.70%,512,0.00%,543,Asia
+China Retail,INDOPACOM,East Asia,349,Skoda Kamiq GT,"7,448",0.04%,-24.50%,"9,861",0.05%,304,Asia
+China Retail,INDOPACOM,East Asia,350,Baojun 310,"7,406",0.04%,-54.30%,"16,188",0.08%,242,Asia
+China Retail,INDOPACOM,East Asia,351,Maxus G10,"7,380",0.04%,-17.90%,"8,986",0.05%,314,Asia
+China Retail,INDOPACOM,East Asia,352,Hyundai Mistra,"7,269",0.04%,-75.60%,"29,773",0.16%,166,Asia
+China Retail,INDOPACOM,East Asia,353,Jetour X70M,"7,260",0.04%,-47.70%,"13,874",0.07%,263,Asia
+China Retail,INDOPACOM,East Asia,354,Chevrolet Trailblazer,"7,227",0.04%,10.20%,"6,557",0.03%,345,Asia
+China Retail,INDOPACOM,East Asia,355,Jeep Grand Commander,"7,196",0.04%,2.00%,"7,053",0.04%,339,Asia
+China Retail,INDOPACOM,East Asia,356,Jaguar XFL,"7,179",0.04%,22.10%,"5,881",0.03%,351,Asia
+China Retail,INDOPACOM,East Asia,357,Dongfeng Fengxing SX6,"7,089",0.03%,-19.10%,"8,759",0.05%,316,Asia
+China Retail,INDOPACOM,East Asia,358,Buick Encore,"7,054",0.03%,-49.30%,"13,904",0.07%,262,Asia
+China Retail,INDOPACOM,East Asia,359,Skoda Superb,"7,034",0.03%,-44.80%,"12,741",0.07%,273,Asia
+China Retail,INDOPACOM,East Asia,360,COS Cosmos,"6,996",0.03%,32.00%,"5,298",0.03%,363,Asia
+China Retail,INDOPACOM,East Asia,361,ChangAn Eado DT,"6,986",0.03%,-63.50%,"19,161",0.10%,219,Asia
+China Retail,INDOPACOM,East Asia,362,Sehol (SOL) QX,"6,853",0.03%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,363,Hongqi H7,"6,749",0.03%,-12.10%,"7,678",0.04%,330,Asia
+China Retail,INDOPACOM,East Asia,364,VW ID.6 X,"6,731",0.03%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,365,VW Touran,"6,702",0.03%,-32.90%,"9,992",0.05%,303,Asia
+China Retail,INDOPACOM,East Asia,366,Maxus G20,"6,619",0.03%,13.90%,"5,809",0.03%,353,Asia
+China Retail,INDOPACOM,East Asia,367,Beijing EC Series,"6,571",0.03%,-15.20%,"7,750",0.04%,329,Asia
+China Retail,INDOPACOM,East Asia,368,Haima 7X,"6,529",0.03%,921.80%,639,0.00%,524,Asia
+China Retail,INDOPACOM,East Asia,369,Voyah Free,"6,433",0.03%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,370,VGV U70,"6,083",0.03%,-40.10%,"10,160",0.05%,300,Asia
+China Retail,INDOPACOM,East Asia,371,Baojun 360,"6,040",0.03%,-72.40%,"21,906",0.11%,209,Asia
+China Retail,INDOPACOM,East Asia,372,Mercedes EQC ,"5,993",0.03%,63.20%,"3,672",0.02%,389,Asia
+China Retail,INDOPACOM,East Asia,373,Hongqi E-QM5,"5,949",0.03%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,374,Kia Pegas,"5,932",0.03%,-50.60%,"12,008",0.06%,281,Asia
+China Retail,INDOPACOM,East Asia,375,BYD e3,"5,888",0.03%,9.40%,"5,381",0.03%,360,Asia
+China Retail,INDOPACOM,East Asia,376,COS Kosai 5,"5,861",0.03%,10.40%,"5,307",0.03%,362,Asia
+China Retail,INDOPACOM,East Asia,377,Toyota Harrier,"5,825",0.03%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,378,Haval Shenshou,"5,662",0.03%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,379,ChangAn CS15,"5,636",0.03%,-34.00%,"8,545",0.04%,319,Asia
+China Retail,INDOPACOM,East Asia,380,JAC Refine M4,"5,581",0.03%,-18.40%,"6,839",0.04%,342,Asia
+China Retail,INDOPACOM,East Asia,381,WEY VV7,"5,554",0.03%,-64.00%,"15,433",0.08%,250,Asia
+China Retail,INDOPACOM,East Asia,382,Zeekr 001,"5,546",0.03%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,383,Chevrolet Orlando,"5,511",0.03%,-54.60%,"12,140",0.06%,278,Asia
+China Retail,INDOPACOM,East Asia,384,Hyundai Custo,"5,501",0.03%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,385,COS 1°,"5,308",0.03%,26.40%,"4,199",0.02%,380,Asia
+China Retail,INDOPACOM,East Asia,386,Hyundai Reina,"5,250",0.03%,-83.70%,"32,273",0.17%,154,Asia
+China Retail,INDOPACOM,East Asia,387,VW ID.3,"5,196",0.03%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,388,Weltmeister W6,"5,048",0.02%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,389,Jeep Cherokee,"5,045",0.02%,-53.90%,"10,944",0.06%,293,Asia
+China Retail,INDOPACOM,East Asia,390,Ciimo M-NV,"5,041",0.02%,8743.90%,57,0.00%,661,Asia
+China Retail,INDOPACOM,East Asia,391,Beijing EU7,"5,012",0.02%,84.40%,"2,718",0.01%,417,Asia
+China Retail,INDOPACOM,East Asia,392,Dongfeng Xiaokang EC36,"4,912",0.02%,77.30%,"2,770",0.01%,416,Asia
+China Retail,INDOPACOM,East Asia,393,Roewe i6/ei6,"4,906",0.02%,-78.80%,"23,173",0.12%,202,Asia
+China Retail,INDOPACOM,East Asia,394,Cowin X3,"4,828",0.02%,-13.80%,"5,601",0.03%,357,Asia
+China Retail,INDOPACOM,East Asia,395,Mitsubishi Eclipse Cross,"4,826",0.02%,-49.20%,"9,506",0.05%,309,Asia
+China Retail,INDOPACOM,East Asia,396,Chana Star 5,"4,783",0.02%,665.30%,625,0.00%,529,Asia
+China Retail,INDOPACOM,East Asia,397,Weltmeister E.5,"4,723",0.02%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,398,Maple 80V,"4,704",0.02%,19500.00%,24,0.00%,711,Asia
+China Retail,INDOPACOM,East Asia,399,GAC Trumpchi GA6,"4,685",0.02%,-57.90%,"11,139",0.06%,289,Asia
+China Retail,INDOPACOM,East Asia,400,Baojun E300,"4,584",0.02%,-39.40%,"7,569",0.04%,332,Asia
+China Retail,INDOPACOM,East Asia,401,Toyota Levin GT,"4,530",0.02%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,402,Exeed VX,"4,469",0.02%,3624.20%,120,0.00%,621,Asia
+China Retail,INDOPACOM,East Asia,403,Infiniti Q50L,"4,417",0.02%,-49.30%,"8,712",0.05%,317,Asia
+China Retail,INDOPACOM,East Asia,404,Denza X,"4,404",0.02%,28.60%,"3,424",0.02%,393,Asia
+China Retail,INDOPACOM,East Asia,405,GAC Toyota iA5,"4,395",0.02%,-40.40%,"7,374",0.04%,334,Asia
+China Retail,INDOPACOM,East Asia,406,HiPhi X,"4,237",0.02%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,407,Chery QQ Ice Cream,"4,160",0.02%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,408,Citroen C6,"4,096",0.02%,136.50%,"1,732",0.01%,450,Asia
+China Retail,INDOPACOM,East Asia,409,Baojun RC-6,"4,022",0.02%,-68.50%,"12,750",0.07%,272,Asia
+China Retail,INDOPACOM,East Asia,410,R Marvel R,"4,002",0.02%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,411,Kia KX5,"3,953",0.02%,-61.20%,"10,178",0.05%,299,Asia
+China Retail,INDOPACOM,East Asia,412,Buick Excelle,"3,929",0.02%,-17.20%,"4,745",0.02%,372,Asia
+China Retail,INDOPACOM,East Asia,413,Hongqi E-HS9,"3,916",0.02%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,414,COS 1° Pro,"3,830",0.02%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,415,Nissan Lannia,"3,799",0.02%,-84.10%,"23,850",0.13%,198,Asia
+China Retail,INDOPACOM,East Asia,416,Soueast DX5,"3,782",0.02%,-31.90%,"5,550",0.03%,358,Asia
+China Retail,INDOPACOM,East Asia,417,Qoros 7,"3,781",0.02%,25.70%,"3,008",0.02%,411,Asia
+China Retail,INDOPACOM,East Asia,418,Beijing EX3,"3,754",0.02%,23.40%,"3,043",0.02%,408,Asia
+China Retail,INDOPACOM,East Asia,419,ChangAn Benben,"3,711",0.02%,-64.50%,"10,452",0.05%,297,Asia
+China Retail,INDOPACOM,East Asia,420,Dongfeng Xiaokang C31,"3,706",0.02%,19.80%,"3,093",0.02%,407,Asia
+China Retail,INDOPACOM,East Asia,421,Leap Motor C11,"3,601",0.02%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,422,Beijing BJ80,"3,557",0.02%,69.90%,"2,093",0.01%,435,Asia
+China Retail,INDOPACOM,East Asia,423,Yema Bojun (T60),"3,369",0.02%,-9.10%,"3,706",0.02%,388,Asia
+China Retail,INDOPACOM,East Asia,424,Maxus Euniq 5,"3,365",0.02%,239.20%,992,0.01%,490,Asia
+China Retail,INDOPACOM,East Asia,425,Peugeot 5008,"3,326",0.02%,-2.10%,"3,398",0.02%,395,Asia
+China Retail,INDOPACOM,East Asia,426,Acura RDX,"3,290",0.02%,-46.60%,"6,166",0.03%,348,Asia
+China Retail,INDOPACOM,East Asia,427,Acura CDX,"3,264",0.02%,-46.00%,"6,042",0.03%,349,Asia
+China Retail,INDOPACOM,East Asia,428,Ora Good Cat GT,"3,167",0.02%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,429,Everus VE1,"3,127",0.02%,35.20%,"2,313",0.01%,430,Asia
+China Retail,INDOPACOM,East Asia,430,Chana Star 9,"3,109",0.02%,-7.40%,"3,359",0.02%,397,Asia
+China Retail,INDOPACOM,East Asia,431,Dongfeng Fengxing T5L,"3,088",0.02%,-61.50%,"8,011",0.04%,325,Asia
+China Retail,INDOPACOM,East Asia,432,Ford Kuga,"3,081",0.02%,-57.60%,"7,272",0.04%,337,Asia
+China Retail,INDOPACOM,East Asia,433,JMEV EV3,"3,060",0.02%,100.40%,"1,527",0.01%,459,Asia
+China Retail,INDOPACOM,East Asia,434,Borgward BX5,"2,991",0.01%,-47.80%,"5,725",0.03%,356,Asia
+China Retail,INDOPACOM,East Asia,435,VW C-Trek,"2,990",0.01%,-1.60%,"3,039",0.02%,409,Asia
+China Retail,INDOPACOM,East Asia,436,Baojun 310W,"2,971",0.01%,-76.70%,"12,767",0.07%,271,Asia
+China Retail,INDOPACOM,East Asia,437,Lynk & Co 02 Hatchback,"2,948",0.01%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,438,Hyundai Elantra Lingdong,"2,856",0.01%,-96.40%,"80,416",0.42%,69,Asia
+China Retail,INDOPACOM,East Asia,439,Fukang ES500,"2,840",0.01%,3844.40%,72,0.00%,650,Asia
+China Retail,INDOPACOM,East Asia,440,Skoda Rapid Spaceback,"2,758",0.01%,-31.90%,"4,051",0.02%,386,Asia
+China Retail,INDOPACOM,East Asia,441,SWM X7,"2,753",0.01%,29.40%,"2,128",0.01%,434,Asia
+China Retail,INDOPACOM,East Asia,442,Jetour X90 PLUS,"2,738",0.01%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,443,Arcfox aT,"2,693",0.01%,696.70%,338,0.00%,568,Asia
+China Retail,INDOPACOM,East Asia,444,Beijing U5 (ex-Senova D50),"2,669",0.01%,-73.50%,"10,055",0.05%,302,Asia
+China Retail,INDOPACOM,East Asia,445,Chevrolet Trax,"2,659",0.01%,-71.20%,"9,230",0.05%,311,Asia
+China Retail,INDOPACOM,East Asia,446,Pocco Duo Duo,"2,655",0.01%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,447,Baojun Valli,"2,654",0.01%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,448,SWM G05,"2,637",0.01%,-35.60%,"4,094",0.02%,384,Asia
+China Retail,INDOPACOM,East Asia,449,Jeep Renegade,"2,633",0.01%,-22.90%,"3,416",0.02%,394,Asia
+China Retail,INDOPACOM,East Asia,450,JAC Refine S4,"2,600",0.01%,-69.40%,"8,496",0.04%,320,Asia
+China Retail,INDOPACOM,East Asia,451,Roewe RX8,"2,549",0.01%,-47.80%,"4,880",0.03%,367,Asia
+China Retail,INDOPACOM,East Asia,452,Ford Everest,"2,540",0.01%,-84.50%,"16,367",0.09%,238,Asia
+China Retail,INDOPACOM,East Asia,453,Exeed TX,"2,526",0.01%,-57.80%,"5,988",0.03%,350,Asia
+China Retail,INDOPACOM,East Asia,454,Haval H7,"2,506",0.01%,-67.10%,"7,610",0.04%,331,Asia
+China Retail,INDOPACOM,East Asia,455,ChangAn CS95,"2,489",0.01%,-23.30%,"3,244",0.02%,402,Asia
+China Retail,INDOPACOM,East Asia,456,Skoda Kodiaq GT,"2,478",0.01%,-57.10%,"5,771",0.03%,354,Asia
+China Retail,INDOPACOM,East Asia,457,MG HS,"2,445",0.01%,-82.10%,"13,645",0.07%,265,Asia
+China Retail,INDOPACOM,East Asia,458,Baojun RS-5,"2,427",0.01%,-78.60%,"11,335",0.06%,286,Asia
+China Retail,INDOPACOM,East Asia,459,Haval H6S,"2,361",0.01%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,460,Geely Xingyue S,"2,345",0.01%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,461,Citroen C3-XR,"2,319",0.01%,-11.50%,"2,620",0.01%,421,Asia
+China Retail,INDOPACOM,East Asia,462,Sehol (SOL) E20X,"2,299",0.01%,908.30%,228,0.00%,590,Asia
+China Retail,INDOPACOM,East Asia,463,Sehol (SOL) E50A,"2,294",0.01%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,464,GAC Trumpchi GA4,"2,203",0.01%,841.50%,234,0.00%,589,Asia
+China Retail,INDOPACOM,East Asia,465,Chevrolet Menlo,"2,189",0.01%,51.70%,"1,443",0.01%,465,Asia
+China Retail,INDOPACOM,East Asia,466,Haval F5,"2,148",0.01%,-89.00%,"19,575",0.10%,218,Asia
+China Retail,INDOPACOM,East Asia,467,Arcfox aS,"2,134",0.01%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,468,Mercedes AMG A ,"2,090",0.01%,-2.30%,"2,140",0.01%,433,Asia
+China Retail,INDOPACOM,East Asia,469,BYD D1,"2,080",0.01%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,470,JAC Jiayue A5,"2,065",0.01%,-92.50%,"27,465",0.14%,174,Asia
+China Retail,INDOPACOM,East Asia,471,Peugeot 2008,"2,063",0.01%,188.10%,716,0.00%,515,Asia
+China Retail,INDOPACOM,East Asia,472,Chevrolet Blazer,"2,061",0.01%,-51.20%,"4,227",0.02%,378,Asia
+China Retail,INDOPACOM,East Asia,473,BYD e5,"2,032",0.01%,-58.00%,"4,839",0.03%,369,Asia
+China Retail,INDOPACOM,East Asia,474,Bestune NAT,"1,997",0.01%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,475,Beijing X5,"1,942",0.01%,119.40%,885,0.00%,517,Asia
+China Retail,INDOPACOM,East Asia,476,GAC Honda Yile,"1,897",0.01%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,477,Zedriv GC1,"1,821",0.01%,4.10%,"1,749",0.01%,449,Asia
+China Retail,INDOPACOM,East Asia,478,ChangAn CS55 E-rock,"1,738",0.01%,196.60%,586,0.00%,531,Asia
+China Retail,INDOPACOM,East Asia,479,Chana Star V3,"1,730",0.01%,-23.00%,"2,248",0.01%,431,Asia
+China Retail,INDOPACOM,East Asia,480,Hongqi E-HS3,"1,713",0.01%,-47.60%,"3,272",0.02%,400,Asia
+China Retail,INDOPACOM,East Asia,481,Beijing EU Series,"1,683",0.01%,-81.10%,"8,905",0.05%,315,Asia
+China Retail,INDOPACOM,East Asia,482,BYD e6,"1,683",0.01%,27950.00%,6,0.00%,792,Asia
+China Retail,INDOPACOM,East Asia,483,Ciimo X-NV,"1,671",0.01%,-75.70%,"6,888",0.04%,341,Asia
+China Retail,INDOPACOM,East Asia,484,Skyworth ET5,"1,670",0.01%,258.40%,466,0.00%,551,Asia
+China Retail,INDOPACOM,East Asia,485,Aiways U5,"1,659",0.01%,24.20%,"1,336",0.01%,472,Asia
+China Retail,INDOPACOM,East Asia,486,Dongfeng Glory iX5,"1,623",0.01%,-64.20%,"4,537",0.02%,375,Asia
+China Retail,INDOPACOM,East Asia,487,Haima 8S,"1,592",0.01%,-66.80%,"4,788",0.03%,370,Asia
+China Retail,INDOPACOM,East Asia,488,Jaguar E-Pace,"1,584",0.01%,-18.10%,"1,933",0.01%,440,Asia
+China Retail,INDOPACOM,East Asia,489,Chery Arrizo GX,"1,545",0.01%,-89.40%,"14,536",0.08%,255,Asia
+China Retail,INDOPACOM,East Asia,490,Ford Tourneo,"1,540",0.01%,-16.70%,"1,849",0.01%,443,Asia
+China Retail,INDOPACOM,East Asia,491,ChangAn CS55,"1,481",0.01%,-90.80%,"16,075",0.08%,246,Asia
+China Retail,INDOPACOM,East Asia,492,Dongfeng Fengxing M7,"1,466",0.01%,-12.60%,"1,678",0.01%,454,Asia
+China Retail,INDOPACOM,East Asia,493,Soueast DX3,"1,433",0.01%,-59.70%,"3,552",0.02%,391,Asia
+China Retail,INDOPACOM,East Asia,494,WEY Macchiato,"1,428",0.01%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,495,Haval H4,"1,423",0.01%,-91.90%,"17,486",0.09%,228,Asia
+China Retail,INDOPACOM,East Asia,496,Audi E-tron,"1,406",0.01%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,497,Fukang e Elysee,"1,404",0.01%,1495.50%,88,0.00%,642,Asia
+China Retail,INDOPACOM,East Asia,498,Buick Excelle GX,"1,402",0.01%,-76.00%,"5,851",0.03%,352,Asia
+China Retail,INDOPACOM,East Asia,499,Dongfeng Glory E3,"1,401",0.01%,117.20%,645,0.00%,522,Asia
+China Retail,INDOPACOM,East Asia,500,Dongfeng Glory E1,"1,362",0.01%,186.10%,476,0.00%,548,Asia
+China Retail,INDOPACOM,East Asia,501,GAC NE Aion LX,"1,357",0.01%,-51.30%,"2,787",0.01%,415,Asia
+China Retail,INDOPACOM,East Asia,502,Beijing U5 Plus,"1,357",0.01%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,503,Dongfeng Glory iX7,"1,353",0.01%,-55.40%,"3,032",0.02%,410,Asia
+China Retail,INDOPACOM,East Asia,504,Chery Big Ant,"1,350",0.01%,52.50%,885,0.00%,501,Asia
+China Retail,INDOPACOM,East Asia,505,Ford Focus Active,"1,267",0.01%,-60.40%,"3,201",0.02%,403,Asia
+China Retail,INDOPACOM,East Asia,506,Geometry EX3,"1,267",0.01%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,507,Yema Spica,"1,264",0.01%,97.50%,640,0.00%,523,Asia
+China Retail,INDOPACOM,East Asia,508,Jetour X70S,"1,247",0.01%,37.60%,906,0.00%,499,Asia
+China Retail,INDOPACOM,East Asia,509,Lynk & Co 09,"1,246",0.01%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,510,Kia KX7,"1,240",0.01%,174.90%,451,0.00%,554,Asia
+China Retail,INDOPACOM,East Asia,511,Enovate ME7,"1,237",0.01%,1230.10%,93,0.00%,638,Asia
+China Retail,INDOPACOM,East Asia,512,Geometry T,"1,233",0.01%,492.80%,208,0.00%,594,Asia
+China Retail,INDOPACOM,East Asia,513,Lingbox Coco,"1,229",0.01%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,514,Honda Integra,"1,226",0.01%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,515,Polestar 2,"1,205",0.01%,255.50%,339,0.00%,567,Asia
+China Retail,INDOPACOM,East Asia,516,Maxus D60,"1,200",0.01%,-66.40%,"3,576",0.02%,390,Asia
+China Retail,INDOPACOM,East Asia,517,MG One,"1,198",0.01%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,518,Pocco Meimei,"1,189",0.01%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,519,Mazda CX-8,"1,183",0.01%,67.60%,706,0.00%,516,Asia
+China Retail,INDOPACOM,East Asia,520,Maxus D90,"1,162",0.01%,-22.30%,"1,495",0.01%,462,Asia
+China Retail,INDOPACOM,East Asia,521,Maple 30X ,"1,160",0.01%,-8.40%,"1,266",0.01%,478,Asia
+China Retail,INDOPACOM,East Asia,522,Dongfeng Fengxing X5,"1,144",0.01%,-93.30%,"16,988",0.09%,233,Asia
+China Retail,INDOPACOM,East Asia,523,Isuzu MU-X,"1,136",0.01%,-17.00%,"1,368",0.01%,469,Asia
+China Retail,INDOPACOM,East Asia,524,Soueast A5 Yiwu,"1,080",0.01%,-56.90%,"2,506",0.01%,427,Asia
+China Retail,INDOPACOM,East Asia,525,Dongfeng Fengshen A60,"1,072",0.01%,3.50%,"1,036",0.01%,487,Asia
+China Retail,INDOPACOM,East Asia,526,Hycan Z03,"1,045",0.01%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,527,Sitech DEV1,"1,037",0.01%,620.10%,144,0.00%,613,Asia
+China Retail,INDOPACOM,East Asia,528,Yudo p1,"1,026",0.01%,139.70%,428,0.00%,555,Asia
+China Retail,INDOPACOM,East Asia,529,Beijing BJ30,997,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,530,Chana Oshan Changxing,987,0.00%,-52.40%,"2,073",0.01%,436,Asia
+China Retail,INDOPACOM,East Asia,531,Soueast DX7,969,0.00%,-41.30%,"1,650",0.01%,455,Asia
+China Retail,INDOPACOM,East Asia,532,WEY VV7 GT,959,0.00%,-27.50%,"1,323",0.01%,474,Asia
+China Retail,INDOPACOM,East Asia,533,JAC iEV6E,954,0.00%,-47.20%,"1,808",0.01%,445,Asia
+China Retail,INDOPACOM,East Asia,534,JMC Yusheng S350,945,0.00%,-39.60%,"1,565",0.01%,457,Asia
+China Retail,INDOPACOM,East Asia,535,Jetour X95,935,0.00%,-89.20%,"8,648",0.05%,318,Asia
+China Retail,INDOPACOM,East Asia,536,Toyota Sienna,935,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,537,Buick Velite 7,923,0.00%,8.70%,849,0.00%,505,Asia
+China Retail,INDOPACOM,East Asia,538,Sehol (SOL) Yao,913,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,539,Suzuki Beidouxing X5,908,0.00%,-66.30%,"2,696",0.01%,418,Asia
+China Retail,INDOPACOM,East Asia,540,Borgward BX7,851,0.00%,-45.60%,"1,564",0.01%,458,Asia
+China Retail,INDOPACOM,East Asia,541,SWM G01,841,0.00%,-61.90%,"2,206",0.01%,432,Asia
+China Retail,INDOPACOM,East Asia,542,Cowin Xuandu,841,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,543,Dayun Yuehu,828,0.00%,226.00%,254,0.00%,580,Asia
+China Retail,INDOPACOM,East Asia,544,JAC Jiayue X7,813,0.00%,-83.00%,"4,770",0.03%,371,Asia
+China Retail,INDOPACOM,East Asia,545,Hyundai Encino,811,0.00%,-75.30%,"3,289",0.02%,399,Asia
+China Retail,INDOPACOM,East Asia,546,GAC Trumpchi GA8,810,0.00%,27.00%,638,0.00%,525,Asia
+China Retail,INDOPACOM,East Asia,547,Geely Emgrand GE,808,0.00%,-46.70%,"1,515",0.01%,460,Asia
+China Retail,INDOPACOM,East Asia,548,Beijing Warrior,807,0.00%,35.40%,596,0.00%,530,Asia
+China Retail,INDOPACOM,East Asia,549,Dayun Yuanzhi M1,804,0.00%,673.10%,104,0.00%,630,Asia
+China Retail,INDOPACOM,East Asia,550,Leap Motor S01,794,0.00%,-23.10%,"1,033",0.01%,488,Asia
+China Retail,INDOPACOM,East Asia,551,JAC iEVA50,785,0.00%,-29.20%,"1,109",0.01%,483,Asia
+China Retail,INDOPACOM,East Asia,552,Foton Fengjing G5,784,0.00%,259.60%,218,0.00%,593,Asia
+China Retail,INDOPACOM,East Asia,553,WEY Latte DHT,782,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,554,Beijing Jeep,766,0.00%,-20.70%,966,0.01%,494,Asia
+China Retail,INDOPACOM,East Asia,555,ChangAn E-Pro,736,0.00%,-25.10%,982,0.01%,493,Asia
+China Retail,INDOPACOM,East Asia,556,SWM X2,700,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,557,Qoros 5 SUV,681,0.00%,-90.70%,"7,313",0.04%,336,Asia
+China Retail,INDOPACOM,East Asia,558,Dongfeng Junfeng E11K,674,0.00%,-31.80%,988,0.01%,491,Asia
+China Retail,INDOPACOM,East Asia,559,Zedriv GX5,663,0.00%,-45.20%,"1,209",0.01%,481,Asia
+China Retail,INDOPACOM,East Asia,560,Sehol (SOL) E40X,644,0.00%,9100.00%,7,0.00%,782,Asia
+China Retail,INDOPACOM,East Asia,561,Venucia e30,620,0.00%,86.70%,332,0.00%,570,Asia
+China Retail,INDOPACOM,East Asia,562,Chery Tiggo 3,602,0.00%,-85.30%,"4,093",0.02%,385,Asia
+China Retail,INDOPACOM,East Asia,563,Ora iQ,589,0.00%,-68.20%,"1,852",0.01%,442,Asia
+China Retail,INDOPACOM,East Asia,564,JMEV EX5,562,0.00%,192.70%,192,0.00%,602,Asia
+China Retail,INDOPACOM,East Asia,565,Beijing EX5,559,0.00%,16.20%,481,0.00%,547,Asia
+China Retail,INDOPACOM,East Asia,566,Brilliance Xinri i03A,559,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,567,Baojun RS-7,551,0.00%,175.50%,200,0.00%,598,Asia
+China Retail,INDOPACOM,East Asia,568,Neta N01,549,0.00%,-89.70%,"5,314",0.03%,361,Asia
+China Retail,INDOPACOM,East Asia,569,VGV U75 Plus,547,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,570,Beijing U7,538,0.00%,-87.40%,"4,264",0.02%,377,Asia
+China Retail,INDOPACOM,East Asia,571,Karry K60,538,0.00%,-4.80%,565,0.00%,535,Asia
+China Retail,INDOPACOM,East Asia,572,Enovate ME5,536,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,573,Brilliance Xinri i03,535,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,574,Sehol (SOL) X4,529,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,575,Dongfeng Junfeng EV30,518,0.00%,54.60%,335,0.00%,569,Asia
+China Retail,INDOPACOM,East Asia,576,BYD e1,516,0.00%,-73.30%,"1,933",0.01%,439,Asia
+China Retail,INDOPACOM,East Asia,577,Chana Raesor S50,488,0.00%,-82.90%,"2,859",0.02%,413,Asia
+China Retail,INDOPACOM,East Asia,578,Yudo p3,467,0.00%,-62.20%,"1,235",0.01%,480,Asia
+China Retail,INDOPACOM,East Asia,579,Wuling Rongguang V ,457,0.00%,-95.30%,"9,744",0.05%,306,Asia
+China Retail,INDOPACOM,East Asia,580,Haima E1,455,0.00%,-11.70%,515,0.00%,542,Asia
+China Retail,INDOPACOM,East Asia,581,Venucia T90,452,0.00%,-86.50%,"3,343",0.02%,398,Asia
+China Retail,INDOPACOM,East Asia,582,JAC iC5 ,440,0.00%,-53.50%,947,0.00%,498,Asia
+China Retail,INDOPACOM,East Asia,583,Haval H6 Coupe,421,0.00%,-98.30%,"25,227",0.13%,191,Asia
+China Retail,INDOPACOM,East Asia,584,JAC Refine L6 Max,404,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,585,FAW Jilin Senia R8,400,0.00%,393.80%,81,0.00%,646,Asia
+China Retail,INDOPACOM,East Asia,586,Hycan 007,395,0.00%,-16.80%,475,0.00%,549,Asia
+China Retail,INDOPACOM,East Asia,587,Sehol (SOL) X7,394,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,588,Cowin E5 EV,385,0.00%,156.70%,150,0.00%,610,Asia
+China Retail,INDOPACOM,East Asia,589,Kia K2,370,0.00%,-71.50%,"1,297",0.01%,477,Asia
+China Retail,INDOPACOM,East Asia,590,AITO M5,365,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,591,Haval H2,361,0.00%,-97.00%,"11,843",0.06%,282,Asia
+China Retail,INDOPACOM,East Asia,592,Traum MEET3,361,0.00%,-63.80%,997,0.01%,489,Asia
+China Retail,INDOPACOM,East Asia,593,JMEV Yi,356,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,594,Roewe Marvel X,338,0.00%,-67.50%,"1,041",0.01%,486,Asia
+China Retail,INDOPACOM,East Asia,595,EV YOUNG Guangxiaoxin,337,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,596,Changhe Freedom M50,335,0.00%,-83.80%,"2,063",0.01%,437,Asia
+China Retail,INDOPACOM,East Asia,597,Chana Oshan A800,318,0.00%,-88.20%,"2,695",0.01%,419,Asia
+China Retail,INDOPACOM,East Asia,598,Beijing BJ90,315,0.00%,-16.70%,378,0.00%,561,Asia
+China Retail,INDOPACOM,East Asia,599,Henrey Xiaohu FEV,307,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,600,Maxus Euniq 6,296,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,601,SRM X30L EV,292,0.00%,235.60%,87,0.00%,643,Asia
+China Retail,INDOPACOM,East Asia,602,Renault Koleos,273,0.00%,-84.90%,"1,808",0.01%,446,Asia
+China Retail,INDOPACOM,East Asia,603,GAC NE GE3,270,0.00%,-69.70%,891,0.00%,500,Asia
+China Retail,INDOPACOM,East Asia,604,Qoros 3,261,0.00%,-92.00%,"3,267",0.02%,401,Asia
+China Retail,INDOPACOM,East Asia,605,Changhe A6,255,0.00%,-85.90%,"1,804",0.01%,447,Asia
+China Retail,INDOPACOM,East Asia,606,Landwind Rongyao,252,0.00%,-71.50%,884,0.00%,502,Asia
+China Retail,INDOPACOM,East Asia,607,Citroen C3L,239,0.00%,19.50%,200,0.00%,599,Asia
+China Retail,INDOPACOM,East Asia,608,DS 7,237,0.00%,-18.60%,291,0.00%,575,Asia
+China Retail,INDOPACOM,East Asia,609,ChangAn Eado XT,231,0.00%,13.20%,204,0.00%,597,Asia
+China Retail,INDOPACOM,East Asia,610,Beijing BJ212,229,0.00%,-69.30%,747,0.00%,512,Asia
+China Retail,INDOPACOM,East Asia,611,DS 9,216,0.00%,7100.00%,3,0.00%,825,Asia
+China Retail,INDOPACOM,East Asia,612,Jetour X70 Coupe,212,0.00%,-93.20%,"3,140",0.02%,406,Asia
+China Retail,INDOPACOM,East Asia,613,Hanteng X5,210,0.00%,-84.60%,"1,364",0.01%,470,Asia
+China Retail,INDOPACOM,East Asia,614,Citroen C4 Aircross,208,0.00%,-18.80%,256,0.00%,579,Asia
+China Retail,INDOPACOM,East Asia,615,Renault City K-ZE,201,0.00%,-81.60%,"1,095",0.01%,484,Asia
+China Retail,INDOPACOM,East Asia,616,Modern in,194,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,617,Geely Vision S1,191,0.00%,-97.70%,"8,374",0.04%,322,Asia
+China Retail,INDOPACOM,East Asia,618,Changhe EC100,189,0.00%,440.00%,35,0.00%,687,Asia
+China Retail,INDOPACOM,East Asia,619,Changhe Suzuki Big Dipper,187,0.00%,-63.00%,506,0.00%,545,Asia
+China Retail,INDOPACOM,East Asia,620,Weltmeister EX6,185,0.00%,-74.20%,717,0.00%,514,Asia
+China Retail,INDOPACOM,East Asia,621,Borgward BX3,185,0.00%,59.50%,116,0.00%,624,Asia
+China Retail,INDOPACOM,East Asia,622,Jinbei Haixing A7,179,0.00%,-94.30%,"3,164",0.02%,404,Asia
+China Retail,INDOPACOM,East Asia,623,Baizhi Daxiong,163,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,624,Mercedes EQB,158,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,625,JAC iEV5,157,0.00%,-0.60%,158,0.00%,607,Asia
+China Retail,INDOPACOM,East Asia,626,Great Wall C30,157,0.00%,7750.00%,2,0.00%,850,Asia
+China Retail,INDOPACOM,East Asia,627,JAC Refine M5,156,0.00%,-98.10%,"8,375",0.04%,321,Asia
+China Retail,INDOPACOM,East Asia,628,Kia K4 Cachet,155,0.00%,-89.50%,"1,470",0.01%,464,Asia
+China Retail,INDOPACOM,East Asia,629,Neta U,154,0.00%,-93.90%,"2,513",0.01%,426,Asia
+China Retail,INDOPACOM,East Asia,630,Hanteng X7,152,0.00%,-88.80%,"1,356",0.01%,471,Asia
+China Retail,INDOPACOM,East Asia,631,Beijing EU5 Plus,151,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,632,Bestune E01,138,0.00%,360.00%,30,0.00%,695,Asia
+China Retail,INDOPACOM,East Asia,633,Haima Aishang EV ,137,0.00%,52.20%,90,0.00%,641,Asia
+China Retail,INDOPACOM,East Asia,634,Levdeo (Letin) i3,136,0.00%,-64.30%,381,0.00%,560,Asia
+China Retail,INDOPACOM,East Asia,635,VW Golf Sportsvan,116,0.00%,-97.60%,"4,845",0.03%,368,Asia
+China Retail,INDOPACOM,East Asia,636,Peugeot 308,112,0.00%,-93.50%,"1,727",0.01%,451,Asia
+China Retail,INDOPACOM,East Asia,637,JAC iEVS4,109,0.00%,-86.10%,783,0.00%,508,Asia
+China Retail,INDOPACOM,East Asia,638,Suda SA01,102,0.00%,-8.10%,111,0.00%,626,Asia
+China Retail,INDOPACOM,East Asia,639,Citroen C-Elysée ,99,0.00%,-98.20%,"5,538",0.03%,359,Asia
+China Retail,INDOPACOM,East Asia,640,Hengrun HRS1,99,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,641,Chana Kaicene Ruixing ES30 EV ,97,0.00%,259.30%,27,0.00%,701,Asia
+China Retail,INDOPACOM,East Asia,642,Zotye TS5,87,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,643,Cowin E3,78,0.00%,-96.90%,"2,515",0.01%,425,Asia
+China Retail,INDOPACOM,East Asia,644,Renault Kadjar,73,0.00%,-95.80%,"1,725",0.01%,452,Asia
+China Retail,INDOPACOM,East Asia,645,GAC Trumpchi GS7,70,0.00%,-96.30%,"1,877",0.01%,441,Asia
+China Retail,INDOPACOM,East Asia,646,Dorcen G60S,70,0.00%,-91.00%,774,0.00%,509,Asia
+China Retail,INDOPACOM,East Asia,647,Karry K50,68,0.00%,-8.10%,74,0.00%,649,Asia
+China Retail,INDOPACOM,East Asia,648,Dongfeng Fengshen AX4,68,0.00%,41.70%,48,0.00%,671,Asia
+China Retail,INDOPACOM,East Asia,649,Renault Captur,66,0.00%,-93.10%,956,0.01%,495,Asia
+China Retail,INDOPACOM,East Asia,650,Zotye E200,66,0.00%,-90.10%,670,0.00%,520,Asia
+China Retail,INDOPACOM,East Asia,651,FQT Motor EX80,66,0.00%,-37.70%,106,0.00%,628,Asia
+China Retail,INDOPACOM,East Asia,652,Yinlong Effie ,65,0.00%,225.00%,20,0.00%,718,Asia
+China Retail,INDOPACOM,East Asia,653,Zedriv GC2,61,0.00%,7.00%,57,0.00%,662,Asia
+China Retail,INDOPACOM,East Asia,654,Beijing BJ20,59,0.00%,-95.50%,"1,308",0.01%,476,Asia
+China Retail,INDOPACOM,East Asia,655,Chery Arrizo 7,58,0.00%,241.20%,17,0.00%,731,Asia
+China Retail,INDOPACOM,East Asia,656,Hunkt Canticie,56,0.00%,-88.80%,498,0.00%,546,Asia
+China Retail,INDOPACOM,East Asia,657,Mercedes EQA,55,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,658,Leopaard CS9,53,0.00%,-96.00%,"1,319",0.01%,475,Asia
+China Retail,INDOPACOM,East Asia,659,BYD S2,48,0.00%,-93.80%,772,0.00%,510,Asia
+China Retail,INDOPACOM,East Asia,660,Beijing EX Series,43,0.00%,16.20%,37,0.00%,678,Asia
+China Retail,INDOPACOM,East Asia,661,Leopaard Mattu,43,0.00%,n/a,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,662,JAC iEV7S,41,0.00%,32.30%,31,0.00%,693,Asia
+China Retail,INDOPACOM,East Asia,663,Saleen Maimai,41,0.00%,355.60%,9,0.00%,767,Asia
+China Retail,INDOPACOM,East Asia,664,Dongfeng Fengxing Jingye X5,39,0.00%,-95.90%,949,0.00%,497,Asia
+China Retail,INDOPACOM,East Asia,665,Skywell D07,37,0.00%,-93.60%,582,0.00%,532,Asia
+China Retail,INDOPACOM,East Asia,666,JMEV E180,37,0.00%,-42.20%,64,0.00%,655,Asia
+China Retail,INDOPACOM,East Asia,667,Beijing Senova D70,36,0.00%,-95.70%,830,0.00%,507,Asia
+China Retail,INDOPACOM,East Asia,668,ChangAn Benben mini,35,0.00%,118.80%,16,0.00%,735,Asia
+China Retail,INDOPACOM,East Asia,669,Beijing Senova X35,33,0.00%,-99.70%,"12,538",0.07%,274,Asia
+China Retail,INDOPACOM,East Asia,670,Roewe 350 ,33,0.00%,-5.70%,35,0.00%,685,Asia
+China Retail,INDOPACOM,East Asia,671,Suda SD01,31,0.00%,19.20%,26,0.00%,706,Asia
+China Retail,INDOPACOM,East Asia,672,Dorcen G60,30,0.00%,-87.50%,240,0.00%,586,Asia
+China Retail,INDOPACOM,East Asia,673,FAW Bestune X40,28,0.00%,-99.90%,"24,660",0.13%,194,Asia
+China Retail,INDOPACOM,East Asia,674,Jinbei F50,28,0.00%,-81.60%,152,0.00%,609,Asia
+China Retail,INDOPACOM,East Asia,675,Chery QQ,28,0.00%,75.00%,16,0.00%,733,Asia
+China Retail,INDOPACOM,East Asia,676,Kia KX Cross,27,0.00%,-99.10%,"3,145",0.02%,405,Asia
+China Retail,INDOPACOM,East Asia,677,Levdeo (Letin) i9,27,0.00%,-6.90%,29,0.00%,699,Asia
+China Retail,INDOPACOM,East Asia,678,Dongfeng Fengxing F600,26,0.00%,-81.20%,138,0.00%,616,Asia
+China Retail,INDOPACOM,East Asia,679,VW Jetta,24,0.00%,-95.50%,528,0.00%,540,Asia
+China Retail,INDOPACOM,East Asia,680,Polestar 1,24,0.00%,-17.20%,29,0.00%,697,Asia
+China Retail,INDOPACOM,East Asia,681,Brilliance V3,23,0.00%,-99.40%,"3,788",0.02%,387,Asia
+China Retail,INDOPACOM,East Asia,682,Roewe W5,23,0.00%,53.30%,15,0.00%,740,Asia
+China Retail,INDOPACOM,East Asia,683,Venucia T70,21,0.00%,-99.50%,"4,380",0.02%,376,Asia
+China Retail,INDOPACOM,East Asia,684,Yema T70,21,0.00%,-92.40%,277,0.00%,577,Asia
+China Retail,INDOPACOM,East Asia,685,BYD F5 Surui,21,0.00%,-86.70%,158,0.00%,606,Asia
+China Retail,INDOPACOM,East Asia,686,Zotye SR7,20,0.00%,-95.70%,466,0.00%,552,Asia
+China Retail,INDOPACOM,East Asia,687,Cowin C3,20,0.00%,900.00%,2,0.00%,856,Asia
+China Retail,INDOPACOM,East Asia,688,Toyota Prado,19,0.00%,-99.90%,"21,028",0.11%,213,Asia
+China Retail,INDOPACOM,East Asia,689,Zotye T300,19,0.00%,-93.80%,305,0.00%,573,Asia
+China Retail,INDOPACOM,East Asia,690,Dongfeng Fengshen AX5,18,0.00%,-96.80%,555,0.00%,537,Asia
+China Retail,INDOPACOM,East Asia,691,Zotye SR9,18,0.00%,-88.50%,156,0.00%,608,Asia
+China Retail,INDOPACOM,East Asia,692,Changhe Q7,17,0.00%,-99.30%,"2,503",0.01%,428,Asia
+China Retail,INDOPACOM,East Asia,693,Beijing Da Mao (Big cat),17,0.00%,-95.10%,344,0.00%,566,Asia
+China Retail,INDOPACOM,East Asia,694,MG GS,16,0.00%,-95.80%,382,0.00%,559,Asia
+China Retail,INDOPACOM,East Asia,695,Huasong 7,15,0.00%,-99.70%,"5,031",0.03%,365,Asia
+China Retail,INDOPACOM,East Asia,696,Zotye T700,15,0.00%,-97.60%,635,0.00%,526,Asia
+China Retail,INDOPACOM,East Asia,697,Zotye Domy X7,15,0.00%,-95.50%,332,0.00%,571,Asia
+China Retail,INDOPACOM,East Asia,698,Cowin X5,14,0.00%,-98.90%,"1,242",0.01%,479,Asia
+China Retail,INDOPACOM,East Asia,699,BYD G6,14,0.00%,-97.70%,618,0.00%,527,Asia
+China Retail,INDOPACOM,East Asia,700,Geely King Kong Cross,14,0.00%,-84.60%,91,0.00%,639,Asia
+China Retail,INDOPACOM,East Asia,701,Chevrolet Cruze,14,0.00%,-41.70%,24,0.00%,713,Asia
+China Retail,INDOPACOM,East Asia,702,Chery Tiggo 5,14,0.00%,7.70%,13,0.00%,751,Asia
+China Retail,INDOPACOM,East Asia,703,Hanteng E+,13,0.00%,-13.30%,15,0.00%,741,Asia
+China Retail,INDOPACOM,East Asia,704,Beijing Senova X55,13,0.00%,116.70%,6,0.00%,799,Asia
+China Retail,INDOPACOM,East Asia,705,Dongfeng EX1,13,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,706,Brilliance V7,12,0.00%,-99.30%,"1,781",0.01%,448,Asia
+China Retail,INDOPACOM,East Asia,707,Lark Q1,12,0.00%,-97.70%,520,0.00%,541,Asia
+China Retail,INDOPACOM,East Asia,708,Haima S5,12,0.00%,-96.90%,385,0.00%,558,Asia
+China Retail,INDOPACOM,East Asia,709,ChangAn CS35,12,0.00%,-88.80%,107,0.00%,627,Asia
+China Retail,INDOPACOM,East Asia,710,Ford Ecosport,11,0.00%,-98.40%,686,0.00%,518,Asia
+China Retail,INDOPACOM,East Asia,711,BYD F3DM,10,0.00%,-99.00%,986,0.01%,492,Asia
+China Retail,INDOPACOM,East Asia,712,Zotye T600 Coupe,9,0.00%,-98.70%,677,0.00%,519,Asia
+China Retail,INDOPACOM,East Asia,713,Zotye T500,9,0.00%,-96.20%,239,0.00%,587,Asia
+China Retail,INDOPACOM,East Asia,714,ChangAn Eado ET,9,0.00%,-93.90%,147,0.00%,612,Asia
+China Retail,INDOPACOM,East Asia,715,Dongfeng Fengshen EX1,9,0.00%,-82.70%,52,0.00%,668,Asia
+China Retail,INDOPACOM,East Asia,716,Haima M5 (Family),9,0.00%,-43.80%,16,0.00%,737,Asia
+China Retail,INDOPACOM,East Asia,717,BYD F0,9,0.00%,28.60%,7,0.00%,781,Asia
+China Retail,INDOPACOM,East Asia,718,Jeep Commander,8,0.00%,-99.40%,"1,370",0.01%,468,Asia
+China Retail,INDOPACOM,East Asia,719,COS Kosai 3,8,0.00%,-99.20%,954,0.01%,496,Asia
+China Retail,INDOPACOM,East Asia,720,JAC Refine S7,8,0.00%,-97.00%,266,0.00%,578,Asia
+China Retail,INDOPACOM,East Asia,721,Luxgen U5 SUV,8,0.00%,-94.60%,148,0.00%,611,Asia
+China Retail,INDOPACOM,East Asia,722,Zotye Z700,8,0.00%,-90.10%,81,0.00%,647,Asia
+China Retail,INDOPACOM,East Asia,723,Baojun 560,8,0.00%,-84.90%,53,0.00%,667,Asia
+China Retail,INDOPACOM,East Asia,724,Maxus Euniq 7,8,0.00%,n/a,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,725,Luxgen URX,7,0.00%,-93.40%,106,0.00%,629,Asia
+China Retail,INDOPACOM,East Asia,726,Haval H5,6,0.00%,-99.60%,"1,490",0.01%,463,Asia
+China Retail,INDOPACOM,East Asia,727,JAC Refine S3,6,0.00%,-98.90%,529,0.00%,539,Asia
+China Retail,INDOPACOM,East Asia,728,FAW Bestune B50,6,0.00%,-97.60%,246,0.00%,582,Asia
+China Retail,INDOPACOM,East Asia,729,Link Tour E Series,6,0.00%,-95.20%,126,0.00%,620,Asia
+China Retail,INDOPACOM,East Asia,730,ChangAn CX30,6,0.00%,-93.90%,99,0.00%,633,Asia
+China Retail,INDOPACOM,East Asia,731,MG GT,6,0.00%,-87.20%,47,0.00%,673,Asia
+China Retail,INDOPACOM,East Asia,732,Beijing Senova X25,6,0.00%,-76.00%,25,0.00%,709,Asia
+China Retail,INDOPACOM,East Asia,733,Yema EC60 ,6,0.00%,-53.80%,13,0.00%,746,Asia
+China Retail,INDOPACOM,East Asia,734,Chevrolet Malibu,6,0.00%,-50.00%,12,0.00%,752,Asia
+China Retail,INDOPACOM,East Asia,735,Haima 6P,6,0.00%,-45.50%,11,0.00%,756,Asia
+China Retail,INDOPACOM,East Asia,736,COS Neo II,6,0.00%,200.00%,2,0.00%,843,Asia
+China Retail,INDOPACOM,East Asia,737,Beijing EV Series,6,0.00%,500.00%,1,0.00%,915,Asia
+China Retail,INDOPACOM,East Asia,738,Chana CX70,5,0.00%,-99.60%,"1,323",0.01%,473,Asia
+China Retail,INDOPACOM,East Asia,739,Dongfeng Zhengzhou Shuai,5,0.00%,-96.40%,139,0.00%,615,Asia
+China Retail,INDOPACOM,East Asia,740,Luxgen 6 SUV,5,0.00%,-94.70%,95,0.00%,637,Asia
+China Retail,INDOPACOM,East Asia,741,JMEV E200L,5,0.00%,-93.50%,77,0.00%,648,Asia
+China Retail,INDOPACOM,East Asia,742,BYD S7,5,0.00%,-80.00%,25,0.00%,710,Asia
+China Retail,INDOPACOM,East Asia,743,Brilliance H530,4,0.00%,-99.90%,"4,109",0.02%,383,Asia
+China Retail,INDOPACOM,East Asia,744,Honda Jade,4,0.00%,-99.80%,"1,698",0.01%,453,Asia
+China Retail,INDOPACOM,East Asia,745,Cadillac XTS,4,0.00%,-99.70%,"1,440",0.01%,466,Asia
+China Retail,INDOPACOM,East Asia,746,Lite,4,0.00%,-99.10%,458,0.00%,553,Asia
+China Retail,INDOPACOM,East Asia,747,Yema T80,4,0.00%,-96.20%,104,0.00%,631,Asia
+China Retail,INDOPACOM,East Asia,748,Audi Q5,4,0.00%,-93.00%,57,0.00%,660,Asia
+China Retail,INDOPACOM,East Asia,749,Haval H8,4,0.00%,-77.80%,18,0.00%,726,Asia
+China Retail,INDOPACOM,East Asia,750,Mazda3 Xingcheng,4,0.00%,n/a,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,751,Byvin E3,4,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,752,Leopaard CS10,3,0.00%,-99.50%,616,0.00%,528,Asia
+China Retail,INDOPACOM,East Asia,753,Zhi Dou D2 EV,3,0.00%,-99.10%,352,0.00%,564,Asia
+China Retail,INDOPACOM,East Asia,754,Dongfeng Fengxing Jingye X6,3,0.00%,-98.80%,244,0.00%,583,Asia
+China Retail,INDOPACOM,East Asia,755,Levdeo (Letin) i5,3,0.00%,-98.80%,242,0.00%,584,Asia
+China Retail,INDOPACOM,East Asia,756,Zotye Domy X5,3,0.00%,-97.80%,137,0.00%,617,Asia
+China Retail,INDOPACOM,East Asia,757,Geely King Kong Sedan,3,0.00%,-97.70%,132,0.00%,619,Asia
+China Retail,INDOPACOM,East Asia,758,Foton Sauvana,3,0.00%,-97.40%,115,0.00%,625,Asia
+China Retail,INDOPACOM,East Asia,759,Dongfeng Yufeng S16,3,0.00%,-95.80%,71,0.00%,651,Asia
+China Retail,INDOPACOM,East Asia,760,Dorcen G70S,3,0.00%,-95.60%,68,0.00%,653,Asia
+China Retail,INDOPACOM,East Asia,761,Kia Cerato ,3,0.00%,-94.90%,59,0.00%,659,Asia
+China Retail,INDOPACOM,East Asia,762,Sinogold GM3,3,0.00%,-91.30%,37,0.00%,683,Asia
+China Retail,INDOPACOM,East Asia,763,Beijing Hyosow S3L,3,0.00%,-91.20%,34,0.00%,691,Asia
+China Retail,INDOPACOM,East Asia,764,Yema EC30,3,0.00%,-89.70%,29,0.00%,700,Asia
+China Retail,INDOPACOM,East Asia,765,Roewe 360,3,0.00%,-88.50%,26,0.00%,705,Asia
+China Retail,INDOPACOM,East Asia,766,Luxgen 7 MPV,3,0.00%,-85.70%,21,0.00%,721,Asia
+China Retail,INDOPACOM,East Asia,767,Buick Velite 5,3,0.00%,-57.10%,7,0.00%,786,Asia
+China Retail,INDOPACOM,East Asia,768,JAC Refine S2,3,0.00%,-40.00%,5,0.00%,801,Asia
+China Retail,INDOPACOM,East Asia,769,FQT Motor EX7,3,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,770,Dongfeng Fengxing CM7,2,0.00%,-99.50%,427,0.00%,556,Asia
+China Retail,INDOPACOM,East Asia,771,Nissan NV200,2,0.00%,-99.50%,371,0.00%,563,Asia
+China Retail,INDOPACOM,East Asia,772,Hanteng V7,2,0.00%,-99.20%,241,0.00%,585,Asia
+China Retail,INDOPACOM,East Asia,773,Haima V70,2,0.00%,-99.10%,220,0.00%,592,Asia
+China Retail,INDOPACOM,East Asia,774,Hyundai Celesta RV,2,0.00%,-98.80%,163,0.00%,605,Asia
+China Retail,INDOPACOM,East Asia,775,Hawtai Santa Fe (Shengdafei),2,0.00%,-98.30%,118,0.00%,622,Asia
+China Retail,INDOPACOM,East Asia,776,Beijing Xiao Mao,2,0.00%,-94.70%,38,0.00%,677,Asia
+China Retail,INDOPACOM,East Asia,777,ChangAn Yuexiang V3,2,0.00%,-88.90%,18,0.00%,728,Asia
+China Retail,INDOPACOM,East Asia,778,Peugeot 301,2,0.00%,-87.50%,16,0.00%,732,Asia
+China Retail,INDOPACOM,East Asia,779,Honda Gienia,2,0.00%,-86.70%,15,0.00%,738,Asia
+China Retail,INDOPACOM,East Asia,780,Qiantu K50,2,0.00%,-85.70%,14,0.00%,744,Asia
+China Retail,INDOPACOM,East Asia,781,Geely Vision X1,2,0.00%,-80.00%,10,0.00%,759,Asia
+China Retail,INDOPACOM,East Asia,782,Honda Greiz,2,0.00%,-71.40%,7,0.00%,780,Asia
+China Retail,INDOPACOM,East Asia,783,Haima M3,2,0.00%,-60.00%,5,0.00%,808,Asia
+China Retail,INDOPACOM,East Asia,784,Baojun 630,2,0.00%,-50.00%,4,0.00%,815,Asia
+China Retail,INDOPACOM,East Asia,785,Hyundai Verna RV,2,0.00%,-50.00%,4,0.00%,814,Asia
+China Retail,INDOPACOM,East Asia,786,Min’an MX-6,2,0.00%,-33.30%,3,0.00%,824,Asia
+China Retail,INDOPACOM,East Asia,787,Chery eQ,2,0.00%,n/a,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,788,Dongfeng Jungfeng E17,2,0.00%,n/a,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,789,Hongqi L9,2,0.00%,n/a,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,790,Honda City,1,0.00%,-99.80%,573,0.00%,533,Asia
+China Retail,INDOPACOM,East Asia,791,Brilliance V6,1,0.00%,-99.80%,406,0.00%,557,Asia
+China Retail,INDOPACOM,East Asia,792,Weichai Enranger 737,1,0.00%,-99.70%,376,0.00%,562,Asia
+China Retail,INDOPACOM,East Asia,793,FAW Bestune X80,1,0.00%,-99.60%,252,0.00%,581,Asia
+China Retail,INDOPACOM,East Asia,794,Cadillac ATS-L,1,0.00%,-99.60%,235,0.00%,588,Asia
+China Retail,INDOPACOM,East Asia,795,Beijing Weiwang M50F,1,0.00%,-99.50%,205,0.00%,596,Asia
+China Retail,INDOPACOM,East Asia,796,Skoda Fabia,1,0.00%,-99.10%,117,0.00%,623,Asia
+China Retail,INDOPACOM,East Asia,797,DS 6,1,0.00%,-99.00%,100,0.00%,632,Asia
+China Retail,INDOPACOM,East Asia,798,Haima F5,1,0.00%,-99.00%,97,0.00%,635,Asia
+China Retail,INDOPACOM,East Asia,799,Changhe Q35,1,0.00%,-98.90%,95,0.00%,636,Asia
+China Retail,INDOPACOM,East Asia,800,Jinbei Viewpoint,1,0.00%,-98.90%,91,0.00%,640,Asia
+China Retail,INDOPACOM,East Asia,801,FAW Jilin Senia R7,1,0.00%,-98.40%,61,0.00%,657,Asia
+China Retail,INDOPACOM,East Asia,802,BMW 2 Series Active Tourer,1,0.00%,-97.20%,36,0.00%,684,Asia
+China Retail,INDOPACOM,East Asia,803,Geely Emgrand GX9 Pride,1,0.00%,-97.00%,33,0.00%,690,Asia
+China Retail,INDOPACOM,East Asia,804,Soueast V5 Lingzhi,1,0.00%,-96.70%,30,0.00%,696,Asia
+China Retail,INDOPACOM,East Asia,805,JAC Refine M6,1,0.00%,-96.20%,26,0.00%,708,Asia
+China Retail,INDOPACOM,East Asia,806,Chevrolet Sail,1,0.00%,-94.70%,19,0.00%,723,Asia
+China Retail,INDOPACOM,East Asia,807,DS 4S,1,0.00%,-94.40%,18,0.00%,727,Asia
+China Retail,INDOPACOM,East Asia,808,DS 5LS,1,0.00%,-94.40%,18,0.00%,725,Asia
+China Retail,INDOPACOM,East Asia,809,Peugeot 3008,1,0.00%,-94.10%,17,0.00%,734,Asia
+China Retail,INDOPACOM,East Asia,810,Dongfeng Junfeng ER30,1,0.00%,-93.30%,15,0.00%,742,Asia
+China Retail,INDOPACOM,East Asia,811,ChangAn Raeton,1,0.00%,-91.70%,12,0.00%,754,Asia
+China Retail,INDOPACOM,East Asia,812,Zotye Z500,1,0.00%,-87.50%,8,0.00%,772,Asia
+China Retail,INDOPACOM,East Asia,813,Beijing Hyosow H2,1,0.00%,-85.70%,7,0.00%,783,Asia
+China Retail,INDOPACOM,East Asia,814,Dongfeng Fengdu MX5,1,0.00%,-83.30%,6,0.00%,791,Asia
+China Retail,INDOPACOM,East Asia,815,Hongqi L5,1,0.00%,-80.00%,5,0.00%,809,Asia
+China Retail,INDOPACOM,East Asia,816,Venucia R50,1,0.00%,-75.00%,4,0.00%,813,Asia
+China Retail,INDOPACOM,East Asia,817,Dongfeng Fengxing S500,1,0.00%,-75.00%,4,0.00%,818,Asia
+China Retail,INDOPACOM,East Asia,818,ChangAn Yuexiang V7,1,0.00%,-66.70%,3,0.00%,835,Asia
+China Retail,INDOPACOM,East Asia,819,Beijing Hyosow S3,1,0.00%,-50.00%,2,0.00%,862,Asia
+China Retail,INDOPACOM,East Asia,820,JMEV E100B,1,0.00%,-50.00%,2,0.00%,864,Asia
+China Retail,INDOPACOM,East Asia,821,Lifan 820,1,0.00%,-50.00%,2,0.00%,866,Asia
+China Retail,INDOPACOM,East Asia,822,Mazda6,1,0.00%,-50.00%,2,0.00%,867,Asia
+China Retail,INDOPACOM,East Asia,823,Mazda6 Ruiwing,1,0.00%,-50.00%,2,0.00%,840,Asia
+China Retail,INDOPACOM,East Asia,824,Baojun 610,1,0.00%,0.00%,1,0.00%,896,Asia
+China Retail,INDOPACOM,East Asia,825,Horki 300E,1,0.00%,0.00%,1,0.00%,881,Asia
+China Retail,INDOPACOM,East Asia,826,Bisu T5,1,0.00%,0.00%,1,0.00%,879,Asia
+China Retail,INDOPACOM,East Asia,827,Toyota Reiz,1,0.00%,0.00%,1,0.00%,880,Asia
+China Retail,INDOPACOM,East Asia,828,Geely EC8,1,0.00%,n/a,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,829,JMEV E160,1,0.00%,n/a,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,830,Toyota Land Cruiser 200,1,0.00%,n/a,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,831,Infiniti QX60,1,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,832,Songsan SS Dolphin,1,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,833,Long River eCool,1,0.00%,new,0,0.00%, –,Asia
+China Retail,INDOPACOM,East Asia,834,Hyundai Elantra Yuedong,0,0.00%,-100.00%,"2,853",0.01%,414,Asia
+China Retail,INDOPACOM,East Asia,835,Chana Raesor M70,0,0.00%,-100.00%,"2,539",0.01%,422,Asia
+China Retail,INDOPACOM,East Asia,836,Beijing Senova Zhixing,0,0.00%,-100.00%,"2,515",0.01%,424,Asia
+China Retail,INDOPACOM,East Asia,837,Toyota Crown,0,0.00%,-100.00%,"2,409",0.01%,429,Asia
+China Retail,INDOPACOM,East Asia,838,Maxus V90,0,0.00%,-100.00%,853,0.00%,504,Asia
+China Retail,INDOPACOM,East Asia,839,Chana Raesor M80,0,0.00%,-100.00%,647,0.00%,521,Asia
+China Retail,INDOPACOM,East Asia,840,SWM X3,0,0.00%,-100.00%,572,0.00%,534,Asia
+China Retail,INDOPACOM,East Asia,841,Foton View,0,0.00%,-100.00%,558,0.00%,536,Asia
+China Retail,INDOPACOM,East Asia,842,Sokon S513,0,0.00%,-100.00%,533,0.00%,538,Asia
+China Retail,INDOPACOM,East Asia,843,Traum SEEK 5,0,0.00%,-100.00%,509,0.00%,544,Asia
+China Retail,INDOPACOM,East Asia,844,Roewe 950,0,0.00%,-100.00%,350,0.00%,565,Asia
+China Retail,INDOPACOM,East Asia,845,Suzuki Vitara,0,0.00%,-100.00%,320,0.00%,572,Asia
+China Retail,INDOPACOM,East Asia,846,Dongfeng Fengxing M6,0,0.00%,-100.00%,291,0.00%,574,Asia
+China Retail,INDOPACOM,East Asia,847,FAW Jilin Senia R9,0,0.00%,-100.00%,225,0.00%,591,Asia
+China Retail,INDOPACOM,East Asia,848,JAC Refine R3,0,0.00%,-100.00%,207,0.00%,595,Asia
+China Retail,INDOPACOM,East Asia,849,Zhi Dou D1 EV,0,0.00%,-100.00%,200,0.00%,600,Asia
+China Retail,INDOPACOM,East Asia,850,Dongfeng Fengshen AX3,0,0.00%,-100.00%,199,0.00%,601,Asia
+China Retail,INDOPACOM,East Asia,851,Foday Landfort,0,0.00%,-100.00%,181,0.00%,603,Asia
+China Retail,INDOPACOM,East Asia,852,Venucia M50V,0,0.00%,-100.00%,172,0.00%,604,Asia
+China Retail,INDOPACOM,East Asia,853,Suzuki S-Cross,0,0.00%,-100.00%,142,0.00%,614,Asia
+China Retail,INDOPACOM,East Asia,854,Citroen C4L,0,0.00%,-100.00%,134,0.00%,618,Asia
+China Retail,INDOPACOM,East Asia,855,FAW Jumpal D80,0,0.00%,-100.00%,98,0.00%,634,Asia
+China Retail,INDOPACOM,East Asia,856,Joylong iFly,0,0.00%,-100.00%,86,0.00%,644,Asia
+China Retail,INDOPACOM,East Asia,857,Zotye T800,0,0.00%,-100.00%,85,0.00%,645,Asia
+China Retail,INDOPACOM,East Asia,858,JAC Jiayue X8,0,0.00%,-100.00%,71,0.00%,652,Asia
+China Retail,INDOPACOM,East Asia,859,Dongfeng Xiaokang EC35,0,0.00%,-100.00%,65,0.00%,654,Asia
+China Retail,INDOPACOM,East Asia,860,Acura TLX-L,0,0.00%,-100.00%,61,0.00%,656,Asia
+China Retail,INDOPACOM,East Asia,861,Citroen C5,0,0.00%,-100.00%,59,0.00%,658,Asia
+China Retail,INDOPACOM,East Asia,862,Foton Gratour im6,0,0.00%,-100.00%,56,0.00%,663,Asia
+China Retail,INDOPACOM,East Asia,863,Weichai Enranger G5,0,0.00%,-100.00%,55,0.00%,664,Asia
+China Retail,INDOPACOM,East Asia,864,Hawtai (Baolige) B35,0,0.00%,-100.00%,54,0.00%,665,Asia
+China Retail,INDOPACOM,East Asia,865,Leopaard Q6,0,0.00%,-100.00%,54,0.00%,666,Asia
+China Retail,INDOPACOM,East Asia,866,Lifan Myway,0,0.00%,-100.00%,50,0.00%,669,Asia
+China Retail,INDOPACOM,East Asia,867,Foton Fengjing V5,0,0.00%,-100.00%,49,0.00%,670,Asia
+China Retail,INDOPACOM,East Asia,868,Zotye T600,0,0.00%,-100.00%,48,0.00%,672,Asia
+China Retail,INDOPACOM,East Asia,869,Lifan Xuanlang,0,0.00%,-100.00%,43,0.00%,674,Asia
+China Retail,INDOPACOM,East Asia,870,Landwind Happy,0,0.00%,-100.00%,42,0.00%,675,Asia
+China Retail,INDOPACOM,East Asia,871,Haval H2s,0,0.00%,-100.00%,39,0.00%,676,Asia
+China Retail,INDOPACOM,East Asia,872,Beijing Senova X65,0,0.00%,-100.00%,37,0.00%,679,Asia
+China Retail,INDOPACOM,East Asia,873,Sinogold GM3,0,0.00%,-100.00%,37,0.00%,680,Asia
+China Retail,INDOPACOM,East Asia,874,Traum MEET5,0,0.00%,-100.00%,37,0.00%,681,Asia
+China Retail,INDOPACOM,East Asia,875,Zinoro 60H,0,0.00%,-100.00%,37,0.00%,682,Asia
+China Retail,INDOPACOM,East Asia,876,FAW Weizhi V5,0,0.00%,-100.00%,35,0.00%,686,Asia
+China Retail,INDOPACOM,East Asia,877,Foton Gratour im8,0,0.00%,-100.00%,35,0.00%,688,Asia
+China Retail,INDOPACOM,East Asia,878,WEY P8,0,0.00%,-100.00%,35,0.00%,689,Asia
+China Retail,INDOPACOM,East Asia,879,Brilliance H3,0,0.00%,-100.00%,33,0.00%,692,Asia
+China Retail,INDOPACOM,East Asia,880,JMC Yusheng S330,0,0.00%,-100.00%,31,0.00%,694,Asia
+China Retail,INDOPACOM,East Asia,881,Zotye Z360,0,0.00%,-100.00%,30,0.00%,698,Asia
+China Retail,INDOPACOM,East Asia,882,Landwind X7,0,0.00%,-100.00%,28,0.00%,702,Asia
+China Retail,INDOPACOM,East Asia,883,Beijing Weiwang S50,0,0.00%,-100.00%,27,0.00%,703,Asia
+China Retail,INDOPACOM,East Asia,884,FQT Motor V60,0,0.00%,-100.00%,27,0.00%,704,Asia
+China Retail,INDOPACOM,East Asia,885,Traum S70,0,0.00%,-100.00%,27,0.00%,707,Asia
+China Retail,INDOPACOM,East Asia,886,Dongfeng Fengxing Jingye X7,0,0.00%,-100.00%,25,0.00%,712,Asia
+China Retail,INDOPACOM,East Asia,887,Soueast V3 Lingyue,0,0.00%,-100.00%,24,0.00%,714,Asia
+China Retail,INDOPACOM,East Asia,888,FAW Jumpal CX65,0,0.00%,-100.00%,23,0.00%,715,Asia
+China Retail,INDOPACOM,East Asia,889,Landwind X2,0,0.00%,-100.00%,22,0.00%,716,Asia
+China Retail,INDOPACOM,East Asia,890,Luxgen 3 Sedan,0,0.00%,-100.00%,22,0.00%,717,Asia
+China Retail,INDOPACOM,East Asia,891,GAC Trumpchi GA5,0,0.00%,-100.00%,20,0.00%,719,Asia
+China Retail,INDOPACOM,East Asia,892,Kawei W1,0,0.00%,-100.00%,20,0.00%,720,Asia
+China Retail,INDOPACOM,East Asia,893,Weichai Enranger G3,0,0.00%,-100.00%,20,0.00%,722,Asia
+China Retail,INDOPACOM,East Asia,894,FAW Jumpal A50,0,0.00%,-100.00%,19,0.00%,724,Asia
+China Retail,INDOPACOM,East Asia,895,Landwind X5,0,0.00%,-100.00%,19,0.00%,729,Asia
+China Retail,INDOPACOM,East Asia,896,Haima S5 Young,0,0.00%,-100.00%,18,0.00%,730,Asia
+China Retail,INDOPACOM,East Asia,897,ChangAn Benben Love/i,0,0.00%,-100.00%,16,0.00%,736,Asia
+China Retail,INDOPACOM,East Asia,898,Haima S7,0,0.00%,-100.00%,16,0.00%,739,Asia
+China Retail,INDOPACOM,East Asia,899,Bisu T3,0,0.00%,-100.00%,15,0.00%,743,Asia
+China Retail,INDOPACOM,East Asia,900,Suzuki SX4,0,0.00%,-100.00%,15,0.00%,745,Asia
+China Retail,INDOPACOM,East Asia,901,Jinbei 750,0,0.00%,-100.00%,14,0.00%,747,Asia
+China Retail,INDOPACOM,East Asia,902,Beijing Weiwang M20,0,0.00%,-100.00%,13,0.00%,748,Asia
+China Retail,INDOPACOM,East Asia,903,GAC Trumpchi GA3S,0,0.00%,-100.00%,13,0.00%,749,Asia
+China Retail,INDOPACOM,East Asia,904,GAC Trumpchi GS5 Super,0,0.00%,-100.00%,13,0.00%,750,Asia
+China Retail,INDOPACOM,East Asia,905,Hawtai Santa Fe 7,0,0.00%,-100.00%,13,0.00%,753,Asia
+China Retail,INDOPACOM,East Asia,906,Beijing Hyosow S6,0,0.00%,-100.00%,12,0.00%,755,Asia
+China Retail,INDOPACOM,East Asia,907,Hawtai Lusheng E80,0,0.00%,-100.00%,12,0.00%,757,Asia
+China Retail,INDOPACOM,East Asia,908,Foton Fengjing V3,0,0.00%,-100.00%,11,0.00%,758,Asia
+China Retail,INDOPACOM,East Asia,909,JAC iEVA60,0,0.00%,-100.00%,11,0.00%,765,Asia
+China Retail,INDOPACOM,East Asia,910,Beijing Knight,0,0.00%,-100.00%,10,0.00%,760,Asia
+China Retail,INDOPACOM,East Asia,911,Brilliance V5,0,0.00%,-100.00%,10,0.00%,761,Asia
+China Retail,INDOPACOM,East Asia,912,Dongfeng Fengshen A30,0,0.00%,-100.00%,10,0.00%,762,Asia
+China Retail,INDOPACOM,East Asia,913,FAW Jumpal D60,0,0.00%,-100.00%,10,0.00%,763,Asia
+China Retail,INDOPACOM,East Asia,914,Foton Gratour GT,0,0.00%,-100.00%,10,0.00%,764,Asia
+China Retail,INDOPACOM,East Asia,915,Geely Panda,0,0.00%,-100.00%,10,0.00%,766,Asia
+China Retail,INDOPACOM,East Asia,916,Hyundai Elantra Langdong,0,0.00%,-100.00%,10,0.00%,770,Asia
+China Retail,INDOPACOM,East Asia,917,Changhe Q25,0,0.00%,-100.00%,9,0.00%,768,Asia
+China Retail,INDOPACOM,East Asia,918,Lifan Lotto,0,0.00%,-100.00%,9,0.00%,769,Asia
+China Retail,INDOPACOM,East Asia,919,Lifan X80,0,0.00%,-100.00%,9,0.00%,771,Asia
+China Retail,INDOPACOM,East Asia,920,Zotye Cloud 100EV,0,0.00%,-100.00%,9,0.00%,779,Asia
+China Retail,INDOPACOM,East Asia,921,Beijing Hyosow H3,0,0.00%,-100.00%,8,0.00%,773,Asia
+China Retail,INDOPACOM,East Asia,922,Beijing Luba,0,0.00%,-100.00%,8,0.00%,774,Asia
+China Retail,INDOPACOM,East Asia,923,Hawtai xEV260,0,0.00%,-100.00%,8,0.00%,775,Asia
+China Retail,INDOPACOM,East Asia,924,Landwind X8,0,0.00%,-100.00%,8,0.00%,776,Asia
+China Retail,INDOPACOM,East Asia,925,Nissan Livina,0,0.00%,-100.00%,8,0.00%,777,Asia
+China Retail,INDOPACOM,East Asia,926,Nissan Sunny,0,0.00%,-100.00%,8,0.00%,778,Asia
+China Retail,INDOPACOM,East Asia,927,Qoros 3 GT,0,0.00%,-100.00%,8,0.00%,790,Asia
+China Retail,INDOPACOM,East Asia,928,Chery Fulwin 2,0,0.00%,-100.00%,7,0.00%,784,Asia
+China Retail,INDOPACOM,East Asia,929,Haima M6,0,0.00%,-100.00%,7,0.00%,785,Asia
+China Retail,INDOPACOM,East Asia,930,Hawtai B11,0,0.00%,-100.00%,7,0.00%,787,Asia
+China Retail,INDOPACOM,East Asia,931,JAC Refine S5,0,0.00%,-100.00%,7,0.00%,788,Asia
+China Retail,INDOPACOM,East Asia,932,Lifan 620,0,0.00%,-100.00%,7,0.00%,789,Asia
+China Retail,INDOPACOM,East Asia,933,Nissan Maxima,0,0.00%,-100.00%,7,0.00%,795,Asia
+China Retail,INDOPACOM,East Asia,934,Beijing Hyosow S7,0,0.00%,-100.00%,6,0.00%,793,Asia
+China Retail,INDOPACOM,East Asia,935,Bisu M3,0,0.00%,-100.00%,6,0.00%,794,Asia
+China Retail,INDOPACOM,East Asia,936,Brilliance H330,0,0.00%,-100.00%,6,0.00%,796,Asia
+China Retail,INDOPACOM,East Asia,937,Chana Raesor S50T,0,0.00%,-100.00%,6,0.00%,797,Asia
+China Retail,INDOPACOM,East Asia,938,ChangAn CX20,0,0.00%,-100.00%,6,0.00%,798,Asia
+China Retail,INDOPACOM,East Asia,939,Citroen C4,0,0.00%,-100.00%,6,0.00%,800,Asia
+China Retail,INDOPACOM,East Asia,940,MG 3,0,0.00%,-100.00%,6,0.00%,806,Asia
+China Retail,INDOPACOM,East Asia,941,Beijing Hyosow H5,0,0.00%,-100.00%,5,0.00%,802,Asia
+China Retail,INDOPACOM,East Asia,942,Beijing Hyosow S5,0,0.00%,-100.00%,5,0.00%,803,Asia
+China Retail,INDOPACOM,East Asia,943,Doda V8,0,0.00%,-100.00%,5,0.00%,804,Asia
+China Retail,INDOPACOM,East Asia,944,Dongfeng Fengshen L60,0,0.00%,-100.00%,5,0.00%,805,Asia
+China Retail,INDOPACOM,East Asia,945,FAW Jilin Senia M80,0,0.00%,-100.00%,5,0.00%,807,Asia
+China Retail,INDOPACOM,East Asia,946,Haima M8,0,0.00%,-100.00%,5,0.00%,810,Asia
+China Retail,INDOPACOM,East Asia,947,Kia Rio,0,0.00%,-100.00%,5,0.00%,811,Asia
+China Retail,INDOPACOM,East Asia,948,Luxgen 7 SUV,0,0.00%,-100.00%,5,0.00%,812,Asia
+China Retail,INDOPACOM,East Asia,949,Mitsubishi Zinger,0,0.00%,-100.00%,5,0.00%,817,Asia
+China Retail,INDOPACOM,East Asia,950,BYD L3,0,0.00%,-100.00%,4,0.00%,816,Asia
+China Retail,INDOPACOM,East Asia,951,Fiat Ottimo,0,0.00%,-100.00%,4,0.00%,819,Asia
+China Retail,INDOPACOM,East Asia,952,Qoros 3 SUV,0,0.00%,-100.00%,4,0.00%,820,Asia
+China Retail,INDOPACOM,East Asia,953,Red Star Shining X2,0,0.00%,-100.00%,4,0.00%,821,Asia
+China Retail,INDOPACOM,East Asia,954,Skoda Yeti,0,0.00%,-100.00%,4,0.00%,823,Asia
+China Retail,INDOPACOM,East Asia,955,Zotye Z560,0,0.00%,-100.00%,4,0.00%,828,Asia
+China Retail,INDOPACOM,East Asia,956,Beijing Senova D80,0,0.00%,-100.00%,3,0.00%,826,Asia
+China Retail,INDOPACOM,East Asia,957,Dongfeng Fengshen A9,0,0.00%,-100.00%,3,0.00%,827,Asia
+China Retail,INDOPACOM,East Asia,958,Dongfeng Fengxing Jingye X3,0,0.00%,-100.00%,3,0.00%,829,Asia
+China Retail,INDOPACOM,East Asia,959,FAW Bestune B90,0,0.00%,-100.00%,3,0.00%,830,Asia
+China Retail,INDOPACOM,East Asia,960,FAW Jumpal A70,0,0.00%,-100.00%,3,0.00%,831,Asia
+China Retail,INDOPACOM,East Asia,961,Geely GX7,0,0.00%,-100.00%,3,0.00%,832,Asia
+China Retail,INDOPACOM,East Asia,962,Honda Spirior,0,0.00%,-100.00%,3,0.00%,833,Asia
+China Retail,INDOPACOM,East Asia,963,Karry Youyou 2,0,0.00%,-100.00%,3,0.00%,834,Asia
+China Retail,INDOPACOM,East Asia,964,Lifan 330,0,0.00%,-100.00%,3,0.00%,836,Asia
+China Retail,INDOPACOM,East Asia,965,Mitsubishi Galant,0,0.00%,-100.00%,3,0.00%,837,Asia
+China Retail,INDOPACOM,East Asia,966,Venucia D50,0,0.00%,-100.00%,3,0.00%,838,Asia
+China Retail,INDOPACOM,East Asia,967,VW Polo Jinqu/Jinqing,0,0.00%,-100.00%,3,0.00%,874,Asia
+China Retail,INDOPACOM,East Asia,968,Baojun Yuechi (Spark),0,0.00%,-100.00%,2,0.00%,841,Asia
+China Retail,INDOPACOM,East Asia,969,Beijing 007,0,0.00%,-100.00%,2,0.00%,842,Asia
+China Retail,INDOPACOM,East Asia,970,Beijing Hyosow S2,0,0.00%,-100.00%,2,0.00%,844,Asia
+China Retail,INDOPACOM,East Asia,971,Borgward BX6,0,0.00%,-100.00%,2,0.00%,845,Asia
+China Retail,INDOPACOM,East Asia,972,BYD G5,0,0.00%,-100.00%,2,0.00%,846,Asia
+China Retail,INDOPACOM,East Asia,973,BYD S6,0,0.00%,-100.00%,2,0.00%,847,Asia
+China Retail,INDOPACOM,East Asia,974,Changhe Freedom M70,0,0.00%,-100.00%,2,0.00%,848,Asia
+China Retail,INDOPACOM,East Asia,975,Chevrolet Captiva,0,0.00%,-100.00%,2,0.00%,849,Asia
+China Retail,INDOPACOM,East Asia,976,Citroen C-Quatre,0,0.00%,-100.00%,2,0.00%,852,Asia
+China Retail,INDOPACOM,East Asia,977,Dongfeng Fengshen H30/S30,0,0.00%,-100.00%,2,0.00%,853,Asia
+China Retail,INDOPACOM,East Asia,978,DS 5,0,0.00%,-100.00%,2,0.00%,854,Asia
+China Retail,INDOPACOM,East Asia,979,Everus S1,0,0.00%,-100.00%,2,0.00%,855,Asia
+China Retail,INDOPACOM,East Asia,980,Fiat Viaggio,0,0.00%,-100.00%,2,0.00%,857,Asia
+China Retail,INDOPACOM,East Asia,981,Hawtai Lusheng E70,0,0.00%,-100.00%,2,0.00%,858,Asia
+China Retail,INDOPACOM,East Asia,982,Hawtai Santa Fe Classic,0,0.00%,-100.00%,2,0.00%,859,Asia
+China Retail,INDOPACOM,East Asia,983,Hyundai Sonata 8,0,0.00%,-100.00%,2,0.00%,860,Asia
+China Retail,INDOPACOM,East Asia,984,JAC Heyue A30,0,0.00%,-100.00%,2,0.00%,861,Asia
+China Retail,INDOPACOM,East Asia,985,JAC Refine S2 mini,0,0.00%,-100.00%,2,0.00%,863,Asia
+China Retail,INDOPACOM,East Asia,986,Land Rover Discovery ,0,0.00%,-100.00%,2,0.00%,865,Asia
+China Retail,INDOPACOM,East Asia,987,Link Tour K-ONE,0,0.00%,-100.00%,2,0.00%,868,Asia
+China Retail,INDOPACOM,East Asia,988,Mercedes Viano,0,0.00%,-100.00%,2,0.00%,869,Asia
+China Retail,INDOPACOM,East Asia,989,MG 3SW,0,0.00%,-100.00%,2,0.00%,871,Asia
+China Retail,INDOPACOM,East Asia,990,Nissan Paladin,0,0.00%,-100.00%,2,0.00%,872,Asia
+China Retail,INDOPACOM,East Asia,991,Peugeot 308S,0,0.00%,-100.00%,2,0.00%,873,Asia
+China Retail,INDOPACOM,East Asia,992,Suzuki Liana A6,0,0.00%,-100.00%,2,0.00%,875,Asia
+China Retail,INDOPACOM,East Asia,993,VW Gran Lavida,0,0.00%,-100.00%,2,0.00%,876,Asia
+China Retail,INDOPACOM,East Asia,994,Yema F99,0,0.00%,-100.00%,2,0.00%,877,Asia
+China Retail,INDOPACOM,East Asia,995,Zotye Z100,0,0.00%,-100.00%,2,0.00%,878,Asia
+China Retail,INDOPACOM,East Asia,996,Beijing Weiwang 306,0,0.00%,-100.00%,1,0.00%,882,Asia
+China Retail,INDOPACOM,East Asia,997,Brilliance Junjie (BS4),0,0.00%,-100.00%,1,0.00%,883,Asia
+China Retail,INDOPACOM,East Asia,998,Brilliance Junjie FSV,0,0.00%,-100.00%,1,0.00%,884,Asia
+China Retail,INDOPACOM,East Asia,999,Chana Star 3,0,0.00%,-100.00%,1,0.00%,885,Asia
+China Retail,INDOPACOM,East Asia,1000,Chery Arrizo 3,0,0.00%,-100.00%,1,0.00%,886,Asia
+China Retail,INDOPACOM,East Asia,1001,Chery Arrizo M7,0,0.00%,-100.00%,1,0.00%,887,Asia
+China Retail,INDOPACOM,East Asia,1002,Chevrolet Aveo,0,0.00%,-100.00%,1,0.00%,888,Asia
+China Retail,INDOPACOM,East Asia,1003,Chevrolet Lova RV,0,0.00%,-100.00%,1,0.00%,889,Asia
+China Retail,INDOPACOM,East Asia,1004,Cowin V3,0,0.00%,-100.00%,1,0.00%,890,Asia
+China Retail,INDOPACOM,East Asia,1005,Dongfeng Fengdu MX6,0,0.00%,-100.00%,1,0.00%,891,Asia
+China Retail,INDOPACOM,East Asia,1006,Dongfeng Fengshen E30,0,0.00%,-100.00%,1,0.00%,892,Asia
+China Retail,INDOPACOM,East Asia,1007,FAW Jilin Senia S80,0,0.00%,-100.00%,1,0.00%,893,Asia
+China Retail,INDOPACOM,East Asia,1008,Ford Mondeo Zhisheng,0,0.00%,-100.00%,1,0.00%,894,Asia
+China Retail,INDOPACOM,East Asia,1009,Geely Freedom Ship,0,0.00%,-100.00%,1,0.00%,895,Asia
+China Retail,INDOPACOM,East Asia,1010,Haval H1,0,0.00%,-100.00%,1,0.00%,897,Asia
+China Retail,INDOPACOM,East Asia,1011,JAC Refine A60,0,0.00%,-100.00%,1,0.00%,898,Asia
+China Retail,INDOPACOM,East Asia,1012,Jinbei S35,0,0.00%,-100.00%,1,0.00%,899,Asia
+China Retail,INDOPACOM,East Asia,1013,Kandi EX3,0,0.00%,-100.00%,1,0.00%,900,Asia
+China Retail,INDOPACOM,East Asia,1014,Kia K4,0,0.00%,-100.00%,1,0.00%,901,Asia
+China Retail,INDOPACOM,East Asia,1015,Kia Soul,0,0.00%,-100.00%,1,0.00%,902,Asia
+China Retail,INDOPACOM,East Asia,1016,Leopaard Feiteng C5,0,0.00%,-100.00%,1,0.00%,903,Asia
+China Retail,INDOPACOM,East Asia,1017,Leopaard Kingbox DUV,0,0.00%,-100.00%,1,0.00%,904,Asia
+China Retail,INDOPACOM,East Asia,1018,Lifan 720,0,0.00%,-100.00%,1,0.00%,905,Asia
+China Retail,INDOPACOM,East Asia,1019,Mazda2,0,0.00%,-100.00%,1,0.00%,906,Asia
+China Retail,INDOPACOM,East Asia,1020,Mazda3,0,0.00%,-100.00%,1,0.00%,907,Asia
+China Retail,INDOPACOM,East Asia,1021,Mercedes GLK,0,0.00%,-100.00%,1,0.00%,908,Asia
+China Retail,INDOPACOM,East Asia,1022,Nissan March,0,0.00%,-100.00%,1,0.00%,909,Asia
+China Retail,INDOPACOM,East Asia,1023,Roewe E50,0,0.00%,-100.00%,1,0.00%,910,Asia
+China Retail,INDOPACOM,East Asia,1024,Soueast V6 Lingshi,0,0.00%,-100.00%,1,0.00%,911,Asia
+China Retail,INDOPACOM,East Asia,1025,Suzuki Alto,0,0.00%,-100.00%,1,0.00%,912,Asia
+China Retail,INDOPACOM,East Asia,1026,Suzuki Liana,0,0.00%,-100.00%,1,0.00%,913,Asia
+China Retail,INDOPACOM,East Asia,1027,Toyota Coaster,0,0.00%,-100.00%,1,0.00%,914,Asia
+China Retail,INDOPACOM,East Asia,1028,Toyota Corolla EX,0,0.00%,-100.00%,1,0.00%,916,Asia
+China Retail,INDOPACOM,East Asia,1029,Weichai Enranger EX1 EV,0,0.00%,-100.00%,1,0.00%,917,Asia

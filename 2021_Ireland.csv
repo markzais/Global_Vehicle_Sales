@@ -1,0 +1,283 @@
+﻿Country,Command,Region,Position_2021,Model,Sales_2021,Percent_2021,Growth_2021,Sales_2020,Percent_2020,Position_2020,Continent
+Ireland,EUCOM,Western Europe,1,Hyundai Tucson,"5,466",5.20%,69.40%,"3,227",3.70%,2,Europe
+Ireland,EUCOM,Western Europe,2,Toyota Corolla,"4,322",4.10%,15.10%,"3,755",4.30%,1,Europe
+Ireland,EUCOM,Western Europe,3,Toyota Yaris,"2,701",2.60%,41.00%,"1,915",2.20%,10,Europe
+Ireland,EUCOM,Western Europe,4,VW Tiguan,"2,668",2.50%,-10.40%,"2,977",3.40%,3,Europe
+Ireland,EUCOM,Western Europe,5,Toyota C-HR,"2,576",2.50%,24.00%,"2,078",2.40%,7,Europe
+Ireland,EUCOM,Western Europe,6,Toyota RAV4,"2,561",2.40%,77.20%,"1,445",1.60%,15,Europe
+Ireland,EUCOM,Western Europe,7,Skoda Octavia,"2,555",2.40%,24.90%,"2,045",2.30%,8,Europe
+Ireland,EUCOM,Western Europe,8,VW Golf,"2,341",2.20%,7.30%,"2,181",2.50%,6,Europe
+Ireland,EUCOM,Western Europe,9,Ford Focus,"2,131",2.00%,-14.90%,"2,503",2.80%,4,Europe
+Ireland,EUCOM,Western Europe,10,Kia Sportage,"2,101",2.00%,17.80%,"1,784",2.00%,11,Europe
+Ireland,EUCOM,Western Europe,11,Peugeot 3008,"1,961",1.90%,23.80%,"1,584",1.80%,13,Europe
+Ireland,EUCOM,Western Europe,12,Hyundai Kona,"1,954",1.90%,-15.80%,"2,321",2.60%,5,Europe
+Ireland,EUCOM,Western Europe,13,Skoda Kodiaq,"1,882",1.80%,12.70%,"1,670",1.90%,12,Europe
+Ireland,EUCOM,Western Europe,14,Ford Puma,"1,773",1.70%,131.50%,766,0.90%,35,Europe
+Ireland,EUCOM,Western Europe,15,Ford Kuga,"1,702",1.60%,87.40%,908,1.00%,28,Europe
+Ireland,EUCOM,Western Europe,16,Nissan Qashqai,"1,684",1.60%,-12.70%,"1,930",2.20%,9,Europe
+Ireland,EUCOM,Western Europe,17,VW Polo,"1,634",1.60%,16.50%,"1,403",1.60%,16,Europe
+Ireland,EUCOM,Western Europe,18,VW T-Roc,"1,440",1.40%,19.80%,"1,202",1.40%,22,Europe
+Ireland,EUCOM,Western Europe,19,VW ID.4,"1,428",1.40%,new,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,20,Skoda Karoq,"1,406",1.30%,24.30%,"1,131",1.30%,23,Europe
+Ireland,EUCOM,Western Europe,21,Peugeot 2008,"1,390",1.30%,131.70%,600,0.70%,46,Europe
+Ireland,EUCOM,Western Europe,22,Hyundai i20,"1,340",1.30%,88.70%,710,0.80%,39,Europe
+Ireland,EUCOM,Western Europe,23,Kia Niro,"1,295",1.20%,45.70%,889,1.00%,31,Europe
+Ireland,EUCOM,Western Europe,24,VW ID.3,"1,269",1.20%,254.50%,358,0.40%,73,Europe
+Ireland,EUCOM,Western Europe,25,Nissan Micra,"1,216",1.20%,20.00%,"1,013",1.10%,25,Europe
+Ireland,EUCOM,Western Europe,26,Renault Clio,"1,203",1.10%,8.80%,"1,106",1.30%,24,Europe
+Ireland,EUCOM,Western Europe,27,Seat Arona,"1,184",1.10%,20.60%,982,1.10%,26,Europe
+Ireland,EUCOM,Western Europe,28,Peugeot 5008,"1,158",1.10%,-6.20%,"1,235",1.40%,19,Europe
+Ireland,EUCOM,Western Europe,29,Nissan Juke,"1,142",1.10%,-8.80%,"1,252",1.40%,17,Europe
+Ireland,EUCOM,Western Europe,30,Dacia Duster,"1,119",1.10%,-7.20%,"1,206",1.40%,21,Europe
+Ireland,EUCOM,Western Europe,31,Renault Captur,"1,114",1.10%,-9.90%,"1,237",1.40%,18,Europe
+Ireland,EUCOM,Western Europe,32,Ford Fiesta,"1,112",1.10%,-24.30%,"1,468",1.70%,14,Europe
+Ireland,EUCOM,Western Europe,33,BMW 5-Series,"1,077",1.00%,66.20%,648,0.70%,40,Europe
+Ireland,EUCOM,Western Europe,34,Kia Ceed,"1,030",1.00%,18.70%,868,1.00%,32,Europe
+Ireland,EUCOM,Western Europe,35,Dacia Sandero,"1,009",1.00%,74.60%,578,0.70%,48,Europe
+Ireland,EUCOM,Western Europe,36,Skoda Kamiq,945,0.90%,74.70%,541,0.60%,52,Europe
+Ireland,EUCOM,Western Europe,37,Skoda Superb,926,0.90%,-1.40%,939,1.10%,27,Europe
+Ireland,EUCOM,Western Europe,38,Mercedes E Class,899,0.90%,58.80%,566,0.60%,49,Europe
+Ireland,EUCOM,Western Europe,39,VW Passat,864,0.80%,-28.40%,"1,206",1.40%,20,Europe
+Ireland,EUCOM,Western Europe,40,Seat Ateca,836,0.80%,3.10%,811,0.90%,33,Europe
+Ireland,EUCOM,Western Europe,41,Opel Corsa,823,0.80%,13.20%,727,0.80%,37,Europe
+Ireland,EUCOM,Western Europe,42,Audi A3,792,0.80%,48.60%,533,0.60%,54,Europe
+Ireland,EUCOM,Western Europe,43,Tesla Model 3,787,0.80%,8.70%,724,0.80%,38,Europe
+Ireland,EUCOM,Western Europe,44,Kia Sorento,763,0.70%,720.40%,93,0.10%,130,Europe
+Ireland,EUCOM,Western Europe,45,Nissan Leaf,736,0.70%,19.30%,617,0.70%,41,Europe
+Ireland,EUCOM,Western Europe,46,Skoda Fabia,729,0.70%,22.70%,594,0.70%,47,Europe
+Ireland,EUCOM,Western Europe,47,Kia Stonic,727,0.70%,-19.60%,904,1.00%,29,Europe
+Ireland,EUCOM,Western Europe,48,BMW X5,725,0.70%,107.10%,350,0.40%,75,Europe
+Ireland,EUCOM,Western Europe,49,BMW 3-Series,700,0.70%,-8.90%,768,0.90%,34,Europe
+Ireland,EUCOM,Western Europe,50,Suzuki Vitara,690,0.70%,40.00%,493,0.60%,57,Europe
+Ireland,EUCOM,Western Europe,51,VW T-Cross,654,0.60%,-26.80%,894,1.00%,30,Europe
+Ireland,EUCOM,Western Europe,52,Seat Leon,653,0.60%,68.30%,388,0.40%,70,Europe
+Ireland,EUCOM,Western Europe,53,Seat Tarraco,644,0.60%,33.60%,482,0.50%,59,Europe
+Ireland,EUCOM,Western Europe,54,Audi A6,613,0.60%,0.00%,613,0.70%,42,Europe
+Ireland,EUCOM,Western Europe,55,Seat Ibiza,613,0.60%,9.70%,559,0.60%,50,Europe
+Ireland,EUCOM,Western Europe,56,Audi Q3,599,0.60%,8.50%,552,0.60%,51,Europe
+Ireland,EUCOM,Western Europe,57,Audi A4,588,0.60%,-2.30%,602,0.70%,45,Europe
+Ireland,EUCOM,Western Europe,58,Peugeot 208,563,0.50%,-8.20%,613,0.70%,43,Europe
+Ireland,EUCOM,Western Europe,59,Hyundai i30,563,0.50%,30.90%,430,0.50%,64,Europe
+Ireland,EUCOM,Western Europe,60,Hyundai i10,560,0.50%,-7.70%,607,0.70%,44,Europe
+Ireland,EUCOM,Western Europe,61,Opel Grandland X,535,0.50%,57.80%,339,0.40%,76,Europe
+Ireland,EUCOM,Western Europe,62,Volvo XC40,524,0.50%,16.70%,449,0.50%,61,Europe
+Ireland,EUCOM,Western Europe,63,Renault Mégane,515,0.50%,-0.20%,516,0.60%,55,Europe
+Ireland,EUCOM,Western Europe,64,Opel Crossland X,497,0.50%,51.50%,328,0.40%,80,Europe
+Ireland,EUCOM,Western Europe,65,Renault Zoe,467,0.40%,101.30%,232,0.30%,91,Europe
+Ireland,EUCOM,Western Europe,66,BMW 2-Series,463,0.40%,219.30%,145,0.20%,111,Europe
+Ireland,EUCOM,Western Europe,67,Ford Mondeo,453,0.40%,-2.40%,464,0.50%,60,Europe
+Ireland,EUCOM,Western Europe,68,Mini Hatch,447,0.40%,32.60%,337,0.40%,77,Europe
+Ireland,EUCOM,Western Europe,69,Mercedes GLC,424,0.40%,-4.10%,442,0.50%,62,Europe
+Ireland,EUCOM,Western Europe,70,Mercedes CLA,410,0.40%,-15.30%,484,0.50%,58,Europe
+Ireland,EUCOM,Western Europe,71,Volvo XC60,398,0.40%,18.50%,336,0.40%,78,Europe
+Ireland,EUCOM,Western Europe,72,Audi Q5,376,0.40%,-5.80%,399,0.50%,67,Europe
+Ireland,EUCOM,Western Europe,73,Mercedes GLB,364,0.30%,188.90%,126,0.10%,119,Europe
+Ireland,EUCOM,Western Europe,74,Mercedes A Class,357,0.30%,-33.40%,536,0.60%,53,Europe
+Ireland,EUCOM,Western Europe,75,Hyundai Santa Fe,352,0.30%,-1.40%,357,0.40%,74,Europe
+Ireland,EUCOM,Western Europe,76,Kia Rio,349,0.30%,64.60%,212,0.20%,96,Europe
+Ireland,EUCOM,Western Europe,77,BMW X3,344,0.30%,-10.20%,383,0.40%,72,Europe
+Ireland,EUCOM,Western Europe,78,Skoda Scala,343,0.30%,-31.10%,498,0.60%,56,Europe
+Ireland,EUCOM,Western Europe,79,Opel Insignia,343,0.30%,13.60%,302,0.30%,84,Europe
+Ireland,EUCOM,Western Europe,80,Honda Civic,341,0.30%,-16.00%,406,0.50%,66,Europe
+Ireland,EUCOM,Western Europe,81,Volvo XC90,341,0.30%,59.30%,214,0.20%,95,Europe
+Ireland,EUCOM,Western Europe,82,Range Rover Sport,340,0.30%,112.50%,160,0.20%,108,Europe
+Ireland,EUCOM,Western Europe,83,Mazda CX-30,338,0.30%,3.40%,327,0.40%,81,Europe
+Ireland,EUCOM,Western Europe,84,Citroen C5 Aircross,334,0.30%,-19.70%,416,0.50%,65,Europe
+Ireland,EUCOM,Western Europe,85,Mazda CX-5,334,0.30%,-13.50%,386,0.40%,71,Europe
+Ireland,EUCOM,Western Europe,86,BMW 1-Series,327,0.30%,30.80%,250,0.30%,89,Europe
+Ireland,EUCOM,Western Europe,87,Mercedes GLA,324,0.30%,248.40%,93,0.10%,132,Europe
+Ireland,EUCOM,Western Europe,88,Renault Kadjar,311,0.30%,-57.50%,731,0.80%,36,Europe
+Ireland,EUCOM,Western Europe,89,Opel Mokka,310,0.30%,30900.00%,1,0.00%,241,Europe
+Ireland,EUCOM,Western Europe,90,BMW X1,298,0.30%,10.80%,269,0.30%,85,Europe
+Ireland,EUCOM,Western Europe,91,Audi Q2,292,0.30%,15.00%,254,0.30%,87,Europe
+Ireland,EUCOM,Western Europe,92,Suzuki Swift,287,0.30%,60.30%,179,0.20%,107,Europe
+Ireland,EUCOM,Western Europe,93,Toyota Camry,273,0.30%,-30.90%,395,0.40%,69,Europe
+Ireland,EUCOM,Western Europe,94,Audi A5,268,0.30%,41.10%,190,0.20%,100,Europe
+Ireland,EUCOM,Western Europe,95,Renault Arkana,259,0.20%,new,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,96,Kia Picanto,251,0.20%,-0.40%,252,0.30%,88,Europe
+Ireland,EUCOM,Western Europe,97,Toyota Aygo,243,0.20%,-5.40%,257,0.30%,86,Europe
+Ireland,EUCOM,Western Europe,98,Range Rover Evoque,243,0.20%,27.90%,190,0.20%,101,Europe
+Ireland,EUCOM,Western Europe,99,Mazda3,242,0.20%,-22.20%,311,0.40%,83,Europe
+Ireland,EUCOM,Western Europe,100,Skoda Enyaq,237,0.20%,new,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,101,MG ZS,234,0.20%,1070.00%,20,0.00%,187,Europe
+Ireland,EUCOM,Western Europe,102,Suzuki Ignis,232,0.20%,10.00%,211,0.20%,97,Europe
+Ireland,EUCOM,Western Europe,103,Hyundai Ioniq,224,0.20%,-1.80%,228,0.30%,92,Europe
+Ireland,EUCOM,Western Europe,104,Opel Astra,222,0.20%,-0.40%,223,0.30%,94,Europe
+Ireland,EUCOM,Western Europe,105,BMW 4-Series,218,0.20%,445.00%,40,0.00%,165,Europe
+Ireland,EUCOM,Western Europe,106,Audi A1,216,0.20%,18.00%,183,0.20%,105,Europe
+Ireland,EUCOM,Western Europe,107,Hyundai Bayon,197,0.20%,new,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,108,VW Arteon,181,0.20%,1.10%,179,0.20%,106,Europe
+Ireland,EUCOM,Western Europe,109,Audi Q4,170,0.20%,new,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,110,Honda HR-V,169,0.20%,23.40%,137,0.20%,115,Europe
+Ireland,EUCOM,Western Europe,111,Peugeot Rifter,161,0.20%,-14.80%,189,0.20%,102,Europe
+Ireland,EUCOM,Western Europe,112,Audi e-tron,154,0.10%,43.90%,107,0.10%,126,Europe
+Ireland,EUCOM,Western Europe,113,Mitsubishi Space Star,146,0.10%,100.00%,73,0.10%,143,Europe
+Ireland,EUCOM,Western Europe,114,Cupra Formentor,146,0.10%,7200.00%,2,0.00%,239,Europe
+Ireland,EUCOM,Western Europe,115,Citroen C3,138,0.10%,-2.10%,141,0.20%,113,Europe
+Ireland,EUCOM,Western Europe,116,Renault Scenic,137,0.10%,-9.90%,152,0.20%,109,Europe
+Ireland,EUCOM,Western Europe,117,Lexus ES,136,0.10%,29.50%,105,0.10%,127,Europe
+Ireland,EUCOM,Western Europe,118,Land Rover Discovery Sport,134,0.10%,-66.20%,396,0.40%,68,Europe
+Ireland,EUCOM,Western Europe,119,MG5,130,0.10%,new,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,120,Peugeot 508,127,0.10%,-38.60%,207,0.20%,98,Europe
+Ireland,EUCOM,Western Europe,121,Lexus NX,126,0.10%,-10.00%,140,0.20%,114,Europe
+Ireland,EUCOM,Western Europe,122,Honda CR-V,121,0.10%,-38.30%,196,0.20%,99,Europe
+Ireland,EUCOM,Western Europe,123,Toyota Yaris Cross,121,0.10%,new,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,124,BMW iX3,119,0.10%,new,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,125,Fiat 500,111,0.10%,-10.50%,124,0.10%,120,Europe
+Ireland,EUCOM,Western Europe,126,Honda Jazz,110,0.10%,0.90%,109,0.10%,125,Europe
+Ireland,EUCOM,Western Europe,127,Mini Countryman,108,0.10%,129.80%,47,0.10%,161,Europe
+Ireland,EUCOM,Western Europe,128,Citroen C4,108,0.10%,575.00%,16,0.00%,193,Europe
+Ireland,EUCOM,Western Europe,129,Mazda2,101,0.10%,-12.90%,116,0.10%,123,Europe
+Ireland,EUCOM,Western Europe,130,Citroen C3 Aircross,100,0.10%,51.50%,66,0.10%,145,Europe
+Ireland,EUCOM,Western Europe,131,Mazda MX-30,98,0.10%,new,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,132,Mitsubishi Outlander,97,0.10%,-59.10%,237,0.30%,90,Europe
+Ireland,EUCOM,Western Europe,133,Mercedes S Class,97,0.10%,385.00%,20,0.00%,186,Europe
+Ireland,EUCOM,Western Europe,134,Mercedes C Class,95,0.10%,-69.60%,312,0.40%,82,Europe
+Ireland,EUCOM,Western Europe,135,MG HS,94,0.10%,1780.00%,5,0.00%,224,Europe
+Ireland,EUCOM,Western Europe,136,Range Rover Velar,92,0.10%,-27.00%,126,0.10%,118,Europe
+Ireland,EUCOM,Western Europe,137,Renault Koleos,92,0.10%,2.20%,90,0.10%,134,Europe
+Ireland,EUCOM,Western Europe,138,Mercedes GLE,89,0.10%,-52.40%,187,0.20%,103,Europe
+Ireland,EUCOM,Western Europe,139,Jaguar F-Pace,86,0.10%,-22.50%,111,0.10%,124,Europe
+Ireland,EUCOM,Western Europe,140,Lexus UX,86,0.10%,32.30%,65,0.10%,147,Europe
+Ireland,EUCOM,Western Europe,141,Kia Soul,81,0.10%,-64.00%,225,0.30%,93,Europe
+Ireland,EUCOM,Western Europe,142,Seat Alhambra,80,0.10%,-38.50%,130,0.10%,116,Europe
+Ireland,EUCOM,Western Europe,143,Porsche Taycan,80,0.10%,233.30%,24,0.00%,179,Europe
+Ireland,EUCOM,Western Europe,144,Audi Q7,78,0.10%,-39.50%,129,0.10%,117,Europe
+Ireland,EUCOM,Western Europe,145,Hyundai Ioniq 5,78,0.10%,new,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,146,Toyota Highlander,77,0.10%,new,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,147,Suzuki SX4,74,0.10%,80.50%,41,0.00%,164,Europe
+Ireland,EUCOM,Western Europe,148,Ssangyong Korando,73,0.10%,114.70%,34,0.00%,171,Europe
+Ireland,EUCOM,Western Europe,149,VW Touareg,72,0.10%,-7.70%,78,0.10%,140,Europe
+Ireland,EUCOM,Western Europe,150,Citroen C4 Picasso,72,0.10%,-2.70%,74,0.10%,141,Europe
+Ireland,EUCOM,Western Europe,151,Toyota Land Cruiser,70,0.10%,0.00%,70,0.10%,144,Europe
+Ireland,EUCOM,Western Europe,152,Mercedes EQA,69,0.10%,new,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,153,Nissan X-Trail,64,0.10%,-85.40%,439,0.50%,63,Europe
+Ireland,EUCOM,Western Europe,154,Volvo V60,63,0.10%,1.60%,62,0.10%,149,Europe
+Ireland,EUCOM,Western Europe,155,Citroen Berlingo,61,0.10%,-41.30%,104,0.10%,128,Europe
+Ireland,EUCOM,Western Europe,156,Ford Transit Custom,60,0.10%,-58.90%,146,0.20%,110,Europe
+Ireland,EUCOM,Western Europe,156,Dacia Logan MCV,59,0.10%,-34.40%,90,0.10%,133,Europe
+Ireland,EUCOM,Western Europe,157,Opel Combo,59,0.10%,321.40%,14,0.00%,196,Europe
+Ireland,EUCOM,Western Europe,158,Peugeot Expert,58,0.10%,-26.60%,79,0.10%,139,Europe
+Ireland,EUCOM,Western Europe,159,Mazda6,49,0.00%,-50.00%,98,0.10%,129,Europe
+Ireland,EUCOM,Western Europe,160,Mercedes CLS,49,0.00%,-25.80%,66,0.10%,146,Europe
+Ireland,EUCOM,Western Europe,161,Porsche Cayenne,46,0.00%,-6.10%,49,0.10%,158,Europe
+Ireland,EUCOM,Western Europe,162,Ford S-Max,42,0.00%,-51.20%,86,0.10%,136,Europe
+Ireland,EUCOM,Western Europe,163,Jaguar i-Pace,41,0.00%,241.70%,12,0.00%,199,Europe
+Ireland,EUCOM,Western Europe,164,Peugeot 308,40,0.00%,-71.60%,141,0.20%,112,Europe
+Ireland,EUCOM,Western Europe,165,Lexus RX,39,0.00%,-27.80%,54,0.10%,154,Europe
+Ireland,EUCOM,Western Europe,166,Ford Mustang,38,0.00%,322.20%,9,0.00%,210,Europe
+Ireland,EUCOM,Western Europe,167,Ford Ecosport,37,0.00%,-88.80%,329,0.40%,79,Europe
+Ireland,EUCOM,Western Europe,168,Ford Galaxy,37,0.00%,-54.30%,81,0.10%,138,Europe
+Ireland,EUCOM,Western Europe,169,BMW i3,37,0.00%,-50.00%,74,0.10%,142,Europe
+Ireland,EUCOM,Western Europe,170,Volvo S90,37,0.00%,-24.50%,49,0.10%,156,Europe
+Ireland,EUCOM,Western Europe,171,Honda E,37,0.00%,516.70%,6,0.00%,219,Europe
+Ireland,EUCOM,Western Europe,172,Kia EV6,37,0.00%,new,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,173,VW Touran,36,0.00%,-40.00%,60,0.10%,151,Europe
+Ireland,EUCOM,Western Europe,174,Fiat Panda,36,0.00%,33.30%,27,0.00%,178,Europe
+Ireland,EUCOM,Western Europe,175,Land Rover Defender,35,0.00%,-46.20%,65,0.10%,148,Europe
+Ireland,EUCOM,Western Europe,176,Range Rover ,35,0.00%,-31.40%,51,0.10%,155,Europe
+Ireland,EUCOM,Western Europe,177,Cupra Leon,34,0.00%,new,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,178,Audi e-tron GT,33,0.00%,new,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,179,BMW X2,32,0.00%,-23.80%,42,0.00%,163,Europe
+Ireland,EUCOM,Western Europe,180,Ford Tourneo,31,0.00%,14.80%,27,0.00%,177,Europe
+Ireland,EUCOM,Western Europe,181,Mercedes B Class,30,0.00%,-50.80%,61,0.10%,150,Europe
+Ireland,EUCOM,Western Europe,182,Jaguar XF,30,0.00%,3.40%,29,0.00%,175,Europe
+Ireland,EUCOM,Western Europe,183,Ssangyong Tivoli,30,0.00%,50.00%,20,0.00%,185,Europe
+Ireland,EUCOM,Western Europe,184,Toyota Prius,29,0.00%,-67.40%,89,0.10%,135,Europe
+Ireland,EUCOM,Western Europe,185,DS 7,28,0.00%,new,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,186,BMW 7 Series,27,0.00%,-3.60%,28,0.00%,176,Europe
+Ireland,EUCOM,Western Europe,187,Audi Q8,25,0.00%,-35.90%,39,0.00%,166,Europe
+Ireland,EUCOM,Western Europe,188,BMW 8 Series,24,0.00%,-50.00%,48,0.10%,160,Europe
+Ireland,EUCOM,Western Europe,189,Mitsubishi ASX,23,0.00%,-58.20%,55,0.10%,153,Europe
+Ireland,EUCOM,Western Europe,190,Citroen C4 Cactus,23,0.00%,-46.50%,43,0.00%,162,Europe
+Ireland,EUCOM,Western Europe,191,Fiat 500X,23,0.00%,-20.70%,29,0.00%,174,Europe
+Ireland,EUCOM,Western Europe,192,Volvo S60,22,0.00%,-35.30%,34,0.00%,169,Europe
+Ireland,EUCOM,Western Europe,193,Toyota Proace,22,0.00%,37.50%,16,0.00%,192,Europe
+Ireland,EUCOM,Western Europe,194,Alfa Romeo Giulia,22,0.00%,144.40%,9,0.00%,208,Europe
+Ireland,EUCOM,Western Europe,195,Fiat Tipo,21,0.00%,-4.50%,22,0.00%,181,Europe
+Ireland,EUCOM,Western Europe,196,BMW X4,21,0.00%,16.70%,18,0.00%,189,Europe
+Ireland,EUCOM,Western Europe,197,Mercedes EQC,21,0.00%,90.90%,11,0.00%,204,Europe
+Ireland,EUCOM,Western Europe,198,BMW X7,20,0.00%,-41.20%,34,0.00%,170,Europe
+Ireland,EUCOM,Western Europe,199,Mitsubishi Eclipse Cross,20,0.00%,-9.10%,22,0.00%,180,Europe
+Ireland,EUCOM,Western Europe,200,Audi A8,18,0.00%,28.60%,14,0.00%,195,Europe
+Ireland,EUCOM,Western Europe,201,Land Rover Discovery,17,0.00%,-85.70%,119,0.10%,121,Europe
+Ireland,EUCOM,Western Europe,202,Jeep Renegade,17,0.00%,41.70%,12,0.00%,201,Europe
+Ireland,EUCOM,Western Europe,203,Mercedes V Class,16,0.00%,-68.60%,51,0.10%,156,Europe
+Ireland,EUCOM,Western Europe,204,Audi A7,16,0.00%,-59.00%,39,0.00%,167,Europe
+Ireland,EUCOM,Western Europe,205,Porsche Panamera,16,0.00%,-11.10%,18,0.00%,190,Europe
+Ireland,EUCOM,Western Europe,206,Porsche 911/Carrera,16,0.00%,77.80%,9,0.00%,212,Europe
+Ireland,EUCOM,Western Europe,207,Mini Coupe,15,0.00%,-11.80%,17,0.00%,191,Europe
+Ireland,EUCOM,Western Europe,208,Jeep Compass,14,0.00%,250.00%,4,0.00%,225,Europe
+Ireland,EUCOM,Western Europe,209,VW Caddy,13,0.00%,-86.00%,93,0.10%,131,Europe
+Ireland,EUCOM,Western Europe,210,Peugeot 108,13,0.00%,8.30%,12,0.00%,200,Europe
+Ireland,EUCOM,Western Europe,211,Volvo V90,12,0.00%,-63.60%,33,0.00%,172,Europe
+Ireland,EUCOM,Western Europe,212,BMW X6,12,0.00%,-20.00%,15,0.00%,194,Europe
+Ireland,EUCOM,Western Europe,213,Subaru XV,12,0.00%,33.30%,9,0.00%,207,Europe
+Ireland,EUCOM,Western Europe,214,Mazda CX-3,12,0.00%,50.00%,8,0.00%,213,Europe
+Ireland,EUCOM,Western Europe,215,Porsche Macan,12,0.00%,140.00%,5,0.00%,221,Europe
+Ireland,EUCOM,Western Europe,216,Mazda MX-5,11,0.00%,0.00%,11,0.00%,203,Europe
+Ireland,EUCOM,Western Europe,217,BMW Z4,11,0.00%,10.00%,10,0.00%,206,Europe
+Ireland,EUCOM,Western Europe,218,Mini Convertible,11,0.00%,22.20%,9,0.00%,209,Europe
+Ireland,EUCOM,Western Europe,219,Subaru Forester,10,0.00%,-79.60%,49,0.10%,157,Europe
+Ireland,EUCOM,Western Europe,220,Mini Clubman,9,0.00%,-59.10%,22,0.00%,183,Europe
+Ireland,EUCOM,Western Europe,221,Alfa Romeo Giulietta,9,0.00%,0.00%,9,0.00%,211,Europe
+Ireland,EUCOM,Western Europe,222,DS 3,9,0.00%,n/a,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,223,Jaguar XE,8,0.00%,-74.20%,31,0.00%,173,Europe
+Ireland,EUCOM,Western Europe,224,Fiat 500L,8,0.00%,-38.50%,13,0.00%,198,Europe
+Ireland,EUCOM,Western Europe,225,Fiat 500C,8,0.00%,300.00%,2,0.00%,235,Europe
+Ireland,EUCOM,Western Europe,226,Mercedes AMG GT,7,0.00%,-50.00%,14,0.00%,197,Europe
+Ireland,EUCOM,Western Europe,227,Mercedes GLS,7,0.00%,133.30%,3,0.00%,230,Europe
+Ireland,EUCOM,Western Europe,228,Audi TT,6,0.00%,-45.50%,11,0.00%,202,Europe
+Ireland,EUCOM,Western Europe,229,Citroen Spacetourer,6,0.00%,-25.00%,8,0.00%,214,Europe
+Ireland,EUCOM,Western Europe,230,Jaguar F-Type,6,0.00%,-14.30%,7,0.00%,217,Europe
+Ireland,EUCOM,Western Europe,231,Alfa Romeo Stelvio,5,0.00%,-37.50%,8,0.00%,215,Europe
+Ireland,EUCOM,Western Europe,232,Citroen C1,5,0.00%,-16.70%,6,0.00%,218,Europe
+Ireland,EUCOM,Western Europe,233,Subaru Outback,5,0.00%,0.00%,5,0.00%,223,Europe
+Ireland,EUCOM,Western Europe,234,Tesla Model S,4,0.00%,-89.50%,38,0.00%,168,Europe
+Ireland,EUCOM,Western Europe,235,Porsche Cayman,4,0.00%,0.00%,4,0.00%,227,Europe
+Ireland,EUCOM,Western Europe,236,Opel Vivaro,3,0.00%,0.00%,3,0.00%,231,Europe
+Ireland,EUCOM,Western Europe,237,Ford Hearse,3,0.00%,50.00%,2,0.00%,236,Europe
+Ireland,EUCOM,Western Europe,238,Mercedes G Class,3,0.00%,200.00%,1,0.00%,243,Europe
+Ireland,EUCOM,Western Europe,239,Toyota Supra,3,0.00%,new,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,240,Bentley Unidentified,3,0.00%,n/a,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,241,Morgan Plus 4,3,0.00%,n/a,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,242,Jaguar E-Pace,2,0.00%,-97.60%,84,0.10%,137,Europe
+Ireland,EUCOM,Western Europe,243,Kia Optima,2,0.00%,-95.80%,48,0.10%,159,Europe
+Ireland,EUCOM,Western Europe,244,Lexus LS,2,0.00%,0.00%,2,0.00%,234,Europe
+Ireland,EUCOM,Western Europe,245,Citroen Dispatch,2,0.00%,100.00%,1,0.00%,246,Europe
+Ireland,EUCOM,Western Europe,246,Porsche Boxster,2,0.00%,100.00%,1,0.00%,245,Europe
+Ireland,EUCOM,Western Europe,247,Cupra Ateca,2,0.00%,new,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,248,Morgan Plus,2,0.00%,n/a,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,249,Ford unidentified,2,0.00%,n/a,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,250,Tesla Model X,1,0.00%,-94.40%,18,0.00%,188,Europe
+Ireland,EUCOM,Western Europe,251,Opel Zafira,1,0.00%,-87.50%,8,0.00%,216,Europe
+Ireland,EUCOM,Western Europe,252,Lexus LC,1,0.00%,-75.00%,4,0.00%,226,Europe
+Ireland,EUCOM,Western Europe,252,Jeep Wrangler,1,0.00%,-50.00%,2,0.00%,238,Europe
+Ireland,EUCOM,Western Europe,253,Nissan Evalia,1,0.00%,-50.00%,2,0.00%,237,Europe
+Ireland,EUCOM,Western Europe,254,Ssangyong Musso,1,0.00%,0.00%,1,0.00%,248,Europe
+Ireland,EUCOM,Western Europe,255,Audi R8,1,0.00%,n/a,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,256,Aston Martin Unidentified,1,0.00%,n/a,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,257,Caterham,1,0.00%,n/a,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,258,Hyundai ix35,1,0.00%,n/a,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,259,Mercedes EQV,1,0.00%,new,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,260,Nissan NV300,1,0.00%,n/a,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,261,Rolls Royce Panthom,1,0.00%,n/a,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,262,Porsche unidentified,1,0.00%,n/a,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,263,Rolls Royce unidentified,1,0.00%,n/a,0,0.00%, –,Europe
+Ireland,EUCOM,Western Europe,264,Hyundai ix20,0,0.00%,-100.00%,184,0.20%,104,Europe
+Ireland,EUCOM,Western Europe,265,Hyundai i40,0,0.00%,-100.00%,116,0.10%,122,Europe
+Ireland,EUCOM,Western Europe,266,VW Sharan,0,0.00%,-100.00%,57,0.10%,152,Europe
+Ireland,EUCOM,Western Europe,267,Lexus CT,0,0.00%,-100.00%,22,0.00%,182,Europe
+Ireland,EUCOM,Western Europe,268,Lexus IS,0,0.00%,-100.00%,20,0.00%,184,Europe
+Ireland,EUCOM,Western Europe,269,Subaru Impreza,0,0.00%,-100.00%,10,0.00%,205,Europe
+Ireland,EUCOM,Western Europe,270,BMW 6 Series,0,0.00%,-100.00%,5,0.00%,220,Europe
+Ireland,EUCOM,Western Europe,271,Lexus RC,0,0.00%,-100.00%,5,0.00%,222,Europe
+Ireland,EUCOM,Western Europe,272,Renault Twizy,0,0.00%,-100.00%,3,0.00%,229,Europe
+Ireland,EUCOM,Western Europe,273,Volvo V40,0,0.00%,-100.00%,3,0.00%,228,Europe
+Ireland,EUCOM,Western Europe,274,Fiat Ducato,0,0.00%,-100.00%,2,0.00%,240,Europe
+Ireland,EUCOM,Western Europe,275,Suzuki Celerio,0,0.00%,-100.00%,2,0.00%,233,Europe
+Ireland,EUCOM,Western Europe,276,VW Up!,0,0.00%,-100.00%,2,0.00%,232,Europe
+Ireland,EUCOM,Western Europe,277,BMW i8,0,0.00%,-100.00%,1,0.00%,244,Europe
+Ireland,EUCOM,Western Europe,278,Ford C-Max,0,0.00%,-100.00%,1,0.00%,242,Europe
+Ireland,EUCOM,Western Europe,279,Mercedes GL-Class,0,0.00%,-100.00%,1,0.00%,247,Europe
+Ireland,EUCOM,Western Europe,280,Ssangyong Rexton,0,0.00%,-100.00%,1,0.00%,249,Europe

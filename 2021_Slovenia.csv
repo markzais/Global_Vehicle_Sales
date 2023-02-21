@@ -1,0 +1,312 @@
+﻿Country,Command,Region,Position_2021,Model,Sales_2021,Percent_2021,Growth_2021,Sales_2020,Percent_2020,Position_2020,Continent
+Slovenia,EUCOM,Central Europe,1,Renault Clio,"2,627",4.90%,-32.60%,"3,897",7.30%,1,Europe
+Slovenia,EUCOM,Central Europe,2,VW T-Cross,"1,859",3.40%,63.10%,"1,140",2.10%,10,Europe
+Slovenia,EUCOM,Central Europe,3,Skoda Octavia,"1,808",3.30%,-5.80%,"1,920",3.60%,2,Europe
+Slovenia,EUCOM,Central Europe,4,Renault Captur,"1,530",2.80%,-11.50%,"1,728",3.20%,4,Europe
+Slovenia,EUCOM,Central Europe,5,Dacia Duster,"1,319",2.40%,1.20%,"1,303",2.40%,6,Europe
+Slovenia,EUCOM,Central Europe,6,VW T-Roc,"1,255",2.30%,34.40%,934,1.70%,13,Europe
+Slovenia,EUCOM,Central Europe,7,Hyundai Tucson,"1,159",2.10%,-1.30%,"1,174",2.20%,9,Europe
+Slovenia,EUCOM,Central Europe,8,Skoda Kamiq,"1,151",2.10%,36.20%,845,1.60%,15,Europe
+Slovenia,EUCOM,Central Europe,9,Peugeot 2008,"1,146",2.10%,-3.90%,"1,193",2.20%,8,Europe
+Slovenia,EUCOM,Central Europe,10,VW Polo,"1,086",2.00%,5.40%,"1,030",1.90%,12,Europe
+Slovenia,EUCOM,Central Europe,11,Fiat 500 ,"1,056",2.00%,38.40%,763,1.40%,18,Europe
+Slovenia,EUCOM,Central Europe,12,VW Tiguan,"1,015",1.90%,-16.50%,"1,215",2.30%,7,Europe
+Slovenia,EUCOM,Central Europe,13,VW Golf,982,1.80%,-47.60%,"1,875",3.50%,3,Europe
+Slovenia,EUCOM,Central Europe,14,Skoda Kodiaq,936,1.70%,21.60%,770,1.40%,17,Europe
+Slovenia,EUCOM,Central Europe,15,Citroen C3,927,1.70%,23.30%,752,1.40%,20,Europe
+Slovenia,EUCOM,Central Europe,16,Dacia Sandero,916,1.70%,-14.40%,"1,070",2.00%,11,Europe
+Slovenia,EUCOM,Central Europe,17,Kia Sportage,895,1.70%,75.50%,510,1.00%,31,Europe
+Slovenia,EUCOM,Central Europe,18,Peugeot 208,877,1.60%,16.30%,754,1.40%,19,Europe
+Slovenia,EUCOM,Central Europe,19,Kia Stonic,860,1.60%,37.60%,625,1.20%,25,Europe
+Slovenia,EUCOM,Central Europe,20,Hyundai Kona,783,1.50%,-10.80%,878,1.60%,14,Europe
+Slovenia,EUCOM,Central Europe,21,Ford Tourneo Custom,783,1.50%,104.40%,383,0.70%,42,Europe
+Slovenia,EUCOM,Central Europe,22,Nissan Qashqai,743,1.40%,-55.10%,"1,656",3.10%,5,Europe
+Slovenia,EUCOM,Central Europe,23,Skoda Karoq,728,1.30%,5.80%,688,1.30%,22,Europe
+Slovenia,EUCOM,Central Europe,24,Fiat Panda,659,1.20%,86.70%,353,0.70%,47,Europe
+Slovenia,EUCOM,Central Europe,25,Renault Mégane,620,1.10%,-25.60%,833,1.60%,16,Europe
+Slovenia,EUCOM,Central Europe,26,Toyota Corolla,615,1.10%,-0.30%,617,1.10%,26,Europe
+Slovenia,EUCOM,Central Europe,27,Toyota Yaris,561,1.00%,-4.80%,589,1.10%,27,Europe
+Slovenia,EUCOM,Central Europe,28,Hyundai i20,540,1.00%,-13.70%,626,1.20%,24,Europe
+Slovenia,EUCOM,Central Europe,29,Peugeot 3008,537,1.00%,10.50%,486,0.90%,32,Europe
+Slovenia,EUCOM,Central Europe,30,Mazda CX-30,537,1.00%,61.30%,333,0.60%,50,Europe
+Slovenia,EUCOM,Central Europe,31,Hyundai i10,514,1.00%,60.60%,320,0.60%,52,Europe
+Slovenia,EUCOM,Central Europe,32,VW Passat,511,0.90%,-30.60%,736,1.40%,21,Europe
+Slovenia,EUCOM,Central Europe,33,Nissan Juke,496,0.90%,-14.60%,581,1.10%,29,Europe
+Slovenia,EUCOM,Central Europe,34,Seat Leon,485,0.90%,11.80%,434,0.80%,36,Europe
+Slovenia,EUCOM,Central Europe,35,Jeep Compass,480,0.90%,209.70%,155,0.30%,80,Europe
+Slovenia,EUCOM,Central Europe,36,Suzuki Vitara,468,0.90%,52.40%,307,0.60%,53,Europe
+Slovenia,EUCOM,Central Europe,37,Kia Xceed,457,0.80%,4.30%,438,0.80%,35,Europe
+Slovenia,EUCOM,Central Europe,38,Citroen Berlingo,454,0.80%,-29.10%,640,1.20%,23,Europe
+Slovenia,EUCOM,Central Europe,39,Opel Corsa,429,0.80%,-8.50%,469,0.90%,33,Europe
+Slovenia,EUCOM,Central Europe,40,Opel Crossland X,418,0.80%,-7.90%,454,0.80%,34,Europe
+Slovenia,EUCOM,Central Europe,41,VW Touran,413,0.80%,2.00%,405,0.80%,38,Europe
+Slovenia,EUCOM,Central Europe,42,Audi Q3,405,0.80%,26.20%,321,0.60%,51,Europe
+Slovenia,EUCOM,Central Europe,43,Kia Ceed,388,0.70%,0.00%,388,0.70%,41,Europe
+Slovenia,EUCOM,Central Europe,44,Hyundai i30,380,0.70%,28.40%,296,0.60%,56,Europe
+Slovenia,EUCOM,Central Europe,45,Seat Arona,353,0.70%,2.00%,346,0.60%,48,Europe
+Slovenia,EUCOM,Central Europe,46,Renault Scénic,352,0.70%,-11.30%,397,0.70%,39,Europe
+Slovenia,EUCOM,Central Europe,47,Skoda Fabia,344,0.60%,-19.40%,427,0.80%,37,Europe
+Slovenia,EUCOM,Central Europe,48,VW Multivan,343,0.60%,75.00%,196,0.40%,66,Europe
+Slovenia,EUCOM,Central Europe,49,Citroen C3 Aircross,333,0.60%,-2.60%,342,0.60%,49,Europe
+Slovenia,EUCOM,Central Europe,50,Citroen C4,329,0.60%,1118.50%,27,0.10%,168,Europe
+Slovenia,EUCOM,Central Europe,51,Peugeot 308,300,0.60%,14.90%,261,0.50%,58,Europe
+Slovenia,EUCOM,Central Europe,52,Renault Twingo,299,0.60%,-19.80%,373,0.70%,45,Europe
+Slovenia,EUCOM,Central Europe,53,Skoda Scala,292,0.50%,-44.20%,523,1.00%,30,Europe
+Slovenia,EUCOM,Central Europe,54,Seat Ateca,286,0.50%,68.20%,170,0.30%,77,Europe
+Slovenia,EUCOM,Central Europe,55,Renault Kadjar,283,0.50%,-25.70%,381,0.70%,43,Europe
+Slovenia,EUCOM,Central Europe,56,Toyota C-HR,283,0.50%,-7.80%,307,0.60%,54,Europe
+Slovenia,EUCOM,Central Europe,57,Toyota RAV4,274,0.50%,41.20%,194,0.40%,67,Europe
+Slovenia,EUCOM,Central Europe,58,Seat Terraco,266,0.50%,192.30%,91,0.20%,105,Europe
+Slovenia,EUCOM,Central Europe,60,Seat Ibiza,253,0.50%,23.40%,205,0.40%,65,Europe
+Slovenia,EUCOM,Central Europe,61,Ford Ecosport,237,0.40%,-9.20%,261,0.50%,60,Europe
+Slovenia,EUCOM,Central Europe,62,Skoda Superb,236,0.40%,-21.30%,300,0.60%,55,Europe
+Slovenia,EUCOM,Central Europe,63,Ford Focus,229,0.40%,25.10%,183,0.30%,70,Europe
+Slovenia,EUCOM,Central Europe,64,Opel Mokka,222,0.40%,new,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,65,Suzuki Ignis,220,0.40%,26.40%,174,0.30%,75,Europe
+Slovenia,EUCOM,Central Europe,66,Peugeot 5008,217,0.40%,63.20%,133,0.20%,86,Europe
+Slovenia,EUCOM,Central Europe,67,Cupra Formentor,217,0.40%,4240.00%,5,0.00%,237,Europe
+Slovenia,EUCOM,Central Europe,68,VW ID.4,217,0.40%,new,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,69,Tesla Model 3,215,0.40%,202.80%,71,0.10%,118,Europe
+Slovenia,EUCOM,Central Europe,70,Audi Q5,204,0.40%,50.00%,136,0.30%,84,Europe
+Slovenia,EUCOM,Central Europe,71,Audi A3,204,0.40%,70.00%,120,0.20%,91,Europe
+Slovenia,EUCOM,Central Europe,73,Dacia Lodgy,199,0.40%,-25.70%,268,0.50%,57,Europe
+Slovenia,EUCOM,Central Europe,74,Volvo XC40,198,0.40%,70.70%,116,0.20%,94,Europe
+Slovenia,EUCOM,Central Europe,75,Ford Kuga,198,0.40%,407.70%,39,0.10%,152,Europe
+Slovenia,EUCOM,Central Europe,76,VW Transporter,196,0.40%,4.80%,187,0.30%,68,Europe
+Slovenia,EUCOM,Central Europe,77,Hyundai Bayon,196,0.40%,new,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,78,Renault Zoe,190,0.40%,-46.50%,355,0.70%,46,Europe
+Slovenia,EUCOM,Central Europe,79,Mercedes B-Class,189,0.40%,12.50%,168,0.30%,78,Europe
+Slovenia,EUCOM,Central Europe,80,Peugeot Rifter,186,0.30%,-28.20%,259,0.50%,61,Europe
+Slovenia,EUCOM,Central Europe,81,Renault Trafic,181,0.30%,-21.00%,229,0.40%,64,Europe
+Slovenia,EUCOM,Central Europe,82,Suzuki SX4 S-Cross,180,0.30%,25.90%,143,0.30%,82,Europe
+Slovenia,EUCOM,Central Europe,83,VW Arteon,177,0.30%,110.70%,84,0.20%,106,Europe
+Slovenia,EUCOM,Central Europe,84,Toyota Proace,173,0.30%,111.00%,82,0.20%,109,Europe
+Slovenia,EUCOM,Central Europe,85,Volvo XC60,171,0.30%,40.20%,122,0.20%,90,Europe
+Slovenia,EUCOM,Central Europe,86,BMW 2 Series,170,0.30%,-7.10%,183,0.30%,71,Europe
+Slovenia,EUCOM,Central Europe,87,Audi Q2,170,0.30%,46.60%,116,0.20%,93,Europe
+Slovenia,EUCOM,Central Europe,88,Citroen C5 Aircross,169,0.30%,5.60%,160,0.30%,79,Europe
+Slovenia,EUCOM,Central Europe,89,Honda Civic,167,0.30%,29.50%,129,0.20%,88,Europe
+Slovenia,EUCOM,Central Europe,90,Kia Rio,163,0.30%,-58.60%,394,0.70%,40,Europe
+Slovenia,EUCOM,Central Europe,91,Ford Puma,159,0.30%,137.30%,67,0.10%,120,Europe
+Slovenia,EUCOM,Central Europe,92,Nissan Micra,158,0.30%,92.70%,82,0.20%,108,Europe
+Slovenia,EUCOM,Central Europe,93,Toyota Yaris Cross,157,0.30%,new,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,94,VW Caddy,156,0.30%,-14.80%,183,0.30%,69,Europe
+Slovenia,EUCOM,Central Europe,95,BMW 3 Series,153,0.30%,21.40%,126,0.20%,89,Europe
+Slovenia,EUCOM,Central Europe,96,VW ID.3,152,0.30%,-37.70%,244,0.50%,62,Europe
+Slovenia,EUCOM,Central Europe,97,Suzuki Swift,150,0.30%,1.40%,148,0.30%,81,Europe
+Slovenia,EUCOM,Central Europe,98,Citroen C4 Spacetourer,140,0.30%,0.70%,139,0.30%,83,Europe
+Slovenia,EUCOM,Central Europe,99,Fiat Tipo,133,0.20%,-77.30%,587,1.10%,28,Europe
+Slovenia,EUCOM,Central Europe,100,Mercedes GLC,132,0.20%,-25.00%,176,0.30%,74,Europe
+Slovenia,EUCOM,Central Europe,101,Skoda Enyaq,131,0.20%,new,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,102,BMW X1,129,0.20%,13.20%,114,0.20%,95,Europe
+Slovenia,EUCOM,Central Europe,103,BMW X3,120,0.20%,6.20%,113,0.20%,97,Europe
+Slovenia,EUCOM,Central Europe,104,Opel Grandland X,119,0.20%,-7.80%,129,0.20%,87,Europe
+Slovenia,EUCOM,Central Europe,105,BMW X5,107,0.20%,44.60%,74,0.10%,116,Europe
+Slovenia,EUCOM,Central Europe,106,VW Touareg,107,0.20%,101.90%,53,0.10%,134,Europe
+Slovenia,EUCOM,Central Europe,107,Ford Transit Custom,105,0.20%,-10.30%,117,0.20%,92,Europe
+Slovenia,EUCOM,Central Europe,108,Mercedes A-Class,104,0.20%,-4.60%,109,0.20%,98,Europe
+Slovenia,EUCOM,Central Europe,109,Mazda3,103,0.20%,-8.80%,113,0.20%,96,Europe
+Slovenia,EUCOM,Central Europe,110,Mercedes E-Class,102,0.20%,54.50%,66,0.10%,121,Europe
+Slovenia,EUCOM,Central Europe,111,Citroen Jumpy,98,0.20%,100.00%,49,0.10%,141,Europe
+Slovenia,EUCOM,Central Europe,112,Renault Koleos,95,0.20%,28.40%,74,0.10%,115,Europe
+Slovenia,EUCOM,Central Europe,113,Toyota Aygo,94,0.20%,22.10%,77,0.10%,111,Europe
+Slovenia,EUCOM,Central Europe,114,Jeep Renegade,92,0.20%,-7.10%,99,0.20%,101,Europe
+Slovenia,EUCOM,Central Europe,115,BMW X4,90,0.20%,50.00%,60,0.10%,127,Europe
+Slovenia,EUCOM,Central Europe,116,Audi A4,87,0.20%,-11.20%,98,0.20%,102,Europe
+Slovenia,EUCOM,Central Europe,117,Audi A6,85,0.20%,14.90%,74,0.10%,114,Europe
+Slovenia,EUCOM,Central Europe,118,Mazda CX-5,76,0.10%,-6.20%,81,0.20%,110,Europe
+Slovenia,EUCOM,Central Europe,119,Volvo XC90,76,0.10%,38.20%,55,0.10%,131,Europe
+Slovenia,EUCOM,Central Europe,120,Kia Niro,75,0.10%,733.30%,9,0.00%,208,Europe
+Slovenia,EUCOM,Central Europe,121,Opel Astra,70,0.10%,-58.80%,170,0.30%,76,Europe
+Slovenia,EUCOM,Central Europe,122,Nissan X-Trail ,70,0.10%,37.30%,51,0.10%,137,Europe
+Slovenia,EUCOM,Central Europe,123,BMW 5 Series,68,0.10%,41.70%,48,0.10%,142,Europe
+Slovenia,EUCOM,Central Europe,124,BMW 1 Series,67,0.10%,-20.20%,84,0.20%,107,Europe
+Slovenia,EUCOM,Central Europe,125,Mazda CX-3,67,0.10%,378.60%,14,0.00%,190,Europe
+Slovenia,EUCOM,Central Europe,126,Renault Talisman,65,0.10%,35.40%,48,0.10%,143,Europe
+Slovenia,EUCOM,Central Europe,127,Mercedes GLA,63,0.10%,3.30%,61,0.10%,126,Europe
+Slovenia,EUCOM,Central Europe,128,Honda CR-V,63,0.10%,12.50%,56,0.10%,130,Europe
+Slovenia,EUCOM,Central Europe,129,BMW X6,62,0.10%,19.20%,52,0.10%,136,Europe
+Slovenia,EUCOM,Central Europe,130,Mercedes CLA,61,0.10%,-37.80%,98,0.20%,103,Europe
+Slovenia,EUCOM,Central Europe,131,Mitsubishi ASX,59,0.10%,-56.30%,135,0.30%,85,Europe
+Slovenia,EUCOM,Central Europe,132,Opel Combo,59,0.10%,5.40%,56,0.10%,129,Europe
+Slovenia,EUCOM,Central Europe,133,Mercedes GLB,53,0.10%,71.00%,31,0.10%,162,Europe
+Slovenia,EUCOM,Central Europe,134,Audi Q8,52,0.10%,73.30%,30,0.10%,164,Europe
+Slovenia,EUCOM,Central Europe,135,Mercedes V-Class,50,0.10%,-46.80%,94,0.20%,104,Europe
+Slovenia,EUCOM,Central Europe,136,VW Up!,49,0.10%,-79.20%,236,0.40%,63,Europe
+Slovenia,EUCOM,Central Europe,137,Toyota Land Cruiser,49,0.10%,444.40%,9,0.00%,204,Europe
+Slovenia,EUCOM,Central Europe,138,Peugeot Expert,48,0.10%,-5.90%,51,0.10%,138,Europe
+Slovenia,EUCOM,Central Europe,139,Mercedes GLE,44,0.10%,-25.40%,59,0.10%,128,Europe
+Slovenia,EUCOM,Central Europe,140,BMW 7 Series,43,0.10%,72.00%,25,0.00%,173,Europe
+Slovenia,EUCOM,Central Europe,141,Kia Proceed,41,0.10%,-19.60%,51,0.10%,139,Europe
+Slovenia,EUCOM,Central Europe,142,Ford Fiesta,39,0.10%,-26.40%,53,0.10%,133,Europe
+Slovenia,EUCOM,Central Europe,143,BMW X2,39,0.10%,-17.00%,47,0.10%,145,Europe
+Slovenia,EUCOM,Central Europe,144,Audi A1,39,0.10%,8.30%,36,0.10%,154,Europe
+Slovenia,EUCOM,Central Europe,145,Ford S-Max,39,0.10%,44.40%,27,0.10%,166,Europe
+Slovenia,EUCOM,Central Europe,146,Porsche 911,39,0.10%,200.00%,13,0.00%,194,Europe
+Slovenia,EUCOM,Central Europe,147,Mini,37,0.10%,-14.00%,43,0.10%,148,Europe
+Slovenia,EUCOM,Central Europe,148,Ford Mondeo,37,0.10%,5.70%,35,0.10%,156,Europe
+Slovenia,EUCOM,Central Europe,149,Toyota Highlander,36,0.10%,new,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,150,Mitsubishi Space Star,35,0.10%,-34.00%,53,0.10%,135,Europe
+Slovenia,EUCOM,Central Europe,151,Audi Q7,35,0.10%,0.00%,35,0.10%,157,Europe
+Slovenia,EUCOM,Central Europe,152,Porsche Cayenne,35,0.10%,6.10%,33,0.10%,159,Europe
+Slovenia,EUCOM,Central Europe,153,Mercedes AMG GT,35,0.10%,1066.70%,3,0.00%,247,Europe
+Slovenia,EUCOM,Central Europe,154,BMW i3,34,0.10%,-32.00%,50,0.10%,140,Europe
+Slovenia,EUCOM,Central Europe,155,VW California,34,0.10%,-12.80%,39,0.10%,153,Europe
+Slovenia,EUCOM,Central Europe,156,Audi Q4,34,0.10%,new,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,157,Opel Insignia,32,0.10%,-22.00%,41,0.10%,151,Europe
+Slovenia,EUCOM,Central Europe,158,Hyundai Santa Fe,32,0.10%,60.00%,20,0.00%,183,Europe
+Slovenia,EUCOM,Central Europe,159,DS 7,31,0.10%,210.00%,10,0.00%,202,Europe
+Slovenia,EUCOM,Central Europe,160,Tesla Model Y,31,0.10%,new,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,161,Nissan Leaf,28,0.10%,-6.70%,30,0.10%,163,Europe
+Slovenia,EUCOM,Central Europe,162,Honda HR-V,27,0.10%,-10.00%,30,0.10%,165,Europe
+Slovenia,EUCOM,Central Europe,163,BMW X7,26,0.00%,73.30%,15,0.00%,189,Europe
+Slovenia,EUCOM,Central Europe,164,Mercedes C-Class,25,0.00%,-39.00%,41,0.10%,150,Europe
+Slovenia,EUCOM,Central Europe,165,Opel Vivaro,25,0.00%,212.50%,8,0.00%,214,Europe
+Slovenia,EUCOM,Central Europe,166,BMW M4,24,0.00%,n/a,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,167,Mercedes Vito,23,0.00%,-11.50%,26,0.00%,169,Europe
+Slovenia,EUCOM,Central Europe,168,Audi e-tron,23,0.00%,-8.00%,25,0.00%,172,Europe
+Slovenia,EUCOM,Central Europe,169,Suzuki Jimny,23,0.00%,-4.20%,24,0.00%,175,Europe
+Slovenia,EUCOM,Central Europe,170,Porsche Taycan,23,0.00%,91.70%,12,0.00%,199,Europe
+Slovenia,EUCOM,Central Europe,171,Subaru XV,23,0.00%,91.70%,12,0.00%,197,Europe
+Slovenia,EUCOM,Central Europe,172,Hyundai Ioniq,22,0.00%,-68.60%,70,0.10%,119,Europe
+Slovenia,EUCOM,Central Europe,173,Kia Picanto,22,0.00%,-38.90%,36,0.10%,155,Europe
+Slovenia,EUCOM,Central Europe,174,Dacia Spring,22,0.00%,new,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,175,Ssangyong Korando,21,0.00%,-67.70%,65,0.10%,122,Europe
+Slovenia,EUCOM,Central Europe,176,Audi A5,21,0.00%,31.30%,16,0.00%,188,Europe
+Slovenia,EUCOM,Central Europe,177,Peugeot Boxer,20,0.00%,-37.50%,32,0.10%,160,Europe
+Slovenia,EUCOM,Central Europe,178,BMW 4 Series,20,0.00%,0.00%,20,0.00%,182,Europe
+Slovenia,EUCOM,Central Europe,179,Seat Alhambra,19,0.00%,-95.00%,378,0.70%,44,Europe
+Slovenia,EUCOM,Central Europe,180,Peugeot 508,19,0.00%,-54.80%,42,0.10%,149,Europe
+Slovenia,EUCOM,Central Europe,181,Volvo V60,19,0.00%,-44.10%,34,0.10%,158,Europe
+Slovenia,EUCOM,Central Europe,182,Mazda2,19,0.00%,280.00%,5,0.00%,226,Europe
+Slovenia,EUCOM,Central Europe,183,Alfa Romeo Stelvio,18,0.00%,-66.70%,54,0.10%,132,Europe
+Slovenia,EUCOM,Central Europe,184,BMW 8 Series,18,0.00%,-18.20%,22,0.00%,179,Europe
+Slovenia,EUCOM,Central Europe,185,Ford Galaxy,18,0.00%,125.00%,8,0.00%,211,Europe
+Slovenia,EUCOM,Central Europe,186,Citroen Jumper,17,0.00%,-29.20%,24,0.00%,174,Europe
+Slovenia,EUCOM,Central Europe,187,Mercedes S-Class,17,0.00%,750.00%,2,0.00%,253,Europe
+Slovenia,EUCOM,Central Europe,188,Skoda Citigo,16,0.00%,-84.20%,101,0.20%,100,Europe
+Slovenia,EUCOM,Central Europe,189,VW Crafter,16,0.00%,33.30%,12,0.00%,200,Europe
+Slovenia,EUCOM,Central Europe,190,Opel Zafira Life,16,0.00%,77.80%,9,0.00%,210,Europe
+Slovenia,EUCOM,Central Europe,191,Porsche Panamera,16,0.00%,128.60%,7,0.00%,217,Europe
+Slovenia,EUCOM,Central Europe,192,Ford Tourneo Courier,15,0.00%,-68.10%,47,0.10%,146,Europe
+Slovenia,EUCOM,Central Europe,193,Ford Transit,15,0.00%,-34.80%,23,0.00%,177,Europe
+Slovenia,EUCOM,Central Europe,194,Porsche Macan,15,0.00%,66.70%,9,0.00%,207,Europe
+Slovenia,EUCOM,Central Europe,195,Honda Jazz,14,0.00%,-36.40%,22,0.00%,180,Europe
+Slovenia,EUCOM,Central Europe,196,Volvo S90,14,0.00%,-22.20%,18,0.00%,186,Europe
+Slovenia,EUCOM,Central Europe,197,Lexus UX,14,0.00%,0.00%,14,0.00%,192,Europe
+Slovenia,EUCOM,Central Europe,198,Volvo V90,14,0.00%,0.00%,14,0.00%,191,Europe
+Slovenia,EUCOM,Central Europe,199,Fiat Ducato,14,0.00%,133.30%,6,0.00%,223,Europe
+Slovenia,EUCOM,Central Europe,200,Audi RS6,14,0.00%,600.00%,2,0.00%,261,Europe
+Slovenia,EUCOM,Central Europe,201,Audi S3,14,0.00%,n/a,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,202,Jaguar E-Pace,12,0.00%,-61.30%,31,0.10%,161,Europe
+Slovenia,EUCOM,Central Europe,203,Lexus RX,12,0.00%,100.00%,6,0.00%,221,Europe
+Slovenia,EUCOM,Central Europe,204,Subaru Outback,12,0.00%,300.00%,3,0.00%,248,Europe
+Slovenia,EUCOM,Central Europe,205,Toyota Camry,10,0.00%,-60.00%,25,0.00%,171,Europe
+Slovenia,EUCOM,Central Europe,206,Citroen C-Elysée,10,0.00%,-54.50%,22,0.00%,178,Europe
+Slovenia,EUCOM,Central Europe,207,Mini Countryman,10,0.00%,-50.00%,20,0.00%,184,Europe
+Slovenia,EUCOM,Central Europe,208,Subaru Forester,10,0.00%,-23.10%,13,0.00%,195,Europe
+Slovenia,EUCOM,Central Europe,209,Man TGE,10,0.00%,25.00%,8,0.00%,215,Europe
+Slovenia,EUCOM,Central Europe,210,Land Rover Defender,10,0.00%,100.00%,5,0.00%,238,Europe
+Slovenia,EUCOM,Central Europe,211,DS 3 Crossback,10,0.00%,100.00%,5,0.00%,235,Europe
+Slovenia,EUCOM,Central Europe,212,Kia EV6,10,0.00%,new,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,213,BMW iX3,10,0.00%,new,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,214,Dacia Dokker,9,0.00%,-91.40%,105,0.20%,99,Europe
+Slovenia,EUCOM,Central Europe,215,VW Sharan,9,0.00%,-88.00%,75,0.10%,113,Europe
+Slovenia,EUCOM,Central Europe,216,MG ZS EV,9,0.00%,-65.40%,26,0.00%,170,Europe
+Slovenia,EUCOM,Central Europe,217,BMW 6 Series,9,0.00%,0.00%,9,0.00%,205,Europe
+Slovenia,EUCOM,Central Europe,218,Jeep Wrangler,9,0.00%,28.60%,7,0.00%,218,Europe
+Slovenia,EUCOM,Central Europe,219,Audi S6,9,0.00%,80.00%,5,0.00%,232,Europe
+Slovenia,EUCOM,Central Europe,220,Lexus ES,9,0.00%,200.00%,3,0.00%,244,Europe
+Slovenia,EUCOM,Central Europe,221,Range Rover Evoque,8,0.00%,-95.60%,183,0.30%,73,Europe
+Slovenia,EUCOM,Central Europe,222,Citroen C4 Cactus,8,0.00%,-89.00%,73,0.10%,117,Europe
+Slovenia,EUCOM,Central Europe,223,Alfa Romeo Giulietta,8,0.00%,-87.10%,62,0.10%,125,Europe
+Slovenia,EUCOM,Central Europe,224,Smart Forfour,8,0.00%,-55.60%,18,0.00%,185,Europe
+Slovenia,EUCOM,Central Europe,225,Renault Kangoo,7,0.00%,-88.90%,63,0.10%,123,Europe
+Slovenia,EUCOM,Central Europe,226,Jaguar F-Pace,7,0.00%,-22.20%,9,0.00%,206,Europe
+Slovenia,EUCOM,Central Europe,227,Mercedes Sprinter,7,0.00%,-22.20%,9,0.00%,209,Europe
+Slovenia,EUCOM,Central Europe,228,Kia Sorento,7,0.00%,133.30%,3,0.00%,249,Europe
+Slovenia,EUCOM,Central Europe,229,Dacia Logan,6,0.00%,-90.30%,62,0.10%,124,Europe
+Slovenia,EUCOM,Central Europe,230,Mazda6,6,0.00%,-73.90%,23,0.00%,176,Europe
+Slovenia,EUCOM,Central Europe,231,Smart Fortwo,6,0.00%,-53.80%,13,0.00%,193,Europe
+Slovenia,EUCOM,Central Europe,232,Mercedes GLS,6,0.00%,-25.00%,8,0.00%,213,Europe
+Slovenia,EUCOM,Central Europe,233,Lexus NX,6,0.00%,0.00%,6,0.00%,224,Europe
+Slovenia,EUCOM,Central Europe,234,BMW Z4,6,0.00%,100.00%,3,0.00%,245,Europe
+Slovenia,EUCOM,Central Europe,235,BMW M5,6,0.00%,n/a,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,236,Audi SQ7,5,0.00%,-50.00%,10,0.00%,203,Europe
+Slovenia,EUCOM,Central Europe,237,Audi SQ8,5,0.00%,-37.50%,8,0.00%,216,Europe
+Slovenia,EUCOM,Central Europe,238,Mercedes G-Class,5,0.00%,150.00%,2,0.00%,254,Europe
+Slovenia,EUCOM,Central Europe,239,Audi RS4,5,0.00%,400.00%,1,0.00%,271,Europe
+Slovenia,EUCOM,Central Europe,240,Ford Mustang,5,0.00%,n/a,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,241,Audi SQ5,5,0.00%,n/a,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,242,Mitsubishi Eclipse Cross,4,0.00%,-91.70%,48,0.10%,144,Europe
+Slovenia,EUCOM,Central Europe,243,Mazda MX-30,4,0.00%,-80.00%,20,0.00%,181,Europe
+Slovenia,EUCOM,Central Europe,244,Fiat 500X,4,0.00%,-75.00%,16,0.00%,187,Europe
+Slovenia,EUCOM,Central Europe,245,Fiat 500L,4,0.00%,-66.70%,12,0.00%,196,Europe
+Slovenia,EUCOM,Central Europe,246,Volvo S60,4,0.00%,-66.70%,12,0.00%,198,Europe
+Slovenia,EUCOM,Central Europe,247,Suzuki Swace,4,0.00%,100.00%,2,0.00%,259,Europe
+Slovenia,EUCOM,Central Europe,248,BMW IX,4,0.00%,new,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,249,Lamborghini Urus,4,0.00%,n/a,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,250,Mitsubishi Outlander,3,0.00%,-93.20%,44,0.10%,147,Europe
+Slovenia,EUCOM,Central Europe,251,Land Rover Discovery,3,0.00%,-88.90%,27,0.10%,167,Europe
+Slovenia,EUCOM,Central Europe,252,Renault Espace,3,0.00%,-72.70%,11,0.00%,201,Europe
+Slovenia,EUCOM,Central Europe,253,Audi A7,3,0.00%,-50.00%,6,0.00%,220,Europe
+Slovenia,EUCOM,Central Europe,254,Kia Soul,3,0.00%,-40.00%,5,0.00%,236,Europe
+Slovenia,EUCOM,Central Europe,255,Range Rover,3,0.00%,-40.00%,5,0.00%,227,Europe
+Slovenia,EUCOM,Central Europe,256,Alfa Romeo Giulia,3,0.00%,-25.00%,4,0.00%,241,Europe
+Slovenia,EUCOM,Central Europe,257,Porsche Cayman,3,0.00%,0.00%,3,0.00%,250,Europe
+Slovenia,EUCOM,Central Europe,258,Renault Master,3,0.00%,50.00%,2,0.00%,252,Europe
+Slovenia,EUCOM,Central Europe,259,Audi A8,3,0.00%,200.00%,1,0.00%,266,Europe
+Slovenia,EUCOM,Central Europe,260,Audi RS e-tron GT,3,0.00%,new,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,261,Cupra Leon,3,0.00%,new,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,262,Hyundai Ioniq5,3,0.00%,new,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,263,Nissan NV200,2,0.00%,-60.00%,5,0.00%,230,Europe
+Slovenia,EUCOM,Central Europe,264,Toyota Prius,2,0.00%,-50.00%,4,0.00%,239,Europe
+Slovenia,EUCOM,Central Europe,265,Mini Clubman,2,0.00%,0.00%,2,0.00%,255,Europe
+Slovenia,EUCOM,Central Europe,266,Audi S7,2,0.00%,100.00%,1,0.00%,272,Europe
+Slovenia,EUCOM,Central Europe,267,Mazda MX-5,2,0.00%,100.00%,1,0.00%,265,Europe
+Slovenia,EUCOM,Central Europe,268,Subaru Impreza,2,0.00%,100.00%,1,0.00%,267,Europe
+Slovenia,EUCOM,Central Europe,269,Lotus Exige,2,0.00%,n/a,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,270,Aiways U5,2,0.00%,new,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,271,Audi SQ2,2,0.00%,new,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,272,Kia Stinger,2,0.00%,n/a,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,273,Tesla Model S,1,0.00%,-83.30%,6,0.00%,225,Europe
+Slovenia,EUCOM,Central Europe,274,Ford Tourneo Connect,1,0.00%,-80.00%,5,0.00%,228,Europe
+Slovenia,EUCOM,Central Europe,275,Range Rover Velar,1,0.00%,-80.00%,5,0.00%,231,Europe
+Slovenia,EUCOM,Central Europe,276,Tesla Model X,1,0.00%,-80.00%,5,0.00%,234,Europe
+Slovenia,EUCOM,Central Europe,277,Peugeot 301,1,0.00%,-75.00%,4,0.00%,240,Europe
+Slovenia,EUCOM,Central Europe,278,Audi TT,1,0.00%,0.00%,1,0.00%,270,Europe
+Slovenia,EUCOM,Central Europe,279,Kia Optima,1,0.00%,0.00%,1,0.00%,264,Europe
+Slovenia,EUCOM,Central Europe,280,Audi RS5,1,0.00%,new,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,281,Alpine A110,1,0.00%,n/a,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,282,Audi S4,1,0.00%,n/a,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,283,Jaguar F-Type,1,0.00%,n/a,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,284,Jaguar XE,1,0.00%,n/a,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,285,Lexus IS,1,0.00%,n/a,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,286,Lexus LC,1,0.00%,n/a,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,287,Porsche 718,1,0.00%,n/a,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,288,Ferrari F8 Tributo,1,0.00%,new,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,289,Ferrari SF90,1,0.00%,new,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,290,Hyundai Getz,1,0.00%,n/a,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,291,MG Marvel R,1,0.00%,new,0,0.00%, –,Europe
+Slovenia,EUCOM,Central Europe,292,Volvo V40,0,0.00%,-100.00%,77,0.10%,112,Europe
+Slovenia,EUCOM,Central Europe,293,Jaguar I-Pace,0,0.00%,-100.00%,8,0.00%,212,Europe
+Slovenia,EUCOM,Central Europe,294,Maserati Levante,0,0.00%,-100.00%,7,0.00%,219,Europe
+Slovenia,EUCOM,Central Europe,295,Mercedes CLS,0,0.00%,-100.00%,6,0.00%,222,Europe
+Slovenia,EUCOM,Central Europe,296,Audi RS3,0,0.00%,-100.00%,5,0.00%,229,Europe
+Slovenia,EUCOM,Central Europe,297,Jeep Grand Cherokee,0,0.00%,-100.00%,5,0.00%,233,Europe
+Slovenia,EUCOM,Central Europe,298,Honda E,0,0.00%,-100.00%,3,0.00%,251,Europe
+Slovenia,EUCOM,Central Europe,299,Jeep Cherokee,0,0.00%,-100.00%,3,0.00%,246,Europe
+Slovenia,EUCOM,Central Europe,300,Seat Mii,0,0.00%,-100.00%,3,0.00%,243,Europe
+Slovenia,EUCOM,Central Europe,301,Skoda Rapid,0,0.00%,-100.00%,3,0.00%,242,Europe
+Slovenia,EUCOM,Central Europe,302,Ferrari Portofino,0,0.00%,-100.00%,2,0.00%,260,Europe
+Slovenia,EUCOM,Central Europe,303,Lexus CT,0,0.00%,-100.00%,2,0.00%,257,Europe
+Slovenia,EUCOM,Central Europe,304,Peugeot iOn,0,0.00%,-100.00%,2,0.00%,256,Europe
+Slovenia,EUCOM,Central Europe,305,Suzuki Across,0,0.00%,-100.00%,2,0.00%,258,Europe
+Slovenia,EUCOM,Central Europe,306,BMW i8,0,0.00%,-100.00%,1,0.00%,268,Europe
+Slovenia,EUCOM,Central Europe,307,Dangel Expert,0,0.00%,-100.00%,1,0.00%,275,Europe
+Slovenia,EUCOM,Central Europe,308,Fiat Doblo,0,0.00%,-100.00%,1,0.00%,263,Europe
+Slovenia,EUCOM,Central Europe,309,Ford Escort,0,0.00%,-100.00%,1,0.00%,276,Europe
+Slovenia,EUCOM,Central Europe,310,Hyundai ix20,0,0.00%,-100.00%,1,0.00%,262,Europe
+Slovenia,EUCOM,Central Europe,311,Jaguar XF,0,0.00%,-100.00%,1,0.00%,269,Europe
+Slovenia,EUCOM,Central Europe,312,Lexus LS,0,0.00%,-100.00%,1,0.00%,274,Europe
+Slovenia,EUCOM,Central Europe,313,Toyota Supra,0,0.00%,-100.00%,1,0.00%,273,Europe

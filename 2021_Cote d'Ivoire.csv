@@ -1,0 +1,372 @@
+﻿Country,Command,Region,Position_2021,Model,Sales_2021,Percent_2021,Growth_2021,Sales_2020,Percent_2020,Position_2020,Continent
+Ivory Coast,AFRICOM,West Africa,1,Seat Arona,"21,946",2.60%,42.80%,"15,365",1.80%,6,Africa
+Ivory Coast,AFRICOM,West Africa,2,Hyundai Tucson,"21,258",2.50%,66.80%,"12,743",1.50%,19,Africa
+Ivory Coast,AFRICOM,West Africa,3,Dacia Sandero,"20,419",2.40%,-15.00%,"24,035",2.80%,1,Africa
+Ivory Coast,AFRICOM,West Africa,4,Peugeot 2008,"19,426",2.30%,27.60%,"15,226",1.80%,7,Africa
+Ivory Coast,AFRICOM,West Africa,5,Toyota Corolla,"16,983",2.00%,9.70%,"15,478",1.80%,5,Africa
+Ivory Coast,AFRICOM,West Africa,6,Peugeot 3008,"16,812",2.00%,14.70%,"14,652",1.70%,8,Africa
+Ivory Coast,AFRICOM,West Africa,7,Seat Leon,"16,692",1.90%,-29.20%,"23,582",2.80%,2,Africa
+Ivory Coast,AFRICOM,West Africa,8,VW T-Roc,"15,988",1.90%,23.20%,"12,978",1.50%,14,Africa
+Ivory Coast,AFRICOM,West Africa,9,Citroen C3  ,"15,948",1.90%,23.20%,"12,948",1.50%,15,Africa
+Ivory Coast,AFRICOM,West Africa,10,Fiat 500,"15,941",1.90%,30.80%,"12,189",1.40%,20,Africa
+Ivory Coast,AFRICOM,West Africa,11,Seat Ibiza,"15,103",1.80%,33.20%,"11,342",1.30%,24,Africa
+Ivory Coast,AFRICOM,West Africa,12,Toyota C-HR,"15,013",1.70%,17.40%,"12,789",1.50%,17,Africa
+Ivory Coast,AFRICOM,West Africa,13,Peugeot 208,"14,961",1.70%,16.50%,"12,839",1.50%,16,Africa
+Ivory Coast,AFRICOM,West Africa,14,Nissan Qashqai,"14,664",1.70%,-26.00%,"19,818",2.30%,3,Africa
+Ivory Coast,AFRICOM,West Africa,15,Renault Clio,"14,505",1.70%,-18.60%,"17,818",2.10%,4,Africa
+Ivory Coast,AFRICOM,West Africa,16,VW T-Cross,"13,741",1.60%,22.80%,"11,193",1.30%,25,Africa
+Ivory Coast,AFRICOM,West Africa,17,Opel Corsa,"13,669",1.60%,13.30%,"12,062",1.40%,21,Africa
+Ivory Coast,AFRICOM,West Africa,18,Seat Ateca,"13,304",1.50%,-2.20%,"13,605",1.60%,11,Africa
+Ivory Coast,AFRICOM,West Africa,19,Renault Captur,"13,110",1.50%,-7.70%,"14,196",1.70%,9,Africa
+Ivory Coast,AFRICOM,West Africa,20,Citroen C4 (est),"12,603",1.50%,933.00%,"1,220",0.10%,124,Africa
+Ivory Coast,AFRICOM,West Africa,21,Dacia Duster,"12,404",1.40%,7.20%,"11,568",1.40%,23,Africa
+Ivory Coast,AFRICOM,West Africa,22,Hyundai Kona,"12,234",1.40%,-13.30%,"14,117",1.70%,10,Africa
+Ivory Coast,AFRICOM,West Africa,23,Toyota Yaris,"11,363",1.30%,7.60%,"10,558",1.20%,27,Africa
+Ivory Coast,AFRICOM,West Africa,24,Kia Stonic,"11,331",1.30%,29.60%,"8,744",1.00%,33,Africa
+Ivory Coast,AFRICOM,West Africa,25,Kia Sportage,"10,238",1.20%,5.60%,"9,694",1.10%,30,Africa
+Ivory Coast,AFRICOM,West Africa,26,Ford Puma,"9,698",1.10%,14.10%,"8,500",1.00%,35,Africa
+Ivory Coast,AFRICOM,West Africa,27,Toyota RAV4,"9,444",1.10%,-15.20%,"11,138",1.30%,26,Africa
+Ivory Coast,AFRICOM,West Africa,28,Hyundai i20,"9,382",1.10%,21.50%,"7,721",0.90%,38,Africa
+Ivory Coast,AFRICOM,West Africa,29,Citroen C3 Aircross,"9,348",1.10%,1.80%,"9,179",1.10%,31,Africa
+Ivory Coast,AFRICOM,West Africa,30,Cupra Formentor,"9,208",1.10%,1471.30%,586,0.10%,168,Africa
+Ivory Coast,AFRICOM,West Africa,31,VW Polo,"9,018",1.00%,4.10%,"8,662",1.00%,34,Africa
+Ivory Coast,AFRICOM,West Africa,32,Kia Niro,"8,866",1.00%,22.40%,"7,246",0.90%,41,Africa
+Ivory Coast,AFRICOM,West Africa,33,Audi Q3,"8,776",1.00%,10.10%,"7,974",0.90%,37,Africa
+Ivory Coast,AFRICOM,West Africa,34,Kia Xceed,"8,685",1.00%,24.70%,"6,967",0.80%,45,Africa
+Ivory Coast,AFRICOM,West Africa,35,Renault Megane,"8,489",1.00%,-17.00%,"10,228",1.20%,28,Africa
+Ivory Coast,AFRICOM,West Africa,36,VW Tiguan,"8,393",1.00%,-28.30%,"11,705",1.40%,22,Africa
+Ivory Coast,AFRICOM,West Africa,37,Mercedes A Class,"8,286",1.00%,-18.10%,"10,114",1.20%,29,Africa
+Ivory Coast,AFRICOM,West Africa,38,BMW X1,"8,001",0.90%,23.30%,"6,488",0.80%,47,Africa
+Ivory Coast,AFRICOM,West Africa,39,Kia Ceed,"7,971",0.90%,8.90%,"7,321",0.90%,40,Africa
+Ivory Coast,AFRICOM,West Africa,40,Ford Focus,"7,744",0.90%,-39.30%,"12,755",1.50%,18,Africa
+Ivory Coast,AFRICOM,West Africa,41,Skoda Kamiq,"7,685",0.90%,82.40%,"4,214",0.50%,68,Africa
+Ivory Coast,AFRICOM,West Africa,42,VW Golf,"7,458",0.90%,-44.40%,"13,408",1.60%,12,Africa
+Ivory Coast,AFRICOM,West Africa,43,Peugeot 308,"7,119",0.80%,-45.80%,"13,124",1.50%,13,Africa
+Ivory Coast,AFRICOM,West Africa,44,Volvo XC40,"7,099",0.80%,-7.70%,"7,693",0.90%,39,Africa
+Ivory Coast,AFRICOM,West Africa,45,Jeep Renegade,"6,866",0.80%,18.80%,"5,778",0.70%,52,Africa
+Ivory Coast,AFRICOM,West Africa,46,BMW 1-Series,"6,336",0.70%,2.80%,"6,162",0.70%,50,Africa
+Ivory Coast,AFRICOM,West Africa,47,Nissan Juke,"6,201",0.70%,-3.10%,"6,400",0.80%,48,Africa
+Ivory Coast,AFRICOM,West Africa,48,Renault Arkana,"6,044",0.70%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,49,Audi A3,"5,976",0.70%,-13.00%,"6,867",0.80%,46,Africa
+Ivory Coast,AFRICOM,West Africa,50,Citroen C5 Aircross,"5,804",0.70%,-33.80%,"8,766",1.00%,32,Africa
+Ivory Coast,AFRICOM,West Africa,51,Audi A1,"5,767",0.70%,-20.00%,"7,206",0.80%,43,Africa
+Ivory Coast,AFRICOM,West Africa,52,Mazda CX-30,"5,433",0.60%,4.80%,"5,186",0.60%,56,Africa
+Ivory Coast,AFRICOM,West Africa,53,Peugeot 5008,"5,420",0.60%,-2.00%,"5,528",0.60%,53,Africa
+Ivory Coast,AFRICOM,West Africa,54,Hyundai i30,"5,376",0.60%,11.40%,"4,824",0.60%,62,Africa
+Ivory Coast,AFRICOM,West Africa,55,Audi Q2,"5,349",0.60%,1.90%,"5,247",0.60%,54,Africa
+Ivory Coast,AFRICOM,West Africa,56,Fiat 500X,"5,340",0.60%,4.20%,"5,123",0.60%,57,Africa
+Ivory Coast,AFRICOM,West Africa,57,Ford Kuga,"5,159",0.60%,23.70%,"4,172",0.50%,69,Africa
+Ivory Coast,AFRICOM,West Africa,58,Skoda Karoq,"5,138",0.60%,6.50%,"4,826",0.60%,61,Africa
+Ivory Coast,AFRICOM,West Africa,59,Mercedes GLC,"5,113",0.60%,-37.10%,"8,135",1.00%,36,Africa
+Ivory Coast,AFRICOM,West Africa,60,Opel Crossland,"5,032",0.60%,-28.80%,"7,069",0.80%,44,Africa
+Ivory Coast,AFRICOM,West Africa,61,Jeep Compass,"5,027",0.60%,23.40%,"4,075",0.50%,70,Africa
+Ivory Coast,AFRICOM,West Africa,62,Skoda Fabia,"5,000",0.60%,14.10%,"4,383",0.50%,67,Africa
+Ivory Coast,AFRICOM,West Africa,63,Renault Kadjar,"4,834",0.60%,-32.90%,"7,207",0.80%,42,Africa
+Ivory Coast,AFRICOM,West Africa,64,Mini Hatch (est),"4,665",0.50%,-5.30%,"4,927",0.60%,60,Africa
+Ivory Coast,AFRICOM,West Africa,65,Volvo XC60,"4,656",0.50%,16.70%,"3,989",0.50%,71,Africa
+Ivory Coast,AFRICOM,West Africa,66,Opel Mokka,"4,584",0.50%,new,1,0.00%,299,Africa
+Ivory Coast,AFRICOM,West Africa,67,Mercedes GLA,"4,563",0.50%,-22.60%,"5,899",0.70%,51,Africa
+Ivory Coast,AFRICOM,West Africa,68,Kia Rio,"4,486",0.50%,22.50%,"3,663",0.40%,74,Africa
+Ivory Coast,AFRICOM,West Africa,69,Kia Picanto,"4,129",0.50%,50.10%,"2,750",0.30%,94,Africa
+Ivory Coast,AFRICOM,West Africa,70,BMW X3,"3,687",0.40%,20.60%,"3,056",0.40%,81,Africa
+Ivory Coast,AFRICOM,West Africa,71,Audi Q5,"3,505",0.40%,15.70%,"3,029",0.40%,83,Africa
+Ivory Coast,AFRICOM,West Africa,72,DS 7 Crossback,"3,476",0.40%,13.80%,"3,054",0.40%,82,Africa
+Ivory Coast,AFRICOM,West Africa,73,Nissan Micra,"3,435",0.40%,-27.60%,"4,746",0.60%,64,Africa
+Ivory Coast,AFRICOM,West Africa,74,Opel Grandland X,"3,379",0.40%,-33.80%,"5,103",0.60%,58,Africa
+Ivory Coast,AFRICOM,West Africa,75,Hyundai i10,"3,101",0.40%,44.80%,"2,142",0.30%,103,Africa
+Ivory Coast,AFRICOM,West Africa,76,BMW X2,"3,093",0.40%,-35.50%,"4,794",0.60%,63,Africa
+Ivory Coast,AFRICOM,West Africa,77,Hyundai Ioniq,"3,088",0.40%,-0.60%,"3,107",0.40%,79,Africa
+Ivory Coast,AFRICOM,West Africa,78,Lexus UX,"3,063",0.40%,-8.00%,"3,330",0.40%,77,Africa
+Ivory Coast,AFRICOM,West Africa,79,BMW 3-Series,"2,956",0.30%,-21.20%,"3,749",0.40%,73,Africa
+Ivory Coast,AFRICOM,West Africa,80,Fiat Panda,"2,926",0.30%,-12.30%,"3,337",0.40%,76,Africa
+Ivory Coast,AFRICOM,West Africa,81,Opel Astra,"2,922",0.30%,-41.20%,"4,972",0.60%,59,Africa
+Ivory Coast,AFRICOM,West Africa,82,Ford Fiesta,"2,913",0.30%,-38.20%,"4,715",0.60%,65,Africa
+Ivory Coast,AFRICOM,West Africa,83,Tesla Model 3,"2,853",0.30%,134.60%,"1,216",0.10%,125,Africa
+Ivory Coast,AFRICOM,West Africa,84,Peugeot 508,"2,830",0.30%,-12.70%,"3,241",0.40%,78,Africa
+Ivory Coast,AFRICOM,West Africa,85,Skoda Scala,"2,826",0.30%,14.10%,"2,477",0.30%,99,Africa
+Ivory Coast,AFRICOM,West Africa,86,Toyota Yaris Cross,"2,824",0.30%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,87,Skoda Octavia,"2,806",0.30%,-26.30%,"3,805",0.40%,72,Africa
+Ivory Coast,AFRICOM,West Africa,88,Mini Countryman (est),"2,707",0.30%,-5.90%,"2,877",0.30%,86,Africa
+Ivory Coast,AFRICOM,West Africa,89,Toyota Aygo,"2,688",0.30%,27.10%,"2,115",0.20%,104,Africa
+Ivory Coast,AFRICOM,West Africa,90,Mazda3,"2,681",0.30%,-22.40%,"3,454",0.40%,75,Africa
+Ivory Coast,AFRICOM,West Africa,91,Mercedes CLA,"2,680",0.30%,-40.70%,"4,516",0.50%,66,Africa
+Ivory Coast,AFRICOM,West Africa,92,Fiat Tipo,"2,588",0.30%,-58.60%,"6,257",0.70%,49,Africa
+Ivory Coast,AFRICOM,West Africa,93,Seat Tarraco,"2,541",0.30%,-2.30%,"2,602",0.30%,95,Africa
+Ivory Coast,AFRICOM,West Africa,94,Mercedes GLB,"2,468",0.30%,74.20%,"1,417",0.20%,119,Africa
+Ivory Coast,AFRICOM,West Africa,95,Dacia Lodgy,"2,464",0.30%,1.90%,"2,418",0.30%,100,Africa
+Ivory Coast,AFRICOM,West Africa,96,Mercedes GLE,"2,425",0.30%,-6.40%,"2,591",0.30%,96,Africa
+Ivory Coast,AFRICOM,West Africa,97,BMW 2-Series (est),"2,333",0.30%,35.10%,"1,727",0.20%,112,Africa
+Ivory Coast,AFRICOM,West Africa,98,Mazda CX-5,"2,319",0.30%,-18.10%,"2,833",0.30%,89,Africa
+Ivory Coast,AFRICOM,West Africa,99,Mazda CX-3,"2,196",0.30%,72.20%,"1,275",0.10%,122,Africa
+Ivory Coast,AFRICOM,West Africa,100,Mercedes B Class,"2,192",0.30%,-21.10%,"2,777",0.30%,92,Africa
+Ivory Coast,AFRICOM,West Africa,101,Suzuki Vitara,"2,088",0.20%,14.20%,"1,829",0.20%,109,Africa
+Ivory Coast,AFRICOM,West Africa,102,Renault Scenic,"2,070",0.20%,-19.20%,"2,562",0.30%,98,Africa
+Ivory Coast,AFRICOM,West Africa,103,Alfa Romeo Stelvio,"2,061",0.20%,-1.20%,"2,085",0.20%,105,Africa
+Ivory Coast,AFRICOM,West Africa,104,Lexus NX,"1,998",0.20%,-12.40%,"2,282",0.30%,102,Africa
+Ivory Coast,AFRICOM,West Africa,105,Skoda Kodiaq,"1,942",0.20%,2.00%,"1,904",0.20%,108,Africa
+Ivory Coast,AFRICOM,West Africa,106,Mercedes C Class,"1,927",0.20%,-33.10%,"2,880",0.30%,85,Africa
+Ivory Coast,AFRICOM,West Africa,107,Hyundai Bayon,"1,909",0.20%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,108,VW Passat,"1,893",0.20%,-33.70%,"2,854",0.30%,88,Africa
+Ivory Coast,AFRICOM,West Africa,109,Audi A4,"1,838",0.20%,-39.30%,"3,026",0.40%,84,Africa
+Ivory Coast,AFRICOM,West Africa,110,BMW X4,"1,834",0.20%,11.60%,"1,643",0.20%,115,Africa
+Ivory Coast,AFRICOM,West Africa,111,Ford Ecosport,"1,825",0.20%,-34.80%,"2,801",0.30%,91,Africa
+Ivory Coast,AFRICOM,West Africa,112,Toyota Land Cruiser,"1,750",0.20%,2.60%,"1,706",0.20%,113,Africa
+Ivory Coast,AFRICOM,West Africa,113,Mercedes V Class,"1,630",0.20%,-16.00%,"1,940",0.20%,106,Africa
+Ivory Coast,AFRICOM,West Africa,114,VW Touran,"1,623",0.20%,-36.80%,"2,568",0.30%,97,Africa
+Ivory Coast,AFRICOM,West Africa,115,Toyota Prius+ (est),"1,574",0.20%,-44.40%,"2,829",0.30%,90,Africa
+Ivory Coast,AFRICOM,West Africa,116,BMW X5,"1,494",0.20%,20.90%,"1,236",0.10%,123,Africa
+Ivory Coast,AFRICOM,West Africa,117,Citroen C4 Spacetourer (est),"1,458",0.20%,-52.40%,"3,060",0.40%,80,Africa
+Ivory Coast,AFRICOM,West Africa,118,BMW 4-Series,"1,445",0.20%,40.70%,"1,027",0.10%,134,Africa
+Ivory Coast,AFRICOM,West Africa,119,Fiat 500L,"1,434",0.20%,-10.90%,"1,610",0.20%,116,Africa
+Ivory Coast,AFRICOM,West Africa,120,Mitsubishi Eclipse Cross,"1,389",0.20%,-20.90%,"1,755",0.20%,111,Africa
+Ivory Coast,AFRICOM,West Africa,121,Range Rover Evoque,"1,376",0.20%,-50.40%,"2,774",0.30%,93,Africa
+Ivory Coast,AFRICOM,West Africa,122,Renault Zoe,"1,373",0.20%,-41.10%,"2,330",0.30%,101,Africa
+Ivory Coast,AFRICOM,West Africa,123,SsangYong Tivoli,"1,314",0.20%,71.30%,767,0.10%,154,Africa
+Ivory Coast,AFRICOM,West Africa,124,Honda CR-V,"1,310",0.20%,-21.30%,"1,664",0.20%,114,Africa
+Ivory Coast,AFRICOM,West Africa,125,Citroen C1,"1,284",0.10%,-11.00%,"1,442",0.20%,118,Africa
+Ivory Coast,AFRICOM,West Africa,126,Volvo XC90,"1,245",0.10%,11.20%,"1,120",0.10%,129,Africa
+Ivory Coast,AFRICOM,West Africa,127,Suzuki Swift,"1,098",0.10%,5.50%,"1,041",0.10%,133,Africa
+Ivory Coast,AFRICOM,West Africa,128,SsangYong Korando,"1,063",0.10%,5.10%,"1,011",0.10%,139,Africa
+Ivory Coast,AFRICOM,West Africa,129,Dacia Spring,"1,059",0.10%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,130,Nissan X-Trail,"1,050",0.10%,-63.40%,"2,866",0.30%,87,Africa
+Ivory Coast,AFRICOM,West Africa,131,BMW 2-Series Tourer (est),"1,028",0.10%,-33.60%,"1,548",0.20%,117,Africa
+Ivory Coast,AFRICOM,West Africa,132,VW ID.4,998,0.10%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,133,DS 3 Crossback,973,0.10%,-23.90%,"1,279",0.20%,121,Africa
+Ivory Coast,AFRICOM,West Africa,134,Ford Mondeo,962,0.10%,-10.70%,"1,077",0.10%,131,Africa
+Ivory Coast,AFRICOM,West Africa,135,Mercedes E Class,948,0.10%,-19.50%,"1,178",0.10%,127,Africa
+Ivory Coast,AFRICOM,West Africa,136,Mitsubishi Outlander,934,0.10%,-21.30%,"1,187",0.10%,126,Africa
+Ivory Coast,AFRICOM,West Africa,137,VW ID.3,917,0.10%,-9.40%,"1,012",0.10%,138,Africa
+Ivory Coast,AFRICOM,West Africa,138,Porsche Macan,877,0.10%,10.70%,792,0.10%,150,Africa
+Ivory Coast,AFRICOM,West Africa,139,Audi A5,874,0.10%,-25.30%,"1,170",0.10%,128,Africa
+Ivory Coast,AFRICOM,West Africa,140,Honda Civic,854,0.10%,-21.20%,"1,084",0.10%,130,Africa
+Ivory Coast,AFRICOM,West Africa,141,Suzuki Ignis,834,0.10%,1.50%,822,0.10%,147,Africa
+Ivory Coast,AFRICOM,West Africa,142,Kia Sorento,821,0.10%,131.30%,355,0.00%,185,Africa
+Ivory Coast,AFRICOM,West Africa,143,Cupra Leon,815,0.10%,260.60%,226,0.00%,201,Africa
+Ivory Coast,AFRICOM,West Africa,144,Audi A6,811,0.10%,-20.60%,"1,021",0.10%,136,Africa
+Ivory Coast,AFRICOM,West Africa,145,Mini Cabrio (est),810,0.10%,-6.00%,862,0.10%,144,Africa
+Ivory Coast,AFRICOM,West Africa,146,Mazda2,804,0.10%,2.60%,784,0.10%,151,Africa
+Ivory Coast,AFRICOM,West Africa,147,Jeep Wrangler,802,0.10%,8.70%,738,0.10%,157,Africa
+Ivory Coast,AFRICOM,West Africa,148,Subaru XV,797,0.10%,2.30%,779,0.10%,152,Africa
+Ivory Coast,AFRICOM,West Africa,149,BMW X6,795,0.10%,9.40%,727,0.10%,159,Africa
+Ivory Coast,AFRICOM,West Africa,150,Opel Insignia,765,0.10%,-24.60%,"1,015",0.10%,137,Africa
+Ivory Coast,AFRICOM,West Africa,151,Smart Fortwo,760,0.10%,3.50%,734,0.10%,158,Africa
+Ivory Coast,AFRICOM,West Africa,152,BMW 5-Series,752,0.10%,-19.00%,928,0.10%,142,Africa
+Ivory Coast,AFRICOM,West Africa,153,Mitsubishi Space Star,746,0.10%,80.20%,414,0.00%,177,Africa
+Ivory Coast,AFRICOM,West Africa,154,Cupra Ateca,731,0.10%,7.50%,680,0.10%,162,Africa
+Ivory Coast,AFRICOM,West Africa,155,Hyundai Santa Fe,721,0.10%,24.50%,579,0.10%,169,Africa
+Ivory Coast,AFRICOM,West Africa,156,Mitsubishi ASX,715,0.10%,-60.70%,"1,819",0.20%,110,Africa
+Ivory Coast,AFRICOM,West Africa,157,Nissan Leaf,705,0.10%,-20.30%,885,0.10%,143,Africa
+Ivory Coast,AFRICOM,West Africa,158,Jaguar E-Pace,703,0.10%,-26.20%,953,0.10%,141,Africa
+Ivory Coast,AFRICOM,West Africa,159,Peugeot 108,698,0.10%,-34.30%,"1,063",0.10%,132,Africa
+Ivory Coast,AFRICOM,West Africa,160,VW Touareg,686,0.10%,-7.20%,739,0.10%,156,Africa
+Ivory Coast,AFRICOM,West Africa,161,Range Rover Velar,675,0.10%,-34.20%,"1,026",0.10%,135,Africa
+Ivory Coast,AFRICOM,West Africa,162,Mercedes EQA,667,0.10%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,163,VW Arteon,655,0.10%,-21.50%,834,0.10%,146,Africa
+Ivory Coast,AFRICOM,West Africa,164,Volvo V60,655,0.10%,19.70%,547,0.10%,170,Africa
+Ivory Coast,AFRICOM,West Africa,165,Porsche Cayenne,641,0.10%,-4.60%,672,0.10%,163,Africa
+Ivory Coast,AFRICOM,West Africa,166,Honda Jazz,635,0.10%,-1.40%,644,0.10%,165,Africa
+Ivory Coast,AFRICOM,West Africa,167,Range Rover Sport,598,0.10%,-24.70%,794,0.10%,149,Africa
+Ivory Coast,AFRICOM,West Africa,168,Audi Q8,569,0.10%,13.10%,503,0.10%,172,Africa
+Ivory Coast,AFRICOM,West Africa,169,Suzuki SX4 S-Cross,536,0.10%,8.70%,493,0.10%,174,Africa
+Ivory Coast,AFRICOM,West Africa,170,Skoda Enyaq,532,0.10%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,171,Lynk & Co 01,527,0.10%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,172,Seat Mii,526,0.10%,-46.30%,979,0.10%,140,Africa
+Ivory Coast,AFRICOM,West Africa,173,Suzuki Swace,474,0.10%,270.30%,128,0.00%,220,Africa
+Ivory Coast,AFRICOM,West Africa,174,Skoda Superb,470,0.10%,-38.00%,758,0.10%,155,Africa
+Ivory Coast,AFRICOM,West Africa,175,Audi Q7,460,0.10%,-11.50%,520,0.10%,171,Africa
+Ivory Coast,AFRICOM,West Africa,176,Subaru Forester,441,0.10%,-1.60%,448,0.10%,176,Africa
+Ivory Coast,AFRICOM,West Africa,177,Hyundai Ioniq5,431,0.10%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,178,Dacia Logan,425,0.00%,-69.00%,"1,372",0.20%,120,Africa
+Ivory Coast,AFRICOM,West Africa,179,Renault Twingo,422,0.00%,18.50%,356,0.00%,184,Africa
+Ivory Coast,AFRICOM,West Africa,180,Suzuki Jimny,421,0.00%,-14.80%,494,0.10%,173,Africa
+Ivory Coast,AFRICOM,West Africa,181,Toyota Highlander,406,0.00%,40500.00%,1,0.00%,310,Africa
+Ivory Coast,AFRICOM,West Africa,182,Seat Alhambra,404,0.00%,-43.20%,711,0.10%,161,Africa
+Ivory Coast,AFRICOM,West Africa,183,MG eHS,399,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,184,Citroen C4 Cactus (est),390,0.00%,-92.60%,"5,239",0.60%,55,Africa
+Ivory Coast,AFRICOM,West Africa,185,Lexus CT,385,0.00%,-45.90%,712,0.10%,160,Africa
+Ivory Coast,AFRICOM,West Africa,186,Volvo V90,367,0.00%,-10.90%,412,0.00%,178,Africa
+Ivory Coast,AFRICOM,West Africa,187,Ford Mustang Mach-E,355,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,188,Land Rover Discovery Sport,354,0.00%,-46.60%,663,0.10%,164,Africa
+Ivory Coast,AFRICOM,West Africa,189,Audi Q4,352,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,190,Tesla Model Y,340,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,191,BMW i3,339,0.00%,-15.90%,403,0.00%,181,Africa
+Ivory Coast,AFRICOM,West Africa,192,Citroen C-Elysée,337,0.00%,-82.50%,"1,926",0.20%,107,Africa
+Ivory Coast,AFRICOM,West Africa,193,Cupra Born,336,0.00%,6620.00%,5,0.00%,284,Africa
+Ivory Coast,AFRICOM,West Africa,194,Jaguar F-Pace,333,0.00%,-18.40%,408,0.00%,179,Africa
+Ivory Coast,AFRICOM,West Africa,195,MG ZS,330,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,196,Renault Koleos,319,0.00%,-6.20%,340,0.00%,187,Africa
+Ivory Coast,AFRICOM,West Africa,197,Renault Talisman,314,0.00%,-61.60%,818,0.10%,148,Africa
+Ivory Coast,AFRICOM,West Africa,198,Lexus ES,314,0.00%,15.90%,271,0.00%,195,Africa
+Ivory Coast,AFRICOM,West Africa,199,Porsche Taycan,314,0.00%,57.00%,200,0.00%,205,Africa
+Ivory Coast,AFRICOM,West Africa,200,Subaru Outback,306,0.00%,13.80%,269,0.00%,196,Africa
+Ivory Coast,AFRICOM,West Africa,201,Smart Forfour,304,0.00%,-52.10%,634,0.10%,166,Africa
+Ivory Coast,AFRICOM,West Africa,202,Porsche 911,304,0.00%,45.50%,209,0.00%,203,Africa
+Ivory Coast,AFRICOM,West Africa,203,Land Rover Defender,294,0.00%,86.10%,158,0.00%,214,Africa
+Ivory Coast,AFRICOM,West Africa,204,Mercedes S Class,288,0.00%,81.10%,159,0.00%,212,Africa
+Ivory Coast,AFRICOM,West Africa,205,Kia EV6,282,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,206,Kia Proceed,266,0.00%,-55.30%,595,0.10%,167,Africa
+Ivory Coast,AFRICOM,West Africa,207,Mini Clubman (est),248,0.00%,-6.40%,265,0.00%,197,Africa
+Ivory Coast,AFRICOM,West Africa,208,Ford Mustang,246,0.00%,-31.50%,359,0.00%,183,Africa
+Ivory Coast,AFRICOM,West Africa,209,Mazda MX-5,237,0.00%,57.00%,151,0.00%,216,Africa
+Ivory Coast,AFRICOM,West Africa,210,Lexus RX,235,0.00%,-26.80%,321,0.00%,189,Africa
+Ivory Coast,AFRICOM,West Africa,211,BMW Z4,232,0.00%,46.80%,158,0.00%,213,Africa
+Ivory Coast,AFRICOM,West Africa,212,Honda HR-V,227,0.00%,-70.50%,770,0.10%,153,Africa
+Ivory Coast,AFRICOM,West Africa,213,Renault Espace,220,0.00%,10.00%,200,0.00%,204,Africa
+Ivory Coast,AFRICOM,West Africa,214,Ford S-Max,217,0.00%,-30.00%,310,0.00%,191,Africa
+Ivory Coast,AFRICOM,West Africa,215,Toyota Camry,209,0.00%,-75.00%,837,0.10%,145,Africa
+Ivory Coast,AFRICOM,West Africa,216,Alfa Romeo Giulia,201,0.00%,-35.00%,309,0.00%,192,Africa
+Ivory Coast,AFRICOM,West Africa,217,BMW 7-Series,197,0.00%,-9.60%,218,0.00%,202,Africa
+Ivory Coast,AFRICOM,West Africa,218,BMW X7,195,0.00%,25.00%,156,0.00%,215,Africa
+Ivory Coast,AFRICOM,West Africa,219,Ford Explorer,191,0.00%,218.30%,60,0.00%,239,Africa
+Ivory Coast,AFRICOM,West Africa,220,Volvo S60,186,0.00%,-54.20%,406,0.00%,180,Africa
+Ivory Coast,AFRICOM,West Africa,221,Porsche Panamera,175,0.00%,4.80%,167,0.00%,208,Africa
+Ivory Coast,AFRICOM,West Africa,222,BMW 8-Series,170,0.00%,-5.60%,180,0.00%,206,Africa
+Ivory Coast,AFRICOM,West Africa,223,VW Sharan,166,0.00%,-53.80%,359,0.00%,182,Africa
+Ivory Coast,AFRICOM,West Africa,224,Mazda6,157,0.00%,-37.50%,251,0.00%,199,Africa
+Ivory Coast,AFRICOM,West Africa,225,Mercedes G Class,154,0.00%,90.10%,81,0.00%,233,Africa
+Ivory Coast,AFRICOM,West Africa,226,DFSK iX5,151,0.00%,196.10%,51,0.00%,242,Africa
+Ivory Coast,AFRICOM,West Africa,227,Audi A7,150,0.00%,-9.60%,166,0.00%,209,Africa
+Ivory Coast,AFRICOM,West Africa,228,Audi e-tron,138,0.00%,-59.80%,343,0.00%,186,Africa
+Ivory Coast,AFRICOM,West Africa,229,BMW iX3,133,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,230,Kia Soul,128,0.00%,-21.50%,163,0.00%,210,Africa
+Ivory Coast,AFRICOM,West Africa,231,Lexus IS,118,0.00%,-63.80%,326,0.00%,188,Africa
+Ivory Coast,AFRICOM,West Africa,232,Maserati Levante,118,0.00%,40.50%,84,0.00%,232,Africa
+Ivory Coast,AFRICOM,West Africa,233,VW Up!,116,0.00%,-76.30%,489,0.10%,175,Africa
+Ivory Coast,AFRICOM,West Africa,234,Porsche 718,113,0.00%,-11.70%,128,0.00%,219,Africa
+Ivory Coast,AFRICOM,West Africa,235,Volvo S90,111,0.00%,-30.60%,160,0.00%,211,Africa
+Ivory Coast,AFRICOM,West Africa,236,Mazda MX-30,103,0.00%,-67.70%,319,0.00%,190,Africa
+Ivory Coast,AFRICOM,West Africa,237,Mercedes GLS,101,0.00%,-12.90%,116,0.00%,221,Africa
+Ivory Coast,AFRICOM,West Africa,238,Mercedes EQC,92,0.00%,-60.30%,232,0.00%,200,Africa
+Ivory Coast,AFRICOM,West Africa,239,Mercedes CLS,90,0.00%,-65.00%,257,0.00%,198,Africa
+Ivory Coast,AFRICOM,West Africa,240,DFSK Glory 580,86,0.00%,28.40%,67,0.00%,238,Africa
+Ivory Coast,AFRICOM,West Africa,241,BMW iX ,82,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,242,DS 4,77,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,243,BMW 6-Series,75,0.00%,-34.20%,114,0.00%,222,Africa
+Ivory Coast,AFRICOM,West Africa,244,Honda E,74,0.00%,-26.00%,100,0.00%,227,Africa
+Ivory Coast,AFRICOM,West Africa,245,Audi A8,73,0.00%,-26.30%,99,0.00%,228,Africa
+Ivory Coast,AFRICOM,West Africa,246,Range Rover  ,73,0.00%,-14.10%,85,0.00%,231,Africa
+Ivory Coast,AFRICOM,West Africa,247,VW Taigo,72,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,248,Land Rover Discovery,71,0.00%,-26.00%,96,0.00%,229,Africa
+Ivory Coast,AFRICOM,West Africa,249,Jaguar i-Pace,68,0.00%,-46.90%,128,0.00%,218,Africa
+Ivory Coast,AFRICOM,West Africa,250,DS 9,68,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,251,Alfa Romeo Giulietta,58,0.00%,-80.40%,296,0.00%,194,Africa
+Ivory Coast,AFRICOM,West Africa,252,Maserati Ghibli,54,0.00%,58.80%,34,0.00%,251,Africa
+Ivory Coast,AFRICOM,West Africa,253,Toyota Prius (est),51,0.00%,-28.20%,71,0.00%,237,Africa
+Ivory Coast,AFRICOM,West Africa,254,Jaguar F-Type,50,0.00%,8.70%,46,0.00%,244,Africa
+Ivory Coast,AFRICOM,West Africa,255,Audi e-tron GT,49,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,256,Skoda Citigo,40,0.00%,-86.70%,300,0.00%,193,Africa
+Ivory Coast,AFRICOM,West Africa,257,Subaru Impreza,35,0.00%,52.20%,23,0.00%,257,Africa
+Ivory Coast,AFRICOM,West Africa,258,Volvo C40,35,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,259,Jaguar XE,34,0.00%,-61.40%,88,0.00%,230,Africa
+Ivory Coast,AFRICOM,West Africa,260,Audi TT,33,0.00%,-69.40%,108,0.00%,225,Africa
+Ivory Coast,AFRICOM,West Africa,261,Alpine A110,33,0.00%,135.70%,14,0.00%,264,Africa
+Ivory Coast,AFRICOM,West Africa,262,Jaguar XF,31,0.00%,-56.90%,72,0.00%,236,Africa
+Ivory Coast,AFRICOM,West Africa,263,DFSK Seres 3,31,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,264,Suzuki Across,30,0.00%,-62.50%,80,0.00%,234,Africa
+Ivory Coast,AFRICOM,West Africa,265,Kia Stinger,30,0.00%,-60.00%,75,0.00%,235,Africa
+Ivory Coast,AFRICOM,West Africa,266,Bentley Continental,29,0.00%,-3.30%,30,0.00%,253,Africa
+Ivory Coast,AFRICOM,West Africa,267,Ford Galaxy,25,0.00%,0.00%,25,0.00%,256,Africa
+Ivory Coast,AFRICOM,West Africa,268,Ssangyong XLV,25,0.00%,78.60%,14,0.00%,263,Africa
+Ivory Coast,AFRICOM,West Africa,269,Mercedes AMG GT,24,0.00%,-56.40%,55,0.00%,240,Africa
+Ivory Coast,AFRICOM,West Africa,270,Bentley Bentayga,23,0.00%,27.80%,18,0.00%,261,Africa
+Ivory Coast,AFRICOM,West Africa,271,Ferrari F8,23,0.00%,76.90%,13,0.00%,268,Africa
+Ivory Coast,AFRICOM,West Africa,272,Lamborghini Urus,19,0.00%,0.00%,19,0.00%,259,Africa
+Ivory Coast,AFRICOM,West Africa,273,SWM G01,19,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,274,Ferrari Roma,17,0.00%,466.70%,3,0.00%,292,Africa
+Ivory Coast,AFRICOM,West Africa,275,MG Marvel,17,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,276,Subaru BR-Z,16,0.00%,-30.40%,23,0.00%,258,Africa
+Ivory Coast,AFRICOM,West Africa,277,Toyota Supra,16,0.00%,60.00%,10,0.00%,271,Africa
+Ivory Coast,AFRICOM,West Africa,278,Subaru Levorg,15,0.00%,7.10%,14,0.00%,265,Africa
+Ivory Coast,AFRICOM,West Africa,279,Aston Martin DBX,14,0.00%,100.00%,7,0.00%,278,Africa
+Ivory Coast,AFRICOM,West Africa,280,Mercedes EQS,14,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,281,Mahindra KUV100,13,0.00%,0.00%,13,0.00%,267,Africa
+Ivory Coast,AFRICOM,West Africa,282,Audi R8,12,0.00%,33.30%,9,0.00%,272,Africa
+Ivory Coast,AFRICOM,West Africa,283,Mercedes EQB,12,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,284,Zhidou D2,11,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,285,Tesla Model X,10,0.00%,-92.90%,140,0.00%,217,Africa
+Ivory Coast,AFRICOM,West Africa,286,JAC iEV7S,10,0.00%,900.00%,1,0.00%,314,Africa
+Ivory Coast,AFRICOM,West Africa,287,SsangYong Rexton,10,0.00%,900.00%,1,0.00%,302,Africa
+Ivory Coast,AFRICOM,West Africa,288,Aston Martin V8 Vantage,9,0.00%,50.00%,6,0.00%,280,Africa
+Ivory Coast,AFRICOM,West Africa,289,Lexus LC,9,0.00%,125.00%,4,0.00%,286,Africa
+Ivory Coast,AFRICOM,West Africa,290,Mahindra XUV500,9,0.00%,n/a,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,291,Lexus RC,8,0.00%,-93.00%,114,0.00%,223,Africa
+Ivory Coast,AFRICOM,West Africa,292,Bentley Flying Spur,8,0.00%,0.00%,8,0.00%,277,Africa
+Ivory Coast,AFRICOM,West Africa,293,Ferrari SF90 Stradale,8,0.00%,700.00%,1,0.00%,312,Africa
+Ivory Coast,AFRICOM,West Africa,294,Cupra Tarraco,8,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,295,DR 6,6,0.00%,-60.00%,15,0.00%,262,Africa
+Ivory Coast,AFRICOM,West Africa,296,Lamborghini Huracan,6,0.00%,-33.30%,9,0.00%,273,Africa
+Ivory Coast,AFRICOM,West Africa,297,Toyota Mirai,6,0.00%,0.00%,6,0.00%,281,Africa
+Ivory Coast,AFRICOM,West Africa,298,DR 5,6,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,299,DR F35,6,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,300,McLaren 600LT,5,0.00%,n/a,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,301,Tesla Model S,4,0.00%,-96.30%,109,0.00%,224,Africa
+Ivory Coast,AFRICOM,West Africa,302,Ferrari Portofino,4,0.00%,-63.60%,11,0.00%,269,Africa
+Ivory Coast,AFRICOM,West Africa,303,Ferrari 812,4,0.00%,-55.60%,9,0.00%,274,Africa
+Ivory Coast,AFRICOM,West Africa,304,McLaren Coupe,4,0.00%,-20.00%,5,0.00%,285,Africa
+Ivory Coast,AFRICOM,West Africa,305,DR 4,3,0.00%,-83.30%,18,0.00%,260,Africa
+Ivory Coast,AFRICOM,West Africa,306,Lexus LS,3,0.00%,-78.60%,14,0.00%,266,Africa
+Ivory Coast,AFRICOM,West Africa,307,Ferrari 488,3,0.00%,-70.00%,10,0.00%,270,Africa
+Ivory Coast,AFRICOM,West Africa,308,Aston Martin DB11,3,0.00%,0.00%,3,0.00%,289,Africa
+Ivory Coast,AFRICOM,West Africa,309,Maserati Quattroporte,3,0.00%,50.00%,2,0.00%,294,Africa
+Ivory Coast,AFRICOM,West Africa,310,Aston Martin DBS,3,0.00%,200.00%,1,0.00%,316,Africa
+Ivory Coast,AFRICOM,West Africa,311,Hyundai Nexo,3,0.00%,200.00%,1,0.00%,313,Africa
+Ivory Coast,AFRICOM,West Africa,312,DR EVO5,3,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,313,SWM G01F,3,0.00%,new,0,0.00%,–,Africa
+Ivory Coast,AFRICOM,West Africa,314,DR EVO4,3,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,315,Fisker Karma Revero,3,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,316,Hyundai Staria,3,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,317,Kia Optima,2,0.00%,-96.00%,50,0.00%,243,Africa
+Ivory Coast,AFRICOM,West Africa,318,Toyota GT86,2,0.00%,-94.70%,38,0.00%,249,Africa
+Ivory Coast,AFRICOM,West Africa,319,Hyundai i800,2,0.00%,-93.50%,31,0.00%,252,Africa
+Ivory Coast,AFRICOM,West Africa,320,McLaren 720S,2,0.00%,-33.30%,3,0.00%,288,Africa
+Ivory Coast,AFRICOM,West Africa,321,Lotus Elise,2,0.00%,0.00%,2,0.00%,297,Africa
+Ivory Coast,AFRICOM,West Africa,322,Opel Zafira Tourer,2,0.00%,0.00%,2,0.00%,293,Africa
+Ivory Coast,AFRICOM,West Africa,323,Rolls-Royce Ghost,2,0.00%,100.00%,1,0.00%,309,Africa
+Ivory Coast,AFRICOM,West Africa,324,Green Tour HS-EV4,2,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,325,LEVC TX,2,0.00%,n/a,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,326,Morgan Plus Four,2,0.00%,n/a,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,327,Jeep Cherokee,1,0.00%,-99.40%,171,0.00%,207,Africa
+Ivory Coast,AFRICOM,West Africa,328,Nissan 370Z,1,0.00%,-97.70%,43,0.00%,245,Africa
+Ivory Coast,AFRICOM,West Africa,329,Jeep Grand Cherokee,1,0.00%,-97.60%,41,0.00%,246,Africa
+Ivory Coast,AFRICOM,West Africa,330,Mercedes SLC,1,0.00%,-96.30%,27,0.00%,254,Africa
+Ivory Coast,AFRICOM,West Africa,331,Nissan GT-R,1,0.00%,-80.00%,5,0.00%,283,Africa
+Ivory Coast,AFRICOM,West Africa,332,Lamborghini Aventador,1,0.00%,-50.00%,2,0.00%,296,Africa
+Ivory Coast,AFRICOM,West Africa,333,Lotus Exige,1,0.00%,-50.00%,2,0.00%,298,Africa
+Ivory Coast,AFRICOM,West Africa,334,Ferrari GTC4 Lusso,1,0.00%,0.00%,1,0.00%,305,Africa
+Ivory Coast,AFRICOM,West Africa,335,Ford C-Max,1,0.00%,0.00%,1,0.00%,301,Africa
+Ivory Coast,AFRICOM,West Africa,336,Morgan Plus,1,0.00%,0.00%,1,0.00%,306,Africa
+Ivory Coast,AFRICOM,West Africa,337,Rolls-Royce Cullinan,1,0.00%,0.00%,1,0.00%,308,Africa
+Ivory Coast,AFRICOM,West Africa,338,DS 5,1,0.00%,n/a,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,339,Mercedes M Class,1,0.00%,n/a,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,340,BMW i4,1,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,341,Aiways U5,1,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,342,Donkervoort GTO-JD70,1,0.00%,n/a,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,343,DR EVO6,1,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,344,Ford GT,1,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,345,Jiangnan Coupa,1,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,346,Maxus Euniq 5,1,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,347,Nissan Ariya,1,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,348,VM Competicion T4,1,0.00%,new,0,0.00%, –,Africa
+Ivory Coast,AFRICOM,West Africa,349,Hyundai i40,0,0.00%,-100.00%,105,0.00%,226,Africa
+Ivory Coast,AFRICOM,West Africa,350,DR 3,0,0.00%,-100.00%,53,0.00%,241,Africa
+Ivory Coast,AFRICOM,West Africa,351,Infiniti Q30,0,0.00%,-100.00%,39,0.00%,247,Africa
+Ivory Coast,AFRICOM,West Africa,352,Citroen C-Zero,0,0.00%,-100.00%,38,0.00%,248,Africa
+Ivory Coast,AFRICOM,West Africa,353,Hyundai iX20,0,0.00%,-100.00%,35,0.00%,250,Africa
+Ivory Coast,AFRICOM,West Africa,354,Peugeot iOn,0,0.00%,-100.00%,26,0.00%,255,Africa
+Ivory Coast,AFRICOM,West Africa,355,BMW i8,0,0.00%,-100.00%,8,0.00%,276,Africa
+Ivory Coast,AFRICOM,West Africa,356,VW Golf Sportsvan,0,0.00%,-100.00%,8,0.00%,275,Africa
+Ivory Coast,AFRICOM,West Africa,357,Infiniti Q50,0,0.00%,-100.00%,6,0.00%,279,Africa
+Ivory Coast,AFRICOM,West Africa,358,Toyota Auris,0,0.00%,-100.00%,5,0.00%,282,Africa
+Ivory Coast,AFRICOM,West Africa,359,Bentley Mulsanne,0,0.00%,-100.00%,3,0.00%,291,Africa
+Ivory Coast,AFRICOM,West Africa,360,Infiniti QX30,0,0.00%,-100.00%,3,0.00%,287,Africa
+Ivory Coast,AFRICOM,West Africa,361,Maserati Gran Turismo,0,0.00%,-100.00%,3,0.00%,290,Africa
+Ivory Coast,AFRICOM,West Africa,362,Jaguar XJ,0,0.00%,-100.00%,2,0.00%,295,Africa
+Ivory Coast,AFRICOM,West Africa,363,Chevrolet Corvette,0,0.00%,-100.00%,1,0.00%,317,Africa
+Ivory Coast,AFRICOM,West Africa,364,DS 3,0,0.00%,-100.00%,1,0.00%,303,Africa
+Ivory Coast,AFRICOM,West Africa,365,Ferrari Monza,0,0.00%,-100.00%,1,0.00%,318,Africa
+Ivory Coast,AFRICOM,West Africa,366,Ford Ka+,0,0.00%,-100.00%,1,0.00%,300,Africa
+Ivory Coast,AFRICOM,West Africa,367,Kia Carens,0,0.00%,-100.00%,1,0.00%,304,Africa
+Ivory Coast,AFRICOM,West Africa,368,Lotus Evora Sport 410,0,0.00%,-100.00%,1,0.00%,307,Africa
+Ivory Coast,AFRICOM,West Africa,369,Mini Paceman (e),0,0.00%,-100.00%,1,0.00%,315,Africa
+Ivory Coast,AFRICOM,West Africa,370,Rolls-Royce Phantom,0,0.00%,-100.00%,1,0.00%,319,Africa
+Ivory Coast,AFRICOM,West Africa,371,VW Jetta,0,0.00%,-100.00%,1,0.00%,311,Africa

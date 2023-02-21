@@ -1,0 +1,305 @@
+﻿Country,Command,Region,Position_2021,Model,Sales_2021,Percent_2021,Growth_2021,Sales_2020,Percent_2020,Position_2020,Continent
+Greece,EUCOM,Southern Europe,1,Toyota Yaris,"4,783",4.70%,5.60%,"4,531",5.60%,1,Europe
+Greece,EUCOM,Southern Europe,2,Peugeot 208,"3,476",3.40%,26.80%,"2,741",3.40%,4,Europe
+Greece,EUCOM,Southern Europe,3,Citroen C3,"3,399",3.40%,72.10%,"1,975",2.40%,7,Europe
+Greece,EUCOM,Southern Europe,4,Opel Corsa,"3,203",3.20%,14.70%,"2,793",3.40%,3,Europe
+Greece,EUCOM,Southern Europe,5,Peugeot 2008,"3,196",3.20%,89.30%,"1,688",2.10%,12,Europe
+Greece,EUCOM,Southern Europe,6,Toyota C-HR,"2,934",2.90%,52.70%,"1,922",2.40%,8,Europe
+Greece,EUCOM,Southern Europe,7,Toyota Aygo,"2,473",2.50%,41.90%,"1,743",2.20%,10,Europe
+Greece,EUCOM,Southern Europe,8,Hyundai i20,"2,396",2.40%,80.60%,"1,327",1.60%,17,Europe
+Greece,EUCOM,Southern Europe,9,Kia Stonic,"2,323",2.30%,139.50%,970,1.20%,29,Europe
+Greece,EUCOM,Southern Europe,10,Hyundai i10,"2,281",2.30%,44.30%,"1,581",2.00%,15,Europe
+Greece,EUCOM,Southern Europe,11,Toyota Corolla,"2,118",2.10%,18.30%,"1,790",2.20%,9,Europe
+Greece,EUCOM,Southern Europe,12,Peugeot 3008,"2,010",2.00%,42.40%,"1,412",1.70%,16,Europe
+Greece,EUCOM,Southern Europe,13,VW T-Roc,"1,978",2.00%,19.20%,"1,660",2.00%,13,Europe
+Greece,EUCOM,Southern Europe,14,Renault Clio,"1,876",1.90%,-20.10%,"2,348",2.90%,5,Europe
+Greece,EUCOM,Southern Europe,15,Suzuki Vitara,"1,859",1.80%,79.60%,"1,035",1.30%,23,Europe
+Greece,EUCOM,Southern Europe,16,Nissan Qashqai,"1,656",1.60%,-46.40%,"3,091",3.80%,2,Europe
+Greece,EUCOM,Southern Europe,17,Ford Puma,"1,641",1.60%,59.90%,"1,026",1.30%,24,Europe
+Greece,EUCOM,Southern Europe,18,Mercedes A-Class,"1,633",1.60%,-4.30%,"1,707",2.10%,11,Europe
+Greece,EUCOM,Southern Europe,19,VW T-Cross,"1,555",1.50%,-2.10%,"1,588",2.00%,14,Europe
+Greece,EUCOM,Southern Europe,20,Fiat Panda,"1,539",1.50%,21.70%,"1,265",1.60%,18,Europe
+Greece,EUCOM,Southern Europe,21,Audi Q3,"1,490",1.50%,72.30%,865,1.10%,33,Europe
+Greece,EUCOM,Southern Europe,22,Dacia Duster,"1,464",1.50%,21.00%,"1,210",1.50%,19,Europe
+Greece,EUCOM,Southern Europe,23,Suzuki Swift,"1,438",1.40%,31.20%,"1,096",1.40%,21,Europe
+Greece,EUCOM,Southern Europe,24,VW Polo,"1,433",1.40%,-27.50%,"1,976",2.40%,6,Europe
+Greece,EUCOM,Southern Europe,25,Hyundai Kona,"1,412",1.40%,31.70%,"1,072",1.30%,22,Europe
+Greece,EUCOM,Southern Europe,26,Volvo XC40,"1,343",1.30%,35.50%,991,1.20%,27,Europe
+Greece,EUCOM,Southern Europe,27,Hyundai i30,"1,284",1.30%,68.50%,762,0.90%,38,Europe
+Greece,EUCOM,Southern Europe,28,Fiat 500,"1,278",1.30%,111.60%,604,0.70%,47,Europe
+Greece,EUCOM,Southern Europe,29,Nissan Micra,"1,235",1.20%,85.40%,666,0.80%,41,Europe
+Greece,EUCOM,Southern Europe,30,Suzuki Ignis,"1,231",1.20%,23.00%,"1,001",1.20%,26,Europe
+Greece,EUCOM,Southern Europe,31,Mini Countryman,"1,219",1.20%,24.80%,977,1.20%,28,Europe
+Greece,EUCOM,Southern Europe,32,Skoda Kamiq,"1,210",1.20%,18.00%,"1,025",1.30%,25,Europe
+Greece,EUCOM,Southern Europe,33,BMW 1-Series,"1,202",1.20%,56.10%,770,1.00%,37,Europe
+Greece,EUCOM,Southern Europe,34,Hyundai Tucson,"1,142",1.10%,137.40%,481,0.60%,54,Europe
+Greece,EUCOM,Southern Europe,35,Kia Picanto,"1,065",1.10%,59.00%,670,0.80%,40,Europe
+Greece,EUCOM,Southern Europe,36,BMW X1,"1,016",1.00%,30.60%,778,1.00%,36,Europe
+Greece,EUCOM,Southern Europe,37,Opel Crossland X,"1,012",1.00%,21.60%,832,1.00%,34,Europe
+Greece,EUCOM,Southern Europe,38,VW Golf,"1,007",1.00%,42.80%,705,0.90%,39,Europe
+Greece,EUCOM,Southern Europe,39,Mercedes GLA,944,0.90%,53.00%,617,0.80%,46,Europe
+Greece,EUCOM,Southern Europe,40,BMW X2,906,0.90%,10.80%,818,1.00%,35,Europe
+Greece,EUCOM,Southern Europe,41,VW Tiguan,812,0.80%,38.10%,588,0.70%,49,Europe
+Greece,EUCOM,Southern Europe,42,Jeep Renegade,793,0.80%,27.90%,620,0.80%,45,Europe
+Greece,EUCOM,Southern Europe,43,Dacia Sandero,775,0.80%,97.20%,393,0.50%,60,Europe
+Greece,EUCOM,Southern Europe,44,Audi A3,767,0.80%,67.50%,458,0.60%,55,Europe
+Greece,EUCOM,Southern Europe,45,Opel Astra,751,0.70%,-18.60%,923,1.10%,30,Europe
+Greece,EUCOM,Southern Europe,46,Nissan Juke,699,0.70%,16.70%,599,0.70%,48,Europe
+Greece,EUCOM,Southern Europe,47,Peugeot 308,693,0.70%,-37.80%,"1,115",1.40%,20,Europe
+Greece,EUCOM,Southern Europe,48,Seat Ibiza,677,0.70%,7.00%,633,0.80%,43,Europe
+Greece,EUCOM,Southern Europe,49,Seat Arona,664,0.70%,18.10%,562,0.70%,50,Europe
+Greece,EUCOM,Southern Europe,50,Peugeot 108,659,0.70%,19.00%,554,0.70%,51,Europe
+Greece,EUCOM,Southern Europe,51,Audi Q2,646,0.60%,-29.60%,917,1.10%,31,Europe
+Greece,EUCOM,Southern Europe,52,Renault Captur,636,0.60%,38.90%,458,0.60%,56,Europe
+Greece,EUCOM,Southern Europe,53,Jeep Compass,612,0.60%,128.40%,268,0.30%,74,Europe
+Greece,EUCOM,Southern Europe,54,Ford Fiesta,611,0.60%,-30.50%,879,1.10%,32,Europe
+Greece,EUCOM,Southern Europe,55,Mini,596,0.60%,9.60%,544,0.70%,53,Europe
+Greece,EUCOM,Southern Europe,56,Skoda Octavia,577,0.60%,81.40%,318,0.40%,67,Europe
+Greece,EUCOM,Southern Europe,57,Mercedes GLB,565,0.60%,110.00%,269,0.30%,73,Europe
+Greece,EUCOM,Southern Europe,58,Tesla Model 3,522,0.50%,2647.40%,19,0.00%,165,Europe
+Greece,EUCOM,Southern Europe,59,Seat Leon,485,0.50%,51.10%,321,0.40%,65,Europe
+Greece,EUCOM,Southern Europe,60,Citroen C4,477,0.50%,47600.00%,1,0.00%,241,Europe
+Greece,EUCOM,Southern Europe,61,Citroen C3 Aircross,448,0.40%,6.90%,419,0.50%,58,Europe
+Greece,EUCOM,Southern Europe,62,Toyota RAV4,444,0.40%,98.20%,224,0.30%,79,Europe
+Greece,EUCOM,Southern Europe,63,Audi A1,424,0.40%,57.60%,269,0.30%,72,Europe
+Greece,EUCOM,Southern Europe,64,Opel Mokka,419,0.40%,41800.00%,1,0.00%,233,Europe
+Greece,EUCOM,Southern Europe,65,Skoda Karoq,417,0.40%,-34.20%,634,0.80%,42,Europe
+Greece,EUCOM,Southern Europe,66,Kia Sportage,416,0.40%,6.10%,392,0.50%,61,Europe
+Greece,EUCOM,Southern Europe,67,Fiat Tipo,394,0.40%,-37.60%,631,0.80%,44,Europe
+Greece,EUCOM,Southern Europe,68,Ford Focus,377,0.40%,-15.30%,445,0.50%,57,Europe
+Greece,EUCOM,Southern Europe,69,Kia Xceed,360,0.40%,69.80%,212,0.30%,83,Europe
+Greece,EUCOM,Southern Europe,70,Opel Grandland X,357,0.40%,-11.90%,405,0.50%,59,Europe
+Greece,EUCOM,Southern Europe,71,Kia Rio,352,0.30%,188.50%,122,0.20%,94,Europe
+Greece,EUCOM,Southern Europe,72,Mercedes GLC,342,0.30%,19.20%,287,0.40%,70,Europe
+Greece,EUCOM,Southern Europe,73,Citroen C1,333,0.30%,4.70%,318,0.40%,66,Europe
+Greece,EUCOM,Southern Europe,74,Range Rover Evoque,317,0.30%,104.50%,155,0.20%,91,Europe
+Greece,EUCOM,Southern Europe,75,Skoda Scala,311,0.30%,-43.90%,554,0.70%,52,Europe
+Greece,EUCOM,Southern Europe,76,Suzuki SX4,301,0.30%,-1.60%,306,0.40%,69,Europe
+Greece,EUCOM,Southern Europe,77,Hyundai Bayon,286,0.30%,new,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,78,Nissan X-Trail,256,0.30%,-33.90%,387,0.50%,62,Europe
+Greece,EUCOM,Southern Europe,79,Skoda Kodiaq,256,0.30%,19.60%,214,0.30%,81,Europe
+Greece,EUCOM,Southern Europe,80,Ford Kuga,247,0.20%,57.30%,157,0.20%,90,Europe
+Greece,EUCOM,Southern Europe,81,Volvo XC60,246,0.20%,-26.80%,336,0.40%,63,Europe
+Greece,EUCOM,Southern Europe,82,Toyota Yaris Cross,244,0.20%,new,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,83,Peugeot 301,238,0.20%,277.80%,63,0.10%,118,Europe
+Greece,EUCOM,Southern Europe,84,DS 7 Crossback,229,0.20%,5.50%,217,0.30%,80,Europe
+Greece,EUCOM,Southern Europe,85,BMW X3,222,0.20%,155.20%,87,0.10%,104,Europe
+Greece,EUCOM,Southern Europe,86,BMW 3-Series,210,0.20%,45.80%,144,0.20%,92,Europe
+Greece,EUCOM,Southern Europe,87,Mitsubishi Space Star,206,0.20%,5.60%,195,0.20%,86,Europe
+Greece,EUCOM,Southern Europe,88,Fiat 500X,201,0.20%,-2.90%,207,0.30%,84,Europe
+Greece,EUCOM,Southern Europe,89,Mazda2,194,0.20%,185.30%,68,0.10%,113,Europe
+Greece,EUCOM,Southern Europe,90,VW ID.3,188,0.20%,63.50%,115,0.10%,96,Europe
+Greece,EUCOM,Southern Europe,91,VW Up!,186,0.20%,75.50%,106,0.10%,99,Europe
+Greece,EUCOM,Southern Europe,92,BMW 2-Series,176,0.20%,-27.30%,242,0.30%,78,Europe
+Greece,EUCOM,Southern Europe,93,Mercedes C-Class,173,0.20%,-12.20%,197,0.20%,85,Europe
+Greece,EUCOM,Southern Europe,94,Mercedes CLA,166,0.20%,-39.60%,275,0.30%,71,Europe
+Greece,EUCOM,Southern Europe,95,Mercedes V-Class,166,0.20%,97.60%,84,0.10%,106,Europe
+Greece,EUCOM,Southern Europe,96,Citroen C5 Aircross,163,0.20%,-47.80%,312,0.40%,68,Europe
+Greece,EUCOM,Southern Europe,97,VW ID.4,140,0.10%,new,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,98,Honda Civic,136,0.10%,-19.00%,168,0.20%,89,Europe
+Greece,EUCOM,Southern Europe,99,Mazda CX-30,125,0.10%,81.20%,69,0.10%,112,Europe
+Greece,EUCOM,Southern Europe,100,Peugeot 5008,115,0.10%,3.60%,111,0.10%,98,Europe
+Greece,EUCOM,Southern Europe,101,Skoda Fabia,112,0.10%,-66.20%,331,0.40%,64,Europe
+Greece,EUCOM,Southern Europe,102,Land Rover Discovery Sport,112,0.10%,19.10%,94,0.10%,101,Europe
+Greece,EUCOM,Southern Europe,103,Ford Ecosport,111,0.10%,-47.90%,213,0.30%,82,Europe
+Greece,EUCOM,Southern Europe,104,BMW X5,110,0.10%,41.00%,78,0.10%,108,Europe
+Greece,EUCOM,Southern Europe,105,Toyota Proace City Verso,109,0.10%,3533.30%,3,0.00%,219,Europe
+Greece,EUCOM,Southern Europe,106,Cupra Formentor,106,0.10%,10500.00%,1,0.00%,256,Europe
+Greece,EUCOM,Southern Europe,107,VW Caddy,92,0.10%,253.80%,26,0.00%,149,Europe
+Greece,EUCOM,Southern Europe,108,Volvo XC90,91,0.10%,3.40%,88,0.10%,102,Europe
+Greece,EUCOM,Southern Europe,109,Audi Q5,91,0.10%,71.70%,53,0.10%,124,Europe
+Greece,EUCOM,Southern Europe,110,Renault Kadjar,90,0.10%,-64.40%,253,0.30%,75,Europe
+Greece,EUCOM,Southern Europe,111,BMW 4-Series,84,0.10%,1100.00%,7,0.00%,190,Europe
+Greece,EUCOM,Southern Europe,112,Lexus UX,82,0.10%,64.00%,50,0.10%,128,Europe
+Greece,EUCOM,Southern Europe,113,Peugeot Expert Traveller,81,0.10%,26.60%,64,0.10%,117,Europe
+Greece,EUCOM,Southern Europe,114,Mercedes E-Class,78,0.10%,90.20%,41,0.10%,137,Europe
+Greece,EUCOM,Southern Europe,115,Skoda Enyaq,78,0.10%,new,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,116,Honda Jazz,77,0.10%,-18.10%,94,0.10%,100,Europe
+Greece,EUCOM,Southern Europe,117,Nissan Leaf,76,0.10%,68.90%,45,0.10%,133,Europe
+Greece,EUCOM,Southern Europe,118,Mazda3,74,0.10%,208.30%,24,0.00%,153,Europe
+Greece,EUCOM,Southern Europe,119,Mercedes GLE,73,0.10%,135.50%,31,0.00%,146,Europe
+Greece,EUCOM,Southern Europe,120,Mini Cabrio,71,0.10%,39.20%,51,0.10%,127,Europe
+Greece,EUCOM,Southern Europe,121,Tesla Model Y,69,0.10%,new,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,122,Citroen C-Elysée,68,0.10%,51.10%,45,0.10%,131,Europe
+Greece,EUCOM,Southern Europe,123,DS 3 Crossback,67,0.10%,3.10%,65,0.10%,116,Europe
+Greece,EUCOM,Southern Europe,124,Mercedes EQA,66,0.10%,new,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,125,Renault Twingo,65,0.10%,-5.80%,69,0.10%,111,Europe
+Greece,EUCOM,Southern Europe,126,Renault Megane,62,0.10%,-48.80%,121,0.10%,95,Europe
+Greece,EUCOM,Southern Europe,127,BMW X4,62,0.10%,-6.10%,66,0.10%,115,Europe
+Greece,EUCOM,Southern Europe,128,Peugeot Rifter,61,0.10%,-52.70%,129,0.20%,93,Europe
+Greece,EUCOM,Southern Europe,129,Toyota Proace,60,0.10%,76.50%,34,0.00%,144,Europe
+Greece,EUCOM,Southern Europe,130,BMW i3,59,0.10%,-13.20%,68,0.10%,114,Europe
+Greece,EUCOM,Southern Europe,131,Alfa Romeo Giulia,57,0.10%,612.50%,8,0.00%,183,Europe
+Greece,EUCOM,Southern Europe,132,Honda HR-V,55,0.10%,-37.50%,88,0.10%,103,Europe
+Greece,EUCOM,Southern Europe,133,Opel Combo,52,0.10%,-5.50%,55,0.10%,122,Europe
+Greece,EUCOM,Southern Europe,134,Alfa Romeo Stelvio,51,0.10%,1600.00%,3,0.00%,211,Europe
+Greece,EUCOM,Southern Europe,135,Porsche Cayenne,50,0.00%,-3.80%,52,0.10%,125,Europe
+Greece,EUCOM,Southern Europe,136,Smart Fortwo,50,0.00%,56.30%,32,0.00%,145,Europe
+Greece,EUCOM,Southern Europe,137,BMW X6,49,0.00%,104.20%,24,0.00%,155,Europe
+Greece,EUCOM,Southern Europe,138,Range Rover Sport,49,0.00%,n/a,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,139,Mazda MX-5,48,0.00%,92.00%,25,0.00%,152,Europe
+Greece,EUCOM,Southern Europe,140,Honda CR-V,47,0.00%,2.20%,46,0.10%,129,Europe
+Greece,EUCOM,Southern Europe,141,Jaguar E-Pace,45,0.00%,4.70%,43,0.10%,135,Europe
+Greece,EUCOM,Southern Europe,142,BMW 5-Series,45,0.00%,25.00%,36,0.00%,143,Europe
+Greece,EUCOM,Southern Europe,143,Peugeot Boxer,45,0.00%,650.00%,6,0.00%,198,Europe
+Greece,EUCOM,Southern Europe,144,Jeep Wrangler,42,0.00%,162.50%,16,0.00%,174,Europe
+Greece,EUCOM,Southern Europe,145,Kia Ceed,41,0.00%,2.50%,40,0.00%,139,Europe
+Greece,EUCOM,Southern Europe,146,Audi A4,39,0.00%,-23.50%,51,0.10%,126,Europe
+Greece,EUCOM,Southern Europe,147,Lexus NX,39,0.00%,62.50%,24,0.00%,154,Europe
+Greece,EUCOM,Southern Europe,148,Land Rover Defender,37,0.00%,184.60%,13,0.00%,179,Europe
+Greece,EUCOM,Southern Europe,149,Range Rover Velar,35,0.00%,66.70%,21,0.00%,158,Europe
+Greece,EUCOM,Southern Europe,150,Citroen Berlingo,34,0.00%,-70.20%,114,0.10%,97,Europe
+Greece,EUCOM,Southern Europe,151,Cupra Leon,34,0.00%,new,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,152,Jaguar F-Pace,33,0.00%,57.10%,21,0.00%,159,Europe
+Greece,EUCOM,Southern Europe,153,Renault Scenic,32,0.00%,1500.00%,2,0.00%,231,Europe
+Greece,EUCOM,Southern Europe,154,Abarth 500,31,0.00%,19.20%,26,0.00%,150,Europe
+Greece,EUCOM,Southern Europe,155,Ford Mustang,31,0.00%,93.80%,16,0.00%,173,Europe
+Greece,EUCOM,Southern Europe,156,Kia Niro,30,0.00%,900.00%,3,0.00%,216,Europe
+Greece,EUCOM,Southern Europe,157,Smart Forfour,30,0.00%,900.00%,3,0.00%,210,Europe
+Greece,EUCOM,Southern Europe,158,VW Passat,28,0.00%,-64.60%,79,0.10%,107,Europe
+Greece,EUCOM,Southern Europe,159,Mini Clubman,28,0.00%,-33.30%,42,0.10%,136,Europe
+Greece,EUCOM,Southern Europe,160,Skoda Superb,27,0.00%,-50.90%,55,0.10%,123,Europe
+Greece,EUCOM,Southern Europe,161,Mercedes B-Class,25,0.00%,-57.60%,59,0.10%,120,Europe
+Greece,EUCOM,Southern Europe,162,Volvo V60,25,0.00%,8.70%,23,0.00%,157,Europe
+Greece,EUCOM,Southern Europe,163,Porsche Taycan,25,0.00%,31.60%,19,0.00%,166,Europe
+Greece,EUCOM,Southern Europe,164,Subaru XV,25,0.00%,38.90%,18,0.00%,168,Europe
+Greece,EUCOM,Southern Europe,165,Citroen Jumpy Spacetourer,23,0.00%,-48.90%,45,0.10%,132,Europe
+Greece,EUCOM,Southern Europe,166,Audi Q4,22,0.00%,new,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,167,Fiat 500L,21,0.00%,-51.20%,43,0.10%,134,Europe
+Greece,EUCOM,Southern Europe,168,Audi Q8,19,0.00%,-24.00%,25,0.00%,151,Europe
+Greece,EUCOM,Southern Europe,169,Renault Arkana,19,0.00%,new,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,170,VW Transporter,18,0.00%,-5.30%,19,0.00%,163,Europe
+Greece,EUCOM,Southern Europe,171,Suzuki Swace,18,0.00%,new,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,172,Mitsubishi Eclipse Cross,17,0.00%,-91.20%,194,0.20%,87,Europe
+Greece,EUCOM,Southern Europe,173,Dacia Lodgy,17,0.00%,-45.20%,31,0.00%,147,Europe
+Greece,EUCOM,Southern Europe,174,VW Touran,16,0.00%,-11.10%,18,0.00%,167,Europe
+Greece,EUCOM,Southern Europe,175,Honda E,16,0.00%,220.00%,5,0.00%,204,Europe
+Greece,EUCOM,Southern Europe,176,Fiat Talento,15,0.00%,-78.60%,70,0.10%,110,Europe
+Greece,EUCOM,Southern Europe,177,BMW X7,15,0.00%,87.50%,8,0.00%,186,Europe
+Greece,EUCOM,Southern Europe,178,Mercedes EQC,14,0.00%,-33.30%,21,0.00%,160,Europe
+Greece,EUCOM,Southern Europe,179,Porsche Macan,14,0.00%,0.00%,14,0.00%,175,Europe
+Greece,EUCOM,Southern Europe,180,Range Rover,13,0.00%,-82.90%,76,0.10%,109,Europe
+Greece,EUCOM,Southern Europe,181,Nissan NV300,13,0.00%,-79.00%,62,0.10%,119,Europe
+Greece,EUCOM,Southern Europe,182,Opel Zafira,13,0.00%,-23.50%,17,0.00%,170,Europe
+Greece,EUCOM,Southern Europe,183,Lexus RX,13,0.00%,116.70%,6,0.00%,196,Europe
+Greece,EUCOM,Southern Europe,184,Nissan NV400,13,0.00%,1200.00%,1,0.00%,252,Europe
+Greece,EUCOM,Southern Europe,185,Ford Mustang Mach-E,13,0.00%,new,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,186,Audi A6,12,0.00%,-40.00%,20,0.00%,162,Europe
+Greece,EUCOM,Southern Europe,187,Citroen C4 Spacetourer,11,0.00%,-45.00%,20,0.00%,161,Europe
+Greece,EUCOM,Southern Europe,188,Audi A5,11,0.00%,-35.30%,17,0.00%,169,Europe
+Greece,EUCOM,Southern Europe,189,BMW Z4,11,0.00%,-21.40%,14,0.00%,176,Europe
+Greece,EUCOM,Southern Europe,190,Audi e-tron,11,0.00%,57.10%,7,0.00%,193,Europe
+Greece,EUCOM,Southern Europe,191,Mercedes EQV,11,0.00%,new,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,192,Seat Tarraco,10,0.00%,-82.50%,57,0.10%,121,Europe
+Greece,EUCOM,Southern Europe,193,Subaru Forester,9,0.00%,-52.60%,19,0.00%,164,Europe
+Greece,EUCOM,Southern Europe,194,Jaguar i-Pace,9,0.00%,-43.80%,16,0.00%,172,Europe
+Greece,EUCOM,Southern Europe,195,Mercedes Sprinter,9,0.00%,12.50%,8,0.00%,185,Europe
+Greece,EUCOM,Southern Europe,196,Porsche 911,9,0.00%,28.60%,7,0.00%,191,Europe
+Greece,EUCOM,Southern Europe,197,Ford Transit/Tourneo,9,0.00%,80.00%,5,0.00%,201,Europe
+Greece,EUCOM,Southern Europe,198,Toyota Land Cruiser,8,0.00%,14.30%,7,0.00%,192,Europe
+Greece,EUCOM,Southern Europe,199,Mercedes S-Class,8,0.00%,300.00%,2,0.00%,222,Europe
+Greece,EUCOM,Southern Europe,200,Mercedes Citan,8,0.00%,700.00%,1,0.00%,235,Europe
+Greece,EUCOM,Southern Europe,201,BMW IX3,8,0.00%,new,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,202,Mercedes GLS,8,0.00%,new,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,203,Peugeot 508,7,0.00%,-82.90%,41,0.10%,138,Europe
+Greece,EUCOM,Southern Europe,204,Ford Tourneo Connect,7,0.00%,-30.00%,10,0.00%,181,Europe
+Greece,EUCOM,Southern Europe,205,Porsche Panamera,7,0.00%,0.00%,7,0.00%,189,Europe
+Greece,EUCOM,Southern Europe,206,VW Touareg,7,0.00%,40.00%,5,0.00%,203,Europe
+Greece,EUCOM,Southern Europe,207,Kia Soul,7,0.00%,600.00%,1,0.00%,236,Europe
+Greece,EUCOM,Southern Europe,208,Mazda CX-5,6,0.00%,0.00%,6,0.00%,197,Europe
+Greece,EUCOM,Southern Europe,209,Mercedes G-Class,6,0.00%,100.00%,3,0.00%,213,Europe
+Greece,EUCOM,Southern Europe,210,Hyundai Ioniq,6,0.00%,500.00%,1,0.00%,244,Europe
+Greece,EUCOM,Southern Europe,211,BMW IX,6,0.00%,new,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,212,Dacia Logan,6,0.00%,n/a,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,213,Alfa Romeo Giulietta,5,0.00%,-97.30%,183,0.20%,88,Europe
+Greece,EUCOM,Southern Europe,214,Skoda Citigo,5,0.00%,-94.10%,85,0.10%,105,Europe
+Greece,EUCOM,Southern Europe,215,Audi Q7,5,0.00%,-50.00%,10,0.00%,182,Europe
+Greece,EUCOM,Southern Europe,216,BMW 7-Series,5,0.00%,-37.50%,8,0.00%,184,Europe
+Greece,EUCOM,Southern Europe,217,Nissan NV200,5,0.00%,-16.70%,6,0.00%,194,Europe
+Greece,EUCOM,Southern Europe,218,Volvo V90,5,0.00%,0.00%,5,0.00%,202,Europe
+Greece,EUCOM,Southern Europe,219,Ford Mondeo,5,0.00%,n/a,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,220,DS 4,5,0.00%,new,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,221,Hyundai Santa Fe,5,0.00%,n/a,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,222,Opel Insignia,4,0.00%,-82.60%,23,0.00%,156,Europe
+Greece,EUCOM,Southern Europe,223,Fiat Doblo,4,0.00%,-69.20%,13,0.00%,177,Europe
+Greece,EUCOM,Southern Europe,224,Mazda MX-30,4,0.00%,33.30%,3,0.00%,221,Europe
+Greece,EUCOM,Southern Europe,225,Citroen Space Tourer,4,0.00%,n/a,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,226,Maserati Levante,4,0.00%,n/a,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,227,Land Rover Discovery,3,0.00%,-50.00%,6,0.00%,195,Europe
+Greece,EUCOM,Southern Europe,228,Lexus ES,3,0.00%,-40.00%,5,0.00%,205,Europe
+Greece,EUCOM,Southern Europe,229,Citroen DS3,3,0.00%,-25.00%,4,0.00%,206,Europe
+Greece,EUCOM,Southern Europe,230,Ford Explorer,3,0.00%,0.00%,3,0.00%,220,Europe
+Greece,EUCOM,Southern Europe,231,Volvo S90,3,0.00%,0.00%,3,0.00%,212,Europe
+Greece,EUCOM,Southern Europe,232,Porsche Boxster,3,0.00%,0.00%,3,0.00%,214,Europe
+Greece,EUCOM,Southern Europe,233,Toyota Prius,3,0.00%,0.00%,3,0.00%,215,Europe
+Greece,EUCOM,Southern Europe,234,Volvo S60,3,0.00%,50.00%,2,0.00%,225,Europe
+Greece,EUCOM,Southern Europe,235,Ford S-Max,3,0.00%,200.00%,1,0.00%,250,Europe
+Greece,EUCOM,Southern Europe,236,Jaguar XE,3,0.00%,200.00%,1,0.00%,239,Europe
+Greece,EUCOM,Southern Europe,237,Jaguar XF,3,0.00%,200.00%,1,0.00%,245,Europe
+Greece,EUCOM,Southern Europe,238,Kia EV6,3,0.00%,new,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,239,Suzuki Across,3,0.00%,new,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,240,Hyundai Ioniq 5,3,0.00%,new,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,241,Skoda Enyaq,3,0.00%,new,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,242,Citroen C4 Cactus,2,0.00%,-99.20%,242,0.30%,76,Europe
+Greece,EUCOM,Southern Europe,243,Suzuki Jimny,2,0.00%,-99.20%,242,0.30%,77,Europe
+Greece,EUCOM,Southern Europe,244,Mitsubishi ASX,2,0.00%,-94.90%,39,0.00%,141,Europe
+Greece,EUCOM,Southern Europe,245,Mazda6,2,0.00%,-88.20%,17,0.00%,171,Europe
+Greece,EUCOM,Southern Europe,246,Porsche Cayman,2,0.00%,-50.00%,4,0.00%,208,Europe
+Greece,EUCOM,Southern Europe,247,Audi A8,2,0.00%,-33.30%,3,0.00%,217,Europe
+Greece,EUCOM,Southern Europe,248,Audi A7,2,0.00%,0.00%,2,0.00%,224,Europe
+Greece,EUCOM,Southern Europe,249,BMW i8,2,0.00%,0.00%,2,0.00%,226,Europe
+Greece,EUCOM,Southern Europe,250,Maserati Ghibli,2,0.00%,100.00%,1,0.00%,242,Europe
+Greece,EUCOM,Southern Europe,251,Renault Trafic,2,0.00%,n/a,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,252,VW Crafter,2,0.00%,n/a,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,253,Lamborghini Aventador,2,0.00%,n/a,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,254,Lamborghini Urus,2,0.00%,new,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,255,Morgan Plus Four,2,0.00%,n/a,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,256,Mitsubishi Outlander,1,0.00%,-92.30%,13,0.00%,178,Europe
+Greece,EUCOM,Southern Europe,257,BMW 8 Series,1,0.00%,-87.50%,8,0.00%,187,Europe
+Greece,EUCOM,Southern Europe,258,Jaguar F-Type,1,0.00%,-83.30%,6,0.00%,199,Europe
+Greece,EUCOM,Southern Europe,259,Mercedes AMG GT,1,0.00%,-50.00%,2,0.00%,227,Europe
+Greece,EUCOM,Southern Europe,260,Bentley Continental,1,0.00%,0.00%,1,0.00%,247,Europe
+Greece,EUCOM,Southern Europe,261,Subaru Impreza,1,0.00%,0.00%,1,0.00%,237,Europe
+Greece,EUCOM,Southern Europe,262,Subaru Outback,1,0.00%,0.00%,1,0.00%,254,Europe
+Greece,EUCOM,Southern Europe,263,Audi TT,1,0.00%,n/a,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,264,Daihatsu Terios,1,0.00%,n/a,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,265,Fiat Qubo,1,0.00%,n/a,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,266,Ford C-Max,1,0.00%,n/a,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,267,Honda Legend,1,0.00%,n/a,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,268,Lexus CT,1,0.00%,n/a,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,269,Mitsubishi Pajero,1,0.00%,n/a,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,270,Renault Kangoo,1,0.00%,n/a,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,271,Suzuki Wagon R,1,0.00%,n/a,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,272,VW Multivan,1,0.00%,n/a,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,273,Lamborghini Huracan,1,0.00%,n/a,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,274,Zhidou D2S,1,0.00%,new,0,0.00%, –,Europe
+Greece,EUCOM,Southern Europe,275,Seat Ateca,0,0.00%,-100.00%,46,0.10%,130,Europe
+Greece,EUCOM,Southern Europe,276,Citroen Jumper,0,0.00%,-100.00%,40,0.00%,140,Europe
+Greece,EUCOM,Southern Europe,277,Ford Tourneo Courier,0,0.00%,-100.00%,37,0.00%,142,Europe
+Greece,EUCOM,Southern Europe,278,Volvo V40,0,0.00%,-100.00%,28,0.00%,148,Europe
+Greece,EUCOM,Southern Europe,279,Suzuki Baleno,0,0.00%,-100.00%,12,0.00%,180,Europe
+Greece,EUCOM,Southern Europe,280,Jeep Cherokee,0,0.00%,-100.00%,8,0.00%,188,Europe
+Greece,EUCOM,Southern Europe,281,Suzuki Celerio,0,0.00%,-100.00%,5,0.00%,200,Europe
+Greece,EUCOM,Southern Europe,282,Toyota Verso,0,0.00%,-100.00%,4,0.00%,209,Europe
+Greece,EUCOM,Southern Europe,283,VW Arteon,0,0.00%,-100.00%,4,0.00%,207,Europe
+Greece,EUCOM,Southern Europe,284,Bentley Bentayga,0,0.00%,-100.00%,3,0.00%,218,Europe
+Greece,EUCOM,Southern Europe,285,Ford Galaxy,0,0.00%,-100.00%,2,0.00%,229,Europe
+Greece,EUCOM,Southern Europe,286,Lexus IS,0,0.00%,-100.00%,2,0.00%,230,Europe
+Greece,EUCOM,Southern Europe,287,Mercedes CLS,0,0.00%,-100.00%,2,0.00%,223,Europe
+Greece,EUCOM,Southern Europe,288,Tesla Model X,0,0.00%,-100.00%,2,0.00%,228,Europe
+Greece,EUCOM,Southern Europe,289,Chevrolet Aveo,0,0.00%,-100.00%,1,0.00%,248,Europe
+Greece,EUCOM,Southern Europe,290,Chevrolet Spark,0,0.00%,-100.00%,1,0.00%,249,Europe
+Greece,EUCOM,Southern Europe,291,Dongfeng E70,0,0.00%,-100.00%,1,0.00%,257,Europe
+Greece,EUCOM,Southern Europe,292,Esagono Energi Geco,0,0.00%,-100.00%,1,0.00%,258,Europe
+Greece,EUCOM,Southern Europe,293,Fiat Punto,0,0.00%,-100.00%,1,0.00%,238,Europe
+Greece,EUCOM,Southern Europe,294,Jaguar XJ,0,0.00%,-100.00%,1,0.00%,251,Europe
+Greece,EUCOM,Southern Europe,295,Lexus LS,0,0.00%,-100.00%,1,0.00%,259,Europe
+Greece,EUCOM,Southern Europe,296,Mitsubishi Lancer,0,0.00%,-100.00%,1,0.00%,246,Europe
+Greece,EUCOM,Southern Europe,297,Opel Vivaro,0,0.00%,-100.00%,1,0.00%,234,Europe
+Greece,EUCOM,Southern Europe,298,Peugeot 107,0,0.00%,-100.00%,1,0.00%,253,Europe
+Greece,EUCOM,Southern Europe,299,Seat Alhambra,0,0.00%,-100.00%,1,0.00%,240,Europe
+Greece,EUCOM,Southern Europe,300,Seat Mii,0,0.00%,-100.00%,1,0.00%,232,Europe
+Greece,EUCOM,Southern Europe,301,Tesla Model S,0,0.00%,-100.00%,1,0.00%,260,Europe
+Greece,EUCOM,Southern Europe,302,Toyota iQ,0,0.00%,-100.00%,1,0.00%,243,Europe
+Greece,EUCOM,Southern Europe,303,Toyota Supra,0,0.00%,-100.00%,1,0.00%,261,Europe
+Greece,EUCOM,Southern Europe,304,VW Jetta,0,0.00%,-100.00%,1,0.00%,255,Europe

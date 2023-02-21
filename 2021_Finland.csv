@@ -1,0 +1,344 @@
+﻿Country,Command,Region,Position_2021,Model,Sales_2021,Percent_2021,Growth_2021,Sales_2020,Percent_2020,Position_2020,Continent
+Finland,EUCOM,Northern Europe,1,Toyota Corolla,"5,320",5.60%,-1.40%,"5,395",5.70%,1,Europe
+Finland,EUCOM,Northern Europe,2,Toyota Yaris,"3,704",3.90%,9.10%,"3,396",3.60%,3,Europe
+Finland,EUCOM,Northern Europe,3,Skoda Octavia,"3,676",3.80%,-5.60%,"3,896",4.10%,2,Europe
+Finland,EUCOM,Northern Europe,4,Toyota RAV4,"2,636",2.80%,37.70%,"1,914",2.00%,9,Europe
+Finland,EUCOM,Northern Europe,5,Volvo XC60,"2,294",2.40%,31.80%,"1,740",1.80%,10,Europe
+Finland,EUCOM,Northern Europe,6,Volvo XC40,"2,240",2.30%,10.90%,"2,019",2.10%,7,Europe
+Finland,EUCOM,Northern Europe,7,Nissan Qashqai,"2,105",2.20%,-28.60%,"2,947",3.10%,4,Europe
+Finland,EUCOM,Northern Europe,8,Kia Rio,"1,907",2.00%,20.50%,"1,582",1.70%,13,Europe
+Finland,EUCOM,Northern Europe,9,Volvo V60,"1,852",1.90%,-5.00%,"1,950",2.10%,8,Europe
+Finland,EUCOM,Northern Europe,10,VW Golf,"1,790",1.90%,-24.90%,"2,385",2.50%,5,Europe
+Finland,EUCOM,Northern Europe,11,Toyota C-HR,"1,739",1.80%,7.70%,"1,614",1.70%,12,Europe
+Finland,EUCOM,Northern Europe,12,Kia Ceed,"1,717",1.80%,19.40%,"1,438",1.50%,16,Europe
+Finland,EUCOM,Northern Europe,13,VW ID.4,"1,428",1.50%,new,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,14,BMW 3 Series,"1,392",1.50%,34.00%,"1,039",1.10%,24,Europe
+Finland,EUCOM,Northern Europe,15,VW Tiguan,"1,378",1.40%,162.50%,525,0.60%,60,Europe
+Finland,EUCOM,Northern Europe,16,Kia Stonic,"1,359",1.40%,34.60%,"1,010",1.10%,26,Europe
+Finland,EUCOM,Northern Europe,17,Ford Kuga,"1,352",1.40%,124.20%,603,0.60%,52,Europe
+Finland,EUCOM,Northern Europe,18,VW Polo,"1,204",1.30%,-27.60%,"1,662",1.80%,11,Europe
+Finland,EUCOM,Northern Europe,19,Ford Focus,"1,176",1.20%,-49.20%,"2,314",2.50%,6,Europe
+Finland,EUCOM,Northern Europe,20,Peugeot 2008,"1,123",1.20%,40.40%,800,0.80%,38,Europe
+Finland,EUCOM,Northern Europe,21,Tesla Model 3,"1,082",1.10%,37.50%,787,0.80%,39,Europe
+Finland,EUCOM,Northern Europe,22,Skoda Kamiq,"1,079",1.10%,-6.80%,"1,158",1.20%,19,Europe
+Finland,EUCOM,Northern Europe,23,Kia Niro,"1,046",1.10%,13.60%,921,1.00%,30,Europe
+Finland,EUCOM,Northern Europe,24,Mercedes GLC,"1,041",1.10%,-6.40%,"1,112",1.20%,22,Europe
+Finland,EUCOM,Northern Europe,25,Mercedes A Class,"1,015",1.10%,-11.90%,"1,152",1.20%,20,Europe
+Finland,EUCOM,Northern Europe,26,Citroen C3,993,1.00%,-4.20%,"1,037",1.10%,25,Europe
+Finland,EUCOM,Northern Europe,27,Ford Fiesta,940,1.00%,-38.40%,"1,525",1.60%,14,Europe
+Finland,EUCOM,Northern Europe,28,Seat Leon,931,1.00%,95.20%,477,0.50%,65,Europe
+Finland,EUCOM,Northern Europe,29,Hyundai i20,899,0.90%,16.90%,769,0.80%,40,Europe
+Finland,EUCOM,Northern Europe,30,Renault Captur,884,0.90%,-5.00%,931,1.00%,29,Europe
+Finland,EUCOM,Northern Europe,31,BMW 5 Series,876,0.90%,-16.80%,"1,053",1.10%,23,Europe
+Finland,EUCOM,Northern Europe,32,Mercedes E Class,868,0.90%,3.00%,843,0.90%,35,Europe
+Finland,EUCOM,Northern Europe,33,VW Passat,815,0.90%,-37.20%,"1,298",1.40%,17,Europe
+Finland,EUCOM,Northern Europe,34,VW T-Roc,807,0.80%,-30.60%,"1,163",1.20%,18,Europe
+Finland,EUCOM,Northern Europe,35,Skoda Enyaq,784,0.80%,new,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,36,Hyundai Kona,779,0.80%,11.60%,698,0.70%,46,Europe
+Finland,EUCOM,Northern Europe,37,Opel Astra,776,0.80%,-13.60%,898,1.00%,31,Europe
+Finland,EUCOM,Northern Europe,38,Peugeot 208,768,0.80%,7.60%,714,0.80%,44,Europe
+Finland,EUCOM,Northern Europe,39,Audi A4,763,0.80%,-23.60%,999,1.10%,27,Europe
+Finland,EUCOM,Northern Europe,40,Ford Puma,750,0.80%,-12.20%,854,0.90%,33,Europe
+Finland,EUCOM,Northern Europe,41,VW ID.3,746,0.80%,49.80%,498,0.50%,62,Europe
+Finland,EUCOM,Northern Europe,42,Skoda Superb,740,0.80%,-49.90%,"1,477",1.60%,15,Europe
+Finland,EUCOM,Northern Europe,43,Dacia Duster,732,0.80%,22.60%,597,0.60%,54,Europe
+Finland,EUCOM,Northern Europe,44,VW T-Cross,712,0.70%,-36.10%,"1,115",1.20%,21,Europe
+Finland,EUCOM,Northern Europe,45,Peugeot 3008,692,0.70%,59.80%,433,0.50%,68,Europe
+Finland,EUCOM,Northern Europe,46,Opel Corsa,678,0.70%,-19.30%,840,0.90%,36,Europe
+Finland,EUCOM,Northern Europe,47,Audi A3,655,0.70%,17.80%,556,0.60%,55,Europe
+Finland,EUCOM,Northern Europe,48,BMW X3,651,0.70%,69.10%,385,0.40%,70,Europe
+Finland,EUCOM,Northern Europe,49,Skoda Karoq,599,0.60%,-18.90%,739,0.80%,42,Europe
+Finland,EUCOM,Northern Europe,50,Skoda Kodiaq,593,0.60%,-20.90%,750,0.80%,41,Europe
+Finland,EUCOM,Northern Europe,51,BMW X5,582,0.60%,16.60%,499,0.50%,61,Europe
+Finland,EUCOM,Northern Europe,52,Skoda Fabia,579,0.60%,-7.20%,624,0.70%,49,Europe
+Finland,EUCOM,Northern Europe,53,Nissan Leaf,569,0.60%,171.00%,210,0.20%,99,Europe
+Finland,EUCOM,Northern Europe,54,Mercedes CLA,557,0.60%,-8.20%,607,0.60%,50,Europe
+Finland,EUCOM,Northern Europe,55,Hyundai Tucson,547,0.60%,203.90%,180,0.20%,106,Europe
+Finland,EUCOM,Northern Europe,56,Suzuki Vitara,533,0.60%,-25.70%,717,0.80%,43,Europe
+Finland,EUCOM,Northern Europe,57,Hyundai i30,525,0.50%,-35.50%,814,0.90%,37,Europe
+Finland,EUCOM,Northern Europe,58,BMW X1,514,0.50%,50.70%,341,0.40%,75,Europe
+Finland,EUCOM,Northern Europe,59,Renault Clio,509,0.50%,-40.40%,854,0.90%,34,Europe
+Finland,EUCOM,Northern Europe,60,Skoda Scala,483,0.50%,-45.90%,892,0.90%,32,Europe
+Finland,EUCOM,Northern Europe,61,Mitsubishi Outlander,469,0.50%,-25.40%,629,0.70%,48,Europe
+Finland,EUCOM,Northern Europe,62,Volvo S60,462,0.50%,-6.50%,494,0.50%,63,Europe
+Finland,EUCOM,Northern Europe,63,Mercedes GLE,457,0.50%,88.80%,242,0.30%,91,Europe
+Finland,EUCOM,Northern Europe,64,Kia Picanto,454,0.50%,34.70%,337,0.40%,77,Europe
+Finland,EUCOM,Northern Europe,65,Volvo V90,441,0.50%,-37.40%,705,0.70%,45,Europe
+Finland,EUCOM,Northern Europe,66,Tesla Model Y,434,0.50%,new,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,67,Audi A6,430,0.40%,-6.10%,458,0.50%,67,Europe
+Finland,EUCOM,Northern Europe,68,Audi Q5,414,0.40%,-11.50%,468,0.50%,66,Europe
+Finland,EUCOM,Northern Europe,69,Citroen C4,414,0.40%,new,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,70,Kia Xceed,412,0.40%,-22.30%,530,0.60%,59,Europe
+Finland,EUCOM,Northern Europe,71,Seat Mii,412,0.40%,49.30%,276,0.30%,86,Europe
+Finland,EUCOM,Northern Europe,72,Mazda CX-30,385,0.40%,3.20%,373,0.40%,72,Europe
+Finland,EUCOM,Northern Europe,73,Opel Crossland X,383,0.40%,-36.20%,600,0.60%,53,Europe
+Finland,EUCOM,Northern Europe,74,Ford Mustang Mach-E,381,0.40%,18950.00%,2,0.00%,264,Europe
+Finland,EUCOM,Northern Europe,75,Opel Mokka X,381,0.40%,18950.00%,2,0.00%,270,Europe
+Finland,EUCOM,Northern Europe,76,Kia Sorento,376,0.40%,182.70%,133,0.10%,122,Europe
+Finland,EUCOM,Northern Europe,77,Mitsubishi Eclipse Cross,375,0.40%,76.10%,213,0.20%,97,Europe
+Finland,EUCOM,Northern Europe,78,Citroen C5 Aircross,366,0.40%,-3.40%,379,0.40%,71,Europe
+Finland,EUCOM,Northern Europe,79,Toyota Camry,345,0.40%,-35.30%,533,0.60%,58,Europe
+Finland,EUCOM,Northern Europe,80,Nissan Juke,337,0.40%,-12.90%,387,0.40%,69,Europe
+Finland,EUCOM,Northern Europe,81,Opel Insignia,333,0.30%,-47.60%,635,0.70%,47,Europe
+Finland,EUCOM,Northern Europe,82,Mazda3,333,0.30%,-6.50%,356,0.40%,74,Europe
+Finland,EUCOM,Northern Europe,83,Hyundai Ioniq,330,0.30%,-39.10%,542,0.60%,57,Europe
+Finland,EUCOM,Northern Europe,84,Kia Proceed,325,0.30%,14.00%,285,0.30%,82,Europe
+Finland,EUCOM,Northern Europe,85,Audi Q3,319,0.30%,44.30%,221,0.20%,94,Europe
+Finland,EUCOM,Northern Europe,86,Volvo XC90,316,0.30%,-5.70%,335,0.40%,78,Europe
+Finland,EUCOM,Northern Europe,87,Mercedes C Class,308,0.30%,-68.00%,961,1.00%,28,Europe
+Finland,EUCOM,Northern Europe,88,Mercedes GLA,306,0.30%,225.50%,94,0.10%,136,Europe
+Finland,EUCOM,Northern Europe,89,VW Caddy,305,0.30%,1.70%,300,0.30%,80,Europe
+Finland,EUCOM,Northern Europe,90,Opel Grandland X,300,0.30%,-45.30%,548,0.60%,56,Europe
+Finland,EUCOM,Northern Europe,91,Fiat 500,294,0.30%,203.10%,97,0.10%,134,Europe
+Finland,EUCOM,Northern Europe,92,Kia Sportage,290,0.30%,-12.90%,333,0.40%,79,Europe
+Finland,EUCOM,Northern Europe,93,Suzuki Swace,283,0.30%,1186.40%,22,0.00%,189,Europe
+Finland,EUCOM,Northern Europe,94,Mercedes GLB,262,0.30%,208.20%,85,0.10%,143,Europe
+Finland,EUCOM,Northern Europe,95,VW Arteon,259,0.30%,223.80%,80,0.10%,146,Europe
+Finland,EUCOM,Northern Europe,96,Ford Mondeo,257,0.30%,-24.60%,341,0.40%,76,Europe
+Finland,EUCOM,Northern Europe,97,Audi Q4,249,0.30%,new,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,98,BMW 1 Series,248,0.30%,-49.40%,490,0.50%,64,Europe
+Finland,EUCOM,Northern Europe,99,VW Up,237,0.20%,-33.60%,357,0.40%,73,Europe
+Finland,EUCOM,Northern Europe,100,Dacia Sandero,236,0.20%,118.50%,108,0.10%,129,Europe
+Finland,EUCOM,Northern Europe,101,Mercedes Sprinter,230,0.20%,-17.00%,277,0.30%,85,Europe
+Finland,EUCOM,Northern Europe,102,Subaru Outback,223,0.20%,12.10%,199,0.20%,103,Europe
+Finland,EUCOM,Northern Europe,103,Cupra Formentor,218,0.20%,1047.40%,19,0.00%,193,Europe
+Finland,EUCOM,Northern Europe,104,Peugeot 5008,213,0.20%,4.40%,204,0.20%,101,Europe
+Finland,EUCOM,Northern Europe,105,Suzuki Swift,211,0.20%,28.70%,164,0.20%,113,Europe
+Finland,EUCOM,Northern Europe,106,Hyundai Ioniq 5,211,0.20%,new,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,107,Audi e-tron,207,0.20%,76.90%,117,0.10%,126,Europe
+Finland,EUCOM,Northern Europe,108,Polestar 2,201,0.20%,20000.00%,1,0.00%,299,Europe
+Finland,EUCOM,Northern Europe,109,Mitsubishi ASX,194,0.20%,-68.00%,606,0.60%,51,Europe
+Finland,EUCOM,Northern Europe,110,Renault Megane,184,0.20%,-4.70%,193,0.20%,104,Europe
+Finland,EUCOM,Northern Europe,111,Nissan Micra,175,0.20%,-16.70%,210,0.20%,100,Europe
+Finland,EUCOM,Northern Europe,112,Audi Q7,167,0.20%,-5.60%,177,0.20%,109,Europe
+Finland,EUCOM,Northern Europe,113,Seat Tarraco,167,0.20%,50.50%,111,0.10%,128,Europe
+Finland,EUCOM,Northern Europe,114,Citroen C3 Aircross,166,0.20%,8.50%,153,0.20%,118,Europe
+Finland,EUCOM,Northern Europe,115,Mini Countryman,166,0.20%,9.20%,152,0.20%,119,Europe
+Finland,EUCOM,Northern Europe,116,VW Transporter,158,0.20%,-43.80%,281,0.30%,84,Europe
+Finland,EUCOM,Northern Europe,117,Mercedes B Class,156,0.20%,5.40%,148,0.20%,120,Europe
+Finland,EUCOM,Northern Europe,118,Audi A5,156,0.20%,57.60%,99,0.10%,132,Europe
+Finland,EUCOM,Northern Europe,119,Ford Explorer,153,0.20%,313.50%,37,0.00%,171,Europe
+Finland,EUCOM,Northern Europe,120,BMW 2 Series,152,0.20%,-47.60%,290,0.30%,81,Europe
+Finland,EUCOM,Northern Europe,121,Porsche Cayenne,149,0.20%,-10.20%,166,0.20%,112,Europe
+Finland,EUCOM,Northern Europe,122,Volvo S90,148,0.20%,-29.90%,211,0.20%,98,Europe
+Finland,EUCOM,Northern Europe,123,Hyundai i10,145,0.20%,29.50%,112,0.10%,127,Europe
+Finland,EUCOM,Northern Europe,124,Seat Ateca,144,0.20%,-28.40%,201,0.20%,102,Europe
+Finland,EUCOM,Northern Europe,125,Mercedes EQC,137,0.10%,47.30%,93,0.10%,137,Europe
+Finland,EUCOM,Northern Europe,126,Mini Cooper,136,0.10%,47.80%,92,0.10%,138,Europe
+Finland,EUCOM,Northern Europe,127,Seat Arona,133,0.10%,-52.80%,282,0.30%,83,Europe
+Finland,EUCOM,Northern Europe,128,Renault Kadjar,133,0.10%,-26.10%,180,0.20%,107,Europe
+Finland,EUCOM,Northern Europe,129,Toyota Proace Verso,133,0.10%,12.70%,118,0.10%,125,Europe
+Finland,EUCOM,Northern Europe,130,Porsche Taycan,128,0.10%,25.50%,102,0.10%,130,Europe
+Finland,EUCOM,Northern Europe,131,Toyota Aygo,124,0.10%,45.90%,85,0.10%,144,Europe
+Finland,EUCOM,Northern Europe,132,Audi Q2,121,0.10%,-20.90%,153,0.20%,117,Europe
+Finland,EUCOM,Northern Europe,133,Land Rover Discovery,121,0.10%,1412.50%,8,0.00%,223,Europe
+Finland,EUCOM,Northern Europe,134,VW Touran,114,0.10%,-32.10%,168,0.20%,111,Europe
+Finland,EUCOM,Northern Europe,135,Toyota Yaris Cross,113,0.10%,new,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,136,Audi Q8,110,0.10%,1000.00%,10,0.00%,216,Europe
+Finland,EUCOM,Northern Europe,137,BMW IX3,101,0.10%,new,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,138,Lexus UX,100,0.10%,5.30%,95,0.10%,135,Europe
+Finland,EUCOM,Northern Europe,139,Citroen Berlingo,99,0.10%,-36.50%,156,0.20%,116,Europe
+Finland,EUCOM,Northern Europe,140,Mercedes Vito,95,0.10%,-46.90%,179,0.20%,108,Europe
+Finland,EUCOM,Northern Europe,141,Honda Jazz,94,0.10%,5.60%,89,0.10%,139,Europe
+Finland,EUCOM,Northern Europe,142,Audi A1,92,0.10%,-8.00%,100,0.10%,131,Europe
+Finland,EUCOM,Northern Europe,143,Peugeot 308,91,0.10%,-61.60%,237,0.30%,92,Europe
+Finland,EUCOM,Northern Europe,144,Mazda CX-5,91,0.10%,31.90%,69,0.10%,151,Europe
+Finland,EUCOM,Northern Europe,145,Mercedes EQA,88,0.10%,new,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,146,Seat Ibiza,87,0.10%,-68.40%,275,0.30%,87,Europe
+Finland,EUCOM,Northern Europe,147,Honda Civic,86,0.10%,-60.20%,216,0.20%,96,Europe
+Finland,EUCOM,Northern Europe,148,Honda CR-V,85,0.10%,-61.00%,218,0.20%,95,Europe
+Finland,EUCOM,Northern Europe,149,Renault Zoe,84,0.10%,-40.80%,142,0.20%,121,Europe
+Finland,EUCOM,Northern Europe,150,DS 7 Crossback,81,0.10%,55.80%,52,0.10%,161,Europe
+Finland,EUCOM,Northern Europe,151,Hyundai Bayon,80,0.10%,new,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,152,Mazda CX-3,77,0.10%,2466.70%,3,0.00%,253,Europe
+Finland,EUCOM,Northern Europe,153,Toyota GR Yaris,77,0.10%,2466.70%,3,0.00%,258,Europe
+Finland,EUCOM,Northern Europe,154,Lexus NX,76,0.10%,22.60%,62,0.10%,154,Europe
+Finland,EUCOM,Northern Europe,155,Mazda6,73,0.10%,30.40%,56,0.10%,159,Europe
+Finland,EUCOM,Northern Europe,156,Renault Arkana,71,0.10%,new,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,157,Subaru Forester,70,0.10%,-59.10%,171,0.20%,110,Europe
+Finland,EUCOM,Northern Europe,158,Toyota Proace City Verso,69,0.10%,1.50%,68,0.10%,152,Europe
+Finland,EUCOM,Northern Europe,159,Jeep Compass,69,0.10%,666.70%,9,0.00%,220,Europe
+Finland,EUCOM,Northern Europe,160,Kia EV6,68,0.10%,new,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,161,Nissan X-Trail,64,0.10%,-59.20%,157,0.20%,115,Europe
+Finland,EUCOM,Northern Europe,162,Range Rover Evoque,63,0.10%,103.20%,31,0.00%,178,Europe
+Finland,EUCOM,Northern Europe,163,BMW 4 Series,62,0.10%,77.10%,35,0.00%,173,Europe
+Finland,EUCOM,Northern Europe,164,Land Rover Defender,60,0.10%,275.00%,16,0.00%,205,Europe
+Finland,EUCOM,Northern Europe,165,Suzuki Across,59,0.10%,55.30%,38,0.00%,170,Europe
+Finland,EUCOM,Northern Europe,166,Lexus ES,58,0.10%,-4.90%,61,0.10%,155,Europe
+Finland,EUCOM,Northern Europe,167,Mazda MX-30,58,0.10%,123.10%,26,0.00%,184,Europe
+Finland,EUCOM,Northern Europe,168,Mitsubishi Space Star,56,0.10%,-54.10%,122,0.10%,123,Europe
+Finland,EUCOM,Northern Europe,169,Peugeot 508,55,0.10%,-71.20%,191,0.20%,105,Europe
+Finland,EUCOM,Northern Europe,170,Cupra Born,54,0.10%,new,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,171,VW Crafter,53,0.10%,-31.20%,77,0.10%,149,Europe
+Finland,EUCOM,Northern Europe,172,BMW X2,51,0.10%,15.90%,44,0.00%,165,Europe
+Finland,EUCOM,Northern Europe,173,Jeep Renegade,50,0.10%,92.30%,26,0.00%,183,Europe
+Finland,EUCOM,Northern Europe,174,Range Rover Sport,49,0.10%,-44.30%,88,0.10%,140,Europe
+Finland,EUCOM,Northern Europe,175,Opel Combo Life,49,0.10%,-38.00%,79,0.10%,147,Europe
+Finland,EUCOM,Northern Europe,176,Ford S-Max,49,0.10%,-31.00%,71,0.10%,150,Europe
+Finland,EUCOM,Northern Europe,177,Cupra Leon,49,0.10%,new,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,178,Dacia Lodgy,46,0.00%,43.80%,32,0.00%,176,Europe
+Finland,EUCOM,Northern Europe,179,VW Touareg,45,0.00%,125.00%,20,0.00%,191,Europe
+Finland,EUCOM,Northern Europe,180,BMW X4,44,0.00%,15.80%,38,0.00%,169,Europe
+Finland,EUCOM,Northern Europe,181,Hyundai Santa Fe,44,0.00%,238.50%,13,0.00%,212,Europe
+Finland,EUCOM,Northern Europe,182,Ford Tourneo Connect,41,0.00%,-46.80%,77,0.10%,148,Europe
+Finland,EUCOM,Northern Europe,183,Subaru XV,41,0.00%,2.50%,40,0.00%,168,Europe
+Finland,EUCOM,Northern Europe,184,Mazda2,40,0.00%,-31.00%,58,0.10%,158,Europe
+Finland,EUCOM,Northern Europe,185,Fiat Tipo,40,0.00%,1900.00%,2,0.00%,263,Europe
+Finland,EUCOM,Northern Europe,186,BMW IX,39,0.00%,new,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,187,Kia Optima,37,0.00%,-85.50%,256,0.30%,88,Europe
+Finland,EUCOM,Northern Europe,188,Opel Zafira Tourer,37,0.00%,825.00%,4,0.00%,249,Europe
+Finland,EUCOM,Northern Europe,189,Peugeot Expert,37,0.00%,1750.00%,2,0.00%,273,Europe
+Finland,EUCOM,Northern Europe,190,Audi A7,36,0.00%,-32.10%,53,0.10%,160,Europe
+Finland,EUCOM,Northern Europe,191,Mini Clubman,36,0.00%,-18.20%,44,0.00%,166,Europe
+Finland,EUCOM,Northern Europe,192,Fiat 500X,36,0.00%,50.00%,24,0.00%,186,Europe
+Finland,EUCOM,Northern Europe,193,BMW i3,35,0.00%,16.70%,30,0.00%,180,Europe
+Finland,EUCOM,Northern Europe,194,Porsche Panamera,34,0.00%,78.90%,19,0.00%,196,Europe
+Finland,EUCOM,Northern Europe,195,Mercedes S Class,32,0.00%,300.00%,8,0.00%,224,Europe
+Finland,EUCOM,Northern Europe,196,Ford Transit,31,0.00%,-36.70%,49,0.10%,162,Europe
+Finland,EUCOM,Northern Europe,197,Toyota Prius,31,0.00%,10.70%,28,0.00%,182,Europe
+Finland,EUCOM,Northern Europe,198,Mercedes GLS,30,0.00%,15.40%,26,0.00%,185,Europe
+Finland,EUCOM,Northern Europe,199,MAN TGE,30,0.00%,150.00%,12,0.00%,213,Europe
+Finland,EUCOM,Northern Europe,200,Volvo C40,30,0.00%,new,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,201,Suzuki Ignis,29,0.00%,-38.30%,47,0.00%,164,Europe
+Finland,EUCOM,Northern Europe,202,Ford Mustang,27,0.00%,-15.60%,32,0.00%,177,Europe
+Finland,EUCOM,Northern Europe,203,Alfa Romeo Stelvio,26,0.00%,52.90%,17,0.00%,198,Europe
+Finland,EUCOM,Northern Europe,204,Toyota Land Cruiser,25,0.00%,127.30%,11,0.00%,215,Europe
+Finland,EUCOM,Northern Europe,205,Citroen Jumpy,25,0.00%,177.80%,9,0.00%,219,Europe
+Finland,EUCOM,Northern Europe,206,Audi S3,25,0.00%,212.50%,8,0.00%,221,Europe
+Finland,EUCOM,Northern Europe,207,Ford Tourneo Custom,24,0.00%,-27.30%,33,0.00%,174,Europe
+Finland,EUCOM,Northern Europe,208,Jaguar F-Pace,24,0.00%,71.40%,14,0.00%,210,Europe
+Finland,EUCOM,Northern Europe,209,Maxus Euniq,24,0.00%,new,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,210,Mercedes EQS,23,0.00%,new,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,211,Range Rover Velar,22,0.00%,266.70%,6,0.00%,235,Europe
+Finland,EUCOM,Northern Europe,212,VW Taigo,22,0.00%,new,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,213,Skoda Citigo,21,0.00%,-86.90%,160,0.20%,114,Europe
+Finland,EUCOM,Northern Europe,214,Peugeot Rifter,21,0.00%,-57.10%,49,0.10%,163,Europe
+Finland,EUCOM,Northern Europe,215,Alfa Romeo Giulia,21,0.00%,0.00%,21,0.00%,190,Europe
+Finland,EUCOM,Northern Europe,216,Ssangyong Korando,20,0.00%,-66.10%,59,0.10%,157,Europe
+Finland,EUCOM,Northern Europe,217,Mercedes V Class,17,0.00%,-57.50%,40,0.00%,167,Europe
+Finland,EUCOM,Northern Europe,218,BMW 6 Series,17,0.00%,-43.30%,30,0.00%,179,Europe
+Finland,EUCOM,Northern Europe,219,Lexus RX,17,0.00%,-10.50%,19,0.00%,195,Europe
+Finland,EUCOM,Northern Europe,220,DS 3 Crossback,17,0.00%,6.30%,16,0.00%,204,Europe
+Finland,EUCOM,Northern Europe,221,Kia Soul,16,0.00%,-5.90%,17,0.00%,201,Europe
+Finland,EUCOM,Northern Europe,222,Citroen C4 Spacetourer,16,0.00%,0.00%,16,0.00%,203,Europe
+Finland,EUCOM,Northern Europe,223,Range Rover,15,0.00%,-34.80%,23,0.00%,188,Europe
+Finland,EUCOM,Northern Europe,224,Ford Transit Custom,15,0.00%,-11.80%,17,0.00%,199,Europe
+Finland,EUCOM,Northern Europe,225,BMW X6,15,0.00%,0.00%,15,0.00%,209,Europe
+Finland,EUCOM,Northern Europe,226,Honda HR-V,14,0.00%,-83.70%,86,0.10%,141,Europe
+Finland,EUCOM,Northern Europe,227,Jaguar i-Pace,14,0.00%,-76.30%,59,0.10%,156,Europe
+Finland,EUCOM,Northern Europe,228,Renault Trafic,13,0.00%,-18.80%,16,0.00%,207,Europe
+Finland,EUCOM,Northern Europe,229,BMW M3,13,0.00%,n/a,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,230,Bentley Bentayga,12,0.00%,-36.80%,19,0.00%,192,Europe
+Finland,EUCOM,Northern Europe,231,Porsche 911,12,0.00%,-25.00%,16,0.00%,206,Europe
+Finland,EUCOM,Northern Europe,232,BMW X7,11,0.00%,10.00%,10,0.00%,217,Europe
+Finland,EUCOM,Northern Europe,233,Busconcept Sprinter,11,0.00%,175.00%,4,0.00%,246,Europe
+Finland,EUCOM,Northern Europe,234,Kia Stinger,10,0.00%,-41.20%,17,0.00%,202,Europe
+Finland,EUCOM,Northern Europe,235,Audi A8,10,0.00%,-33.30%,15,0.00%,208,Europe
+Finland,EUCOM,Northern Europe,236,Jeep Wrangler,10,0.00%,900.00%,1,0.00%,289,Europe
+Finland,EUCOM,Northern Europe,237,Mercedes AMG GT,9,0.00%,200.00%,3,0.00%,254,Europe
+Finland,EUCOM,Northern Europe,238,Toyota Supra,7,0.00%,-30.00%,10,0.00%,218,Europe
+Finland,EUCOM,Northern Europe,239,Mazda MX-5,7,0.00%,0.00%,7,0.00%,227,Europe
+Finland,EUCOM,Northern Europe,240,BMW M4,7,0.00%,n/a,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,241,Jaguar E-Pace,6,0.00%,-25.00%,8,0.00%,222,Europe
+Finland,EUCOM,Northern Europe,242,Mercedes EQV,5,0.00%,-64.30%,14,0.00%,211,Europe
+Finland,EUCOM,Northern Europe,243,Peugeot Traveller,5,0.00%,-37.50%,8,0.00%,225,Europe
+Finland,EUCOM,Northern Europe,244,Jaguar XE,5,0.00%,-16.70%,6,0.00%,233,Europe
+Finland,EUCOM,Northern Europe,245,Nissan NV200,5,0.00%,-16.70%,6,0.00%,234,Europe
+Finland,EUCOM,Northern Europe,246,Mercedes Citan,5,0.00%,25.00%,4,0.00%,248,Europe
+Finland,EUCOM,Northern Europe,247,Mercedes G Class,5,0.00%,66.70%,3,0.00%,255,Europe
+Finland,EUCOM,Northern Europe,248,Ferrari SF90,5,0.00%,new,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,249,Toyota Prius+,4,0.00%,-95.20%,83,0.10%,145,Europe
+Finland,EUCOM,Northern Europe,250,BMW 7 Series,4,0.00%,-82.60%,23,0.00%,187,Europe
+Finland,EUCOM,Northern Europe,251,Mini Cabrio,4,0.00%,-20.00%,5,0.00%,240,Europe
+Finland,EUCOM,Northern Europe,252,Audi S4,4,0.00%,100.00%,2,0.00%,260,Europe
+Finland,EUCOM,Northern Europe,253,Ferrari F8,4,0.00%,300.00%,1,0.00%,286,Europe
+Finland,EUCOM,Northern Europe,254,Suzuki SX4,3,0.00%,-83.30%,18,0.00%,197,Europe
+Finland,EUCOM,Northern Europe,255,BMW 8 Series,3,0.00%,-57.10%,7,0.00%,226,Europe
+Finland,EUCOM,Northern Europe,256,Porsche Macan,3,0.00%,-57.10%,7,0.00%,228,Europe
+Finland,EUCOM,Northern Europe,257,Audi RS6,3,0.00%,-50.00%,6,0.00%,230,Europe
+Finland,EUCOM,Northern Europe,258,Audi RSQ8,3,0.00%,50.00%,2,0.00%,259,Europe
+Finland,EUCOM,Northern Europe,259,Porsche Cayman,3,0.00%,200.00%,1,0.00%,300,Europe
+Finland,EUCOM,Northern Europe,260,Ferrari Roma,3,0.00%,new,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,261,Polestar 1,3,0.00%,new,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,262,Porsche 718,3,0.00%,n/a,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,263,Dacia Logan,2,0.00%,-98.00%,98,0.10%,133,Europe
+Finland,EUCOM,Northern Europe,264,BMW Z4,2,0.00%,-81.80%,11,0.00%,214,Europe
+Finland,EUCOM,Northern Europe,265,Renault Master,2,0.00%,-60.00%,5,0.00%,241,Europe
+Finland,EUCOM,Northern Europe,266,BMW M5,2,0.00%,100.00%,1,0.00%,279,Europe
+Finland,EUCOM,Northern Europe,267,Ferrari 812,2,0.00%,100.00%,1,0.00%,285,Europe
+Finland,EUCOM,Northern Europe,268,Lamborghini Urus,2,0.00%,100.00%,1,0.00%,292,Europe
+Finland,EUCOM,Northern Europe,269,Busconcept Transit,2,0.00%,new,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,270,Citroen DS4,2,0.00%,new,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,271,Mercedes EQB,2,0.00%,new,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,272,Nissan NV400,2,0.00%,n/a,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,273,VW Amarok,2,0.00%,n/a,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,274,Mercedes CLS,1,0.00%,-97.00%,33,0.00%,175,Europe
+Finland,EUCOM,Northern Europe,275,Audi S6,1,0.00%,-83.30%,6,0.00%,231,Europe
+Finland,EUCOM,Northern Europe,276,Toyota Proace,1,0.00%,-80.00%,5,0.00%,243,Europe
+Finland,EUCOM,Northern Europe,277,Audi RS3,1,0.00%,-75.00%,4,0.00%,244,Europe
+Finland,EUCOM,Northern Europe,278,VW Multivan,1,0.00%,-75.00%,4,0.00%,250,Europe
+Finland,EUCOM,Northern Europe,279,Audi SQ8,1,0.00%,-66.70%,3,0.00%,251,Europe
+Finland,EUCOM,Northern Europe,280,Porsche Boxster,1,0.00%,-50.00%,2,0.00%,274,Europe
+Finland,EUCOM,Northern Europe,281,Sprintcar Sprinter,1,0.00%,-50.00%,2,0.00%,275,Europe
+Finland,EUCOM,Northern Europe,282,Cuby Sprinter,1,0.00%,0.00%,1,0.00%,283,Europe
+Finland,EUCOM,Northern Europe,283,Lamborghini Huracan,1,0.00%,0.00%,1,0.00%,291,Europe
+Finland,EUCOM,Northern Europe,284,Smart Fortwo,1,0.00%,0.00%,1,0.00%,302,Europe
+Finland,EUCOM,Northern Europe,285,Alpine A110,1,0.00%,new,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,286,Audi RS5,1,0.00%,n/a,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,287,Bentley Continental GT,1,0.00%,n/a,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,288,Bentley Flying Spur,1,0.00%,n/a,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,289,Fiat Talento,1,0.00%,n/a,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,290,Ford Expedition,1,0.00%,n/a,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,291,Hyundai Nexo,1,0.00%,new,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,292,Lotus Exige,1,0.00%,n/a,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,293,Saab 9-3,1,0.00%,n/a,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,294,Toyota Highlander,1,0.00%,new,0,0.00%, –,Europe
+Finland,EUCOM,Northern Europe,295,VW Golf Sportsvan,0,0.00%,-100.00%,244,0.30%,89,Europe
+Finland,EUCOM,Northern Europe,296,Citroen C4 Cactus,0,0.00%,-100.00%,243,0.30%,90,Europe
+Finland,EUCOM,Northern Europe,297,Volvo V40,0,0.00%,-100.00%,229,0.20%,93,Europe
+Finland,EUCOM,Northern Europe,298,Tesla Model S,0,0.00%,-100.00%,119,0.10%,124,Europe
+Finland,EUCOM,Northern Europe,299,Tesla Model X,0,0.00%,-100.00%,86,0.10%,142,Europe
+Finland,EUCOM,Northern Europe,300,Suzuki Jimny,0,0.00%,-100.00%,65,0.10%,153,Europe
+Finland,EUCOM,Northern Europe,301,Land Rover Discovery Sport,0,0.00%,-100.00%,36,0.00%,172,Europe
+Finland,EUCOM,Northern Europe,302,Lexus IS,0,0.00%,-100.00%,28,0.00%,181,Europe
+Finland,EUCOM,Northern Europe,303,Lexus CT,0,0.00%,-100.00%,19,0.00%,194,Europe
+Finland,EUCOM,Northern Europe,304,Honda E,0,0.00%,-100.00%,17,0.00%,200,Europe
+Finland,EUCOM,Northern Europe,305,Audi SQ2,0,0.00%,-100.00%,6,0.00%,232,Europe
+Finland,EUCOM,Northern Europe,306,Seat Alhambra,0,0.00%,-100.00%,6,0.00%,236,Europe
+Finland,EUCOM,Northern Europe,307,VW Sharan,0,0.00%,-100.00%,6,0.00%,237,Europe
+Finland,EUCOM,Northern Europe,308,Audi RS6,0,0.00%,-100.00%,6,0.00%,229,Europe
+Finland,EUCOM,Northern Europe,309,Lexus RC,0,0.00%,-100.00%,5,0.00%,239,Europe
+Finland,EUCOM,Northern Europe,310,BMW 2 Series Gran Tourer,0,0.00%,-100.00%,5,0.00%,238,Europe
+Finland,EUCOM,Northern Europe,311,Smart Forfour,0,0.00%,-100.00%,5,0.00%,242,Europe
+Finland,EUCOM,Northern Europe,312,BMW M2,0,0.00%,-100.00%,4,0.00%,245,Europe
+Finland,EUCOM,Northern Europe,313,Citroen C1,0,0.00%,-100.00%,4,0.00%,247,Europe
+Finland,EUCOM,Northern Europe,314,Audi TT,0,0.00%,-100.00%,3,0.00%,252,Europe
+Finland,EUCOM,Northern Europe,315,Peugeot 108,0,0.00%,-100.00%,3,0.00%,256,Europe
+Finland,EUCOM,Northern Europe,316,Renault Talisman,0,0.00%,-100.00%,3,0.00%,257,Europe
+Finland,EUCOM,Northern Europe,317,Jaguar F-Type,0,0.00%,-100.00%,2,0.00%,265,Europe
+Finland,EUCOM,Northern Europe,318,Maserati Ghibli,0,0.00%,-100.00%,2,0.00%,266,Europe
+Finland,EUCOM,Northern Europe,319,BMW 2 Series Active Tourer,0,0.00%,-100.00%,2,0.00%,261,Europe
+Finland,EUCOM,Northern Europe,320,Citroen Jumpy Spacetourer,0,0.00%,-100.00%,2,0.00%,262,Europe
+Finland,EUCOM,Northern Europe,321,Mercedes AMG A,0,0.00%,-100.00%,2,0.00%,267,Europe
+Finland,EUCOM,Northern Europe,322,Mercedes AMG C,0,0.00%,-100.00%,2,0.00%,268,Europe
+Finland,EUCOM,Northern Europe,323,Mercedes AMG E,0,0.00%,-100.00%,2,0.00%,269,Europe
+Finland,EUCOM,Northern Europe,324,Opel Movano,0,0.00%,-100.00%,2,0.00%,271,Europe
+Finland,EUCOM,Northern Europe,325,Opel Vivaro,0,0.00%,-100.00%,2,0.00%,272,Europe
+Finland,EUCOM,Northern Europe,326,Ssangyong Rexton,0,0.00%,-100.00%,2,0.00%,276,Europe
+Finland,EUCOM,Northern Europe,327,Toyota GT86,0,0.00%,-100.00%,2,0.00%,277,Europe
+Finland,EUCOM,Northern Europe,328,Cadillac CT6,0,0.00%,-100.00%,1,0.00%,281,Europe
+Finland,EUCOM,Northern Europe,329,Citroen C4 Picasso,0,0.00%,-100.00%,1,0.00%,282,Europe
+Finland,EUCOM,Northern Europe,330,Cupra Ateca,0,0.00%,-100.00%,1,0.00%,284,Europe
+Finland,EUCOM,Northern Europe,331,Ferrari Portofino,0,0.00%,-100.00%,1,0.00%,287,Europe
+Finland,EUCOM,Northern Europe,332,Indusauto E220D,0,0.00%,-100.00%,1,0.00%,288,Europe
+Finland,EUCOM,Northern Europe,333,Lada 4×4/Niva,0,0.00%,-100.00%,1,0.00%,290,Europe
+Finland,EUCOM,Northern Europe,334,Mercedes SLC,0,0.00%,-100.00%,1,0.00%,296,Europe
+Finland,EUCOM,Northern Europe,335,Mitsubishi L200,0,0.00%,-100.00%,1,0.00%,297,Europe
+Finland,EUCOM,Northern Europe,336,Peugeot Boxer,0,0.00%,-100.00%,1,0.00%,298,Europe
+Finland,EUCOM,Northern Europe,337,Renault Scenic,0,0.00%,-100.00%,1,0.00%,301,Europe
+Finland,EUCOM,Northern Europe,338,Toyota Avensis,0,0.00%,-100.00%,1,0.00%,303,Europe
+Finland,EUCOM,Northern Europe,339,BMW i8,0,0.00%,-100.00%,1,0.00%,278,Europe
+Finland,EUCOM,Northern Europe,340,BMW M8,0,0.00%,-100.00%,1,0.00%,280,Europe
+Finland,EUCOM,Northern Europe,341,Mercedes AMG CLA,0,0.00%,-100.00%,1,0.00%,293,Europe
+Finland,EUCOM,Northern Europe,342,Mercedes AMG G,0,0.00%,-100.00%,1,0.00%,294,Europe
+Finland,EUCOM,Northern Europe,343,Mercedes AMG GLC,0,0.00%,-100.00%,1,0.00%,295,Europe

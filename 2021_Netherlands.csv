@@ -1,0 +1,354 @@
+﻿Country,Command,Region,Position_2021,Model,Sales_2021,Percent_2021,Growth_2021,Sales_2020,Percent_2020,Position_2020,Continent
+Netherlands,EUCOM,Western Europe,1,Kia Niro,"10,812",3.30%,-9.00%,"11,884",3.30%,1,Europe
+Netherlands,EUCOM,Western Europe,2,Volvo XC40,"8,448",2.60%,-0.30%,"8,473",2.40%,5,Europe
+Netherlands,EUCOM,Western Europe,3,VW Polo,"8,009",2.50%,-10.70%,"8,973",2.50%,4,Europe
+Netherlands,EUCOM,Western Europe,4,Kia Picanto,"7,929",2.50%,20.10%,"6,604",1.90%,12,Europe
+Netherlands,EUCOM,Western Europe,5,Skoda Enyaq,"6,621",2.10%,new,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,6,Toyota Yaris,"6,457",2.00%,0.30%,"6,438",1.80%,13,Europe
+Netherlands,EUCOM,Western Europe,7,Peugeot 208,"6,011",1.90%,-12.90%,"6,904",1.90%,10,Europe
+Netherlands,EUCOM,Western Europe,8,Opel Corsa,"5,934",1.80%,-29.90%,"8,471",2.40%,6,Europe
+Netherlands,EUCOM,Western Europe,9,Toyota Aygo,"5,919",1.80%,-6.00%,"6,295",1.80%,15,Europe
+Netherlands,EUCOM,Western Europe,10,Peugeot 2008,"5,136",1.60%,12.00%,"4,586",1.30%,19,Europe
+Netherlands,EUCOM,Western Europe,11,Renault Captur,"5,131",1.60%,-9.10%,"5,646",1.60%,16,Europe
+Netherlands,EUCOM,Western Europe,12,Ford Focus,"4,924",1.50%,-36.60%,"7,769",2.20%,8,Europe
+Netherlands,EUCOM,Western Europe,13,Renault Clio,"4,587",1.40%,-37.30%,"7,321",2.10%,9,Europe
+Netherlands,EUCOM,Western Europe,14,Toyota Corolla,"4,303",1.30%,-11.20%,"4,846",1.40%,18,Europe
+Netherlands,EUCOM,Western Europe,15,Skoda Octavia,"4,297",1.30%,8.30%,"3,966",1.10%,21,Europe
+Netherlands,EUCOM,Western Europe,16,VW ID.4,"4,215",1.30%,79.90%,"2,343",0.70%,46,Europe
+Netherlands,EUCOM,Western Europe,17,Ford Mustang Mach-E,"4,142",1.30%,new,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,18,Peugeot 108,"4,064",1.30%,-23.20%,"5,291",1.50%,17,Europe
+Netherlands,EUCOM,Western Europe,19,VW T-Roc,"3,942",1.20%,7.30%,"3,674",1.00%,26,Europe
+Netherlands,EUCOM,Western Europe,20,Mini,"3,900",1.20%,-13.90%,"4,527",1.30%,20,Europe
+Netherlands,EUCOM,Western Europe,21,BMW X3,"3,676",1.10%,275.50%,979,0.30%,96,Europe
+Netherlands,EUCOM,Western Europe,22,VW Golf,"3,560",1.10%,-44.10%,"6,371",1.80%,14,Europe
+Netherlands,EUCOM,Western Europe,23,Fiat 500,"3,485",1.10%,-10.10%,"3,876",1.10%,22,Europe
+Netherlands,EUCOM,Western Europe,24,Lynk & Co 01,"3,297",1.00%,new,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,25,Volvo V60,"3,266",1.00%,1.70%,"3,211",0.90%,33,Europe
+Netherlands,EUCOM,Western Europe,26,Ford Fiesta,"3,208",1.00%,-51.80%,"6,654",1.90%,11,Europe
+Netherlands,EUCOM,Western Europe,27,Citroen C1,"3,208",1.00%,-11.60%,"3,628",1.00%,28,Europe
+Netherlands,EUCOM,Western Europe,28,BMW 3-Series,"3,149",1.00%,-13.50%,"3,639",1.00%,27,Europe
+Netherlands,EUCOM,Western Europe,29,Kia Stonic,"3,116",1.00%,29.90%,"2,398",0.70%,44,Europe
+Netherlands,EUCOM,Western Europe,30,Audi A3,"3,044",0.90%,23.30%,"2,468",0.70%,42,Europe
+Netherlands,EUCOM,Western Europe,31,VW Up!,"2,945",0.90%,-20.40%,"3,699",1.00%,25,Europe
+Netherlands,EUCOM,Western Europe,32,Kia Ceed,"2,928",0.90%,29.60%,"2,259",0.60%,48,Europe
+Netherlands,EUCOM,Western Europe,33,BMW 1-Series,"2,905",0.90%,-15.90%,"3,454",1.00%,31,Europe
+Netherlands,EUCOM,Western Europe,34,Hyundai i10,"2,870",0.90%,15.70%,"2,480",0.70%,41,Europe
+Netherlands,EUCOM,Western Europe,35,Ford Kuga,"2,836",0.90%,135.20%,"1,206",0.30%,83,Europe
+Netherlands,EUCOM,Western Europe,36,Hyundai Kona,"2,785",0.90%,-74.20%,"10,781",3.00%,3,Europe
+Netherlands,EUCOM,Western Europe,37,Hyundai Tucson,"2,769",0.90%,1783.70%,147,0.00%,179,Europe
+Netherlands,EUCOM,Western Europe,38,Citroen C3,"2,722",0.80%,-9.10%,"2,995",0.80%,36,Europe
+Netherlands,EUCOM,Western Europe,39,Opel Astra,"2,640",0.80%,-22.00%,"3,383",1.00%,32,Europe
+Netherlands,EUCOM,Western Europe,40,Opel Crossland X,"2,594",0.80%,-26.50%,"3,529",1.00%,30,Europe
+Netherlands,EUCOM,Western Europe,41,Tesla Model 3,"2,565",0.80%,-69.40%,"8,371",2.40%,7,Europe
+Netherlands,EUCOM,Western Europe,42,Polestar 2,"2,556",0.80%,-13.40%,"2,951",0.80%,37,Europe
+Netherlands,EUCOM,Western Europe,43,Nissan Qashqai,"2,537",0.80%,-8.90%,"2,785",0.80%,39,Europe
+Netherlands,EUCOM,Western Europe,44,VW T-Cross,"2,494",0.80%,-30.20%,"3,575",1.00%,29,Europe
+Netherlands,EUCOM,Western Europe,45,Skoda Kodiaq,"2,469",0.80%,-22.50%,"3,187",0.90%,35,Europe
+Netherlands,EUCOM,Western Europe,46,Audi Q4,"2,435",0.80%,new,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,47,VW Tiguan,"2,339",0.70%,-26.60%,"3,188",0.90%,34,Europe
+Netherlands,EUCOM,Western Europe,48,Toyota C-HR,"2,316",0.70%,-17.70%,"2,814",0.80%,38,Europe
+Netherlands,EUCOM,Western Europe,49,Peugeot 3008,"2,216",0.70%,-7.20%,"2,387",0.70%,45,Europe
+Netherlands,EUCOM,Western Europe,50,Ford Puma,"2,205",0.70%,-0.50%,"2,215",0.60%,50,Europe
+Netherlands,EUCOM,Western Europe,51,VW ID.3,"2,193",0.70%,-79.90%,"10,909",3.10%,2,Europe
+Netherlands,EUCOM,Western Europe,52,Seat Leon,"2,160",0.70%,5.40%,"2,049",0.60%,56,Europe
+Netherlands,EUCOM,Western Europe,53,Skoda Karoq,"2,144",0.70%,2.90%,"2,083",0.60%,54,Europe
+Netherlands,EUCOM,Western Europe,54,Mitsubishi Space Star,"2,136",0.70%,-1.20%,"2,163",0.60%,52,Europe
+Netherlands,EUCOM,Western Europe,55,Suzuki Ignis ,"2,128",0.70%,11.60%,"1,906",0.50%,60,Europe
+Netherlands,EUCOM,Western Europe,56,Mercedes CLA-Class,"2,127",0.70%,-7.80%,"2,306",0.60%,47,Europe
+Netherlands,EUCOM,Western Europe,57,Seat Ibiza,"2,115",0.70%,-13.40%,"2,442",0.70%,43,Europe
+Netherlands,EUCOM,Western Europe,58,Mercedes A-Class,"2,086",0.60%,-46.00%,"3,863",1.10%,23,Europe
+Netherlands,EUCOM,Western Europe,59,Volvo XC60,"2,011",0.60%,25.40%,"1,604",0.50%,71,Europe
+Netherlands,EUCOM,Western Europe,60,Mazda CX-30,"1,982",0.60%,-10.70%,"2,220",0.60%,49,Europe
+Netherlands,EUCOM,Western Europe,61,Dacia Sandero,"1,894",0.60%,256.00%,532,0.10%,129,Europe
+Netherlands,EUCOM,Western Europe,62,Opel Mokka,"1,868",0.60%,186700.00%,1,0.00%,302,Europe
+Netherlands,EUCOM,Western Europe,63,Toyota RAV4,"1,834",0.60%,-13.00%,"2,108",0.60%,53,Europe
+Netherlands,EUCOM,Western Europe,64,Suzuki Swift,"1,783",0.60%,-9.90%,"1,979",0.60%,57,Europe
+Netherlands,EUCOM,Western Europe,65,Renault Mégane,"1,746",0.50%,-5.50%,"1,847",0.50%,65,Europe
+Netherlands,EUCOM,Western Europe,66,Hyundai Ioniq5,"1,712",0.50%,new,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,67,Opel Grandland X,"1,678",0.50%,-39.70%,"2,781",0.80%,40,Europe
+Netherlands,EUCOM,Western Europe,68,Skoda Kamiq,"1,671",0.50%,15.10%,"1,452",0.40%,76,Europe
+Netherlands,EUCOM,Western Europe,69,Mazda CX-5,"1,670",0.50%,8.50%,"1,539",0.40%,72,Europe
+Netherlands,EUCOM,Western Europe,70,Kia EV6,"1,644",0.50%,new,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,71,Hyundai i20,"1,607",0.50%,93.10%,832,0.20%,102,Europe
+Netherlands,EUCOM,Western Europe,72,Renault Zoe,"1,604",0.50%,-22.40%,"2,066",0.60%,55,Europe
+Netherlands,EUCOM,Western Europe,73,Tesla Model Y,"1,580",0.50%,78900.00%,2,0.00%,297,Europe
+Netherlands,EUCOM,Western Europe,74,BMW 5-Series,"1,527",0.50%,-14.00%,"1,776",0.50%,66,Europe
+Netherlands,EUCOM,Western Europe,75,Toyota Yaris Cross,"1,516",0.50%,new,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,76,Citroen C4  ,"1,480",0.50%,1661.90%,84,0.00%,200,Europe
+Netherlands,EUCOM,Western Europe,77,Mercedes C-Class,"1,412",0.40%,-12.10%,"1,606",0.50%,70,Europe
+Netherlands,EUCOM,Western Europe,78,Renault Twingo,"1,372",0.40%,-25.80%,"1,848",0.50%,64,Europe
+Netherlands,EUCOM,Western Europe,79,Audi A1,"1,359",0.40%,-16.20%,"1,621",0.50%,68,Europe
+Netherlands,EUCOM,Western Europe,80,Skoda Fabia,"1,346",0.40%,-29.60%,"1,913",0.50%,59,Europe
+Netherlands,EUCOM,Western Europe,81,BMW X5,"1,325",0.40%,24.20%,"1,067",0.30%,90,Europe
+Netherlands,EUCOM,Western Europe,82,Mercedes EQA,"1,290",0.40%,new,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,83,Peugeot 5008,"1,246",0.40%,-33.90%,"1,884",0.50%,63,Europe
+Netherlands,EUCOM,Western Europe,84,Mini Countryman,"1,243",0.40%,7.30%,"1,158",0.30%,86,Europe
+Netherlands,EUCOM,Western Europe,85,Suzuki Vitara,"1,216",0.40%,0.40%,"1,211",0.30%,82,Europe
+Netherlands,EUCOM,Western Europe,86,Cupra Born,"1,206",0.40%,new,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,87,Seat Arona,"1,202",0.40%,-25.40%,"1,612",0.50%,69,Europe
+Netherlands,EUCOM,Western Europe,88,Nissan Juke,"1,181",0.40%,-22.30%,"1,520",0.40%,73,Europe
+Netherlands,EUCOM,Western Europe,89,BMW X1,"1,178",0.40%,-5.80%,"1,251",0.40%,80,Europe
+Netherlands,EUCOM,Western Europe,90,Nissan Leaf,"1,173",0.40%,-27.80%,"1,624",0.50%,67,Europe
+Netherlands,EUCOM,Western Europe,91,Audi e-tron,"1,094",0.30%,-70.80%,"3,746",1.10%,24,Europe
+Netherlands,EUCOM,Western Europe,92,Nissan Micra,"1,031",0.30%,-47.70%,"1,972",0.60%,58,Europe
+Netherlands,EUCOM,Western Europe,93,Dacia Duster,"1,025",0.30%,27.80%,802,0.20%,105,Europe
+Netherlands,EUCOM,Western Europe,94,BMW 4-Series,990,0.30%,39.80%,708,0.20%,113,Europe
+Netherlands,EUCOM,Western Europe,95,BMW 2-Series Gran Coupe,984,0.30%,-5.40%,"1,040",0.30%,92,Europe
+Netherlands,EUCOM,Western Europe,96,Mazda2,980,0.30%,8.00%,907,0.30%,99,Europe
+Netherlands,EUCOM,Western Europe,97,Audi Q2,965,0.30%,-7.30%,"1,041",0.30%,91,Europe
+Netherlands,EUCOM,Western Europe,98,Citroen C5 Aircross,958,0.30%,-34.90%,"1,471",0.40%,75,Europe
+Netherlands,EUCOM,Western Europe,99,Skoda Scala,944,0.30%,-18.20%,"1,154",0.30%,87,Europe
+Netherlands,EUCOM,Western Europe,100,Peugeot 308,926,0.30%,-51.10%,"1,895",0.50%,62,Europe
+Netherlands,EUCOM,Western Europe,101,Mitsubishi Outlander,914,0.30%,-27.70%,"1,265",0.40%,79,Europe
+Netherlands,EUCOM,Western Europe,102,Mercedes B-Class,910,0.30%,-38.80%,"1,486",0.40%,74,Europe
+Netherlands,EUCOM,Western Europe,103,Audi Q3,894,0.30%,13.30%,789,0.20%,108,Europe
+Netherlands,EUCOM,Western Europe,104,Audi A4,876,0.30%,-35.80%,"1,365",0.40%,78,Europe
+Netherlands,EUCOM,Western Europe,105,Renault Arkana,828,0.30%,new,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,106,Kia Proceed,813,0.30%,6.00%,767,0.20%,109,Europe
+Netherlands,EUCOM,Western Europe,107,Volvo XC90,801,0.20%,25.20%,640,0.20%,121,Europe
+Netherlands,EUCOM,Western Europe,108,MG ZS,794,0.20%,-64.00%,"2,206",0.60%,51,Europe
+Netherlands,EUCOM,Western Europe,109,Seat Ateca,785,0.20%,-33.30%,"1,177",0.30%,84,Europe
+Netherlands,EUCOM,Western Europe,110,Kia Xceed,782,0.20%,-23.00%,"1,016",0.30%,94,Europe
+Netherlands,EUCOM,Western Europe,111,VW Passat,744,0.20%,-35.50%,"1,153",0.30%,88,Europe
+Netherlands,EUCOM,Western Europe,112,Mercedes E-Class,733,0.20%,-4.30%,766,0.20%,110,Europe
+Netherlands,EUCOM,Western Europe,113,Mazda3,717,0.20%,-28.70%,"1,005",0.30%,95,Europe
+Netherlands,EUCOM,Western Europe,114,Mercedes GLB,711,0.20%,74.70%,407,0.10%,143,Europe
+Netherlands,EUCOM,Western Europe,115,BMW i3,697,0.20%,-42.80%,"1,218",0.30%,81,Europe
+Netherlands,EUCOM,Western Europe,116,Citroen C3 Aircross,681,0.20%,-41.90%,"1,172",0.30%,85,Europe
+Netherlands,EUCOM,Western Europe,117,Mini Clubman,675,0.20%,-24.50%,894,0.30%,100,Europe
+Netherlands,EUCOM,Western Europe,118,Skoda Superb,673,0.20%,-21.40%,856,0.20%,101,Europe
+Netherlands,EUCOM,Western Europe,119,BMW 2-Series Tourer,646,0.20%,-37.50%,"1,034",0.30%,93,Europe
+Netherlands,EUCOM,Western Europe,120,Mercedes GLA-Class,639,0.20%,-6.70%,685,0.20%,116,Europe
+Netherlands,EUCOM,Western Europe,121,Porsche Taycan,630,0.20%,45.20%,434,0.10%,140,Europe
+Netherlands,EUCOM,Western Europe,122,Mitsubishi Eclipse Cross,629,0.20%,380.20%,131,0.00%,184,Europe
+Netherlands,EUCOM,Western Europe,123,Jeep Compass,626,0.20%,89.10%,331,0.10%,151,Europe
+Netherlands,EUCOM,Western Europe,124,Audi A5,624,0.20%,-10.50%,697,0.20%,114,Europe
+Netherlands,EUCOM,Western Europe,125,Volvo S60,617,0.20%,-10.70%,691,0.20%,115,Europe
+Netherlands,EUCOM,Western Europe,126,Mazda CX-3,592,0.20%,132.20%,255,0.10%,158,Europe
+Netherlands,EUCOM,Western Europe,127,Mercedes GLC-Class,590,0.20%,-18.60%,725,0.20%,111,Europe
+Netherlands,EUCOM,Western Europe,128,Porsche Cayenne,588,0.20%,-10.00%,653,0.20%,120,Europe
+Netherlands,EUCOM,Western Europe,129,Hyundai Bayon,586,0.20%,new,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,130,Kia Sorento,568,0.20%,1570.60%,34,0.00%,234,Europe
+Netherlands,EUCOM,Western Europe,131,Seat Mii,554,0.20%,-50.90%,"1,129",0.30%,89,Europe
+Netherlands,EUCOM,Western Europe,132,Seat Tarraco,549,0.20%,-11.90%,623,0.20%,123,Europe
+Netherlands,EUCOM,Western Europe,133,Peugeot 508,545,0.20%,-32.00%,801,0.20%,106,Europe
+Netherlands,EUCOM,Western Europe,134,Kia Rio,545,0.20%,-24.30%,720,0.20%,112,Europe
+Netherlands,EUCOM,Western Europe,135,Kia Sportage,544,0.20%,26.20%,431,0.10%,141,Europe
+Netherlands,EUCOM,Western Europe,136,Mazda MX-30,536,0.20%,-45.10%,976,0.30%,97,Europe
+Netherlands,EUCOM,Western Europe,137,Hyundai Ioniq,463,0.10%,-50.10%,927,0.30%,98,Europe
+Netherlands,EUCOM,Western Europe,138,Honda Jazz,456,0.10%,-18.60%,560,0.20%,127,Europe
+Netherlands,EUCOM,Western Europe,139,Mercedes Sprinter,444,0.10%,-9.20%,489,0.10%,133,Europe
+Netherlands,EUCOM,Western Europe,140,Mercedes GLE-Class,429,0.10%,56.00%,275,0.10%,156,Europe
+Netherlands,EUCOM,Western Europe,141,Volvo V90,421,0.10%,-18.40%,516,0.10%,130,Europe
+Netherlands,EUCOM,Western Europe,142,Suzuki SX4 S-Cross,415,0.10%,-11.30%,468,0.10%,135,Europe
+Netherlands,EUCOM,Western Europe,143,Porsche 911/Carrera,403,0.10%,2.50%,393,0.10%,144,Europe
+Netherlands,EUCOM,Western Europe,144,Renault Kadjar,399,0.10%,-37.30%,636,0.20%,122,Europe
+Netherlands,EUCOM,Western Europe,145,Ford Ecosport,376,0.10%,-54.80%,832,0.20%,103,Europe
+Netherlands,EUCOM,Western Europe,146,Range Rover Sport,370,0.10%,6.00%,349,0.10%,147,Europe
+Netherlands,EUCOM,Western Europe,147,Opel Vivaro,370,0.10%,221.70%,115,0.00%,189,Europe
+Netherlands,EUCOM,Western Europe,148,Ford Mondeo,368,0.10%,-31.70%,539,0.20%,128,Europe
+Netherlands,EUCOM,Western Europe,149,Fiat Panda,363,0.10%,-36.80%,574,0.20%,125,Europe
+Netherlands,EUCOM,Western Europe,150,Citroen C4 Spacetourer,361,0.10%,-36.80%,571,0.20%,126,Europe
+Netherlands,EUCOM,Western Europe,151,Volvo C40,357,0.10%,new,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,152,Renault Scénic,348,0.10%,-43.60%,617,0.20%,124,Europe
+Netherlands,EUCOM,Western Europe,153,Kia Soul,346,0.10%,-47.50%,659,0.20%,118,Europe
+Netherlands,EUCOM,Western Europe,154,Hyundai i30,326,0.10%,20.70%,270,0.10%,157,Europe
+Netherlands,EUCOM,Western Europe,155,Jeep Renegade,311,0.10%,-1.60%,316,0.10%,152,Europe
+Netherlands,EUCOM,Western Europe,156,BMW IX,311,0.10%,new,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,157,Land Rover Defender,298,0.10%,195.00%,101,0.00%,193,Europe
+Netherlands,EUCOM,Western Europe,158,Suzuki Swace,298,0.10%,9833.30%,3,0.00%,290,Europe
+Netherlands,EUCOM,Western Europe,159,Audi A6,286,0.10%,-37.40%,457,0.10%,138,Europe
+Netherlands,EUCOM,Western Europe,160,Audi e-tron GT,285,0.10%,new,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,161,Audi Q5,280,0.10%,-8.50%,306,0.10%,153,Europe
+Netherlands,EUCOM,Western Europe,162,Mercedes Vito,275,0.10%,-18.60%,338,0.10%,150,Europe
+Netherlands,EUCOM,Western Europe,163,Range Rover Evoque,246,0.10%,-36.10%,385,0.10%,145,Europe
+Netherlands,EUCOM,Western Europe,164,MG eHS,244,0.10%,new,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,165,Hyundai Santa Fe,241,0.10%,1621.40%,14,0.00%,259,Europe
+Netherlands,EUCOM,Western Europe,166,Toyota Proace,230,0.10%,277.00%,61,0.00%,211,Europe
+Netherlands,EUCOM,Western Europe,167,Opel Insignia,228,0.10%,-65.30%,657,0.20%,119,Europe
+Netherlands,EUCOM,Western Europe,168,Audi Q8,228,0.10%,28.80%,177,0.00%,171,Europe
+Netherlands,EUCOM,Western Europe,169,BMW Z4,226,0.10%,-0.40%,227,0.10%,162,Europe
+Netherlands,EUCOM,Western Europe,170,Dacia Spring,221,0.10%,new,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,171,Fiat 500X,220,0.10%,-35.50%,341,0.10%,149,Europe
+Netherlands,EUCOM,Western Europe,172,Mercedes EQC,219,0.10%,-72.30%,790,0.20%,107,Europe
+Netherlands,EUCOM,Western Europe,173,Lexus UX,215,0.10%,-37.00%,341,0.10%,148,Europe
+Netherlands,EUCOM,Western Europe,174,VW Arteon,211,0.10%,0.50%,210,0.10%,166,Europe
+Netherlands,EUCOM,Western Europe,175,Citroen SpaceTourer,211,0.10%,744.00%,25,0.00%,243,Europe
+Netherlands,EUCOM,Western Europe,176,BMW X2,206,0.10%,-44.80%,373,0.10%,146,Europe
+Netherlands,EUCOM,Western Europe,177,Fiat Tipo,206,0.10%,151.20%,82,0.00%,201,Europe
+Netherlands,EUCOM,Western Europe,178,BMW X4,200,0.10%,-12.30%,228,0.10%,161,Europe
+Netherlands,EUCOM,Western Europe,179,Mazda6,199,0.10%,22.80%,162,0.00%,174,Europe
+Netherlands,EUCOM,Western Europe,180,Land Rover Discovery Sport,196,0.10%,28.90%,152,0.00%,178,Europe
+Netherlands,EUCOM,Western Europe,181,VW California,187,0.10%,139.70%,78,0.00%,204,Europe
+Netherlands,EUCOM,Western Europe,182,Renault Talisman,184,0.10%,28.70%,143,0.00%,181,Europe
+Netherlands,EUCOM,Western Europe,183,BMW 7-Series,183,0.10%,-1.10%,185,0.10%,170,Europe
+Netherlands,EUCOM,Western Europe,184,Audi Q7,182,0.10%,38.90%,131,0.00%,185,Europe
+Netherlands,EUCOM,Western Europe,185,Mercedes S-Class,182,0.10%,271.40%,49,0.00%,223,Europe
+Netherlands,EUCOM,Western Europe,186,DS 7 Crossback,175,0.10%,-24.90%,233,0.10%,160,Europe
+Netherlands,EUCOM,Western Europe,187,Porsche Panamera,142,0.00%,22.40%,116,0.00%,188,Europe
+Netherlands,EUCOM,Western Europe,188,Nissan X-Trail,139,0.00%,-69.80%,460,0.10%,136,Europe
+Netherlands,EUCOM,Western Europe,189,DS 3 Crossback,137,0.00%,-72.00%,489,0.10%,134,Europe
+Netherlands,EUCOM,Western Europe,190,Jeep Wrangler,137,0.00%,953.80%,13,0.00%,261,Europe
+Netherlands,EUCOM,Western Europe,191,Smart Forfour,133,0.00%,30.40%,102,0.00%,192,Europe
+Netherlands,EUCOM,Western Europe,192,Ford Explorer,131,0.00%,162.00%,50,0.00%,219,Europe
+Netherlands,EUCOM,Western Europe,193,Honda CR-V,130,0.00%,-36.90%,206,0.10%,168,Europe
+Netherlands,EUCOM,Western Europe,194,Lexus ES,124,0.00%,8.80%,114,0.00%,190,Europe
+Netherlands,EUCOM,Western Europe,195,Toyota Highlander,123,0.00%,12200.00%,1,0.00%,303,Europe
+Netherlands,EUCOM,Western Europe,196,Honda HR-V,119,0.00%,-46.40%,222,0.10%,164,Europe
+Netherlands,EUCOM,Western Europe,197,Dacia Lodgy,113,0.00%,-27.10%,155,0.00%,176,Europe
+Netherlands,EUCOM,Western Europe,198,BMW 8-Series,111,0.00%,-48.10%,214,0.10%,165,Europe
+Netherlands,EUCOM,Western Europe,199,BMW X6,109,0.00%,-33.90%,165,0.00%,173,Europe
+Netherlands,EUCOM,Western Europe,200,Alfa Romeo Giulia,109,0.00%,-31.40%,159,0.00%,175,Europe
+Netherlands,EUCOM,Western Europe,201,Range Rover Velar,106,0.00%,-10.90%,119,0.00%,187,Europe
+Netherlands,EUCOM,Western Europe,202,Mazda MX-5,104,0.00%,271.40%,28,0.00%,240,Europe
+Netherlands,EUCOM,Western Europe,203,Porsche Macan,102,0.00%,-45.50%,187,0.10%,169,Europe
+Netherlands,EUCOM,Western Europe,204,Cupra Formentor,102,0.00%,3300.00%,3,0.00%,292,Europe
+Netherlands,EUCOM,Western Europe,205,Peugeot Expert,96,0.00%,3100.00%,3,0.00%,291,Europe
+Netherlands,EUCOM,Western Europe,206,Toyota Proace City Verso,91,0.00%,225.00%,28,0.00%,239,Europe
+Netherlands,EUCOM,Western Europe,207,Range Rover  ,90,0.00%,-37.90%,145,0.00%,180,Europe
+Netherlands,EUCOM,Western Europe,208,Mercedes EQV,84,0.00%,7.70%,78,0.00%,202,Europe
+Netherlands,EUCOM,Western Europe,209,Smart Fortwo,84,0.00%,13.50%,74,0.00%,206,Europe
+Netherlands,EUCOM,Western Europe,210,Toyota Mirai,81,0.00%,1057.10%,7,0.00%,274,Europe
+Netherlands,EUCOM,Western Europe,211,Citroen C4 Cactus,74,0.00%,-88.80%,660,0.20%,117,Europe
+Netherlands,EUCOM,Western Europe,212,Toyota Prius,70,0.00%,-17.60%,85,0.00%,199,Europe
+Netherlands,EUCOM,Western Europe,213,Subaru Legacy/Outback,70,0.00%,59.10%,44,0.00%,225,Europe
+Netherlands,EUCOM,Western Europe,214,BMW I4,69,0.00%,new,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,215,Cupra Leon,68,0.00%,new,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,216,Honda Civic ,65,0.00%,-57.80%,154,0.00%,177,Europe
+Netherlands,EUCOM,Western Europe,217,Lexus RX,65,0.00%,-33.00%,97,0.00%,196,Europe
+Netherlands,EUCOM,Western Europe,218,BMW X7,64,0.00%,-61.90%,168,0.00%,172,Europe
+Netherlands,EUCOM,Western Europe,219,BMW 2-Series,63,0.00%,-55.90%,143,0.00%,182,Europe
+Netherlands,EUCOM,Western Europe,220,Jaguar F-Pace,63,0.00%,-13.70%,73,0.00%,207,Europe
+Netherlands,EUCOM,Western Europe,221,VW Transporter,62,0.00%,195.20%,21,0.00%,246,Europe
+Netherlands,EUCOM,Western Europe,222,Jaguar E-Pace,61,0.00%,52.50%,40,0.00%,229,Europe
+Netherlands,EUCOM,Western Europe,223,Suzuki Across,61,0.00%,306.70%,15,0.00%,257,Europe
+Netherlands,EUCOM,Western Europe,224,Lexus CT,58,0.00%,-74.40%,227,0.10%,163,Europe
+Netherlands,EUCOM,Western Europe,225,Mitsubishi ASX,53,0.00%,-89.30%,497,0.10%,132,Europe
+Netherlands,EUCOM,Western Europe,226,Toyota Camry,53,0.00%,-32.10%,78,0.00%,203,Europe
+Netherlands,EUCOM,Western Europe,227,Mercedes EQS,53,0.00%,new,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,228,Subaru Forester,52,0.00%,-56.70%,120,0.00%,186,Europe
+Netherlands,EUCOM,Western Europe,229,Skoda Citigo,50,0.00%,-97.40%,"1,902",0.50%,61,Europe
+Netherlands,EUCOM,Western Europe,230,Subaru XV,46,0.00%,-54.00%,100,0.00%,194,Europe
+Netherlands,EUCOM,Western Europe,231,Porsche 718 Boxster,46,0.00%,48.40%,31,0.00%,237,Europe
+Netherlands,EUCOM,Western Europe,232,Volvo S90,43,0.00%,-79.20%,207,0.10%,167,Europe
+Netherlands,EUCOM,Western Europe,233,Bentley Continental,42,0.00%,-16.00%,50,0.00%,220,Europe
+Netherlands,EUCOM,Western Europe,234,Hyundai Nexo,41,0.00%,-70.70%,140,0.00%,183,Europe
+Netherlands,EUCOM,Western Europe,235,BMW 6-Series,41,0.00%,-43.10%,72,0.00%,208,Europe
+Netherlands,EUCOM,Western Europe,236,Mercedes GLS-Class,41,0.00%,2.50%,40,0.00%,228,Europe
+Netherlands,EUCOM,Western Europe,237,Alfa Romeo Stelvio,40,0.00%,-16.70%,48,0.00%,224,Europe
+Netherlands,EUCOM,Western Europe,238,VW Touran,37,0.00%,-84.60%,241,0.10%,159,Europe
+Netherlands,EUCOM,Western Europe,239,Opel Combo,37,0.00%,-28.80%,52,0.00%,217,Europe
+Netherlands,EUCOM,Western Europe,240,Lexus NX,33,0.00%,-46.80%,62,0.00%,210,Europe
+Netherlands,EUCOM,Western Europe,241,Honda E,32,0.00%,-71.20%,111,0.00%,191,Europe
+Netherlands,EUCOM,Western Europe,242,Nissan NV200,31,0.00%,-46.60%,58,0.00%,215,Europe
+Netherlands,EUCOM,Western Europe,243,Bentley Bentayga,31,0.00%,47.60%,21,0.00%,247,Europe
+Netherlands,EUCOM,Western Europe,244,Mercedes V-Class,30,0.00%,-50.00%,60,0.00%,212,Europe
+Netherlands,EUCOM,Western Europe,245,Jaguar F-Type,27,0.00%,-6.90%,29,0.00%,238,Europe
+Netherlands,EUCOM,Western Europe,246,Alfa Romeo Giulietta,26,0.00%,-23.50%,34,0.00%,235,Europe
+Netherlands,EUCOM,Western Europe,247,VW Touareg,26,0.00%,271.40%,7,0.00%,275,Europe
+Netherlands,EUCOM,Western Europe,248,Peugeot Rifter,25,0.00%,-70.90%,86,0.00%,198,Europe
+Netherlands,EUCOM,Western Europe,249,VW Crafter,25,0.00%,-34.20%,38,0.00%,230,Europe
+Netherlands,EUCOM,Western Europe,250,Alpine A110,25,0.00%,-3.80%,26,0.00%,241,Europe
+Netherlands,EUCOM,Western Europe,251,Citroen Berlingo,24,0.00%,-74.50%,94,0.00%,197,Europe
+Netherlands,EUCOM,Western Europe,252,Mercedes G-Class,24,0.00%,-25.00%,32,0.00%,236,Europe
+Netherlands,EUCOM,Western Europe,253,Jaguar XF,23,0.00%,-76.80%,99,0.00%,195,Europe
+Netherlands,EUCOM,Western Europe,254,Lamborghini Urus,23,0.00%,-4.20%,24,0.00%,244,Europe
+Netherlands,EUCOM,Western Europe,255,VW Caddy,22,0.00%,-58.50%,53,0.00%,216,Europe
+Netherlands,EUCOM,Western Europe,256,Ferrari F8,21,0.00%,200.00%,7,0.00%,276,Europe
+Netherlands,EUCOM,Western Europe,257,Ferrari Roma,21,0.00%,425.00%,4,0.00%,287,Europe
+Netherlands,EUCOM,Western Europe,258,Audi A8,20,0.00%,-61.50%,52,0.00%,218,Europe
+Netherlands,EUCOM,Western Europe,259,Porsche 718 Cayman,20,0.00%,11.10%,18,0.00%,254,Europe
+Netherlands,EUCOM,Western Europe,260,Renault Koleos,20,0.00%,1900.00%,1,0.00%,304,Europe
+Netherlands,EUCOM,Western Europe,261,Lexus IS,19,0.00%,-62.00%,50,0.00%,221,Europe
+Netherlands,EUCOM,Western Europe,262,Bentley Flying Spur,19,0.00%,72.70%,11,0.00%,263,Europe
+Netherlands,EUCOM,Western Europe,263,Jaguar i-Pace,18,0.00%,-96.10%,460,0.10%,137,Europe
+Netherlands,EUCOM,Western Europe,264,Mercedes AMG GT,18,0.00%,-59.10%,44,0.00%,226,Europe
+Netherlands,EUCOM,Western Europe,265,Audi A7,17,0.00%,-71.20%,59,0.00%,214,Europe
+Netherlands,EUCOM,Western Europe,266,Ford Tourneo/Transit Custom,17,0.00%,-54.10%,37,0.00%,232,Europe
+Netherlands,EUCOM,Western Europe,267,Jaguar XE,16,0.00%,-79.50%,78,0.00%,205,Europe
+Netherlands,EUCOM,Western Europe,268,Mercedes CLS-Class,16,0.00%,-23.80%,21,0.00%,248,Europe
+Netherlands,EUCOM,Western Europe,269,MG Marvel R,16,0.00%,new,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,270,Ferrari SF90,15,0.00%,new,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,271,Toyota Land Cruiser,14,0.00%,-46.20%,26,0.00%,242,Europe
+Netherlands,EUCOM,Western Europe,272,Aston Martin DBX,14,0.00%,133.30%,6,0.00%,281,Europe
+Netherlands,EUCOM,Western Europe,273,Peugeot Traveller,13,0.00%,-78.30%,60,0.00%,213,Europe
+Netherlands,EUCOM,Western Europe,274,Renault Espace,13,0.00%,-65.80%,38,0.00%,231,Europe
+Netherlands,EUCOM,Western Europe,275,Land Rover Discovery,13,0.00%,-7.10%,14,0.00%,260,Europe
+Netherlands,EUCOM,Western Europe,276,Citroen Jumper,13,0.00%,n/a,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,277,DS 4,13,0.00%,new,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,278,Suzuki Celerio,12,0.00%,-97.30%,437,0.10%,139,Europe
+Netherlands,EUCOM,Western Europe,279,Aiways U5,11,0.00%,-97.40%,428,0.10%,142,Europe
+Netherlands,EUCOM,Western Europe,280,Toyota Supra,11,0.00%,-52.20%,23,0.00%,245,Europe
+Netherlands,EUCOM,Western Europe,281,Ferrari 812 Superfast,10,0.00%,-44.40%,18,0.00%,255,Europe
+Netherlands,EUCOM,Western Europe,282,Opel Zafira Life,10,0.00%,66.70%,6,0.00%,277,Europe
+Netherlands,EUCOM,Western Europe,283,Polestar 1,9,0.00%,-10.00%,10,0.00%,268,Europe
+Netherlands,EUCOM,Western Europe,284,Lamborghini Huracan,9,0.00%,0.00%,9,0.00%,270,Europe
+Netherlands,EUCOM,Western Europe,285,Lexus LC,9,0.00%,200.00%,3,0.00%,293,Europe
+Netherlands,EUCOM,Western Europe,286,Ssangyong Korando,9,0.00%,n/a,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,287,DS 9,9,0.00%,new,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,288,Rolls-Royce Ghost,9,0.00%,n/a,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,289,Maserati Levante,8,0.00%,-20.00%,10,0.00%,267,Europe
+Netherlands,EUCOM,Western Europe,290,Aston Martin DBS,8,0.00%,-11.10%,9,0.00%,271,Europe
+Netherlands,EUCOM,Western Europe,291,Lamborghini Aventador,8,0.00%,300.00%,2,0.00%,299,Europe
+Netherlands,EUCOM,Western Europe,292,Morgan Plus-4,8,0.00%,700.00%,1,0.00%,306,Europe
+Netherlands,EUCOM,Western Europe,293,Audi TT,7,0.00%,-12.50%,8,0.00%,272,Europe
+Netherlands,EUCOM,Western Europe,294,Maserati Ghibli,7,0.00%,16.70%,6,0.00%,278,Europe
+Netherlands,EUCOM,Western Europe,295,Rolls Royce Cullinan,6,0.00%,50.00%,4,0.00%,288,Europe
+Netherlands,EUCOM,Western Europe,296,Mercedes Citan,5,0.00%,-72.20%,18,0.00%,253,Europe
+Netherlands,EUCOM,Western Europe,297,Ford Mustang,5,0.00%,-68.80%,16,0.00%,256,Europe
+Netherlands,EUCOM,Western Europe,298,Ford Transit Tourneo,5,0.00%,-50.00%,10,0.00%,269,Europe
+Netherlands,EUCOM,Western Europe,299,Morgan Plus-6,5,0.00%,-16.70%,6,0.00%,279,Europe
+Netherlands,EUCOM,Western Europe,300,VW Multivan,5,0.00%,25.00%,4,0.00%,286,Europe
+Netherlands,EUCOM,Western Europe,301,Renault Kangoo,5,0.00%,n/a,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,302,Tesla Model S,4,0.00%,-98.60%,292,0.10%,154,Europe
+Netherlands,EUCOM,Western Europe,303,Suzuki Jimny,4,0.00%,-93.70%,63,0.00%,209,Europe
+Netherlands,EUCOM,Western Europe,304,Dacia Dokker,4,0.00%,-92.00%,50,0.00%,222,Europe
+Netherlands,EUCOM,Western Europe,305,Ferrari Portofino,4,0.00%,-80.00%,20,0.00%,249,Europe
+Netherlands,EUCOM,Western Europe,306,Aston Martin Vantage,4,0.00%,100.00%,2,0.00%,298,Europe
+Netherlands,EUCOM,Western Europe,307,Lotus Elise,4,0.00%,100.00%,2,0.00%,300,Europe
+Netherlands,EUCOM,Western Europe,308,Lexus LS,4,0.00%,300.00%,1,0.00%,307,Europe
+Netherlands,EUCOM,Western Europe,309,Maserati MC20,4,0.00%,new,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,310,Dacia Logan,3,0.00%,-99.40%,499,0.10%,131,Europe
+Netherlands,EUCOM,Western Europe,311,Toyota Prius+,3,0.00%,-91.90%,37,0.00%,233,Europe
+Netherlands,EUCOM,Western Europe,312,Renault Trafic,3,0.00%,-70.00%,10,0.00%,266,Europe
+Netherlands,EUCOM,Western Europe,313,Tesla Model X,2,0.00%,-99.30%,292,0.10%,155,Europe
+Netherlands,EUCOM,Western Europe,314,BMW 3-Series GT,2,0.00%,-95.20%,42,0.00%,227,Europe
+Netherlands,EUCOM,Western Europe,315,Fiat Ducato,2,0.00%,-89.50%,19,0.00%,251,Europe
+Netherlands,EUCOM,Western Europe,316,Peugeot Partner,2,0.00%,-81.80%,11,0.00%,264,Europe
+Netherlands,EUCOM,Western Europe,317,Ferrari GTC4Lusso,2,0.00%,-33.30%,3,0.00%,294,Europe
+Netherlands,EUCOM,Western Europe,318,Lotus Exige,2,0.00%,n/a,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,319,Renault Master,2,0.00%,n/a,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,320,Volvo V40,1,0.00%,-99.90%,828,0.20%,104,Europe
+Netherlands,EUCOM,Western Europe,321,Citroen C-Zero,1,0.00%,-92.30%,13,0.00%,262,Europe
+Netherlands,EUCOM,Western Europe,322,Mercedes SLC-Class,1,0.00%,-83.30%,6,0.00%,280,Europe
+Netherlands,EUCOM,Western Europe,323,Kia Stinger,1,0.00%,-75.00%,4,0.00%,289,Europe
+Netherlands,EUCOM,Western Europe,324,Maserati Quattroporte,1,0.00%,-66.70%,3,0.00%,295,Europe
+Netherlands,EUCOM,Western Europe,325,Seat Alhambra,1,0.00%,0.00%,1,0.00%,305,Europe
+Netherlands,EUCOM,Western Europe,326,Rolls-Royce Dawn,1,0.00%,0.00%,1,0.00%,308,Europe
+Netherlands,EUCOM,Western Europe,327,Bentley Mulsanne,1,0.00%,n/a,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,328,Ford GT,1,0.00%,new,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,329,Lotus Evora,1,0.00%,n/a,0,0.00%, –,Europe
+Netherlands,EUCOM,Western Europe,330,Opel Ampera-e,0,0.00%,-100.00%,"1,379",0.40%,77,Europe
+Netherlands,EUCOM,Western Europe,331,Lexus RC,0,0.00%,-100.00%,20,0.00%,250,Europe
+Netherlands,EUCOM,Western Europe,332,Citroen Jumpy,0,0.00%,-100.00%,19,0.00%,252,Europe
+Netherlands,EUCOM,Western Europe,333,VW Golf Sportsvan,0,0.00%,-100.00%,15,0.00%,258,Europe
+Netherlands,EUCOM,Western Europe,334,Peugeot Boxer,0,0.00%,-100.00%,11,0.00%,265,Europe
+Netherlands,EUCOM,Western Europe,335,Jaguar XJ,0,0.00%,-100.00%,8,0.00%,273,Europe
+Netherlands,EUCOM,Western Europe,336,BMW i8,0,0.00%,-100.00%,6,0.00%,282,Europe
+Netherlands,EUCOM,Western Europe,337,Ferrari 488,0,0.00%,-100.00%,6,0.00%,283,Europe
+Netherlands,EUCOM,Western Europe,338,Kia Optima,0,0.00%,-100.00%,5,0.00%,284,Europe
+Netherlands,EUCOM,Western Europe,339,Ssangyong Tivoli,0,0.00%,-100.00%,5,0.00%,285,Europe
+Netherlands,EUCOM,Western Europe,340,Aston Martin DB11,0,0.00%,-100.00%,3,0.00%,296,Europe
+Netherlands,EUCOM,Western Europe,341,Audi R8,0,0.00%,-100.00%,2,0.00%,301,Europe
+Netherlands,EUCOM,Western Europe,342,Ford S-Max,0,0.00%,-100.00%,1,0.00%,309,Europe
+Netherlands,EUCOM,Western Europe,343,Jeep Cherokee,0,0.00%,-100.00%,1,0.00%,310,Europe
+Netherlands,EUCOM,Western Europe,344,Jeep Grand Cherokee,0,0.00%,-100.00%,1,0.00%,311,Europe
+Netherlands,EUCOM,Western Europe,345,Mercedes SLK-Class,0,0.00%,-100.00%,1,0.00%,312,Europe
+Netherlands,EUCOM,Western Europe,346,Mitsubishi Lancer,0,0.00%,-100.00%,1,0.00%,313,Europe
+Netherlands,EUCOM,Western Europe,347,Nissan NV400,0,0.00%,-100.00%,1,0.00%,314,Europe
+Netherlands,EUCOM,Western Europe,348,Opel Movano,0,0.00%,-100.00%,1,0.00%,315,Europe
+Netherlands,EUCOM,Western Europe,349,Rolls-Royce Phantom,0,0.00%,-100.00%,1,0.00%,316,Europe
+Netherlands,EUCOM,Western Europe,350,Skoda Rapid,0,0.00%,-100.00%,1,0.00%,317,Europe
+Netherlands,EUCOM,Western Europe,351,Subaru Impreza,0,0.00%,-100.00%,1,0.00%,318,Europe
+Netherlands,EUCOM,Western Europe,352,Toyota Auris,0,0.00%,-100.00%,1,0.00%,319,Europe
+Netherlands,EUCOM,Western Europe,353,Volvo S80,0,0.00%,-100.00%,1,0.00%,320,Europe

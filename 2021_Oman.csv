@@ -1,0 +1,51 @@
+﻿Country,Command,Region,Position_2021,Model,Sales_2021,Percent_2021,Growth_2021,Sales_2020,Percent_2020,Position_2020,Continent
+Oman,CENTCOM,West Asia,1,Nissan Sunny,"10,920",15.10%,16.70%,"9,354",13.00%,1,Asia
+Oman,CENTCOM,West Asia,2,Toyota Hilux,"10,717",14.80%,47.30%,"7,278",10.10%,3,Asia
+Oman,CENTCOM,West Asia,3,Toyota Land Cruiser H/D,"6,220",8.60%,-18.40%,"7,623",10.60%,2,Asia
+Oman,CENTCOM,West Asia,4,Toyota Land Cruiser SW,"5,402",7.50%,-4.20%,"5,638",7.80%,4,Asia
+Oman,CENTCOM,West Asia,5,Toyota Fortuner,"1,920",2.70%,-5.10%,"2,024",2.80%,6,Asia
+Oman,CENTCOM,West Asia,6,Toyota Hiace,"1,838",2.50%,18.20%,"1,555",2.20%,11,Asia
+Oman,CENTCOM,West Asia,7,Toyota Corolla,"1,746",2.40%,6.20%,"1,644",2.30%,10,Asia
+Oman,CENTCOM,West Asia,8,Lexus LX,"1,420",2.00%,-14.40%,"1,658",2.30%,9,Asia
+Oman,CENTCOM,West Asia,9,MG MG5,"1,249",1.70%,106.10%,606,0.80%,24,Asia
+Oman,CENTCOM,West Asia,10,Toyota Camry,"1,241",1.70%,-35.70%,"1,929",2.70%,7,Asia
+Oman,CENTCOM,West Asia,11,Mitsubishi L200,"1,221",1.70%,37.50%,888,1.20%,18,Asia
+Oman,CENTCOM,West Asia,12,Hyundai Tucson,"1,210",1.70%,74.40%,694,1.00%,22,Asia
+Oman,CENTCOM,West Asia,13,Isuzu N-Series,"1,106",1.50%,13.40%,975,1.40%,15,Asia
+Oman,CENTCOM,West Asia,14,Isuzu TF,"1,055",1.50%,49.00%,708,1.00%,21,Asia
+Oman,CENTCOM,West Asia,15,Kia Sportage,924,1.30%,-33.00%,"1,380",1.90%,12,Asia
+Oman,CENTCOM,West Asia,16,Toyota Prado,896,1.20%,-7.40%,968,1.30%,16,Asia
+Oman,CENTCOM,West Asia,17,Toyota RAV4,817,1.10%,-0.70%,823,1.10%,19,Asia
+Oman,CENTCOM,West Asia,18,Toyota Yaris,786,1.10%,-31.50%,"1,148",1.60%,14,Asia
+Oman,CENTCOM,West Asia,19,Lexus ES,776,1.10%,-3.00%,800,1.10%,20,Asia
+Oman,CENTCOM,West Asia,20,Nissan Patrol,658,0.90%,-84.00%,"4,116",5.70%,5,Asia
+Oman,CENTCOM,West Asia,21,Hyundai Creta,561,0.80%,-14.40%,655,0.90%,23,Asia
+Oman,CENTCOM,West Asia,22,Toyota Avalon,551,0.80%,8.00%,510,0.70%,27,Asia
+Oman,CENTCOM,West Asia,23,Hyundai Elantra,547,0.80%,149.80%,219,0.30%,45,Asia
+Oman,CENTCOM,West Asia,24,Ram Pickup,492,0.70%,70.80%,288,0.40%,38,Asia
+Oman,CENTCOM,West Asia,25,Mazda 6,481,0.70%,53.20%,314,0.40%,33,Asia
+Oman,CENTCOM,West Asia,26,Toyota Rush,474,0.70%,10.50%,429,0.60%,29,Asia
+Oman,CENTCOM,West Asia,27,MG RX8,448,0.60%,58.90%,282,0.40%,39,Asia
+Oman,CENTCOM,West Asia,28,Jeep Wrangler,441,0.60%,-19.80%,550,0.80%,25,Asia
+Oman,CENTCOM,West Asia,29,MG RX5,439,0.60%,207.00%,143,0.20%,61,Asia
+Oman,CENTCOM,West Asia,30,Honda Accord,434,0.60%,-19.50%,539,0.70%,26,Asia
+Oman,CENTCOM,West Asia,31,Suzuki Swift Dzire,425,0.60%,176.00%,154,0.20%,59,Asia
+Oman,CENTCOM,West Asia,32,MG HS,416,0.60%,43.00%,291,0.40%,37,Asia
+Oman,CENTCOM,West Asia,33,MG MG6,416,0.60%,53.50%,271,0.40%,41,Asia
+Oman,CENTCOM,West Asia,34,Toyota FJ Cruiser,384,0.50%,-5.90%,408,0.60%,31,Asia
+Oman,CENTCOM,West Asia,35,Chevrolet Tahoe,380,0.50%,61.70%,235,0.30%,44,Asia
+Oman,CENTCOM,West Asia,36,MG ZS,375,0.50%,267.60%,102,0.10%,70,Asia
+Oman,CENTCOM,West Asia,37,Hino 700 Series,337,0.50%,99.40%,169,0.20%,53,Asia
+Oman,CENTCOM,West Asia,38,Lexus RX,328,0.50%,12.70%,291,0.40%,36,Asia
+Oman,CENTCOM,West Asia,39,Hyundai Accent,320,0.40%,-28.30%,446,0.60%,28,Asia
+Oman,CENTCOM,West Asia,40,Hyundai Santa Fe,301,0.40%,72.00%,175,0.20%,52,Asia
+Oman,CENTCOM,West Asia,41,Kia Pegas,294,0.40%,15.30%,255,0.40%,42,Asia
+Oman,CENTCOM,West Asia,42,Nissan Altima,254,0.40%,56.80%,162,0.20%,54,Asia
+Oman,CENTCOM,West Asia,43,Kia Optima,253,0.40%,-6.60%,271,0.40%,40,Asia
+Oman,CENTCOM,West Asia,44,Isuzu F-Series,248,0.30%,93.80%,128,0.20%,64,Asia
+Oman,CENTCOM,West Asia,45,Kia Seltos,248,0.30%,0.80%,246,0.30%,43,Asia
+Oman,CENTCOM,West Asia,46,Toyota Highlander,233,0.30%,142.70%,96,0.10%,75,Asia
+Oman,CENTCOM,West Asia,47,Land Rover Range Rover,218,0.30%,65.20%,132,0.20%,62,Asia
+Oman,CENTCOM,West Asia,48,Nissan X Terra,211,0.30%,1306.70%,15,0.00%,152,Asia
+Oman,CENTCOM,West Asia,49,Hyundai H1,206,0.30%,-0.50%,207,0.30%,46,Asia
+Oman,CENTCOM,West Asia,50,Lexus GX,198,0.30%,-52.40%,416,0.60%,30,Asia

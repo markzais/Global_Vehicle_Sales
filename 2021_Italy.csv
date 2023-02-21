@@ -1,0 +1,51 @@
+﻿Country,Command,Region,Position_2021,Model,Sales_2021,Percent_2021,Growth_2021,Sales_2020,Percent_2020,Position_2020,Continent
+Italy,EUCOM,Southern Europe,1,Fiat Panda,"112,298",7.60%,1.70%,"110,465",7.90%,1,Europe
+Italy,EUCOM,Southern Europe,2,Fiat 500,"44,819",3.00%,42.70%,"31,409",2.30%,5,Europe
+Italy,EUCOM,Southern Europe,3,Lancia Ypsilon,"43,735",3.00%,1.60%,"43,033",3.10%,2,Europe
+Italy,EUCOM,Southern Europe,4,Jeep Renegade,"35,334",2.40%,13.70%,"31,088",2.20%,6,Europe
+Italy,EUCOM,Southern Europe,5,Toyota Yaris,"32,634",2.20%,10.20%,"29,608",2.10%,7,Europe
+Italy,EUCOM,Southern Europe,6,Fiat 500X,"31,982",2.20%,0.50%,"31,819",2.30%,3,Europe
+Italy,EUCOM,Southern Europe,7,Citroen C3,"31,003",2.10%,6.30%,"29,168",2.10%,9,Europe
+Italy,EUCOM,Southern Europe,8,Dacia Sandero,"29,094",2.00%,3.50%,"28,101",2.00%,10,Europe
+Italy,EUCOM,Southern Europe,9,Jeep Compass,"28,570",1.90%,6.30%,"26,872",1.90%,11,Europe
+Italy,EUCOM,Southern Europe,10,Ford Puma,"28,556",1.90%,18.30%,"24,135",1.70%,14,Europe
+Italy,EUCOM,Southern Europe,11,VW T-Roc,"28,341",1.90%,14.30%,"24,805",1.80%,12,Europe
+Italy,EUCOM,Southern Europe,12,Renault Captur,"28,225",1.90%,-3.70%,"29,299",2.10%,8,Europe
+Italy,EUCOM,Southern Europe,13,Dacia Duster,"27,077",1.80%,12.30%,"24,114",1.70%,15,Europe
+Italy,EUCOM,Southern Europe,14,Renault Clio,"25,737",1.70%,-18.70%,"31,652",2.30%,4,Europe
+Italy,EUCOM,Southern Europe,15,Peugeot 2008,"25,505",1.70%,32.00%,"19,315",1.40%,21,Europe
+Italy,EUCOM,Southern Europe,16,Opel Corsa,"25,024",1.70%,2.00%,"24,534",1.80%,13,Europe
+Italy,EUCOM,Southern Europe,17,VW T-Cross,"24,009",1.60%,3.80%,"23,121",1.70%,17,Europe
+Italy,EUCOM,Southern Europe,18,Peugeot 208,"23,581",1.60%,0.70%,"23,423",1.70%,16,Europe
+Italy,EUCOM,Southern Europe,19,Peugeot 3008,"20,878",1.40%,14.20%,"18,280",1.30%,23,Europe
+Italy,EUCOM,Southern Europe,20,VW Polo,"20,748",1.40%,-8.20%,"22,608",1.60%,18,Europe
+Italy,EUCOM,Southern Europe,21,Fiat 500L,"18,296",1.20%,-3.60%,"18,975",1.40%,22,Europe
+Italy,EUCOM,Southern Europe,22,Fiat Tipo,"16,568",1.10%,-0.10%,"16,586",1.20%,26,Europe
+Italy,EUCOM,Southern Europe,23,VW Tiguan,"16,063",1.10%,-5.00%,"16,910",1.20%,25,Europe
+Italy,EUCOM,Southern Europe,24,VW Golf,"15,076",1.00%,-26.70%,"20,569",1.50%,20,Europe
+Italy,EUCOM,Southern Europe,25,Hyundai Tucson,"14,789",1.00%,122.80%,"6,637",0.50%,n/a,Europe
+Italy,EUCOM,Southern Europe,26,Suzuki Ignis,"14,679",1.00%,29.20%,"11,361",0.80%,33,Europe
+Italy,EUCOM,Southern Europe,27,Suzuki Swift,"14,078",1.00%,39.10%,"10,124",0.70%,40,Europe
+Italy,EUCOM,Southern Europe,28,Citroen C3 Aircross,"14,063",1.00%,6.20%,"13,243",0.90%,31,Europe
+Italy,EUCOM,Southern Europe,29,Toyota Aygo,"13,714",0.90%,-4.70%,"14,387",1.00%,28,Europe
+Italy,EUCOM,Southern Europe,30,Ford Kuga,"13,654",0.90%,34.50%,"10,152",0.70%,39,Europe
+Italy,EUCOM,Southern Europe,31,Hyundai i10,"13,570",0.90%,26.50%,"10,724",0.80%,37,Europe
+Italy,EUCOM,Southern Europe,32,BMW X1,"13,525",0.90%,29.80%,"10,421",0.70%,38,Europe
+Italy,EUCOM,Southern Europe,33,Kia Picanto,"13,514",0.90%,41.50%,"9,552",0.70%,43,Europe
+Italy,EUCOM,Southern Europe,34,Ford Fiesta,"13,234",0.90%,-40.10%,"22,111",1.60%,19,Europe
+Italy,EUCOM,Southern Europe,35,Audi Q3,"13,056",0.90%,16.70%,"11,187",0.80%,36,Europe
+Italy,EUCOM,Southern Europe,36,Toyota C-HR,"12,790",0.90%,12.70%,"11,352",0.80%,34,Europe
+Italy,EUCOM,Southern Europe,37,Opel Crossland,"12,749",0.90%,-20.60%,"16,060",1.20%,27,Europe
+Italy,EUCOM,Southern Europe,38,Ford Ecosport,"11,956",0.80%,-10.40%,"13,346",1.00%,30,Europe
+Italy,EUCOM,Southern Europe,39,Volvo XC40,"11,533",0.80%,17.90%,"9,784",0.70%,42,Europe
+Italy,EUCOM,Southern Europe,40,BMW Serie 1,"11,200",0.80%,17.90%,"9,496",0.70%,44,Europe
+Italy,EUCOM,Southern Europe,41,Nissan Qashqai,"11,032",0.70%,-36.80%,"17,467",1.30%,24,Europe
+Italy,EUCOM,Southern Europe,42,Mercedes A Class,"11,016",0.70%,-12.10%,"12,530",0.90%,32,Europe
+Italy,EUCOM,Southern Europe,43,Audi A3,"10,822",0.70%,25.60%,"8,614",0.60%,45,Europe
+Italy,EUCOM,Southern Europe,44,VW Up!,"10,773",0.70%,-4.30%,"11,254",0.80%,35,Europe
+Italy,EUCOM,Southern Europe,45,Kia Sportage,"10,659",0.70%,43.80%,"7,410",0.50%,n/a,Europe
+Italy,EUCOM,Southern Europe,46,Ford Focus,"9,510",0.60%,-32.90%,"14,179",1.00%,29,Europe
+Italy,EUCOM,Southern Europe,47,Mini Countryman,"9,249",0.60%,n/a,n/a,n/a,n/a,Europe
+Italy,EUCOM,Southern Europe,48,Seat Arona,"9,221",0.60%,9.90%,"8,390",0.60%,47,Europe
+Italy,EUCOM,Southern Europe,49,Toyota RAV4,"8,983",0.60%,n/a,"6,507",n/a,n/a,Europe
+Italy,EUCOM,Southern Europe,50,Citroen C1,"8,520",0.60%,6.20%,"8,024",0.60%,49,Europe

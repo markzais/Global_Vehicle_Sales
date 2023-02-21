@@ -1,0 +1,403 @@
+﻿Country,Command,Region,Position_2021,Model,Sales_2021,Percent_2021,Growth_2021,Sales_2020,Percent_2020,Position_2020,Continent
+Ukraine,EUCOM,Eastern Europe,1,Kia Sportage,"7,124",6.90%,41.30%,"5,043",5.90%,3,Europe
+Ukraine,EUCOM,Eastern Europe,2,Toyota RAV4,"6,066",5.90%,6.60%,"5,689",6.70%,1,Europe
+Ukraine,EUCOM,Eastern Europe,3,Renault Duster,"5,602",5.40%,1.20%,"5,534",6.50%,2,Europe
+Ukraine,EUCOM,Eastern Europe,4,Renault Sandero,"3,334",3.20%,3.40%,"3,224",3.80%,5,Europe
+Ukraine,EUCOM,Eastern Europe,5,Toyota Land Cruiser Prado,"2,639",2.60%,-0.30%,"2,647",3.10%,6,Europe
+Ukraine,EUCOM,Eastern Europe,6,Renault Logan,"2,607",2.50%,-34.40%,"3,976",4.70%,4,Europe
+Ukraine,EUCOM,Eastern Europe,7,Mitsubishi Outlander,"2,269",2.20%,88.90%,"1,201",1.40%,18,Europe
+Ukraine,EUCOM,Eastern Europe,8,Nissan Qashqai,"2,264",2.20%,28.80%,"1,758",2.10%,9,Europe
+Ukraine,EUCOM,Eastern Europe,9,Toyota Camry,"2,185",2.10%,36.40%,"1,602",1.90%,13,Europe
+Ukraine,EUCOM,Eastern Europe,10,Hyundai Tucson,"2,142",2.10%,-6.10%,"2,280",2.70%,7,Europe
+Ukraine,EUCOM,Eastern Europe,11,Nissan X-Trail,"2,075",2.00%,38.60%,"1,497",1.80%,14,Europe
+Ukraine,EUCOM,Eastern Europe,12,Chery Tiggo 4,"1,771",1.70%,1138.50%,143,0.20%,105,Europe
+Ukraine,EUCOM,Eastern Europe,13,Mazda CX-5,"1,752",1.70%,0.70%,"1,739",2.00%,10,Europe
+Ukraine,EUCOM,Eastern Europe,14,VW Touareg,"1,740",1.70%,50.60%,"1,155",1.40%,19,Europe
+Ukraine,EUCOM,Eastern Europe,15,Suzuki SX4,"1,702",1.60%,34.00%,"1,270",1.50%,17,Europe
+Ukraine,EUCOM,Eastern Europe,16,Peugeot 301,"1,700",1.60%,20.20%,"1,414",1.70%,15,Europe
+Ukraine,EUCOM,Eastern Europe,17,Skoda Kodiaq,"1,628",1.60%,0.60%,"1,619",1.90%,12,Europe
+Ukraine,EUCOM,Eastern Europe,18,Suzuki Vitara,"1,552",1.50%,19.00%,"1,304",1.50%,16,Europe
+Ukraine,EUCOM,Eastern Europe,19,Skoda Octavia,"1,390",1.30%,-25.10%,"1,855",2.20%,8,Europe
+Ukraine,EUCOM,Eastern Europe,20,Ford Kuga,"1,343",1.30%,-22.40%,"1,731",2.00%,11,Europe
+Ukraine,EUCOM,Eastern Europe,21,Skoda Karoq,"1,339",1.30%,79.70%,745,0.90%,26,Europe
+Ukraine,EUCOM,Eastern Europe,22,Toyota Corolla,"1,326",1.30%,51.40%,876,1.00%,24,Europe
+Ukraine,EUCOM,Eastern Europe,23,Mercedes GLE,"1,199",1.20%,6.10%,"1,130",1.30%,20,Europe
+Ukraine,EUCOM,Eastern Europe,24,Chery Tiggo 2,"1,159",1.10%,27.20%,911,1.10%,23,Europe
+Ukraine,EUCOM,Eastern Europe,25,VW Tiguan,996,1.00%,-5.10%,"1,049",1.20%,21,Europe
+Ukraine,EUCOM,Eastern Europe,26,Toyota Highlander,907,0.90%,138.10%,381,0.40%,50,Europe
+Ukraine,EUCOM,Eastern Europe,27,Toyota Land Cruiser,858,0.80%,-17.00%,"1,034",1.20%,22,Europe
+Ukraine,EUCOM,Eastern Europe,28,BMW X5,835,0.80%,28.70%,649,0.80%,31,Europe
+Ukraine,EUCOM,Eastern Europe,29,Hyundai i30,794,0.80%,243.70%,231,0.30%,75,Europe
+Ukraine,EUCOM,Eastern Europe,30,Lexus RX,793,0.80%,29.20%,614,0.70%,33,Europe
+Ukraine,EUCOM,Eastern Europe,31,Peugeot 2008,785,0.80%,12.60%,697,0.80%,27,Europe
+Ukraine,EUCOM,Eastern Europe,32,Peugeot 3008,746,0.70%,22.90%,607,0.70%,34,Europe
+Ukraine,EUCOM,Eastern Europe,33,Audi Q8,735,0.70%,7.90%,681,0.80%,28,Europe
+Ukraine,EUCOM,Eastern Europe,34,Lada Vesta,734,0.70%,307.80%,180,0.20%,91,Europe
+Ukraine,EUCOM,Eastern Europe,35,VW T-Roc,722,0.70%,48.30%,487,0.60%,39,Europe
+Ukraine,EUCOM,Eastern Europe,36,Chery Jetour X70,706,0.70%,894.40%,71,0.10%,142,Europe
+Ukraine,EUCOM,Eastern Europe,37,Skoda Kamiq,672,0.70%,293.00%,171,0.20%,94,Europe
+Ukraine,EUCOM,Eastern Europe,38,Kia Rio X,658,0.60%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,39,Haval H6,637,0.60%,46.40%,435,0.50%,45,Europe
+Ukraine,EUCOM,Eastern Europe,40,Volvo XC90,635,0.60%,33.70%,475,0.60%,41,Europe
+Ukraine,EUCOM,Eastern Europe,41,Kia Stonic,627,0.60%,51.40%,414,0.50%,48,Europe
+Ukraine,EUCOM,Eastern Europe,42,Mitsubishi ASX,604,0.60%,44.50%,418,0.50%,47,Europe
+Ukraine,EUCOM,Eastern Europe,43,Mitsubishi L200,566,0.50%,98.60%,285,0.30%,63,Europe
+Ukraine,EUCOM,Eastern Europe,44,Ravon R4,556,0.50%,-15.50%,658,0.80%,30,Europe
+Ukraine,EUCOM,Eastern Europe,45,Citroen C-Elysée,546,0.50%,1.90%,536,0.60%,37,Europe
+Ukraine,EUCOM,Eastern Europe,46,Skoda Fabia,537,0.50%,89.80%,283,0.30%,64,Europe
+Ukraine,EUCOM,Eastern Europe,47,Renault Kadjar,534,0.50%,-9.60%,591,0.70%,35,Europe
+Ukraine,EUCOM,Eastern Europe,48,Toyota C-HR,521,0.50%,-22.50%,672,0.80%,29,Europe
+Ukraine,EUCOM,Eastern Europe,49,Mazda CX-30,520,0.50%,76.30%,295,0.30%,62,Europe
+Ukraine,EUCOM,Eastern Europe,50,Mercedes GLS,501,0.50%,10.80%,452,0.50%,43,Europe
+Ukraine,EUCOM,Eastern Europe,52,Renault Arkana,499,0.50%,366.40%,107,0.10%,122,Europe
+Ukraine,EUCOM,Eastern Europe,51,Mitsubishi Eclipse Cross,498,0.50%,152.80%,197,0.20%,84,Europe
+Ukraine,EUCOM,Eastern Europe,53,Fiat Tipo,497,0.50%,-40.90%,841,1.00%,25,Europe
+Ukraine,EUCOM,Eastern Europe,54,Lada Granta,497,0.50%,112.40%,234,0.30%,74,Europe
+Ukraine,EUCOM,Eastern Europe,55,Lexus NX,491,0.50%,14.20%,430,0.50%,46,Europe
+Ukraine,EUCOM,Eastern Europe,56,Chery Tiggo 7 Pro,475,0.50%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,57,Lada Niva,464,0.40%,251.50%,132,0.20%,106,Europe
+Ukraine,EUCOM,Eastern Europe,58,BMW X7,448,0.40%,34.50%,333,0.40%,56,Europe
+Ukraine,EUCOM,Eastern Europe,59,Toyota Hilux,440,0.40%,29.80%,339,0.40%,53,Europe
+Ukraine,EUCOM,Eastern Europe,60,Skoda Scala,436,0.40%,116.90%,201,0.20%,81,Europe
+Ukraine,EUCOM,Eastern Europe,61,Hyundai Santa Fe,431,0.40%,77.40%,243,0.30%,72,Europe
+Ukraine,EUCOM,Eastern Europe,62,Audi Q7,421,0.40%,-11.60%,476,0.60%,40,Europe
+Ukraine,EUCOM,Eastern Europe,63,Opel Grandland X,413,0.40%,65.90%,249,0.30%,70,Europe
+Ukraine,EUCOM,Eastern Europe,64,Citroen C5 Aircross,383,0.40%,-1.50%,389,0.50%,77,Europe
+Ukraine,EUCOM,Eastern Europe,65,BMW X6,382,0.40%,13.70%,336,0.40%,55,Europe
+Ukraine,EUCOM,Eastern Europe,66,BMW X3,382,0.40%,76.90%,216,0.30%,79,Europe
+Ukraine,EUCOM,Eastern Europe,67,Mercedes S-Class,380,0.40%,194.60%,129,0.20%,109,Europe
+Ukraine,EUCOM,Eastern Europe,68,Citroen C3  ,377,0.40%,7.70%,350,0.40%,52,Europe
+Ukraine,EUCOM,Eastern Europe,69,Porsche Cayenne,373,0.40%,21.90%,306,0.40%,61,Europe
+Ukraine,EUCOM,Eastern Europe,70,Subaru Forester,372,0.40%,-16.60%,446,0.50%,44,Europe
+Ukraine,EUCOM,Eastern Europe,71,Suzuki Jimny,372,0.40%,15.20%,323,0.40%,58,Europe
+Ukraine,EUCOM,Eastern Europe,72,Hyundai Venue,345,0.30%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,73,Honda CR-V,331,0.30%,19.90%,276,0.30%,66,Europe
+Ukraine,EUCOM,Eastern Europe,74,Hyundai Accent,316,0.30%,3.30%,306,0.40%,60,Europe
+Ukraine,EUCOM,Eastern Europe,75,Kia Rio,316,0.30%,182.10%,112,0.10%,119,Europe
+Ukraine,EUCOM,Eastern Europe,76,Range Rover Evoque,303,0.30%,-3.20%,313,0.40%,59,Europe
+Ukraine,EUCOM,Eastern Europe,77,Renault Lodgy,303,0.30%,51.50%,200,0.20%,82,Europe
+Ukraine,EUCOM,Eastern Europe,78,Chevrolet Cobalt,301,0.30%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,79,Renault Megane,299,0.30%,-47.10%,565,0.70%,36,Europe
+Ukraine,EUCOM,Eastern Europe,80,Mazda6,297,0.30%,-26.10%,402,0.50%,49,Europe
+Ukraine,EUCOM,Eastern Europe,81,Hyundai Elantra,291,0.30%,-53.50%,626,0.70%,32,Europe
+Ukraine,EUCOM,Eastern Europe,82,Mitsubishi Pajero Sport,283,0.30%,1.10%,280,0.30%,65,Europe
+Ukraine,EUCOM,Eastern Europe,83,Mercedes G-Class,273,0.30%,13.30%,241,0.30%,73,Europe
+Ukraine,EUCOM,Eastern Europe,84,Chery Tiggo 8,264,0.30%,0.00%,264,0.30%,67,Europe
+Ukraine,EUCOM,Eastern Europe,85,Nissan Juke,263,0.30%,-47.50%,501,0.60%,38,Europe
+Ukraine,EUCOM,Eastern Europe,86,Volvo XC40,257,0.20%,42.00%,181,0.20%,90,Europe
+Ukraine,EUCOM,Eastern Europe,87,Ravon R2,251,0.20%,18.40%,212,0.20%,80,Europe
+Ukraine,EUCOM,Eastern Europe,88,Range Rover,232,0.20%,19.60%,194,0.20%,86,Europe
+Ukraine,EUCOM,Eastern Europe,89,Lexus ES,229,0.20%,28.70%,178,0.20%,92,Europe
+Ukraine,EUCOM,Eastern Europe,90,Chery Tiggo 7,216,0.20%,-33.30%,324,0.40%,57,Europe
+Ukraine,EUCOM,Eastern Europe,91,VW Golf,213,0.20%,-53.20%,455,0.50%,42,Europe
+Ukraine,EUCOM,Eastern Europe,92,Mercedes GLC,209,0.20%,6.10%,197,0.20%,83,Europe
+Ukraine,EUCOM,Eastern Europe,93,Volvo XC60,206,0.20%,5.60%,195,0.20%,85,Europe
+Ukraine,EUCOM,Eastern Europe,94,Opel Crossland X,206,0.20%,17.70%,175,0.20%,93,Europe
+Ukraine,EUCOM,Eastern Europe,95,Ford Ranger,202,0.20%,-9.80%,224,0.30%,78,Europe
+Ukraine,EUCOM,Eastern Europe,96,Land Rover Defender,199,0.20%,84.30%,108,0.10%,121,Europe
+Ukraine,EUCOM,Eastern Europe,97,Kia Cee’d,197,0.20%,-41.50%,337,0.40%,54,Europe
+Ukraine,EUCOM,Eastern Europe,98,Hyundai Kona/Encino,195,0.20%,17.50%,166,0.20%,96,Europe
+Ukraine,EUCOM,Eastern Europe,99,BMW X4,195,0.20%,84.00%,106,0.10%,123,Europe
+Ukraine,EUCOM,Eastern Europe,100,Mazda CX-9,191,0.20%,69.00%,113,0.10%,118,Europe
+Ukraine,EUCOM,Eastern Europe,101,Ford Puma,188,0.20%,1075.00%,16,0.00%,212,Europe
+Ukraine,EUCOM,Eastern Europe,102,Renault Captur,183,0.20%,662.50%,24,0.00%,191,Europe
+Ukraine,EUCOM,Eastern Europe,103,Opel Mokka,180,0.20%,17900.00%,1,0.00%,285,Europe
+Ukraine,EUCOM,Eastern Europe,104,Lada XRAY,178,0.20%,97.80%,90,0.10%,128,Europe
+Ukraine,EUCOM,Eastern Europe,105,Porsche Macan,174,0.20%,50.00%,116,0.10%,117,Europe
+Ukraine,EUCOM,Eastern Europe,106,Seat Ibiza,174,0.20%,427.30%,33,0.00%,181,Europe
+Ukraine,EUCOM,Eastern Europe,107,Audi A8,173,0.20%,476.70%,30,0.00%,183,Europe
+Ukraine,EUCOM,Eastern Europe,108,Mazda CX-3,172,0.20%,-8.00%,187,0.20%,88,Europe
+Ukraine,EUCOM,Eastern Europe,109,Lexus LX,169,0.20%,-30.50%,243,0.30%,71,Europe
+Ukraine,EUCOM,Eastern Europe,110,Skoda Superb,169,0.20%,-9.10%,186,0.20%,89,Europe
+Ukraine,EUCOM,Eastern Europe,111,Fiat Qubo,162,0.20%,179.30%,58,0.10%,156,Europe
+Ukraine,EUCOM,Eastern Europe,112,Toyota Yaris,162,0.20%,184.20%,57,0.10%,157,Europe
+Ukraine,EUCOM,Eastern Europe,113,Ford Ecosport,160,0.20%,100.00%,80,0.10%,136,Europe
+Ukraine,EUCOM,Eastern Europe,114,Lada Largus,158,0.20%,28.50%,123,0.10%,112,Europe
+Ukraine,EUCOM,Eastern Europe,115,Range Rover Sport,156,0.20%,0.00%,156,0.20%,99,Europe
+Ukraine,EUCOM,Eastern Europe,116,Peugeot 308,153,0.10%,71.90%,89,0.10%,130,Europe
+Ukraine,EUCOM,Eastern Europe,117,JAC S3,151,0.10%,17.10%,129,0.20%,110,Europe
+Ukraine,EUCOM,Eastern Europe,118,BMW X1,150,0.10%,14.50%,131,0.20%,108,Europe
+Ukraine,EUCOM,Eastern Europe,119,Citroen C3 Aircross,149,0.10%,-12.40%,170,0.20%,95,Europe
+Ukraine,EUCOM,Eastern Europe,120,Opel Corsa,146,0.10%,294.60%,37,0.00%,177,Europe
+Ukraine,EUCOM,Eastern Europe,121,BMW 3 Series,145,0.10%,126.60%,64,0.10%,152,Europe
+Ukraine,EUCOM,Eastern Europe,122,Audi Q5,145,0.10%,237.20%,43,0.10%,172,Europe
+Ukraine,EUCOM,Eastern Europe,123,Suzuki Ignis,142,0.10%,105.80%,69,0.10%,144,Europe
+Ukraine,EUCOM,Eastern Europe,124,Haval Jolion,142,0.10%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,125,Audi A6,140,0.10%,13.80%,123,0.10%,111,Europe
+Ukraine,EUCOM,Eastern Europe,126,VW T-Cross,138,0.10%,13700.00%,1,0.00%,306,Europe
+Ukraine,EUCOM,Eastern Europe,127,VW Passat,130,0.10%,154.90%,51,0.10%,160,Europe
+Ukraine,EUCOM,Eastern Europe,128,Hyundai i10,129,0.10%,760.00%,15,0.00%,214,Europe
+Ukraine,EUCOM,Eastern Europe,129,JAC S4,127,0.10%,353.60%,28,0.00%,187,Europe
+Ukraine,EUCOM,Eastern Europe,130,Citroen C4,127,0.10%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,131,Haval H2,122,0.10%,-52.90%,259,0.30%,68,Europe
+Ukraine,EUCOM,Eastern Europe,132,Mercedes E-Class,122,0.10%,-46.50%,228,0.30%,76,Europe
+Ukraine,EUCOM,Eastern Europe,133,Nissan Leaf,121,0.10%,536.80%,19,0.00%,203,Europe
+Ukraine,EUCOM,Eastern Europe,134,BMW 7 Series,120,0.10%,185.70%,42,0.00%,173,Europe
+Ukraine,EUCOM,Eastern Europe,135,Audi e-tron,118,0.10%,-3.30%,122,0.10%,113,Europe
+Ukraine,EUCOM,Eastern Europe,136,Toyota Yaris Cross,116,0.10%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,137,Kia Xceed,115,0.10%,36.90%,84,0.10%,131,Europe
+Ukraine,EUCOM,Eastern Europe,138,Subaru Outback,115,0.10%,53.30%,75,0.10%,139,Europe
+Ukraine,EUCOM,Eastern Europe,139,Land Rover Discovery Sport,114,0.10%,-26.90%,156,0.20%,100,Europe
+Ukraine,EUCOM,Eastern Europe,140,BMW 5 Series,113,0.10%,43.00%,79,0.10%,138,Europe
+Ukraine,EUCOM,Eastern Europe,141,Infiniti QX50,111,0.10%,73.40%,64,0.10%,150,Europe
+Ukraine,EUCOM,Eastern Europe,142,Audi Q3,108,0.10%,-34.90%,166,0.20%,97,Europe
+Ukraine,EUCOM,Eastern Europe,143,Fiat 500,108,0.10%,66.20%,65,0.10%,149,Europe
+Ukraine,EUCOM,Eastern Europe,144,Renault Koleos,105,0.10%,-28.10%,146,0.20%,104,Europe
+Ukraine,EUCOM,Eastern Europe,145,Mercedes EQC,105,0.10%,1400.00%,7,0.00%,242,Europe
+Ukraine,EUCOM,Eastern Europe,146,MG HS,105,0.10%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,147,VW Arteon,102,0.10%,5000.00%,2,0.00%,269,Europe
+Ukraine,EUCOM,Eastern Europe,148,Land Rover Discovery,100,0.10%,37.00%,73,0.10%,140,Europe
+Ukraine,EUCOM,Eastern Europe,149,FAW Besturn X80,99,0.10%,450.00%,18,0.00%,208,Europe
+Ukraine,EUCOM,Eastern Europe,150,JAC JS2,97,0.10%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,151,Jeep Grand Cherokee,95,0.10%,93.90%,49,0.10%,162,Europe
+Ukraine,EUCOM,Eastern Europe,152,Honda HR-V,94,0.10%,-19.70%,117,0.10%,116,Europe
+Ukraine,EUCOM,Eastern Europe,153,Kia Picanto,93,0.10%,93.80%,48,0.10%,164,Europe
+Ukraine,EUCOM,Eastern Europe,154,Porsche Taycan,92,0.10%,43.80%,64,0.10%,153,Europe
+Ukraine,EUCOM,Eastern Europe,155,Lexus UX,90,0.10%,1.10%,89,0.10%,129,Europe
+Ukraine,EUCOM,Eastern Europe,156,Subaru XV,85,0.10%,-5.60%,90,0.10%,127,Europe
+Ukraine,EUCOM,Eastern Europe,157,DS 3 Crossback,83,0.10%,72.90%,48,0.10%,165,Europe
+Ukraine,EUCOM,Eastern Europe,158,JAC S2,81,0.10%,-33.10%,121,0.10%,114,Europe
+Ukraine,EUCOM,Eastern Europe,159,Hyundai Palisade,81,0.10%,3950.00%,2,0.00%,278,Europe
+Ukraine,EUCOM,Eastern Europe,160,Honda Civic,74,0.10%,-10.80%,83,0.10%,134,Europe
+Ukraine,EUCOM,Eastern Europe,161,Mini Cooper,74,0.10%,4.20%,71,0.10%,141,Europe
+Ukraine,EUCOM,Eastern Europe,162,Jaguar F-Pace,74,0.10%,8.80%,68,0.10%,145,Europe
+Ukraine,EUCOM,Eastern Europe,163,Range Rover Velar,70,0.10%,4.50%,67,0.10%,146,Europe
+Ukraine,EUCOM,Eastern Europe,164,Mercedes GLA,70,0.10%,7.70%,65,0.10%,148,Europe
+Ukraine,EUCOM,Eastern Europe,165,Infiniti QX60,70,0.10%,16.70%,60,0.10%,154,Europe
+Ukraine,EUCOM,Eastern Europe,166,DS 7 Crossback,70,0.10%,18.60%,59,0.10%,155,Europe
+Ukraine,EUCOM,Eastern Europe,167,Seat Ateca,70,0.10%,59.10%,44,0.10%,169,Europe
+Ukraine,EUCOM,Eastern Europe,168,Jaguar i-Pace,69,0.10%,-16.90%,83,0.10%,133,Europe
+Ukraine,EUCOM,Eastern Europe,169,Hyundai Ioniq,68,0.10%,-38.20%,110,0.10%,120,Europe
+Ukraine,EUCOM,Eastern Europe,170,Peugeot 208,67,0.10%,-19.30%,83,0.10%,132,Europe
+Ukraine,EUCOM,Eastern Europe,171,Chevrolet Spark,66,0.10%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,172,Infiniti QX80,65,0.10%,30.00%,50,0.10%,161,Europe
+Ukraine,EUCOM,Eastern Europe,173,Lexus GX,62,0.10%,113.80%,29,0.00%,185,Europe
+Ukraine,EUCOM,Eastern Europe,174,Fiat 500X,61,0.10%,177.30%,22,0.00%,195,Europe
+Ukraine,EUCOM,Eastern Europe,175,JAC T8,61,0.10%,221.10%,19,0.00%,204,Europe
+Ukraine,EUCOM,Eastern Europe,176,Peugeot 508,60,0.10%,-13.00%,69,0.10%,143,Europe
+Ukraine,EUCOM,Eastern Europe,177,Peugeot 5008,59,0.10%,-7.80%,64,0.10%,151,Europe
+Ukraine,EUCOM,Eastern Europe,178,Great Wall Wingle,59,0.10%,156.50%,23,0.00%,193,Europe
+Ukraine,EUCOM,Eastern Europe,179,Porsche Panamera,58,0.10%,23.40%,47,0.10%,167,Europe
+Ukraine,EUCOM,Eastern Europe,180,JAC iEVS4,58,0.10%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,181,Ford Focus,57,0.10%,-70.60%,194,0.20%,87,Europe
+Ukraine,EUCOM,Eastern Europe,182,Jaguar E-Pace,57,0.10%,-30.50%,82,0.10%,135,Europe
+Ukraine,EUCOM,Eastern Europe,183,Mercedes C-Class,56,0.10%,-57.60%,132,0.20%,107,Europe
+Ukraine,EUCOM,Eastern Europe,184,Mini Countryman,53,0.10%,51.40%,35,0.00%,178,Europe
+Ukraine,EUCOM,Eastern Europe,185,Audi A4,53,0.10%,51.40%,35,0.00%,180,Europe
+Ukraine,EUCOM,Eastern Europe,186,Seat Arona,52,0.10%,18.20%,44,0.10%,170,Europe
+Ukraine,EUCOM,Eastern Europe,187,MG ZS,50,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,188,Ravon R3,49,0.00%,-12.50%,56,0.10%,158,Europe
+Ukraine,EUCOM,Eastern Europe,189,FAW Besturn B30,48,0.00%,-69.20%,156,0.20%,101,Europe
+Ukraine,EUCOM,Eastern Europe,190,Nissan Sylphy,48,0.00%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,191,Dongfeng M-NV,47,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,192,Infiniti Q50,46,0.00%,17.90%,39,0.00%,175,Europe
+Ukraine,EUCOM,Eastern Europe,193,BMW 6 Series,45,0.00%,246.20%,13,0.00%,220,Europe
+Ukraine,EUCOM,Eastern Europe,194,Alfa Romeo Stelvio,43,0.00%,168.80%,16,0.00%,210,Europe
+Ukraine,EUCOM,Eastern Europe,195,Citroen Space Tourer,42,0.00%,13.50%,37,0.00%,176,Europe
+Ukraine,EUCOM,Eastern Europe,196,Volvo V60,41,0.00%,64.00%,25,0.00%,189,Europe
+Ukraine,EUCOM,Eastern Europe,197,Opel Astra,36,0.00%,-76.80%,155,0.20%,102,Europe
+Ukraine,EUCOM,Eastern Europe,198,BMW i3,36,0.00%,-30.80%,52,0.10%,159,Europe
+Ukraine,EUCOM,Eastern Europe,199,Mercedes GLB,34,0.00%,112.50%,16,0.00%,213,Europe
+Ukraine,EUCOM,Eastern Europe,200,Jeep Wrangler,33,0.00%,135.70%,14,0.00%,218,Europe
+Ukraine,EUCOM,Eastern Europe,201,BMW 4 Series,33,0.00%,1000.00%,3,0.00%,262,Europe
+Ukraine,EUCOM,Eastern Europe,202,Alfa Romeo Giulietta,32,0.00%,166.70%,12,0.00%,222,Europe
+Ukraine,EUCOM,Eastern Europe,203,Isuzu D-Max,31,0.00%,138.50%,13,0.00%,221,Europe
+Ukraine,EUCOM,Eastern Europe,204,Volvo V90,30,0.00%,-38.80%,49,0.10%,163,Europe
+Ukraine,EUCOM,Eastern Europe,205,Nissan Navara,30,0.00%,-31.80%,44,0.10%,171,Europe
+Ukraine,EUCOM,Eastern Europe,206,Maserati Levante,30,0.00%,50.00%,20,0.00%,200,Europe
+Ukraine,EUCOM,Eastern Europe,207,Audi e-tron GT,30,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,208,Chery Tiggo 2 Pro,29,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,209,Porsche 911/Carrera,27,0.00%,35.00%,20,0.00%,202,Europe
+Ukraine,EUCOM,Eastern Europe,210,BMW IX,27,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,211,Volvo S90,26,0.00%,30.00%,20,0.00%,199,Europe
+Ukraine,EUCOM,Eastern Europe,212,Chery Tiggo 3,25,0.00%,-90.20%,256,0.30%,69,Europe
+Ukraine,EUCOM,Eastern Europe,213,VW Amarok,25,0.00%,-82.90%,146,0.20%,103,Europe
+Ukraine,EUCOM,Eastern Europe,214,Seat Tarraco,25,0.00%,-74.70%,99,0.10%,125,Europe
+Ukraine,EUCOM,Eastern Europe,215,Opel Zafira,25,0.00%,525.00%,4,0.00%,257,Europe
+Ukraine,EUCOM,Eastern Europe,216,Dongfeng X-NV,23,0.00%,2200.00%,1,0.00%,303,Europe
+Ukraine,EUCOM,Eastern Europe,217,Haval H9,22,0.00%,-12.00%,25,0.00%,188,Europe
+Ukraine,EUCOM,Eastern Europe,218,Chevrolet Nexia,21,0.00%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,219,Audi Q2,20,0.00%,100.00%,10,0.00%,227,Europe
+Ukraine,EUCOM,Eastern Europe,220,Great Wall Wingle 7,20,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,221,Mercedes CLA,18,0.00%,63.60%,11,0.00%,225,Europe
+Ukraine,EUCOM,Eastern Europe,222,VW Bora,18,0.00%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,223,Dongfeng Rich 6,18,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,224,Audi S6,18,0.00%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,225,Bentley Continental GT,17,0.00%,13.30%,15,0.00%,215,Europe
+Ukraine,EUCOM,Eastern Europe,226,Bentley Bentayga,17,0.00%,70.00%,10,0.00%,228,Europe
+Ukraine,EUCOM,Eastern Europe,227,JAC iEV7S,16,0.00%,-30.40%,23,0.00%,194,Europe
+Ukraine,EUCOM,Eastern Europe,228,Audi A7,16,0.00%,77.80%,9,0.00%,234,Europe
+Ukraine,EUCOM,Eastern Europe,229,Mazda MX-5,15,0.00%,150.00%,6,0.00%,246,Europe
+Ukraine,EUCOM,Eastern Europe,230,Jeep Renegade,15,0.00%,150.00%,6,0.00%,245,Europe
+Ukraine,EUCOM,Eastern Europe,231,VW Jetta,15,0.00%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,232,JAC J7,15,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,233,Alfa Romeo Giulia,14,0.00%,75.00%,8,0.00%,237,Europe
+Ukraine,EUCOM,Eastern Europe,234,Jaguar XE,13,0.00%,-18.80%,16,0.00%,211,Europe
+Ukraine,EUCOM,Eastern Europe,235,MG 5 ,13,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,236,Infiniti Q60,12,0.00%,-29.40%,17,0.00%,209,Europe
+Ukraine,EUCOM,Eastern Europe,237,Nissan Altima,12,0.00%,500.00%,2,0.00%,275,Europe
+Ukraine,EUCOM,Eastern Europe,238,BAIC EU5,12,0.00%,1100.00%,1,0.00%,308,Europe
+Ukraine,EUCOM,Eastern Europe,239,Cupra Formentor,12,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,240,Mazda3,11,0.00%,-89.10%,101,0.10%,124,Europe
+Ukraine,EUCOM,Eastern Europe,241,Ford Mondeo,11,0.00%,-63.30%,30,0.00%,182,Europe
+Ukraine,EUCOM,Eastern Europe,242,Bentley Continental Flying Spur,11,0.00%,57.10%,7,0.00%,243,Europe
+Ukraine,EUCOM,Eastern Europe,243,Lamborghini Urus,11,0.00%,120.00%,5,0.00%,250,Europe
+Ukraine,EUCOM,Eastern Europe,244,BMW 8 Series,10,0.00%,-50.00%,20,0.00%,201,Europe
+Ukraine,EUCOM,Eastern Europe,245,Tesla Model Y,10,0.00%,150.00%,4,0.00%,259,Europe
+Ukraine,EUCOM,Eastern Europe,246,BMW ix3,10,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,247,Weltmeister EX5,10,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,248,Tesla Model 3,9,0.00%,-50.00%,18,0.00%,205,Europe
+Ukraine,EUCOM,Eastern Europe,249,Rolls Royce Cullinan,9,0.00%,-10.00%,10,0.00%,229,Europe
+Ukraine,EUCOM,Eastern Europe,250,Mercedes EQA,9,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,251,VW Lavida,9,0.00%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,252,Honda Jazz/Fit,8,0.00%,-20.00%,10,0.00%,230,Europe
+Ukraine,EUCOM,Eastern Europe,253,Audi e-tron Sportback,8,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,254,Mercedes A-Class,7,0.00%,-84.80%,46,0.10%,168,Europe
+Ukraine,EUCOM,Eastern Europe,255,Toyota Sequoia,7,0.00%,-36.40%,11,0.00%,224,Europe
+Ukraine,EUCOM,Eastern Europe,256,Jaguar XF,7,0.00%,-22.20%,9,0.00%,233,Europe
+Ukraine,EUCOM,Eastern Europe,257,Aston Martin DBX,7,0.00%,75.00%,4,0.00%,260,Europe
+Ukraine,EUCOM,Eastern Europe,258,Tesla Model X,6,0.00%,-82.90%,35,0.00%,179,Europe
+Ukraine,EUCOM,Eastern Europe,259,Mercedes AMG GT/GTR/GTS,6,0.00%,-75.00%,24,0.00%,192,Europe
+Ukraine,EUCOM,Eastern Europe,260,Cadillac Escalade,6,0.00%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,261,VW Tharu,6,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,262,Chery eQ5,6,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,263,Seat Leon,5,0.00%,-92.40%,66,0.10%,147,Europe
+Ukraine,EUCOM,Eastern Europe,264,Kia ProCeed,5,0.00%,-64.30%,14,0.00%,219,Europe
+Ukraine,EUCOM,Eastern Europe,265,Porsche Cayman,5,0.00%,-28.60%,7,0.00%,240,Europe
+Ukraine,EUCOM,Eastern Europe,266,Lexus LC,5,0.00%,-28.60%,7,0.00%,241,Europe
+Ukraine,EUCOM,Eastern Europe,267,Jaguar F-Type,5,0.00%,150.00%,2,0.00%,276,Europe
+Ukraine,EUCOM,Eastern Europe,268,Porsche Boxster,5,0.00%,150.00%,2,0.00%,271,Europe
+Ukraine,EUCOM,Eastern Europe,269,BYD Tang,5,0.00%,400.00%,1,0.00%,310,Europe
+Ukraine,EUCOM,Eastern Europe,270,XPENG G3,5,0.00%,400.00%,1,0.00%,307,Europe
+Ukraine,EUCOM,Eastern Europe,271,Rolls-Royce Ghost,5,0.00%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,272,Volvo C40,5,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,273,BMW 2 Series,4,0.00%,-66.70%,12,0.00%,223,Europe
+Ukraine,EUCOM,Eastern Europe,274,Renault Zoe,4,0.00%,100.00%,2,0.00%,270,Europe
+Ukraine,EUCOM,Eastern Europe,275,Jeep Gladiator,4,0.00%,300.00%,1,0.00%,296,Europe
+Ukraine,EUCOM,Eastern Europe,276,Great Wall Poer,4,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,277,Renault City K-ZE,4,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,278,GAC Aion S,4,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,279,FAW Besturn X40,3,0.00%,-96.30%,80,0.10%,137,Europe
+Ukraine,EUCOM,Eastern Europe,280,BMW X2,3,0.00%,-50.00%,6,0.00%,244,Europe
+Ukraine,EUCOM,Eastern Europe,281,Aston Martin DB11,3,0.00%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,282,Maserati Ghibli,3,0.00%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,283,Changan CS55 E-Rock,3,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,284,Ford Territory,3,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,285,Citroen C4 Cactus,2,0.00%,-98.30%,119,0.10%,115,Europe
+Ukraine,EUCOM,Eastern Europe,286,Chevrolet Aveo,2,0.00%,-92.00%,25,0.00%,190,Europe
+Ukraine,EUCOM,Eastern Europe,287,Opel Insignia,2,0.00%,-90.50%,21,0.00%,197,Europe
+Ukraine,EUCOM,Eastern Europe,288,Ford Fiesta,2,0.00%,-85.70%,14,0.00%,216,Europe
+Ukraine,EUCOM,Eastern Europe,289,Ford F-150,2,0.00%,-77.80%,9,0.00%,235,Europe
+Ukraine,EUCOM,Eastern Europe,290,Lexus LS,2,0.00%,-71.40%,7,0.00%,239,Europe
+Ukraine,EUCOM,Eastern Europe,291,Kia Soul,2,0.00%,-33.30%,3,0.00%,265,Europe
+Ukraine,EUCOM,Eastern Europe,292,Toyota Sienna,2,0.00%,0.00%,2,0.00%,272,Europe
+Ukraine,EUCOM,Eastern Europe,293,BMW Z4,2,0.00%,100.00%,1,0.00%,293,Europe
+Ukraine,EUCOM,Eastern Europe,294,Mazda CX-7,2,0.00%,100.00%,1,0.00%,298,Europe
+Ukraine,EUCOM,Eastern Europe,295,Fiat Panda,2,0.00%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,296,Chevrolet Suburban,2,0.00%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,297,Ford Escort,2,0.00%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,298,Ford Galaxy,2,0.00%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,299,Subaru Impreza,2,0.00%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,300,VW Atlas,2,0.00%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,301,Hyunadai Lafesta,2,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,302,BAW Warrior,2,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,303,BMW Alpina B3,2,0.00%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,304,BYD Han,2,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,305,BYD Yuan,2,0.00%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,306,Chery Karry K60,2,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,307,Dongfeng E1,2,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,308,Dongfeng T5,2,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,309,Lamborghini Huracan,2,0.00%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,310,VW ID.3,2,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,311,VW ID.4,2,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,312,Hyundai Creta,1,0.00%,-97.90%,47,0.10%,166,Europe
+Ukraine,EUCOM,Eastern Europe,313,Kia Sorento,1,0.00%,-96.60%,29,0.00%,184,Europe
+Ukraine,EUCOM,Eastern Europe,314,Citroen C4 Picasso/Spacetourer,1,0.00%,-95.00%,20,0.00%,198,Europe
+Ukraine,EUCOM,Eastern Europe,315,Honda Pilot,1,0.00%,-94.40%,18,0.00%,206,Europe
+Ukraine,EUCOM,Eastern Europe,316,Fiat 500L,1,0.00%,-90.00%,10,0.00%,226,Europe
+Ukraine,EUCOM,Eastern Europe,317,Tesla Model S,1,0.00%,-87.50%,8,0.00%,236,Europe
+Ukraine,EUCOM,Eastern Europe,318,Ford Escape,1,0.00%,-80.00%,5,0.00%,248,Europe
+Ukraine,EUCOM,Eastern Europe,319,Nissan Rogue,1,0.00%,-80.00%,5,0.00%,247,Europe
+Ukraine,EUCOM,Eastern Europe,320,Nissan Murano,1,0.00%,-80.00%,5,0.00%,252,Europe
+Ukraine,EUCOM,Eastern Europe,321,Rolls Royce Wraith,1,0.00%,-75.00%,4,0.00%,261,Europe
+Ukraine,EUCOM,Eastern Europe,322,JAC J4,1,0.00%,-75.00%,4,0.00%,254,Europe
+Ukraine,EUCOM,Eastern Europe,323,Smart Forfour,1,0.00%,-75.00%,4,0.00%,258,Europe
+Ukraine,EUCOM,Eastern Europe,324,Toyota Tundra,1,0.00%,-66.70%,3,0.00%,264,Europe
+Ukraine,EUCOM,Eastern Europe,325,Rolls-Royce Phantom,1,0.00%,-50.00%,2,0.00%,274,Europe
+Ukraine,EUCOM,Eastern Europe,326,Toyota Alphard,1,0.00%,-50.00%,2,0.00%,277,Europe
+Ukraine,EUCOM,Eastern Europe,327,Honda Everus VE1,1,0.00%,0.00%,1,0.00%,304,Europe
+Ukraine,EUCOM,Eastern Europe,328,Audi A3,1,0.00%,0.00%,1,0.00%,288,Europe
+Ukraine,EUCOM,Eastern Europe,329,BMW 1 Series,1,0.00%,0.00%,1,0.00%,284,Europe
+Ukraine,EUCOM,Eastern Europe,330,Ford Explorer,1,0.00%,0.00%,1,0.00%,287,Europe
+Ukraine,EUCOM,Eastern Europe,331,Honda Odyssey,1,0.00%,0.00%,1,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,332,Hyundai Sonata,1,0.00%,0.00%,1,0.00%,295,Europe
+Ukraine,EUCOM,Eastern Europe,333,Maserati Quattroporte,1,0.00%,0.00%,1,0.00%,301,Europe
+Ukraine,EUCOM,Eastern Europe,334,Suzuki Grand Vitara,1,0.00%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,335,Ford Expedition,1,0.00%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,336,Ford Mustang,1,0.00%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,337,Hyundai i20,1,0.00%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,338,Renault Espace,1,0.00%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,339,Skoda Citigo,1,0.00%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,340,Subaru Legacy,1,0.00%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,341,Toyota Venza,1,0.00%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,342,Audi Q4,1,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,343,Changan Auchan X7,1,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,344,Haval Dargo,1,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,345,Morgan Plus 4,1,0.00%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,346,Dongfeng M5,1,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,347,Dongfeng S50EV,1,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,348,Ferrari SF90 Stradale,1,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,349,GAC Aion V,1,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,350,Honda E,1,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,351,Hozon Auto Neta U,1,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,352,Jac T6,1,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,353,Khazar LX,1,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,354,Khazar SD,1,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,355,Linktour K-One,1,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,356,Maxus Euniq 6,1,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,357,NIO ES8,1,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,358,Tesla Roadster,1,0.00%,n/a,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,359,Weltmeister EX6,1,0.00%,new,0,0.00%, –,Europe
+Ukraine,EUCOM,Eastern Europe,360,VW Polo,0,0.00%,-100.00%,344,0.40%,51,Europe
+Ukraine,EUCOM,Eastern Europe,361,Ford Ka,0,0.00%,-100.00%,98,0.10%,126,Europe
+Ukraine,EUCOM,Eastern Europe,362,Chevrolet Niva,0,0.00%,-100.00%,39,0.00%,174,Europe
+Ukraine,EUCOM,Eastern Europe,363,Mercedes SLC,0,0.00%,-100.00%,29,0.00%,186,Europe
+Ukraine,EUCOM,Eastern Europe,364,Jeep Compass,0,0.00%,-100.00%,22,0.00%,196,Europe
+Ukraine,EUCOM,Eastern Europe,365,Mitsubishi Pajero,0,0.00%,-100.00%,18,0.00%,207,Europe
+Ukraine,EUCOM,Eastern Europe,366,Peugeot 108,0,0.00%,-100.00%,14,0.00%,217,Europe
+Ukraine,EUCOM,Eastern Europe,367,Ford Edge,0,0.00%,-100.00%,9,0.00%,232,Europe
+Ukraine,EUCOM,Eastern Europe,368,Citroen C1,0,0.00%,-100.00%,9,0.00%,231,Europe
+Ukraine,EUCOM,Eastern Europe,369,Zhidou D2,0,0.00%,-100.00%,8,0.00%,238,Europe
+Ukraine,EUCOM,Eastern Europe,370,Infiniti Q30,0,0.00%,-100.00%,5,0.00%,249,Europe
+Ukraine,EUCOM,Eastern Europe,371,Mercedes B-Class,0,0.00%,-100.00%,5,0.00%,251,Europe
+Ukraine,EUCOM,Eastern Europe,372,Chery Tiggo 5,0,0.00%,-100.00%,4,0.00%,253,Europe
+Ukraine,EUCOM,Eastern Europe,373,Hyundai Grandeur,0,0.00%,-100.00%,4,0.00%,255,Europe
+Ukraine,EUCOM,Eastern Europe,374,Lexus RC,0,0.00%,-100.00%,4,0.00%,256,Europe
+Ukraine,EUCOM,Eastern Europe,375,Ford Fusion,0,0.00%,-100.00%,3,0.00%,263,Europe
+Ukraine,EUCOM,Eastern Europe,376,Geely EX3,0,0.00%,-100.00%,3,0.00%,268,Europe
+Ukraine,EUCOM,Eastern Europe,377,Volvo S60,0,0.00%,-100.00%,3,0.00%,266,Europe
+Ukraine,EUCOM,Eastern Europe,378,Kia Stinger,0,0.00%,-100.00%,3,0.00%,267,Europe
+Ukraine,EUCOM,Eastern Europe,379,Mercedes GL-Class,0,0.00%,-100.00%,2,0.00%,280,Europe
+Ukraine,EUCOM,Eastern Europe,380,Nissan Kicks,0,0.00%,-100.00%,2,0.00%,279,Europe
+Ukraine,EUCOM,Eastern Europe,381,BMW Alpina B7,0,0.00%,-100.00%,2,0.00%,273,Europe
+Ukraine,EUCOM,Eastern Europe,382,Chevrolet Malibu,0,0.00%,-100.00%,1,0.00%,291,Europe
+Ukraine,EUCOM,Eastern Europe,383,Dodge Durango,0,0.00%,-100.00%,1,0.00%,292,Europe
+Ukraine,EUCOM,Eastern Europe,384,Honda Accord,0,0.00%,-100.00%,1,0.00%,283,Europe
+Ukraine,EUCOM,Eastern Europe,385,JAC iEV7L,0,0.00%,-100.00%,1,0.00%,305,Europe
+Ukraine,EUCOM,Eastern Europe,386,Aston Martin DBS,0,0.00%,-100.00%,1,0.00%,294,Europe
+Ukraine,EUCOM,Eastern Europe,387,BAIC EX5,0,0.00%,-100.00%,1,0.00%,309,Europe
+Ukraine,EUCOM,Eastern Europe,388,Chery EQ,0,0.00%,-100.00%,1,0.00%,315,Europe
+Ukraine,EUCOM,Eastern Europe,389,Chevrolet Equinox,0,0.00%,-100.00%,1,0.00%,289,Europe
+Ukraine,EUCOM,Eastern Europe,390,Dodge Challenger,0,0.00%,-100.00%,1,0.00%,290,Europe
+Ukraine,EUCOM,Eastern Europe,391,FAW Besturn B50,0,0.00%,-100.00%,1,0.00%,297,Europe
+Ukraine,EUCOM,Eastern Europe,392,Great Wall Haval M4,0,0.00%,-100.00%,1,0.00%,282,Europe
+Ukraine,EUCOM,Eastern Europe,393,Honda CR-Z,0,0.00%,-100.00%,1,0.00%,299,Europe
+Ukraine,EUCOM,Eastern Europe,394,Kia Cerato,0,0.00%,-100.00%,1,0.00%,311,Europe
+Ukraine,EUCOM,Eastern Europe,395,Maserati GranTurismo,0,0.00%,-100.00%,1,0.00%,300,Europe
+Ukraine,EUCOM,Eastern Europe,396,Mercedes X-Class,0,0.00%,-100.00%,1,0.00%,286,Europe
+Ukraine,EUCOM,Eastern Europe,397,Mitsubishi Space Star,0,0.00%,-100.00%,1,0.00%,302,Europe
+Ukraine,EUCOM,Eastern Europe,398,ORA iQ,0,0.00%,-100.00%,1,0.00%,316,Europe
+Ukraine,EUCOM,Eastern Europe,399,ORA R1,0,0.00%,-100.00%,1,0.00%,312,Europe
+Ukraine,EUCOM,Eastern Europe,400,Polestar 1,0,0.00%,-100.00%,1,0.00%,313,Europe
+Ukraine,EUCOM,Eastern Europe,401,Skoda Rapid,0,0.00%,-100.00%,1,0.00%,281,Europe
+Ukraine,EUCOM,Eastern Europe,402,SUDA SA01,0,0.00%,-100.00%,1,0.00%,314,Europe

@@ -1,0 +1,366 @@
+﻿Country,Command,Region,Position_2021,Model,Sales_2021,Percent_2021,Growth_2021,Sales_2020,Percent_2020,Position_2020,Continent
+Germany,EUCOM,Central Europe,1,VW Golf,"91,621",3.50%,-32.80%,"136,324",4.70%,100.00%,Europe
+Germany,EUCOM,Central Europe,2,VW T-Roc,"57,424",2.20%,13.00%,"50,822",1.70%,700.00%,Europe
+Germany,EUCOM,Central Europe,3,VW Tiguan,"55,527",2.10%,-8.00%,"60,380",2.10%,300.00%,Europe
+Germany,EUCOM,Central Europe,4,Opel Corsa,"49,475",1.90%,-7.00%,"53,199",1.80%,600.00%,Europe
+Germany,EUCOM,Central Europe,5,VW Up!,"46,708",1.80%,73.80%,"26,872",0.90%,2900.00%,Europe
+Germany,EUCOM,Central Europe,6,VW Passat,"45,696",1.70%,-25.00%,"60,904",2.10%,200.00%,Europe
+Germany,EUCOM,Central Europe,7,Mini All,"42,938",1.60%,-2.70%,"44,152",1.50%,1100.00%,Europe
+Germany,EUCOM,Central Europe,8,BMW 3er,"41,704",1.60%,-11.80%,"47,273",1.60%,800.00%,Europe
+Germany,EUCOM,Central Europe,9,Fiat Ducato,"41,379",1.60%,-6.60%,"44,312",1.50%,1000.00%,Europe
+Germany,EUCOM,Central Europe,10,Skoda Octavia,"40,663",1.60%,-23.70%,"53,302",1.80%,500.00%,Europe
+Germany,EUCOM,Central Europe,11,Fiat 500/500L/500X,"35,787",1.40%,11.70%,"32,039",1.10%,2100.00%,Europe
+Germany,EUCOM,Central Europe,12,Tesla Model 3,"35,262",1.30%,132.00%,"15,202",0.50%,6400.00%,Europe
+Germany,EUCOM,Central Europe,13,VW T-Cross,"34,181",1.30%,25.00%,"27,345",0.90%,2800.00%,Europe
+Germany,EUCOM,Central Europe,14,VW Polo,"32,274",1.20%,-30.10%,"46,174",1.60%,900.00%,Europe
+Germany,EUCOM,Central Europe,15,Opel Astra,"31,220",1.20%,-0.30%,"31,317",1.10%,2400.00%,Europe
+Germany,EUCOM,Central Europe,16,VW Transporter,"30,663",1.20%,3.80%,"29,540",1.00%,2600.00%,Europe
+Germany,EUCOM,Central Europe,17,Mercedes GLC,"30,371",1.20%,-21.50%,"38,711",1.30%,1400.00%,Europe
+Germany,EUCOM,Central Europe,18,Hyundai Kona,"29,982",1.10%,-5.00%,"31,557",1.10%,2200.00%,Europe
+Germany,EUCOM,Central Europe,19,Ford Kuga,"29,102",1.10%,21.90%,"23,868",0.80%,4000.00%,Europe
+Germany,EUCOM,Central Europe,20,Seat Leon,"28,882",1.10%,-22.60%,"37,310",1.30%,1600.00%,Europe
+Germany,EUCOM,Central Europe,21,Audi A3,"28,494",1.10%,-16.40%,"34,098",1.20%,1900.00%,Europe
+Germany,EUCOM,Central Europe,22,VW ID.3,"26,693",1.00%,84.20%,"14,493",0.50%,6900.00%,Europe
+Germany,EUCOM,Central Europe,23,Opel Mokka,"26,520",1.00%,55150.00%,48,0.00%,30000.00%,Europe
+Germany,EUCOM,Central Europe,24,Audi A6,"26,260",1.00%,-16.40%,"31,400",1.10%,2300.00%,Europe
+Germany,EUCOM,Central Europe,25,BMW 1er,"26,081",1.00%,-20.60%,"32,831",1.10%,20,Europe
+Germany,EUCOM,Central Europe,26,Kia Ceed,"25,980",1.00%,4.80%,"24,799",0.80%,34,Europe
+Germany,EUCOM,Central Europe,27,Mercedes E-Klasse ,"25,729",1.00%,-31.30%,"37,437",1.30%,15,Europe
+Germany,EUCOM,Central Europe,28,BMW X1,"25,486",1.00%,-10.70%,"28,551",1.00%,27,Europe
+Germany,EUCOM,Central Europe,29,Mercedes A-Klasse ,"25,070",1.00%,-42.20%,"43,391",1.50%,12,Europe
+Germany,EUCOM,Central Europe,30,Renault Zoe,"24,736",0.90%,-18.60%,"30,376",1.00%,25,Europe
+Germany,EUCOM,Central Europe,31,Audi Q3,"24,346",0.90%,-3.80%,"25,307",0.90%,31,Europe
+Germany,EUCOM,Central Europe,32,BMW X3,"24,157",0.90%,3.50%,"23,351",0.80%,41,Europe
+Germany,EUCOM,Central Europe,33,Audi A4,"23,767",0.90%,-33.70%,"35,841",1.20%,17,Europe
+Germany,EUCOM,Central Europe,34,BMW 5er,"23,290",0.90%,-12.20%,"26,540",0.90%,30,Europe
+Germany,EUCOM,Central Europe,35,Mercedes C-Klasse ,"22,640",0.90%,-45.60%,"41,651",1.40%,13,Europe
+Germany,EUCOM,Central Europe,36,Ford Focus,"21,969",0.80%,-58.80%,"53,378",1.80%,4,Europe
+Germany,EUCOM,Central Europe,37,Mitsubishi Space Star,"21,818",0.80%,3.40%,"21,103",0.70%,46,Europe
+Germany,EUCOM,Central Europe,38,Ford Puma,"21,431",0.80%,5.90%,"20,244",0.70%,50,Europe
+Germany,EUCOM,Central Europe,39,Toyota Yaris,"19,499",0.70%,-9.70%,"21,585",0.70%,45,Europe
+Germany,EUCOM,Central Europe,40,Skoda Karoq,"19,195",0.70%,-20.30%,"24,089",0.80%,39,Europe
+Germany,EUCOM,Central Europe,41,Mercedes CLA-Klasse,"18,949",0.70%,-24.50%,"25,109",0.90%,32,Europe
+Germany,EUCOM,Central Europe,42,Hyundai Tucson,"18,490",0.70%,19.30%,"15,493",0.50%,63,Europe
+Germany,EUCOM,Central Europe,43,Dacia Sandero,"18,440",0.70%,9.70%,"16,803",0.60%,60,Europe
+Germany,EUCOM,Central Europe,44,Mercedes V-Klasse/EQV,"18,438",0.70%,-10.30%,"20,560",0.70%,48,Europe
+Germany,EUCOM,Central Europe,45,Renault Captur,"18,277",0.70%,-19.80%,"22,790",0.80%,42,Europe
+Germany,EUCOM,Central Europe,46,Skoda Kamiq,"18,080",0.70%,-13.30%,"20,850",0.70%,47,Europe
+Germany,EUCOM,Central Europe,47,Skoda Fabia,"17,964",0.70%,-18.20%,"21,968",0.80%,44,Europe
+Germany,EUCOM,Central Europe,48,Audi Q5,"17,841",0.70%,-12.50%,"20,395",0.70%,49,Europe
+Germany,EUCOM,Central Europe,49,BMW 2er,"17,746",0.70%,-28.20%,"24,732",0.80%,35,Europe
+Germany,EUCOM,Central Europe,50,Cupra Formentor,"17,606",0.70%,880.30%,"1,796",0.10%,201,Europe
+Germany,EUCOM,Central Europe,51,Seat Ateca,"17,587",0.70%,-28.50%,"24,597",0.80%,37,Europe
+Germany,EUCOM,Central Europe,52,Smart Fortwo,"17,413",0.70%,50.70%,"11,557",0.40%,80,Europe
+Germany,EUCOM,Central Europe,53,Opel Crossland,"17,316",0.70%,-9.60%,"19,154",0.70%,54,Europe
+Germany,EUCOM,Central Europe,54,Renault Clio,"17,311",0.70%,-29.80%,"24,654",0.80%,36,Europe
+Germany,EUCOM,Central Europe,55,"Ford Transit, Tourneo","17,101",0.70%,-12.20%,"19,479",0.70%,53,Europe
+Germany,EUCOM,Central Europe,56,VW Caddy,"16,742",0.60%,-32.50%,"24,807",0.90%,33,Europe
+Germany,EUCOM,Central Europe,57,Renault Twingo,"16,573",0.60%,-6.30%,"17,694",0.60%,58,Europe
+Germany,EUCOM,Central Europe,58,Skoda Kodiaq,"16,388",0.60%,-27.20%,"22,505",0.80%,43,Europe
+Germany,EUCOM,Central Europe,59,Seat Arona,"15,976",0.60%,-16.30%,"19,096",0.70%,55,Europe
+Germany,EUCOM,Central Europe,60,VW Touran,"15,016",0.60%,-38.20%,"24,308",0.80%,38,Europe
+Germany,EUCOM,Central Europe,61,Toyota Corolla,"15,013",0.60%,1.10%,"14,844",0.50%,66,Europe
+Germany,EUCOM,Central Europe,62,Mercedes GLE,"14,885",0.60%,-7.10%,"16,022",0.50%,61,Europe
+Germany,EUCOM,Central Europe,63,Peugeot 208,"14,755",0.60%,50.70%,"9,789",0.30%,92,Europe
+Germany,EUCOM,Central Europe,64,Opel Grandland X,"14,733",0.60%,-21.00%,"18,649",0.60%,56,Europe
+Germany,EUCOM,Central Europe,65,Hyundai i30,"14,565",0.60%,-17.40%,"17,624",0.60%,59,Europe
+Germany,EUCOM,Central Europe,66,Volvo XC60,"14,549",0.60%,-0.10%,"14,563",0.50%,68,Europe
+Germany,EUCOM,Central Europe,67,Skoda Superb,"14,067",0.50%,-29.30%,"19,897",0.70%,51,Europe
+Germany,EUCOM,Central Europe,68,Citroen Jumper,"13,690",0.50%,35.20%,"10,122",0.30%,89,Europe
+Germany,EUCOM,Central Europe,69,Seat Ibiza,"13,672",0.50%,-13.50%,"15,812",0.50%,62,Europe
+Germany,EUCOM,Central Europe,70,Dacia Duster,"13,398",0.50%,-10.70%,"14,997",0.50%,65,Europe
+Germany,EUCOM,Central Europe,71,Volvo XC40,"13,167",0.50%,6.00%,"12,423",0.40%,78,Europe
+Germany,EUCOM,Central Europe,72,Hyundai i10,"13,145",0.50%,-0.60%,"13,220",0.50%,74,Europe
+Germany,EUCOM,Central Europe,73,Skoda Enyaq,"13,026",0.50%,new,0,0.00%, –,Europe
+Germany,EUCOM,Central Europe,74,Ford Fiesta,"12,895",0.50%,-63.00%,"34,821",1.20%,18,Europe
+Germany,EUCOM,Central Europe,75,VW ID.4,"12,734",0.50%,430.60%,"2,400",0.10%,181,Europe
+Germany,EUCOM,Central Europe,76,BMW X5,"12,719",0.50%,-3.20%,"13,134",0.50%,75,Europe
+Germany,EUCOM,Central Europe,77,Opel Insignia,"12,669",0.50%,18.00%,"10,738",0.40%,83,Europe
+Germany,EUCOM,Central Europe,78,Mercedes GLA,"12,407",0.50%,-13.40%,"14,322",0.50%,70,Europe
+Germany,EUCOM,Central Europe,79,BMW i3,"12,181",0.50%,41.10%,"8,633",0.30%,96,Europe
+Germany,EUCOM,Central Europe,80,Hyundai i20,"11,468",0.40%,-37.40%,"18,312",0.60%,57,Europe
+Germany,EUCOM,Central Europe,81,VW Arteon,"11,230",0.40%,116.30%,"5,191",0.20%,132,Europe
+Germany,EUCOM,Central Europe,82,Toyota Aygo,"11,225",0.40%,-7.70%,"12,156",0.40%,79,Europe
+Germany,EUCOM,Central Europe,83,Audi A1,"11,063",0.40%,-20.00%,"13,824",0.50%,71,Europe
+Germany,EUCOM,Central Europe,84,Nissan Qashqai,"10,692",0.40%,-27.30%,"14,712",0.50%,67,Europe
+Germany,EUCOM,Central Europe,85,Peugeot 2008,"10,679",0.40%,34.70%,"7,926",0.30%,102,Europe
+Germany,EUCOM,Central Europe,86,Audi Q2,"10,525",0.40%,-20.60%,"13,251",0.50%,73,Europe
+Germany,EUCOM,Central Europe,87,Mercedes B-Klasse,"10,419",0.40%,-47.40%,"19,795",0.70%,52,Europe
+Germany,EUCOM,Central Europe,88,Toyota C-HR,"9,220",0.40%,-12.70%,"10,562",0.40%,85,Europe
+Germany,EUCOM,Central Europe,89,Mazda CX-30,"9,191",0.40%,-30.00%,"13,132",0.50%,76,Europe
+Germany,EUCOM,Central Europe,90,Toyota RAV4,"8,792",0.30%,-6.20%,"9,375",0.30%,94,Europe
+Germany,EUCOM,Central Europe,91,Audi A5,"8,753",0.30%,-21.40%,"11,139",0.40%,82,Europe
+Germany,EUCOM,Central Europe,92,Audi e-tron,"8,691",0.30%,6.80%,"8,135",0.30%,99,Europe
+Germany,EUCOM,Central Europe,93,BMW 4er,"8,571",0.30%,77.70%,"4,823",0.20%,140,Europe
+Germany,EUCOM,Central Europe,94,Kia Niro,"8,548",0.30%,10.20%,"7,755",0.30%,104,Europe
+Germany,EUCOM,Central Europe,95,Suzuki Vitara,"8,416",0.30%,80.20%,"4,670",0.20%,142,Europe
+Germany,EUCOM,Central Europe,96,BMW X2,"8,097",0.30%,-18.00%,"9,880",0.30%,91,Europe
+Germany,EUCOM,Central Europe,97,Mercedes GLB,"8,032",0.30%,-16.50%,"9,619",0.30%,93,Europe
+Germany,EUCOM,Central Europe,98,Peugeot 3008,"7,974",0.30%,1.80%,"7,833",0.30%,103,Europe
+Germany,EUCOM,Central Europe,99,Suzuki Ignis,"7,905",0.30%,13.60%,"6,961",0.20%,113,Europe
+Germany,EUCOM,Central Europe,100,Porsche 911,"7,898",0.30%,7.70%,"7,330",0.30%,109,Europe
+Germany,EUCOM,Central Europe,101,Seat Tarraco,"7,776",0.30%,-6.60%,"8,323",0.30%,98,Europe
+Germany,EUCOM,Central Europe,102,Mercedes Vito,"7,650",0.30%,-12.40%,"8,734",0.30%,95,Europe
+Germany,EUCOM,Central Europe,103,Kia Sportage,"7,632",0.30%,-1.20%,"7,727",0.30%,105,Europe
+Germany,EUCOM,Central Europe,104,Citroen C3/C3 Aircross,"7,531",0.30%,-42.30%,"13,061",0.40%,77,Europe
+Germany,EUCOM,Central Europe,105,Mazda CX-5,"7,493",0.30%,-26.60%,"10,215",0.40%,88,Europe
+Germany,EUCOM,Central Europe,106,Skoda Scala,"7,323",0.30%,-46.30%,"13,627",0.50%,72,Europe
+Germany,EUCOM,Central Europe,107,Mercedes Sprinter,"7,175",0.30%,-1.00%,"7,251",0.20%,110,Europe
+Germany,EUCOM,Central Europe,108,Kia Picanto,"7,112",0.30%,-5.10%,"7,495",0.30%,107,Europe
+Germany,EUCOM,Central Europe,109,Renault Mégane,"7,002",0.30%,-12.50%,"7,998",0.30%,101,Europe
+Germany,EUCOM,Central Europe,110,Hyundai Ioniq5,"6,971",0.30%,new,0,0.00%, –,Europe
+Germany,EUCOM,Central Europe,111,Volvo S/V60,"6,772",0.30%,-34.50%,"10,346",0.40%,87,Europe
+Germany,EUCOM,Central Europe,112,Volvo XC90,"6,758",0.30%,5.90%,"6,382",0.20%,120,Europe
+Germany,EUCOM,Central Europe,113,Mitsubishi Outlander,"6,747",0.30%,-36.30%,"10,591",0.40%,84,Europe
+Germany,EUCOM,Central Europe,114,Suzuki Swift,"6,700",0.30%,33.60%,"5,014",0.20%,136,Europe
+Germany,EUCOM,Central Europe,115,Smart Forfour,"6,610",0.30%,47.10%,"4,494",0.20%,146,Europe
+Germany,EUCOM,Central Europe,116,Renault Kadjar,"6,508",0.20%,-23.40%,"8,496",0.30%,97,Europe
+Germany,EUCOM,Central Europe,117,Mitsubishi Eclipse Cross,"6,440",0.20%,-5.80%,"6,838",0.20%,116,Europe
+Germany,EUCOM,Central Europe,118,Jeep Compass,"6,260",0.20%,10.40%,"5,670",0.20%,124,Europe
+Germany,EUCOM,Central Europe,119,Opel Zafira Life,"5,988",0.20%,-12.90%,"6,874",0.20%,115,Europe
+Germany,EUCOM,Central Europe,120,VW Touareg,"5,932",0.20%,-15.30%,"7,006",0.20%,112,Europe
+Germany,EUCOM,Central Europe,121,Citroen C4/Spacetourer,"5,848",0.20%,180.10%,"2,088",0.10%,193,Europe
+Germany,EUCOM,Central Europe,122,Mercedes EQA,"5,781",0.20%,new,0,0.00%, –,Europe
+Germany,EUCOM,Central Europe,123,Mercedes S-Klasse,"5,573",0.20%,45.80%,"3,823",0.10%,150,Europe
+Germany,EUCOM,Central Europe,124,Porsche Macan,"5,521",0.20%,-0.50%,"5,551",0.20%,128,Europe
+Germany,EUCOM,Central Europe,125,Porsche Cayenne,"5,424",0.20%,2.70%,"5,279",0.20%,131,Europe
+Germany,EUCOM,Central Europe,126,Mazda2,"5,249",0.20%,8.90%,"4,822",0.20%,141,Europe
+Germany,EUCOM,Central Europe,127,Ford Ecosport,"5,083",0.20%,-56.00%,"11,552",0.40%,81,Europe
+Germany,EUCOM,Central Europe,128,Hyundai Ioniq,"5,064",0.20%,2.20%,"4,954",0.20%,137,Europe
+Germany,EUCOM,Central Europe,129,Porsche Taycan,"5,063",0.20%,58.10%,"3,203",0.10%,166,Europe
+Germany,EUCOM,Central Europe,130,Nissan Leaf,"5,051",0.20%,40.40%,"3,597",0.10%,156,Europe
+Germany,EUCOM,Central Europe,131,Citroen Berlingo,"4,920",0.20%,-50.90%,"10,017",0.30%,90,Europe
+Germany,EUCOM,Central Europe,132,Audi Q8,"4,849",0.20%,-8.40%,"5,294",0.20%,130,Europe
+Germany,EUCOM,Central Europe,133,Mazda3,"4,840",0.20%,-23.10%,"6,295",0.20%,121,Europe
+Germany,EUCOM,Central Europe,134,Toyota Proace,"4,524",0.20%,-10.30%,"5,043",0.20%,135,Europe
+Germany,EUCOM,Central Europe,135,Audi Q7,"4,488",0.20%,-30.40%,"6,449",0.20%,118,Europe
+Germany,EUCOM,Central Europe,136,Audi Q4,"4,470",0.20%,new,0,0.00%, –,Europe
+Germany,EUCOM,Central Europe,137,Tesla Model Y,"4,400",0.20%,new,0,0.00%, –,Europe
+Germany,EUCOM,Central Europe,138,BMW X4,"4,359",0.20%,-15.20%,"5,139",0.20%,134,Europe
+Germany,EUCOM,Central Europe,139,Mazda CX-3,"4,354",0.20%,233.40%,"1,306",0.00%,218,Europe
+Germany,EUCOM,Central Europe,140,Ford S-Max,"4,291",0.20%,-46.40%,"8,002",0.30%,100,Europe
+Germany,EUCOM,Central Europe,141,Kia Stonic,"4,277",0.20%,-34.10%,"6,491",0.20%,117,Europe
+Germany,EUCOM,Central Europe,142,Renault Arkana,"4,264",0.20%,new,0,0.00%, –,Europe
+Germany,EUCOM,Central Europe,143,Nissan Juke,"4,251",0.20%,-25.80%,"5,727",0.20%,123,Europe
+Germany,EUCOM,Central Europe,144,Kia Sorento,"4,227",0.20%,59.60%,"2,649",0.10%,174,Europe
+Germany,EUCOM,Central Europe,145,Ford Mondeo,"4,214",0.20%,-44.70%,"7,616",0.30%,106,Europe
+Germany,EUCOM,Central Europe,146,BMW Z4,"4,105",0.20%,-5.00%,"4,321",0.10%,147,Europe
+Germany,EUCOM,Central Europe,147,Peugeot 308,"4,086",0.20%,-45.20%,"7,450",0.30%,108,Europe
+Germany,EUCOM,Central Europe,148,Dacia Spring,"4,045",0.20%,new,0,0.00%, –,Europe
+Germany,EUCOM,Central Europe,149,Peugeot 508,"4,018",0.20%,73.60%,"2,315",0.10%,184,Europe
+Germany,EUCOM,Central Europe,150,Jeep Renegade,"4,002",0.20%,-12.70%,"4,584",0.20%,143,Europe
+Germany,EUCOM,Central Europe,151,Seat Mii,"3,983",0.20%,63.90%,"2,430",0.10%,179,Europe
+Germany,EUCOM,Central Europe,152,Nissan Micra,"3,851",0.10%,-31.20%,"5,598",0.20%,126,Europe
+Germany,EUCOM,Central Europe,153,Mercedes EQC,"3,825",0.10%,21.20%,"3,155",0.10%,167,Europe
+Germany,EUCOM,Central Europe,154,Kia Rio,"3,824",0.10%,-8.40%,"4,176",0.10%,148,Europe
+Germany,EUCOM,Central Europe,155,Opel Combo,"3,819",0.10%,-28.00%,"5,306",0.20%,129,Europe
+Germany,EUCOM,Central Europe,156,Citroen Jumpy,"3,669",0.10%,45.30%,"2,525",0.10%,175,Europe
+Germany,EUCOM,Central Europe,157,Mercedes G-Klasse,"3,573",0.10%,-3.70%,"3,712",0.10%,153,Europe
+Germany,EUCOM,Central Europe,158,Honda Jazz,"3,486",0.10%,-3.10%,"3,596",0.10%,157,Europe
+Germany,EUCOM,Central Europe,159,Citroen C1,"3,479",0.10%,-15.10%,"4,096",0.10%,149,Europe
+Germany,EUCOM,Central Europe,160,Hyundai Santa Fe,"3,438",0.10%,7.00%,"3,214",0.10%,165,Europe
+Germany,EUCOM,Central Europe,161,Fiat Panda,"3,428",0.10%,-51.70%,"7,090",0.20%,111,Europe
+Germany,EUCOM,Central Europe,162,Mazda MX-30,"3,428",0.10%,-8.70%,"3,753",0.10%,152,Europe
+Germany,EUCOM,Central Europe,163,Citroen C5 X/Aircross,"3,385",0.10%,-39.30%,"5,581",0.20%,127,Europe
+Germany,EUCOM,Central Europe,164,Renault Scénic,"3,124",0.10%,-30.90%,"4,523",0.20%,145,Europe
+Germany,EUCOM,Central Europe,165,Skoda Citigo,"3,103",0.10%,-36.60%,"4,894",0.20%,138,Europe
+Germany,EUCOM,Central Europe,166,Jeep Wrangler,"3,082",0.10%,33.90%,"2,301",0.10%,186,Europe
+Germany,EUCOM,Central Europe,167,BMW iX3,"2,983",0.10%,4101.40%,71,0.00%,295,Europe
+Germany,EUCOM,Central Europe,168,Peugeot 108,"2,921",0.10%,-43.30%,"5,150",0.20%,133,Europe
+Germany,EUCOM,Central Europe,169,Dacia Lodgy,"2,890",0.10%,-18.00%,"3,524",0.10%,158,Europe
+Germany,EUCOM,Central Europe,170,Range Rover Evoque,"2,836",0.10%,-25.50%,"3,808",0.10%,151,Europe
+Germany,EUCOM,Central Europe,171,Land Rover Defender,"2,811",0.10%,77.80%,"1,581",0.10%,209,Europe
+Germany,EUCOM,Central Europe,172,Peugeot 5008,"2,798",0.10%,-23.20%,"3,642",0.10%,155,Europe
+Germany,EUCOM,Central Europe,173,Peugeot Rifter,"2,749",0.10%,-52.70%,"5,814",0.20%,122,Europe
+Germany,EUCOM,Central Europe,174,BMW X6,"2,698",0.10%,-4.50%,"2,825",0.10%,173,Europe
+Germany,EUCOM,Central Europe,175,Ford Mustang Mach-E,"2,667",0.10%,1341.60%,185,0.00%,276,Europe
+Germany,EUCOM,Central Europe,176,Seat Alhambra,"2,615",0.10%,-62.40%,"6,960",0.20%,114,Europe
+Germany,EUCOM,Central Europe,177,Polestar 2,"2,614",0.10%,157.50%,"1,015",0.00%,228,Europe
+Germany,EUCOM,Central Europe,178,VW Sharan,"2,602",0.10%,-53.70%,"5,620",0.20%,125,Europe
+Germany,EUCOM,Central Europe,179,Hyundai Bayon,"2,586",0.10%,new,0,0.00%, –,Europe
+Germany,EUCOM,Central Europe,180,Suzuki SX4,"2,555",0.10%,31.60%,"1,941",0.10%,196,Europe
+Germany,EUCOM,Central Europe,181,Kia Soul,"2,536",0.10%,7.30%,"2,364",0.10%,182,Europe
+Germany,EUCOM,Central Europe,182,VW Crafter,"2,397",0.10%,10.80%,"2,163",0.10%,190,Europe
+Germany,EUCOM,Central Europe,183,Audi TT,"2,368",0.10%,-27.00%,"3,243",0.10%,164,Europe
+Germany,EUCOM,Central Europe,184,Renault Kangoo,"2,364",0.10%,64.40%,"1,438",0.00%,213,Europe
+Germany,EUCOM,Central Europe,185,BMW 7er,"2,277",0.10%,-20.60%,"2,869",0.10%,172,Europe
+Germany,EUCOM,Central Europe,186,Volvo S/V90,"2,202",0.10%,-35.20%,"3,396",0.10%,162,Europe
+Germany,EUCOM,Central Europe,187,Fiat Tipo,"2,052",0.10%,-55.00%,"4,559",0.20%,144,Europe
+Germany,EUCOM,Central Europe,188,Ford Explorer,"2,043",0.10%,121.60%,922,0.00%,231,Europe
+Germany,EUCOM,Central Europe,189,Porsche Panamera,"2,025",0.10%,12.80%,"1,796",0.10%,200,Europe
+Germany,EUCOM,Central Europe,190,Honda CR-V,"1,992",0.10%,-41.80%,"3,422",0.10%,161,Europe
+Germany,EUCOM,Central Europe,191,Ford Transit Connect,"1,979",0.10%,-45.70%,"3,645",0.10%,154,Europe
+Germany,EUCOM,Central Europe,192,Mitsubishi ASX,"1,917",0.10%,-70.30%,"6,445",0.20%,119,Europe
+Germany,EUCOM,Central Europe,193,Mazda MX-5,"1,908",0.10%,14.60%,"1,665",0.10%,206,Europe
+Germany,EUCOM,Central Europe,194,Renault Koleos,"1,906",0.10%,-12.20%,"2,172",0.10%,189,Europe
+Germany,EUCOM,Central Europe,195,BMW 8er,"1,894",0.10%,-21.50%,"2,414",0.10%,180,Europe
+Germany,EUCOM,Central Europe,196,Audi A8,"1,850",0.10%,-19.80%,"2,306",0.10%,185,Europe
+Germany,EUCOM,Central Europe,197,Audi A7,"1,817",0.10%,-25.70%,"2,447",0.10%,178,Europe
+Germany,EUCOM,Central Europe,198,Mercedes GLS,"1,793",0.10%,-11.70%,"2,030",0.10%,195,Europe
+Germany,EUCOM,Central Europe,199,Porsche Boxster,"1,697",0.10%,-1.30%,"1,720",0.10%,205,Europe
+Germany,EUCOM,Central Europe,200,Subaru Forester,"1,670",0.10%,-24.60%,"2,215",0.10%,187,Europe
+Germany,EUCOM,Central Europe,201,Suzuki Swace,"1,647",0.10%,178.20%,592,0.00%,246,Europe
+Germany,EUCOM,Central Europe,202,Mazda6,"1,643",0.10%,-47.40%,"3,125",0.10%,169,Europe
+Germany,EUCOM,Central Europe,203,Peugeot Expert,"1,638",0.10%,-20.00%,"2,048",0.10%,194,Europe
+Germany,EUCOM,Central Europe,204,Renault Trafic,"1,596",0.10%,-36.70%,"2,522",0.10%,176,Europe
+Germany,EUCOM,Central Europe,205,Subaru XV,"1,596",0.10%,-23.70%,"2,091",0.10%,192,Europe
+Germany,EUCOM,Central Europe,206,Audi e-tron GT,"1,591",0.10%,new,0,0.00%, –,Europe
+Germany,EUCOM,Central Europe,207,Ford Mustang,"1,560",0.10%,-54.60%,"3,437",0.10%,160,Europe
+Germany,EUCOM,Central Europe,208,Nissan X-Trail,"1,528",0.10%,-56.60%,"3,522",0.10%,159,Europe
+Germany,EUCOM,Central Europe,209,Range Rover Sport,"1,505",0.10%,-21.60%,"1,920",0.10%,197,Europe
+Germany,EUCOM,Central Europe,210,BMW X7,"1,501",0.10%,-16.00%,"1,787",0.10%,202,Europe
+Germany,EUCOM,Central Europe,211,Range Rover Velar,"1,491",0.10%,-5.80%,"1,582",0.10%,208,Europe
+Germany,EUCOM,Central Europe,212,Alfa Romeo Stelvio,"1,491",0.10%,-3.60%,"1,547",0.10%,211,Europe
+Germany,EUCOM,Central Europe,213,Dacia Dokker,"1,444",0.10%,-86.20%,"10,487",0.40%,86,Europe
+Germany,EUCOM,Central Europe,214,Land Rover Discovery Sport,"1,435",0.10%,-34.00%,"2,174",0.10%,188,Europe
+Germany,EUCOM,Central Europe,215,DS 7 Crossback,"1,431",0.10%,-8.70%,"1,568",0.10%,210,Europe
+Germany,EUCOM,Central Europe,216,Renault Talisman,"1,421",0.10%,-19.50%,"1,766",0.10%,203,Europe
+Germany,EUCOM,Central Europe,217,Lada Niva,"1,413",0.10%,24.90%,"1,131",0.00%,224,Europe
+Germany,EUCOM,Central Europe,218,Jaguar E-Pace,"1,261",0.00%,-40.30%,"2,113",0.10%,191,Europe
+Germany,EUCOM,Central Europe,219,Honda E,"1,256",0.00%,11.40%,"1,127",0.00%,225,Europe
+Germany,EUCOM,Central Europe,220,Mercedes AMG GT,"1,237",0.00%,-34.70%,"1,893",0.10%,199,Europe
+Germany,EUCOM,Central Europe,221,Lexus UX,"1,208",0.00%,-20.60%,"1,522",0.10%,212,Europe
+Germany,EUCOM,Central Europe,222,Jaguar F-Pace,"1,187",0.00%,2.70%,"1,156",0.00%,222,Europe
+Germany,EUCOM,Central Europe,223,BMW iX,"1,176",0.00%,new,0,0.00%, –,Europe
+Germany,EUCOM,Central Europe,224,Ford Galaxy,"1,159",0.00%,-63.10%,"3,142",0.10%,168,Europe
+Germany,EUCOM,Central Europe,225,Subaru Outback,"1,136",0.00%,100.40%,567,0.00%,247,Europe
+Germany,EUCOM,Central Europe,226,Range Rover  ,"1,133",0.00%,-12.20%,"1,291",0.00%,219,Europe
+Germany,EUCOM,Central Europe,227,Kia EV6,"1,069",0.00%,new,0,0.00%, –,Europe
+Germany,EUCOM,Central Europe,228,Peugeot Boxer,"1,041",0.00%,-68.10%,"3,260",0.10%,163,Europe
+Germany,EUCOM,Central Europe,229,MG RX6,963,0.00%,new,0,0.00%, –,Europe
+Germany,EUCOM,Central Europe,230,Alfa Romeo Giulia,883,0.00%,-8.00%,960,0.00%,230,Europe
+Germany,EUCOM,Central Europe,231,Toyota Prius Plus,874,0.00%,-34.30%,"1,331",0.00%,216,Europe
+Germany,EUCOM,Central Europe,232,Mercedes CLS,862,0.00%,-50.70%,"1,747",0.10%,204,Europe
+Germany,EUCOM,Central Europe,233,Porsche Cayman,862,0.00%,-28.10%,"1,199",0.00%,221,Europe
+Germany,EUCOM,Central Europe,234,Toyota Land Cruiser,853,0.00%,23.40%,691,0.00%,242,Europe
+Germany,EUCOM,Central Europe,235,Iveco Daily,848,0.00%,-6.50%,907,0.00%,233,Europe
+Germany,EUCOM,Central Europe,236,Honda Civic,837,0.00%,-56.30%,"1,914",0.10%,198,Europe
+Germany,EUCOM,Central Europe,237,SsangYong Tivoli,792,0.00%,-18.90%,976,0.00%,229,Europe
+Germany,EUCOM,Central Europe,238,Lexus NX,757,0.00%,-2.80%,779,0.00%,235,Europe
+Germany,EUCOM,Central Europe,239,Man TGE,753,0.00%,122.10%,339,0.00%,260,Europe
+Germany,EUCOM,Central Europe,240,Ford Transit Courier,738,0.00%,-46.60%,"1,383",0.00%,214,Europe
+Germany,EUCOM,Central Europe,241,VW Taigo,732,0.00%,new,0,0.00%, –,Europe
+Germany,EUCOM,Central Europe,242,Alfa Romeo Giulietta,616,0.00%,-16.60%,739,0.00%,237,Europe
+Germany,EUCOM,Central Europe,243,Cupra Born,607,0.00%,new,0,0.00%, –,Europe
+Germany,EUCOM,Central Europe,244,Lexus RX,604,0.00%,12.30%,538,0.00%,251,Europe
+Germany,EUCOM,Central Europe,245,Jaguar F-Type,600,0.00%,-34.30%,913,0.00%,232,Europe
+Germany,EUCOM,Central Europe,246,Toyota Highlander,598,0.00%,new,0,0.00%, –,Europe
+Germany,EUCOM,Central Europe,247,Ferrari F8,590,0.00%,237.10%,175,0.00%,278,Europe
+Germany,EUCOM,Central Europe,248,Nissan NV300,588,0.00%,-35.20%,907,0.00%,234,Europe
+Germany,EUCOM,Central Europe,249,DS 3 Crossback,579,0.00%,-52.00%,"1,205",0.00%,220,Europe
+Germany,EUCOM,Central Europe,250,Lamborghini Coupe,563,0.00%,-22.80%,729,0.00%,239,Europe
+Germany,EUCOM,Central Europe,251,Mercedes EQS,554,0.00%,new,0,0.00%, –,Europe
+Germany,EUCOM,Central Europe,252,Jaguar i-Pace,546,0.00%,-59.30%,"1,341",0.00%,215,Europe
+Germany,EUCOM,Central Europe,253,Renault Espace,536,0.00%,-3.10%,553,0.00%,249,Europe
+Germany,EUCOM,Central Europe,254,BMW 6er,489,0.00%,-33.60%,737,0.00%,238,Europe
+Germany,EUCOM,Central Europe,255,Audi R8,463,0.00%,-5.10%,488,0.00%,253,Europe
+Germany,EUCOM,Central Europe,256,Bentley Continental,458,0.00%,-1.90%,467,0.00%,254,Europe
+Germany,EUCOM,Central Europe,257,Mercedes Citan,446,0.00%,-84.70%,"2,920",0.10%,171,Europe
+Germany,EUCOM,Central Europe,258,SsangYong Korando,446,0.00%,-37.20%,710,0.00%,241,Europe
+Germany,EUCOM,Central Europe,259,Land Rover Discovery,446,0.00%,-28.90%,627,0.00%,245,Europe
+Germany,EUCOM,Central Europe,260,Kia Stinger,424,0.00%,-6.60%,454,0.00%,255,Europe
+Germany,EUCOM,Central Europe,261,Toyota Supra,422,0.00%,37.00%,308,0.00%,264,Europe
+Germany,EUCOM,Central Europe,262,Maserati Levante,382,0.00%,5.80%,361,0.00%,258,Europe
+Germany,EUCOM,Central Europe,263,Jaguar XE,373,0.00%,-67.50%,"1,147",0.00%,223,Europe
+Germany,EUCOM,Central Europe,264,Hyundai Staria,363,0.00%,new,0,0.00%, –,Europe
+Germany,EUCOM,Central Europe,265,Renault Master,324,0.00%,-3.00%,334,0.00%,261,Europe
+Germany,EUCOM,Central Europe,266,Honda HR-V,312,0.00%,-80.50%,"1,598",0.10%,207,Europe
+Germany,EUCOM,Central Europe,267,SsangYong Rexton,308,0.00%,1084.60%,26,0.00%,306,Europe
+Germany,EUCOM,Central Europe,268,Toyota Mirai,308,0.00%,new,0,0.00%, –,Europe
+Germany,EUCOM,Central Europe,269,Jaguar XF,297,0.00%,-3.90%,309,0.00%,263,Europe
+Germany,EUCOM,Central Europe,270,MG ZS,295,0.00%,new,0,0.00%, –,Europe
+Germany,EUCOM,Central Europe,271,Ferrari Roma,287,0.00%,635.90%,39,0.00%,302,Europe
+Germany,EUCOM,Central Europe,272,Toyota Prius,280,0.00%,-49.60%,556,0.00%,248,Europe
+Germany,EUCOM,Central Europe,273,Bentley Bentayga,267,0.00%,37.60%,194,0.00%,272,Europe
+Germany,EUCOM,Central Europe,274,Toyota Camry,262,0.00%,-51.90%,545,0.00%,250,Europe
+Germany,EUCOM,Central Europe,275,Maserati Ghibli,251,0.00%,32.10%,190,0.00%,273,Europe
+Germany,EUCOM,Central Europe,276,Alpine A110,214,0.00%,28.90%,166,0.00%,282,Europe
+Germany,EUCOM,Central Europe,277,Lamborghini Urus,214,0.00%,n/a,n/a,n/a,n/a,Europe
+Germany,EUCOM,Central Europe,278,Cadillac XT4,209,0.00%,480.60%,36,0.00%,304,Europe
+Germany,EUCOM,Central Europe,279,Lexus ES,199,0.00%,6.40%,187,0.00%,275,Europe
+Germany,EUCOM,Central Europe,280,Ferrari SF90/Stradale,195,0.00%,2685.70%,7,0.00%,322,Europe
+Germany,EUCOM,Central Europe,281,Subaru Impreza,188,0.00%,3.90%,181,0.00%,277,Europe
+Germany,EUCOM,Central Europe,282,Nissan NV200,182,0.00%,-59.80%,453,0.00%,256,Europe
+Germany,EUCOM,Central Europe,283,Mercedes EQB,166,0.00%,new,0,0.00%, –,Europe
+Germany,EUCOM,Central Europe,284,Volvo C40,161,0.00%,new,0,0.00%, –,Europe
+Germany,EUCOM,Central Europe,285,Aston Martin V8,160,0.00%,131.90%,69,0.00%,296,Europe
+Germany,EUCOM,Central Europe,286,Hyundai Nexo,152,0.00%,-28.30%,212,0.00%,271,Europe
+Germany,EUCOM,Central Europe,287,Jeep Cherokee,149,0.00%,-76.80%,642,0.00%,244,Europe
+Germany,EUCOM,Central Europe,288,Suzuki Across,140,0.00%,-38.60%,228,0.00%,268,Europe
+Germany,EUCOM,Central Europe,289,Lexus LC,135,0.00%,55.20%,87,0.00%,290,Europe
+Germany,EUCOM,Central Europe,290,Lexus IS,126,0.00%,-16.60%,151,0.00%,283,Europe
+Germany,EUCOM,Central Europe,291,Aston Martin DBX,125,0.00%,177.80%,45,0.00%,301,Europe
+Germany,EUCOM,Central Europe,292,Dacia Logan,119,0.00%,-97.60%,"4,872",0.20%,139,Europe
+Germany,EUCOM,Central Europe,293,Fiat Talento,109,0.00%,-90.20%,"1,111",0.00%,226,Europe
+Germany,EUCOM,Central Europe,294,Citroen C4 Cactus,107,0.00%,-91.90%,"1,324",0.00%,217,Europe
+Germany,EUCOM,Central Europe,295,Ferrari 488,107,0.00%,-72.80%,394,0.00%,257,Europe
+Germany,EUCOM,Central Europe,296,Lotus Exige,93,0.00%,14.80%,81,0.00%,291,Europe
+Germany,EUCOM,Central Europe,297,Opel Movano,85,0.00%,-61.20%,219,0.00%,269,Europe
+Germany,EUCOM,Central Europe,298,Aston Martin DB11,80,0.00%,-57.40%,188,0.00%,274,Europe
+Germany,EUCOM,Central Europe,299,Kia Optima,78,0.00%,-78.20%,357,0.00%,259,Europe
+Germany,EUCOM,Central Europe,300,Lotus Elise,75,0.00%,-6.30%,80,0.00%,292,Europe
+Germany,EUCOM,Central Europe,301,Ferrari Portofino,71,0.00%,-69.50%,233,0.00%,267,Europe
+Germany,EUCOM,Central Europe,302,Iveco Eurocargo,71,0.00%,29.10%,55,0.00%,298,Europe
+Germany,EUCOM,Central Europe,303,Nissan GT-R,64,0.00%,-26.40%,87,0.00%,289,Europe
+Germany,EUCOM,Central Europe,304,Morgan 4/4,62,0.00%,67.60%,37,0.00%,303,Europe
+Germany,EUCOM,Central Europe,305,MG Marvel,57,0.00%,new,0,0.00%, –,Europe
+Germany,EUCOM,Central Europe,306,Subaru Levorg,53,0.00%,-75.10%,213,0.00%,270,Europe
+Germany,EUCOM,Central Europe,307,Rolls-Royce Cullinan,44,0.00%,-42.90%,77,0.00%,293,Europe
+Germany,EUCOM,Central Europe,308,DS 9,41,0.00%,new,0,0.00%, –,Europe
+Germany,EUCOM,Central Europe,309,Cadillac Escalade,40,0.00%,3900.00%,1,0.00%,335,Europe
+Germany,EUCOM,Central Europe,310,Maserati Quattroporte,39,0.00%,39.30%,28,0.00%,305,Europe
+Germany,EUCOM,Central Europe,311,BMW i8,37,0.00%,-86.60%,276,0.00%,265,Europe
+Germany,EUCOM,Central Europe,312,Lexus CT,37,0.00%,-78.40%,171,0.00%,279,Europe
+Germany,EUCOM,Central Europe,313,Tesla Model X,35,0.00%,-95.10%,714,0.00%,240,Europe
+Germany,EUCOM,Central Europe,314,Ford Edge,28,0.00%,-98.80%,"2,354",0.10%,183,Europe
+Germany,EUCOM,Central Europe,315,Subaru BRZ,26,0.00%,-81.30%,139,0.00%,285,Europe
+Germany,EUCOM,Central Europe,316,Lexus LS,22,0.00%,22.20%,18,0.00%,313,Europe
+Germany,EUCOM,Central Europe,317,DS 4,18,0.00%,new,0,0.00%, –,Europe
+Germany,EUCOM,Central Europe,318,Lexus RC,17,0.00%,-76.40%,72,0.00%,294,Europe
+Germany,EUCOM,Central Europe,319,Polestar 1,17,0.00%,-29.20%,24,0.00%,308,Europe
+Germany,EUCOM,Central Europe,320,Rolls-Royce Dawn,17,0.00%,6.30%,16,0.00%,314,Europe
+Germany,EUCOM,Central Europe,321,Tesla Model S,15,0.00%,-98.10%,777,0.00%,236,Europe
+Germany,EUCOM,Central Europe,322,Man TGS,15,0.00%,new,0,0.00%, –,Europe
+Germany,EUCOM,Central Europe,323,Opel Ampera-e,14,0.00%,-97.90%,680,0.00%,243,Europe
+Germany,EUCOM,Central Europe,324,Mercedes SL,10,0.00%,-95.90%,245,0.00%,266,Europe
+Germany,EUCOM,Central Europe,325,Lotus Evora,10,0.00%,0.00%,10,0.00%,319,Europe
+Germany,EUCOM,Central Europe,326,Toyota GT86,8,0.00%,-95.20%,168,0.00%,281,Europe
+Germany,EUCOM,Central Europe,327,Rolls-Royce Wraith,8,0.00%,-57.90%,19,0.00%,311,Europe
+Germany,EUCOM,Central Europe,328,Man TGL,7,0.00%,250.00%,2,0.00%,332,Europe
+Germany,EUCOM,Central Europe,329,Toyota Hilux,7,0.00%,600.00%,1,0.00%,338,Europe
+Germany,EUCOM,Central Europe,330,Jeep Grand Cherokee,6,0.00%,-99.80%,"2,490",0.10%,177,Europe
+Germany,EUCOM,Central Europe,331,Fiat Doblo,6,0.00%,-73.90%,23,0.00%,309,Europe
+Germany,EUCOM,Central Europe,332,Chevrolet Corvette,6,0.00%,100.00%,3,0.00%,331,Europe
+Germany,EUCOM,Central Europe,333,Citroen C-Zero,5,0.00%,-96.10%,129,0.00%,286,Europe
+Germany,EUCOM,Central Europe,334,Mercedes SLC,4,0.00%,-99.60%,"1,097",0.00%,227,Europe
+Germany,EUCOM,Central Europe,335,Mercedes Atego,3,0.00%,-57.10%,7,0.00%,323,Europe
+Germany,EUCOM,Central Europe,336,Rolls-Royce Ghost,3,0.00%,-40.00%,5,0.00%,325,Europe
+Germany,EUCOM,Central Europe,337,Rolls-Royce Phantom,3,0.00%,-25.00%,4,0.00%,330,Europe
+Germany,EUCOM,Central Europe,338,Jaguar XJ,1,0.00%,-92.30%,13,0.00%,316,Europe
+Germany,EUCOM,Central Europe,339,Chevrolet Camaro,1,0.00%,-80.00%,5,0.00%,324,Europe
+Germany,EUCOM,Central Europe,340,Aston Martin DBS,1,0.00%,0.00%,1,0.00%,336,Europe
+Germany,EUCOM,Central Europe,341,Suzuki Jimny,0,0.00%,-100.00%,"2,996",0.10%,170,Europe
+Germany,EUCOM,Central Europe,342,Lada Vesta,0,0.00%,-100.00%,538,0.00%,252,Europe
+Germany,EUCOM,Central Europe,343,Hyundai H1-Starex,0,0.00%,-100.00%,312,0.00%,262,Europe
+Germany,EUCOM,Central Europe,344,Peugeot iOn,0,0.00%,-100.00%,170,0.00%,280,Europe
+Germany,EUCOM,Central Europe,345,Nissan 370Z,0,0.00%,-100.00%,144,0.00%,284,Europe
+Germany,EUCOM,Central Europe,346,Ford C-Max,0,0.00%,-100.00%,105,0.00%,287,Europe
+Germany,EUCOM,Central Europe,347,Volvo V40,0,0.00%,-100.00%,90,0.00%,288,Europe
+Germany,EUCOM,Central Europe,348,Infiniti Q30,0,0.00%,-100.00%,67,0.00%,297,Europe
+Germany,EUCOM,Central Europe,349,Maserati GranTurismo,0,0.00%,-100.00%,53,0.00%,299,Europe
+Germany,EUCOM,Central Europe,350,Ford Ka,0,0.00%,-100.00%,25,0.00%,307,Europe
+Germany,EUCOM,Central Europe,351,Opel Vivaro,0,0.00%,-100.00%,19,0.00%,310,Europe
+Germany,EUCOM,Central Europe,352,Alpina B4,0,0.00%,-100.00%,18,0.00%,312,Europe
+Germany,EUCOM,Central Europe,353,Nissan NV400,0,0.00%,-100.00%,16,0.00%,315,Europe
+Germany,EUCOM,Central Europe,354,Infiniti Q50,0,0.00%,-100.00%,13,0.00%,317,Europe
+Germany,EUCOM,Central Europe,355,Hyundai iX20,0,0.00%,-100.00%,10,0.00%,318,Europe
+Germany,EUCOM,Central Europe,356,Kia Venga,0,0.00%,-100.00%,8,0.00%,320,Europe
+Germany,EUCOM,Central Europe,357,Fiat Fiorino,0,0.00%,-100.00%,7,0.00%,321,Europe
+Germany,EUCOM,Central Europe,358,Alpina B3,0,0.00%,-100.00%,4,0.00%,329,Europe
+Germany,EUCOM,Central Europe,359,Opel Adam,0,0.00%,-100.00%,4,0.00%,326,Europe
+Germany,EUCOM,Central Europe,360,Suzuki Baleno,0,0.00%,-100.00%,4,0.00%,328,Europe
+Germany,EUCOM,Central Europe,361,Suzuki Celerio,0,0.00%,-100.00%,4,0.00%,327,Europe
+Germany,EUCOM,Central Europe,362,BMW Z3,0,0.00%,-100.00%,1,0.00%,337,Europe
+Germany,EUCOM,Central Europe,363,Fiat 124 Spider,0,0.00%,-100.00%,1,0.00%,333,Europe
+Germany,EUCOM,Central Europe,364,Hyundai i40,0,0.00%,-100.00%,1,0.00%,334,Europe
+Germany,EUCOM,Central Europe,365,VW Amarok,0,0.00%,-100.00%,1,0.00%,339,Europe
